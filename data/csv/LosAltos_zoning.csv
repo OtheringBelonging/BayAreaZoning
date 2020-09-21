@@ -1,0 +1,554 @@
+gnrl_p_,id,zoning
+704 - Downtown Commercial,0,0
+704 - Downtown Commercial,1,0
+704 - Downtown Commercial,2,0
+704 - Downtown Commercial,3,0
+704 - Downtown Commercial,4,0
+704 - Downtown Commercial,5,0
+704 - Downtown Commercial,6,0
+704 - Downtown Commercial,7,0
+704 - Downtown Commercial,8,0
+704 - Downtown Commercial,9,0
+704 - Downtown Commercial,10,0
+704 - Downtown Commercial,11,0
+704 - Downtown Commercial,12,0
+704 - Downtown Commercial,13,0
+704 - Downtown Commercial,14,0
+704 - Downtown Commercial,15,0
+704 - Downtown Commercial,16,0
+704 - Downtown Commercial,17,0
+704 - Downtown Commercial,18,0
+704 - Downtown Commercial,19,0
+704 - Downtown Commercial,20,0
+704 - Downtown Commercial,21,0
+704 - Downtown Commercial,22,0
+704 - Downtown Commercial,23,0
+704 - Downtown Commercial,24,0
+704 - Downtown Commercial,25,0
+704 - Downtown Commercial,26,0
+704 - Downtown Commercial,27,0
+704 - Downtown Commercial,28,0
+704 - Downtown Commercial,29,0
+704 - Downtown Commercial,30,0
+704 - Downtown Commercial,31,0
+704 - Downtown Commercial,32,0
+704 - Downtown Commercial,33,0
+704 - Downtown Commercial,34,0
+704 - Downtown Commercial,35,0
+704 - Downtown Commercial,36,0
+704 - Downtown Commercial,37,0
+704 - Low Density Multi-Family,38,2
+704 - Low Density Multi-Family,39,2
+704 - Low Density Multi-Family,40,2
+704 - Low Density Multi-Family,41,2
+704 - Low Density Multi-Family,42,2
+704 - Low Density Multi-Family,43,2
+704 - Low Density Multi-Family,44,2
+704 - Low Density Multi-Family,45,2
+704 - Medium Density Multi-Family,46,2
+704 - Medium Density Multi-Family,47,2
+704 - Medium Density Multi-Family,48,2
+704 - Medium Density Multi-Family,49,2
+704 - Medium Density Multi-Family,50,2
+704 - Medium Density Multi-Family,51,2
+704 - Medium Density Multi-Family,52,2
+704 - Medium Density Multi-Family,53,2
+704 - Medium Density Multi-Family,54,2
+704 - Medium Density Multi-Family,55,2
+704 - Medium Density Multi-Family,56,2
+704 - Medium Density Multi-Family,57,2
+704 - Medium Density Multi-Family,58,2
+704 - Medium Density Multi-Family,59,2
+704 - Medium Density Multi-Family,60,2
+704 - Medium Density Multi-Family,61,2
+704 - Medium Density Multi-Family,62,2
+704 - Medium Density Multi-Family,63,2
+704 - Medium Density Multi-Family,64,2
+704 - Neighborhood Commercial,65,0
+704 - Neighborhood Commercial,66,0
+704 - Neighborhood Commercial,67,0
+704 - Neighborhood Commercial,68,0
+704 - Neighborhood Commercial,69,0
+704 - Neighborhood Commercial,70,0
+704 - Neighborhood Commercial,71,0
+704 - Neighborhood Commercial,72,0
+704 - Neighborhood Commercial,73,0
+704 - Neighborhood Commercial,74,0
+704 - Neighborhood Commercial,75,0
+704 - Neighborhood Commercial,76,0
+704 - Other Open Space,77,0
+704 - Other Open Space,78,0
+704 - Other Open Space,79,0
+704 - Other Open Space,80,0
+704 - Other Open Space,81,0
+704 - Other Open Space,82,0
+704 - Other Open Space,83,0
+704 - Other Open Space,84,0
+704 - Other Open Space,85,0
+704 - Other Open Space,86,0
+704 - Parks,87,0
+704 - Parks,88,0
+704 - Parks,89,0
+704 - Parks,90,0
+704 - Parks,91,0
+704 - Parks,92,0
+704 - Parks,93,0
+704 - Parks,94,0
+704 - Parks,95,0
+704 - Parks,96,0
+704 - Parks,97,0
+704 - Parks,98,0
+704 - Parks,99,0
+704 - Planned Community,100,1
+704 - Planned Community,101,1
+704 - Planned Community,102,1
+704 - Planned Community,103,1
+704 - Planned Community,104,1
+704 - Planned Community,105,1
+704 - Planned Community,106,1
+704 - Private Schools,107,0
+704 - Private Schools,108,0
+704 - Private Schools,109,0
+704 - Private Schools,110,0
+704 - Public Schools,111,0
+704 - Public Schools,112,0
+704 - Public Schools,113,0
+704 - Public Schools,114,0
+704 - Public Schools,115,0
+704 - Public Schools,116,0
+704 - Public Schools,117,0
+704 - Public Schools,118,0
+704 - Public Schools,119,0
+704 - Public/Institutional/Utilities/Parking,120,0
+704 - Public/Institutional/Utilities/Parking,121,0
+704 - Public/Institutional/Utilities/Parking,122,0
+704 - Public/Institutional/Utilities/Parking,123,0
+704 - Public/Institutional/Utilities/Parking,124,0
+704 - Public/Institutional/Utilities/Parking,125,0
+704 - Public/Institutional/Utilities/Parking,126,0
+704 - Public/Institutional/Utilities/Parking,127,0
+704 - Public/Institutional/Utilities/Parking,128,0
+704 - Public/Institutional/Utilities/Parking,129,0
+704 - Public/Institutional/Utilities/Parking,130,0
+704 - Public/Institutional/Utilities/Parking,131,0
+704 - Public/Institutional/Utilities/Parking,132,0
+704 - Public/Institutional/Utilities/Parking,133,0
+704 - Public/Institutional/Utilities/Parking,134,0
+704 - Public/Institutional/Utilities/Parking,135,0
+704 - Public/Institutional/Utilities/Parking,136,0
+704 - Public/Institutional/Utilities/Parking,137,0
+704 - Public/Institutional/Utilities/Parking,138,0
+704 - Public/Institutional/Utilities/Parking,139,0
+704 - Public/Institutional/Utilities/Parking,140,0
+704 - Public/Institutional/Utilities/Parking,141,0
+704 - Public/Institutional/Utilities/Parking,142,0
+704 - Public/Institutional/Utilities/Parking,143,0
+704 - Public/Institutional/Utilities/Parking,144,0
+704 - Public/Institutional/Utilities/Parking,145,0
+704 - Public/Institutional/Utilities/Parking,146,0
+704 - Public/Institutional/Utilities/Parking,147,0
+704 - Public/Institutional/Utilities/Parking,148,0
+704 - Public/Institutional/Utilities/Parking,149,0
+704 - Public/Institutional/Utilities/Parking,150,0
+704 - Public/Institutional/Utilities/Parking,151,0
+704 - Public/Institutional/Utilities/Parking,152,0
+704 - Public/Institutional/Utilities/Parking,153,0
+704 - Public/Institutional/Utilities/Parking,154,0
+704 - Public/Institutional/Utilities/Parking,155,0
+704 - Public/Institutional/Utilities/Parking,156,0
+704 - Public/Institutional/Utilities/Parking,157,0
+704 - Public/Institutional/Utilities/Parking,158,0
+704 - Public/Institutional/Utilities/Parking,159,0
+704 - Public/Institutional/Utilities/Parking,160,0
+704 - Public/Institutional/Utilities/Parking,161,0
+704 - Single Family_1,162,1
+704 - Single Family_1,163,1
+704 - Single Family_1,164,1
+704 - Single Family_1,165,1
+704 - Single Family_1,166,1
+704 - Single Family_1,167,1
+704 - Single Family_1,168,1
+704 - Single Family_1,169,1
+704 - Single Family_1,170,1
+704 - Single Family_1,171,1
+704 - Single Family_1,172,1
+704 - Single Family_1,173,1
+704 - Single Family_1,174,1
+704 - Single Family_1,175,1
+704 - Single Family_1,176,1
+704 - Single Family_1,177,1
+704 - Single Family_1,178,1
+704 - Single Family_2,179,1
+704 - Single Family_2,180,1
+704 - Single Family_2,181,1
+704 - Single Family_2,182,1
+704 - Single Family_2,183,1
+704 - Single Family_2,184,1
+704 - Single Family_2,185,1
+704 - Single Family_2,186,1
+704 - Single Family_2,187,1
+704 - Single Family_2,188,1
+704 - Single Family_2,189,1
+704 - Single Family_2,190,1
+704 - Single Family_2,191,1
+704 - Single Family_2,192,1
+704 - Single Family_2,193,1
+704 - Single Family_2,194,1
+704 - Single Family_2,195,1
+704 - Single Family_2,196,1
+704 - Single Family_2,197,1
+704 - Single Family_2,198,1
+704 - Single Family_2,199,1
+704 - Single Family_2,200,1
+704 - Single Family_2,201,1
+704 - Single Family_2,202,1
+704 - Single Family_2,203,1
+704 - Single Family_2,204,1
+704 - Single Family_2,205,1
+704 - Single Family_2,206,1
+704 - Single Family_2,207,1
+704 - Single Family_2,208,1
+704 - Single Family_2,209,1
+704 - Single Family_2,210,1
+704 - Single Family_2,211,1
+704 - Single Family_2,212,1
+704 - Single Family_2,213,1
+704 - Single Family_2,214,1
+704 - Single Family_2,215,1
+704 - Single Family_2,216,1
+704 - Single Family_2,217,1
+704 - Single Family_2,218,1
+704 - Single Family_2,219,1
+704 - Single Family_2,220,1
+704 - Single Family_2,221,1
+704 - Single Family_2,222,1
+704 - Single Family_2,223,1
+704 - Single Family_2,224,1
+704 - Single Family_2,225,1
+704 - Single Family_2,226,1
+704 - Single Family_2,227,1
+704 - Single Family_2,228,1
+704 - Single Family_2,229,1
+704 - Single Family_2,230,1
+704 - Single Family_2,231,1
+704 - Single Family_2,232,1
+704 - Single Family_2,233,1
+704 - Single Family_2,234,1
+704 - Single Family_2,235,1
+704 - Single Family_2,236,1
+704 - Single Family_2,237,1
+704 - Single Family_2,238,1
+704 - Single Family_2,239,1
+704 - Single Family_2,240,1
+704 - Single Family_2,241,1
+704 - Single Family_2,242,1
+704 - Single Family_2,243,1
+704 - Single Family_2,244,1
+704 - Single Family_2,245,1
+704 - Single Family_2,246,1
+704 - Single Family_2,247,1
+704 - Single Family_2,248,1
+704 - Single Family_2,249,1
+704 - Single Family_2,250,1
+704 - Single Family_2,251,1
+704 - Single Family_2,252,1
+704 - Single Family_2,253,1
+704 - Single Family_2,254,1
+704 - Single Family_2,255,1
+704 - Single Family_2,256,1
+704 - Single Family_2,257,1
+704 - Single Family_2,258,1
+704 - Single Family_2,259,1
+704 - Single Family_2,260,1
+704 - Single Family_2,261,1
+704 - Single Family_2,262,1
+704 - Single Family_2,263,1
+704 - Single Family_2,264,1
+704 - Single Family_2,265,1
+704 - Single Family_2,266,1
+704 - Single Family_2,267,1
+704 - Single Family_2,268,1
+704 - Single Family_2,269,1
+704 - Single Family_2,270,1
+704 - Single Family_2,271,1
+704 - Single Family_2,272,1
+704 - Single Family_2,273,1
+704 - Single Family_2,274,1
+704 - Single Family_2,275,1
+704 - Single Family_2,276,1
+704 - Single Family_2,277,1
+704 - Single Family_2,278,1
+704 - Single Family_2,279,1
+704 - Single Family_2,280,1
+704 - Single Family_2,281,1
+704 - Single Family_2,282,1
+704 - Single Family_2,283,1
+704 - Single Family_2,284,1
+704 - Single Family_2,285,1
+704 - Single Family_2,286,1
+704 - Single Family_2,287,1
+704 - Single Family_2,288,1
+704 - Single Family_2,289,1
+704 - Single Family_2,290,1
+704 - Single Family_2,291,1
+704 - Single Family_2,292,1
+704 - Single Family_2,293,1
+704 - Single Family_2,294,1
+704 - Single Family_2,295,1
+704 - Single Family_2,296,1
+704 - Single Family_2,297,1
+704 - Single Family_2,298,1
+704 - Single Family_2,299,1
+704 - Single Family_2,300,1
+704 - Single Family_2,301,1
+704 - Single Family_2,302,1
+704 - Single Family_2,303,1
+704 - Single Family_2,304,1
+704 - Single Family_2,305,1
+704 - Single Family_2,306,1
+704 - Single Family_2,307,1
+704 - Single Family_2,308,1
+704 - Single Family_2,309,1
+704 - Single Family_2,310,1
+704 - Single Family_2,311,1
+704 - Single Family_2,312,1
+704 - Single Family_2,313,1
+704 - Single Family_2,314,1
+704 - Single Family_2,315,1
+704 - Single Family_2,316,1
+704 - Single Family_2,317,1
+704 - Single Family_2,318,1
+704 - Single Family_2,319,1
+704 - Single Family_2,320,1
+704 - Single Family_2,321,1
+704 - Single Family_2,322,1
+704 - Single Family_2,323,1
+704 - Single Family_2,324,1
+704 - Single Family_2,325,1
+704 - Single Family_2,326,1
+704 - Single Family_2,327,1
+704 - Single Family_2,328,1
+704 - Single Family_2,329,1
+704 - Single Family_2,330,1
+704 - Single Family_2,331,1
+704 - Single Family_2,332,1
+704 - Single Family_2,333,1
+704 - Single Family_2,334,1
+704 - Single Family_2,335,1
+704 - Single Family_2,336,1
+704 - Single Family_2,337,1
+704 - Single Family_2,338,1
+704 - Single Family_2,339,1
+704 - Single Family_2,340,1
+704 - Single Family_2,341,1
+704 - Single Family_2,342,1
+704 - Single Family_2,343,1
+704 - Single Family_2,344,1
+704 - Single Family_2,345,1
+704 - Single Family_2,346,1
+704 - Single Family_2,347,1
+704 - Single Family_2,348,1
+704 - Single Family_2,349,1
+704 - Single Family_2,350,1
+704 - Single Family_2,351,1
+704 - Single Family_2,352,1
+704 - Single Family_2,353,1
+704 - Single Family_2,354,1
+704 - Single Family_2,355,1
+704 - Single Family_2,356,1
+704 - Single Family_2,357,1
+704 - Single Family_2,358,1
+704 - Single Family_2,359,1
+704 - Single Family_2,360,1
+704 - Single Family_2,361,1
+704 - Single Family_2,362,1
+704 - Single Family_2,363,1
+704 - Single Family_2,364,1
+704 - Single Family_2,365,1
+704 - Single Family_2,366,1
+704 - Single Family_2,367,1
+704 - Single Family_2,368,1
+704 - Single Family_2,369,1
+704 - Single Family_2,370,1
+704 - Single Family_2,371,1
+704 - Single Family_2,372,1
+704 - Single Family_2,373,1
+704 - Single Family_2,374,1
+704 - Single Family_2,375,1
+704 - Single Family_2,376,1
+704 - Single Family_2,377,1
+704 - Single Family_2,378,1
+704 - Single Family_2,379,1
+704 - Single Family_2,380,1
+704 - Single Family_2,381,1
+704 - Single Family_2,382,1
+704 - Single Family_2,383,1
+704 - Single Family_2,384,1
+704 - Single Family_2,385,1
+704 - Single Family_2,386,1
+704 - Single Family_2,387,1
+704 - Single Family_2,388,1
+704 - Single Family_2,389,1
+704 - Single Family_2,390,1
+704 - Single Family_2,391,1
+704 - Single Family_2,392,1
+704 - Single Family_2,393,1
+704 - Single Family_2,394,1
+704 - Single Family_2,395,1
+704 - Single Family_2,396,1
+704 - Single Family_2,397,1
+704 - Single Family_2,398,1
+704 - Single Family_2,399,1
+704 - Single Family_2,400,1
+704 - Single Family_2,401,1
+704 - Single Family_2,402,1
+704 - Single Family_2,403,1
+704 - Single Family_2,404,1
+704 - Single Family_2,405,1
+704 - Single Family_2,406,1
+704 - Single Family_2,407,1
+704 - Single Family_2,408,1
+704 - Single Family_2,409,1
+704 - Single Family_2,410,1
+704 - Single Family_2,411,1
+704 - Single Family_2,412,1
+704 - Single Family_2,413,1
+704 - Single Family_2,414,1
+704 - Single Family_2,415,1
+704 - Single Family_2,416,1
+704 - Single Family_2,417,1
+704 - Single Family_2,418,1
+704 - Single Family_2,419,1
+704 - Single Family_2,420,1
+704 - Single Family_2,421,1
+704 - Single Family_2,422,1
+704 - Single Family_2,423,1
+704 - Single Family_2,424,1
+704 - Single Family_2,425,1
+704 - Single Family_2,426,1
+704 - Single Family_2,427,1
+704 - Single Family_2,428,1
+704 - Single Family_2,429,1
+704 - Single Family_2,430,1
+704 - Single Family_2,431,1
+704 - Single Family_2,432,1
+704 - Single Family_2,433,1
+704 - Single Family_2,434,1
+704 - Single Family_2,435,1
+704 - Single Family_2,436,1
+704 - Single Family_2,437,1
+704 - Single Family_2,438,1
+704 - Single Family_2,439,1
+704 - Single Family_2,440,1
+704 - Single Family_2,441,1
+704 - Single Family_2,442,1
+704 - Single Family_2,443,1
+704 - Single Family_2,444,1
+704 - Single Family_2,445,1
+704 - Single Family_2,446,1
+704 - Single Family_2,447,1
+704 - Single Family_2,448,1
+704 - Single Family_2,449,1
+704 - Single Family_2,450,1
+704 - Single Family_2,451,1
+704 - Single Family_2,452,1
+704 - Single Family_2,453,1
+704 - Single Family_2,454,1
+704 - Single Family_2,455,1
+704 - Single Family_2,456,1
+704 - Single Family_2,457,1
+704 - Single Family_2,458,1
+704 - Single Family_2,459,1
+704 - Single Family_2,460,1
+704 - Single Family_2,461,1
+704 - Single Family_2,462,1
+704 - Single Family_2,463,1
+704 - Single Family_2,464,1
+704 - Single Family_2,465,1
+704 - Single Family_2,466,1
+704 - Single Family_2,467,1
+704 - Single Family_2,468,1
+704 - Single Family_2,469,1
+704 - Single Family_2,470,1
+704 - Single Family_2,471,1
+704 - Single Family_2,472,1
+704 - Single Family_2,473,1
+704 - Single Family_2,474,1
+704 - Single Family_2,475,1
+704 - Single Family_2,476,1
+704 - Single Family_2,477,1
+704 - Single Family_2,478,1
+704 - Single Family_2,479,1
+704 - Single Family_2,480,1
+704 - Single Family_2,481,1
+704 - Single Family_2,482,1
+704 - Single Family_2,483,1
+704 - Single Family_2,484,1
+704 - Single Family_2,485,1
+704 - Single Family_2,486,1
+704 - Single Family_2,487,1
+704 - Single Family_2,488,1
+704 - Single Family_2,489,1
+704 - Single Family_2,490,1
+"704 - Single Family_3, Small Lot",491,1
+"704 - Single Family_3, Small Lot",492,1
+"704 - Single Family_3, Small Lot",493,1
+"704 - Single Family_3, Small Lot",494,1
+"704 - Single Family_3, Small Lot",495,1
+"704 - Single Family_3, Small Lot",496,1
+"704 - Single Family_3, Small Lot",497,1
+"704 - Single Family_3, Small Lot",498,1
+"704 - Single Family_3, Small Lot",499,1
+"704 - Single Family_3, Small Lot",500,1
+"704 - Single Family_3, Small Lot",501,1
+"704 - Single Family_3, Small Lot",502,1
+"704 - Single Family_3, Small Lot",503,1
+"704 - Single Family_3, Small Lot",504,1
+"704 - Single Family_3, Small Lot",505,1
+"704 - Single Family_3, Small Lot",506,1
+"704 - Single Family_3, Small Lot",507,1
+"704 - Single Family_3, Small Lot",508,1
+"704 - Single Family_3, Small Lot",509,1
+"704 - Single Family_3, Small Lot",510,1
+"704 - Single Family_3, Small Lot",511,1
+"704 - Single Family_3, Small Lot",512,1
+"704 - Single Family_3, Small Lot",513,1
+"704 - Single Family_3, Small Lot",514,1
+"704 - Single Family_3, Small Lot",515,1
+"704 - Single Family_3, Small Lot",516,1
+"704 - Single Family_3, Small Lot",517,1
+"704 - Single Family_3, Small Lot",518,1
+"704 - Single Family_3, Small Lot",519,1
+"704 - Single Family_3, Small Lot",520,1
+"704 - Single Family_3, Small Lot",521,1
+"704 - Single Family_3, Small Lot",522,1
+"704 - Single Family_3, Small Lot",523,1
+"704 - Single Family_3, Small Lot",524,1
+"704 - Single Family_3, Small Lot",525,1
+"704 - Single Family_3, Small Lot",526,1
+"704 - Single Family_3, Small Lot",527,1
+"704 - Single Family_3, Small Lot",528,1
+"704 - Single Family_3, Small Lot",529,1
+"704 - Single Family_3, Small Lot",530,1
+"704 - Single Family_3, Small Lot",531,1
+"704 - Single Family_3, Small Lot",532,1
+"704 - Single Family_3, Small Lot",533,1
+"704 - Single Family_3, Small Lot",534,1
+"704 - Single Family_3, Small Lot",535,1
+"704 - Single Family_3, Small Lot",536,1
+704 - Thoroughfare Commercial,537,0
+704 - Thoroughfare Commercial,538,0
+704 - Thoroughfare Commercial,539,0
+704 - Thoroughfare Commercial,540,0
+704 - Thoroughfare Commercial,541,0
+704 - Thoroughfare Commercial,542,0
+704 - Thoroughfare Commercial,543,0
+704 - Thoroughfare Commercial,544,0
+704 - Thoroughfare Commercial,545,0
+704 - Thoroughfare Commercial,546,0
+704 - Thoroughfare Commercial,547,0
+704 - Thoroughfare Commercial,548,0
+704 - Thoroughfare Commercial,549,0
+704 - Thoroughfare Commercial,550,0
+704 - Thoroughfare Commercial,551,0
+704 - Thoroughfare Commercial,552,0

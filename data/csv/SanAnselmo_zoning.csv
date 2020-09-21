@@ -1,0 +1,448 @@
+id,gnrl_p_,zoning
+0,Central Commercial,0
+1,Central Commercial,0
+2,Central Commercial,0
+3,Central Commercial,0
+4,Central Commercial,0
+5,Central Commercial,0
+6,Central Commercial,0
+7,Central Commercial,0
+8,Central Commercial,0
+9,Central Commercial,0
+10,Central Commercial,0
+11,Central Commercial,0
+12,Central Commercial,0
+13,Central Commercial,0
+14,Central Commercial,0
+15,Central Commercial,0
+16,Central Commercial,0
+17,Central Commercial,0
+18,Central Commercial,0
+19,Downtown Mixed Residential,2
+20,Downtown Mixed Residential,2
+21,Downtown Mixed Residential,2
+22,Downtown Mixed Residential,2
+23,Downtown Mixed Residential,2
+24,Downtown Mixed Residential,2
+25,Downtown Mixed Residential,2
+26,Downtown Mixed Residential,2
+27,Downtown Mixed Residential,2
+28,Downtown Mixed Residential,2
+29,Downtown Mixed Residential,2
+30,Downtown Mixed Residential,2
+31,Downtown Mixed Residential,2
+32,Downtown Mixed Residential,2
+33,Downtown Mixed Residential,2
+34,Downtown Mixed Residential,2
+35,Downtown Mixed Residential,2
+36,Downtown Mixed Residential,2
+37,General Commercial,0
+38,General Commercial,0
+39,General Commercial,0
+40,General Commercial,0
+41,General Commercial,0
+42,General Commercial,0
+43,General Commercial,0
+44,General Commercial,0
+45,General Commercial,0
+46,General Commercial,0
+47,General Commercial,0
+48,General Commercial,0
+49,General Commercial,0
+50,General Commercial,0
+51,General Commercial,0
+52,General Commercial,0
+53,General Commercial,0
+54,General Commercial,0
+55,General Commercial,0
+56,General Commercial,0
+57,High Density Residential,2
+58,High Density Residential,2
+59,High Density Residential,2
+60,High Density Residential,2
+61,High Density Residential,2
+62,High Density Residential,2
+63,High Density Residential,2
+64,High Density Residential,2
+65,High Density Residential,2
+66,High Density Residential,2
+67,High Density Residential,2
+68,High Density Residential,2
+69,High Density Residential,2
+70,High Density Residential,2
+71,High Density Residential,2
+72,High Density Residential,2
+73,High Density Residential,2
+74,Limited Commercial,0
+75,Limited Commercial,0
+76,Limited Commercial,0
+77,Limited Commercial,0
+78,Medium Density Residential,1
+79,Medium Density Residential,1
+80,Medium Density Residential_MF,2
+81,Medium Density Residential,1
+82,Medium Density Residential,1
+83,Medium Density Residential,1
+84,Medium Density Residential,1
+85,Medium Density Residential_MF,2
+86,Medium Density Residential,1
+87,Medium Density Residential,1
+88,Medium Density Residential,1
+89,Neighborhood Commercial,0
+90,Neighborhood Commercial,0
+91,Neighborhood Commercial,0
+92,Neighborhood Commercial,0
+93,Neighborhood Commercial,0
+94,Neighborhood Commercial,0
+95,Neighborhood Commercial,0
+96,Neighborhood Commercial,0
+97,Neighborhood Commercial,0
+98,Neighborhood Commercial,0
+99,Neighborhood Commercial,0
+100,Parks/Open Space,0
+101,Parks/Open Space,0
+102,Parks/Open Space,0
+103,Parks/Open Space,0
+104,Parks/Open Space,0
+105,Parks/Open Space,0
+106,Parks/Open Space,0
+107,Parks/Open Space,0
+108,Parks/Open Space,0
+109,Parks/Open Space,0
+110,Parks/Open Space,0
+111,Parks/Open Space,0
+112,Parks/Open Space,0
+113,Parks/Open Space,0
+114,Parks/Open Space,0
+115,Parks/Open Space,0
+116,Public Facility,0
+117,Public Facility,0
+118,Public Facility,0
+119,Public Facility,0
+120,Public Facility,0
+121,Public Facility,0
+122,Public Facility,0
+123,Public Facility,0
+124,Public Facility,0
+125,Public Facility,0
+126,Single Family,1
+127,Single Family,1
+128,Single Family,1
+129,Single Family,1
+130,Single Family,1
+131,Single Family,1
+132,Single Family,1
+133,Single Family,1
+134,Single Family,1
+135,Single Family,1
+136,Single Family,1
+137,Single Family,1
+138,Single Family,1
+139,Single Family,1
+140,Single Family,1
+141,Single Family,1
+142,Single Family,1
+143,Single Family,1
+144,Single Family,1
+145,Single Family,1
+146,Single Family,1
+147,Single Family,1
+148,Single Family,1
+149,Single Family,1
+150,Single Family,1
+151,Single Family,1
+152,Single Family,1
+153,Single Family,1
+154,Single Family,1
+155,Single Family,1
+156,Single Family,1
+157,Single Family,1
+158,Single Family,1
+159,Single Family,1
+160,Single Family,1
+161,Single Family,1
+162,Single Family,1
+163,Single Family,1
+164,Single Family,1
+165,Single Family,1
+166,Single Family,1
+167,Single Family,1
+168,Single Family,1
+169,Single Family,1
+170,Single Family,1
+171,Single Family,1
+172,Single Family,1
+173,Single Family,1
+174,Single Family,1
+175,Single Family,1
+176,Single Family,1
+177,Single Family,1
+178,Single Family,1
+179,Single Family,1
+180,Single Family,1
+181,Single Family,1
+182,Single Family,1
+183,Single Family,1
+184,Single Family,1
+185,Single Family,1
+186,Single Family,1
+187,Single Family,1
+188,Single Family,1
+189,Single Family,1
+190,Single Family,1
+191,Single Family,1
+192,Single Family,1
+193,Single Family,1
+194,Single Family,1
+195,Single Family,1
+196,Single Family,1
+197,Single Family,1
+198,Single Family,1
+199,Single Family,1
+200,Single Family,1
+201,Single Family,1
+202,Single Family,1
+203,Single Family,1
+204,Single Family,1
+205,Single Family,1
+206,Single Family,1
+207,Single Family,1
+208,Single Family,1
+209,Single Family,1
+210,Single Family,1
+211,Single Family,1
+212,Single Family,1
+213,Single Family,1
+214,Single Family,1
+215,Single Family,1
+216,Single Family,1
+217,Single Family,1
+218,Single Family,1
+219,Single Family,1
+220,Single Family,1
+221,Single Family,1
+222,Single Family,1
+223,Single Family,1
+224,Single Family,1
+225,Single Family,1
+226,Single Family,1
+227,Single Family,1
+228,Single Family,1
+229,Single Family,1
+230,Single Family,1
+231,Single Family,1
+232,Single Family,1
+233,Single Family,1
+234,Single Family,1
+235,Single Family,1
+236,Single Family,1
+237,Single Family,1
+238,Single Family,1
+239,Single Family,1
+240,Single Family,1
+241,Single Family,1
+242,Single Family,1
+243,Single Family,1
+244,Single Family,1
+245,Single Family,1
+246,Single Family,1
+247,Single Family,1
+248,Single Family,1
+249,Single Family,1
+250,Single Family,1
+251,Single Family,1
+252,Single Family,1
+253,Single Family,1
+254,Single Family,1
+255,Single Family,1
+256,Single Family,1
+257,Single Family,1
+258,Single Family,1
+259,Single Family,1
+260,Single Family,1
+261,Single Family,1
+262,Single Family,1
+263,Single Family,1
+264,Single Family,1
+265,Single Family,1
+266,Single Family,1
+267,Single Family,1
+268,Single Family,1
+269,Single Family,1
+270,Single Family,1
+271,Single Family,1
+272,Single Family,1
+273,Single Family,1
+274,Single Family,1
+275,Single Family,1
+276,Single Family,1
+277,Single Family,1
+278,Single Family,1
+279,Single Family,1
+280,Single Family,1
+281,Single Family,1
+282,Single Family,1
+283,Single Family,1
+284,Single Family,1
+285,Single Family,1
+286,Single Family,1
+287,Single Family,1
+288,Single Family,1
+289,Single Family,1
+290,Single Family,1
+291,Single Family,1
+292,Single Family,1
+293,Single Family,1
+294,Single Family,1
+295,Single Family,1
+296,Single Family,1
+297,Single Family,1
+298,Single Family,1
+299,Single Family,1
+300,Single Family,1
+301,Single Family,1
+302,Single Family,1
+303,Single Family,1
+304,Single Family,1
+305,Single Family,1
+306,Single Family,1
+307,Single Family,1
+308,Single Family,1
+309,Single Family,1
+310,Single Family,1
+311,Single Family,1
+312,Single Family,1
+313,Single Family,1
+314,Single Family,1
+315,Single Family,1
+316,Single Family,1
+317,Single Family,1
+318,Single Family,1
+319,Single Family,1
+320,Single Family,1
+321,Single Family-Conservation,1
+322,Single Family-Conservation,1
+323,Single Family-Conservation,1
+324,Single Family-Conservation,1
+325,Single Family-Conservation,1
+326,Single Family-Conservation,1
+327,Single Family-Conservation,1
+328,Single Family-Conservation,1
+329,Single Family-Conservation,1
+330,Single Family-Conservation,1
+331,Single Family-Conservation,1
+332,Single Family-Conservation,1
+333,Single Family-Conservation,1
+334,Single Family-Conservation,1
+335,Single Family-Conservation,1
+336,Single Family-Conservation,1
+337,Single Family-Conservation,1
+338,Single Family-Conservation,1
+339,Single Family-Conservation,1
+340,Single Family-Conservation,1
+341,Single Family-Conservation,1
+342,Single Family-Conservation,1
+343,Single Family-Conservation,1
+344,Single Family-Conservation,1
+345,Single Family-Conservation,1
+346,Single Family-Conservation,1
+347,Single Family-Conservation,1
+348,Single Family-Conservation,1
+349,Single Family-Conservation,1
+350,Single Family-Conservation,1
+351,Single Family-Conservation,1
+352,Single Family-Conservation,1
+353,Single Family-Conservation,1
+354,Single Family-Conservation,1
+355,Single Family-Conservation,1
+356,Single Family-Conservation,1
+357,Single Family-Conservation,1
+358,Single Family-Conservation,1
+359,Single Family-Conservation,1
+360,Single Family-Conservation,1
+361,Single Family-Conservation,1
+362,Single Family-Conservation,1
+363,Single Family-Conservation,1
+364,Single Family-Conservation,1
+365,Single Family-Conservation,1
+366,Single Family-Conservation,1
+367,Single Family-Conservation,1
+368,Single Family-Conservation,1
+369,Single Family-Conservation,1
+370,Single Family-Conservation,1
+371,Single Family-Conservation,1
+372,Single Family-Conservation,1
+373,Single Family-Conservation,1
+374,Single Family-Conservation,1
+375,Single Family-Conservation,1
+376,Single Family-Conservation,1
+377,Single Family-Conservation,1
+378,Single Family-Conservation,1
+379,Single Family-Conservation,1
+380,Single Family-Conservation,1
+381,Single Family-Conservation,1
+382,Single Family-Conservation,1
+383,Single Family-Conservation,1
+384,Single Family-Conservation,1
+385,Single Family-Conservation,1
+386,Single Family-Conservation,1
+387,Single Family-Conservation,1
+388,Single Family-Conservation,1
+389,Single Family-Conservation,1
+390,Single Family-Conservation,1
+391,Single Family-Conservation,1
+392,Single Family-Conservation,1
+393,Single Family-Conservation,1
+394,Single Family-Conservation,1
+395,Single Family-Conservation,1
+396,Single Family-Conservation,1
+397,Single Family-Conservation,1
+398,Single Family-Conservation,1
+399,Single Family-Conservation,1
+400,Single Family-Conservation,1
+401,Single Family-Conservation,1
+402,Single Family-Conservation,1
+403,Single Family-Conservation,1
+404,Single Family-Conservation,1
+405,Single Family-Conservation,1
+406,Single Family-Conservation,1
+407,Single Family-Conservation,1
+408,Single Family-Conservation,1
+409,Single Family-Conservation,1
+410,Single Family-Conservation,1
+411,Single Family-Conservation,1
+412,Single Family-Conservation,1
+413,Single Family-Conservation,1
+414,Single Family-Conservation,1
+415,Single Family-Conservation,1
+416,Single Family-Conservation,1
+417,Single Family-Conservation,1
+418,Single Family-Conservation,1
+419,Single Family-Conservation,1
+420,Single Family-Conservation,1
+421,Single Family-Conservation,1
+422,Single Family-Conservation,1
+423,Single Family-Conservation,1
+424,Single Family-Conservation,1
+425,Single Family-Conservation,1
+426,Single Family-Conservation,1
+427,Very Low Density Residential,1
+428,Very Low Density Residential,1
+429,Very Low Density Residential,1
+430,Very Low Density Residential,1
+431,Very Low Density Residential,1
+432,Very Low Density Residential,1
+433,Very Low Density Residential,1
+434,Very Low Density Residential,1
+435,Very Low Density Residential,1
+436,Very Low Density Residential,1
+437,Very Low Density Residential,1
+438,Very Low Density Residential,1
+439,Very Low Density Residential,1
+440,Very Low Density Residential,1
+441,Single Family,1
+442,Single Family,1
+443,Single Family,1
+444,Single Family,1
+445,Single Family,1
+999,Medium Density Residential_NonRes,0

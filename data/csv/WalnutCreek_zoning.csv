@@ -1,0 +1,212 @@
+ZONECLA,gnrl_p_,id,edt_g__,zoning
+NA,Empty Zones or Utility Parcels,1,Empty Zones or Utility Parcels,3
+AS-CM,Auto Sales & Custom Manufacturing,2,Auto Sales & Custom Manufacturing,0
+BP100,"Business Park 100,000",3,"Business Park 100,000",0
+BP200,"Business Park 200,000",4,"Business Park 200,000",0
+CC,Community Commercial,5,Community Commercial,0
+CF,Community Facility District,6,Community Facility District,0
+CR,Central Retail District,7,Central Retail District,0
+D3,"Duplex Residential 3,000",8,"Duplex Residential 3,000",2
+HPD,Hillside Planned Development,9,Hillside Planned Development,1
+PDH6,Planned Development-Hillside 6,10,Planned Development-Hillside 6,1
+M1,"Multiple Family Residential District 1,000",11,"Multiple Family Residential District 1,000",2
+M15,"Multiple Family Residential District 1,500",12,"Multiple Family Residential District 1,500",2
+M2,"Multiple Family Residential District 2,000",13,"Multiple Family Residential District 2,000",2
+M25,"Multiple Family Residential District 2,500",14,"Multiple Family Residential District 2,500",2
+M3,"Multiple Family Residential District 3,000",15,"Multiple Family Residential District 3,000",2
+M75,Multiple Family Residential District 750,16,Multiple Family Residential District 750,2
+MHD,High Density Residential Planned Development,17,High Density Residential Planned Development,2
+MU-C,Commercial Mixed Use,18,Commercial Mixed Use,0
+MU-D,Downtown Mixed Use,19,Downtown Mixed Use,0
+MU-R,Residential Mixed Use,20,Residential Mixed Use,2
+MUPD,Multi Use Planned Development,21,Multi Use Planned Development,2
+OC,Office Commercial District,22,Office Commercial District,0
+OSR,Open Space/Recreation,23,Open Space/Recreation,0
+PD,Planned Development District 2142_SF,24,Planned Development District 2142_SF,1
+PR,Pedestrian Retail,25,Pedestrian Retail,0
+R10,"Single Family Residential District 10,000",26,"Single Family Residential District 10,000",1
+R12,"Single Family Residential District 12,000",27,"Single Family Residential District 12,000",1
+R15,"Single Family Residential District 15,000",28,"Single Family Residential District 15,000",1
+R20,"Single Family Residential District 20,000",29,"Single Family Residential District 20,000",1
+R40,"Single Family Residential District 40,000",30,"Single Family Residential District 40,000",1
+R8,"Single Family Residential District 8,000",31,"Single Family Residential District 8,000",1
+R85,"Single Family Residential District 8,500",32,"Single Family Residential District 8,500",1
+SC,Service Commercial,33,Service Commercial,0
+SFHPD1,Single Family High Residential - Planned Development,34,Single Family High Residential - Planned Development,1
+PD,Planned Development District 2142_SF,35,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,36,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,37,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,38,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,39,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,40,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,41,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,42,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,43,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,44,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,45,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,46,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,47,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,48,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,49,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,50,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,51,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,52,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,53,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,54,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,55,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,56,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,57,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,58,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,59,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,60,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,61,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,62,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,63,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,64,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,65,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,66,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,67,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,68,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,69,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,70,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,71,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,72,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,73,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,74,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,75,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,76,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,77,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,78,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,79,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,80,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,81,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,82,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,83,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,84,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,85,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,86,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,87,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,88,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,89,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,90,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,91,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,92,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,93,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,94,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,95,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,96,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,97,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,98,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,99,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,100,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,101,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,102,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,103,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,104,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,105,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,106,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,107,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,108,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,109,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,110,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,111,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,112,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,113,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,114,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,115,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,116,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,117,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,118,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,119,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,120,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,121,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,122,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,123,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,124,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,125,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,126,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,127,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,128,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,129,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,130,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,131,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,132,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,133,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,134,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,135,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,136,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,137,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,138,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,139,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,140,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,141,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,142,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,143,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,144,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,145,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,146,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,147,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,148,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,149,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,150,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,151,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,152,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,153,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,154,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,155,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,156,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,157,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,158,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,159,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,160,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,161,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,162,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,163,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,164,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,165,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,166,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,167,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_SF,168,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,169,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,170,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,171,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,172,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,173,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,174,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,175,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,176,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,177,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,178,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,179,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,180,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,181,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,182,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,183,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,184,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,185,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,186,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,187,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,188,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,189,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,190,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,191,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,192,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,193,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,194,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,195,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,196,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_MF,197,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,198,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,199,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,200,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_SF,201,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,202,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,991,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,992,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_SF,993,Planned Development District 2142_SF,1
+PD,Planned Development District 2142_NonRes,994,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,995,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_NonRes,996,Planned Development District 2142_NonRes,0
+PD,Planned Development District 2142_MF,997,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_MF,998,Planned Development District 2142_MF,2
+PD,Planned Development District 2142_NonRes,999,Planned Development District 2142_NonRes,0

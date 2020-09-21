@@ -1,0 +1,598 @@
+gnrl_p_,id,zoning
+604 - Commercial Recreation,0,0
+604 - Community Park,1,0
+604 - Community Park,2,0
+604 - Community Park,3,0
+604 - Community Park,4,0
+604 - Community Park,5,0
+604 - Community Park,6,0
+604 - High Density,7,2
+604 - High Density,8,2
+604 - High Density,9,2
+604 - High Density,10,2
+604 - High Density,11,2
+604 - High Density,12,2
+604 - High Density,13,2
+604 - High Density,14,2
+604 - High Density,15,2
+604 - High Density,16,2
+604 - High Density,17,2
+604 - Hotels/Motels,18,0
+604 - Hotels/Motels,19,0
+604 - Hotels/Motels,20,0
+604 - Industrial & Office Use,21,0
+604 - Industrial & Office Use,22,0
+604 - Industrial & Office Use,23,0
+604 - Industrial & Office Use,24,0
+604 - Industrial & Office Use,25,0
+604 - Industrial & Office Use,26,0
+604 - Industrial & Office Use,27,0
+604 - Industrial & Office Use,28,0
+604 - Industrial & Office Use,29,0
+604 - Industrial & Office Use,30,0
+604 - Industrial & Office Use,31,0
+604 - Industrial & Office Use,32,0
+604 - Industrial & Office Use,33,0
+604 - Industrial & Office Use,34,0
+604 - Institutions,35,0
+604 - Institutions,36,0
+604 - Institutions,37,0
+604 - Institutions,38,0
+604 - Institutions,39,0
+604 - Institutions,40,0
+604 - Institutions,41,0
+604 - Institutions,42,0
+604 - Institutions,43,0
+604 - Institutions,44,0
+604 - Institutions,45,0
+604 - Institutions,46,0
+604 - Institutions,47,0
+604 - Institutions,48,0
+604 - Institutions,49,0
+604 - Low Density,50,1
+604 - Low Density,51,1
+604 - Low Density,52,1
+604 - Low Density,53,1
+604 - Low Density,54,1
+604 - Low Density,55,1
+604 - Low Density,56,1
+604 - Low Density,57,1
+604 - Low Density,58,1
+604 - Low Density,59,1
+604 - Low Density,60,1
+604 - Low Density,61,1
+604 - Low Density,62,1
+604 - Low Density,63,1
+604 - Low Density,64,1
+604 - Low Density,65,1
+604 - Low Density,66,1
+604 - Low Density,67,1
+604 - Low Density,68,1
+604 - Low Density,69,1
+604 - Low Density,70,1
+604 - Low Density,71,1
+604 - Low Density,72,1
+604 - Low Density,73,1
+604 - Low Density,74,1
+604 - Low Density,75,1
+604 - Low Density,76,1
+604 - Low Density,77,1
+604 - Low Density,78,1
+604 - Low Density,79,1
+604 - Low Density,80,1
+604 - Low Density,81,1
+604 - Low Density,82,1
+604 - Low Density,83,1
+604 - Low Density,84,1
+604 - Low Density,85,1
+604 - Low Density,86,1
+604 - Low Density,87,1
+604 - Low Density,88,1
+604 - Low Density,89,1
+604 - Low Density,90,1
+604 - Low Density,91,1
+604 - Low Density,92,1
+604 - Low Density,93,1
+604 - Low Density,94,1
+604 - Low Density,95,1
+604 - Low Density,96,1
+604 - Low Density,97,1
+604 - Low Density,98,1
+604 - Low Density,99,1
+604 - Low Density,100,1
+604 - Low Density,101,1
+604 - Low Density,102,1
+604 - Low Density,103,1
+604 - Low Density,104,1
+604 - Low Density,105,1
+604 - Low Density,106,1
+604 - Low Density,107,1
+604 - Low Density,108,1
+604 - Low Density,109,1
+604 - Low Density,110,1
+604 - Low Density,111,1
+604 - Low Density,112,1
+604 - Low Density,113,1
+604 - Low Density,114,1
+604 - Low Density,115,1
+604 - Low Density,116,1
+604 - Low Density,117,1
+604 - Low Density,118,1
+604 - Low Density,119,1
+604 - Low Density,120,1
+604 - Low Density,121,1
+604 - Low Density,122,1
+604 - Low Density,123,1
+604 - Low Density,124,1
+604 - Low Density,125,1
+604 - Low Density,126,1
+604 - Low Density,127,1
+604 - Low Density,128,1
+604 - Low Density,129,1
+604 - Low Density,130,1
+604 - Low Density,131,1
+604 - Low Density,132,1
+604 - Low Density,133,1
+604 - Low Density,134,1
+604 - Low Density,135,1
+604 - Low Density,136,1
+604 - Low Density,137,1
+604 - Low Density,138,1
+604 - Low Density,139,1
+604 - Low Density,140,1
+604 - Low Density,141,1
+604 - Low Density,142,1
+604 - Low Density,143,1
+604 - Low Density,144,1
+604 - Low Density,145,1
+604 - Low Density,146,1
+604 - Low Density,147,1
+604 - Low Density,148,1
+604 - Low Density,149,1
+604 - Low Density,150,1
+604 - Low Density,151,1
+604 - Low Density,152,1
+604 - Low Density,153,1
+604 - Low Density,154,1
+604 - Low Density,155,1
+604 - Low Density,156,1
+604 - Low Density,157,1
+604 - Low Density,158,1
+604 - Low Density,159,1
+604 - Low Density,160,1
+604 - Low Density,161,1
+604 - Low Density,162,1
+604 - Low Density,163,1
+604 - Low Density,164,1
+604 - Low Density,165,1
+604 - Low Density,166,1
+604 - Low Density,167,1
+604 - Low Density,168,1
+604 - Low Density,169,1
+604 - Low Density,170,1
+604 - Low Density,171,1
+604 - Low Density,172,1
+604 - Low Density,173,1
+604 - Low Density,174,1
+604 - Low Density,175,1
+604 - Low Density,176,1
+604 - Low Density,177,1
+604 - Low Density,178,1
+604 - Low Density,179,1
+604 - Low Density,180,1
+604 - Low Density,181,1
+604 - Low Density,182,1
+604 - Low Density,183,1
+604 - Low Density,184,1
+604 - Low Density,185,1
+604 - Low Density,186,1
+604 - Low Density,187,1
+604 - Low Density,188,1
+604 - Low Density,189,1
+604 - Low Density,190,1
+604 - Low Density,191,1
+604 - Low Density,192,1
+604 - Low Density,193,1
+604 - Low Density,194,1
+604 - Low Density,195,1
+604 - Low Density,196,1
+604 - Low Density,197,1
+604 - Low Density,198,1
+604 - Low Density,199,1
+604 - Low Density,200,1
+604 - Low Density,201,1
+604 - Low Density,202,1
+604 - Low Density,203,1
+604 - Low Density,204,1
+604 - Low Density,205,1
+604 - Low Density,206,1
+604 - Low Density,207,1
+604 - Low Density,208,1
+604 - Low Density,209,1
+604 - Low Density,210,1
+604 - Low Density,211,1
+604 - Low Density,212,1
+604 - Low Density,213,1
+604 - Low Density,214,1
+604 - Low Density,215,1
+604 - Low Density,216,1
+604 - Low Density,217,1
+604 - Low Density,218,1
+604 - Low Density,219,1
+604 - Low Density,220,1
+604 - Low Density,221,1
+604 - Low Density,222,1
+604 - Low Density,223,1
+604 - Low Density,224,1
+604 - Low Density,225,1
+604 - Low Density,226,1
+604 - Low Density,227,1
+604 - Low Density,228,1
+604 - Low Density,229,1
+604 - Low Density,230,1
+604 - Low Density,231,1
+604 - Low Density,232,1
+604 - Low Density,233,1
+604 - Low Density,234,1
+604 - Low Density,235,1
+604 - Low Density,236,1
+604 - Low Density,237,1
+604 - Low Density,238,1
+604 - Low Density,239,1
+604 - Low Density,240,1
+604 - Low Density,241,1
+604 - Low Density,242,1
+604 - Low Density,243,1
+604 - Low Density,244,1
+604 - Low Density,245,1
+604 - Low Density,246,1
+604 - Low Density,247,1
+604 - Low Density,248,1
+604 - Low Density,249,1
+604 - Low Density,250,1
+604 - Low Density,251,1
+604 - Low Density,252,1
+604 - Low Density,253,1
+604 - Low Density,254,1
+604 - Low Density,255,1
+604 - Low Density,256,1
+604 - Low Density,257,1
+604 - Low Density,258,1
+604 - Low Density,259,1
+604 - Low Density,260,1
+604 - Low Density,261,1
+604 - Low Density,262,1
+604 - Low Density,263,1
+604 - Low Density,264,1
+604 - Low Density,265,1
+604 - Low Density,266,1
+604 - Low Density,267,1
+604 - Low Density,268,1
+604 - Low Density,269,1
+604 - Low Density,270,1
+604 - Low Density,271,1
+604 - Low Density,272,1
+604 - Low Density,273,1
+604 - Low Density,274,1
+604 - Low Density,275,1
+604 - Low Density,276,1
+604 - Low Density,277,1
+604 - Low Density,278,1
+604 - Low Density,279,1
+604 - Low Density,280,1
+604 - Low Density,281,1
+604 - Low Density,282,1
+604 - Low Density,283,1
+604 - Low Density,284,1
+604 - Low Density,285,1
+604 - Low Density,286,1
+604 - Low Density,287,1
+604 - Low Density,288,1
+604 - Low Density,289,1
+604 - Low Density,290,1
+604 - Low Density,291,1
+604 - Low Density,292,1
+604 - Low Density,293,1
+604 - Low Density,294,1
+604 - Low Density,295,1
+604 - Low Density,296,1
+604 - Low Density,297,1
+604 - Low Density,298,1
+604 - Low Density,299,1
+604 - Low Density,300,1
+604 - Low Density,301,1
+604 - Low Density,302,1
+604 - Low Density,303,1
+604 - Low Density,304,1
+604 - Low Density,305,1
+604 - Low Density,306,1
+604 - Low Density,307,1
+604 - Low Density,308,1
+604 - Low Density,309,1
+604 - Low Density,310,1
+604 - Low Density,311,1
+604 - Low Density,312,1
+604 - Low Density,313,1
+604 - Low Density,314,1
+604 - Low Density,315,1
+604 - Low Density,316,1
+604 - Low Density,317,1
+604 - Low Density,318,1
+604 - Low Density,319,1
+604 - Low Density,320,1
+604 - Low Density,321,1
+604 - Low Density,322,1
+604 - Low Density,323,1
+604 - Low Density,324,1
+604 - Low Density,325,1
+604 - Low Density,326,1
+604 - Low Density,327,1
+604 - Low Density,328,1
+604 - Low Density,329,1
+604 - Low Density,330,1
+604 - Low Density,331,1
+604 - Low Density,332,1
+604 - Low Density,333,1
+604 - Low Density,334,1
+604 - Low Density,335,1
+604 - Low Density,336,1
+604 - Low Density,337,1
+604 - Low Density,338,1
+604 - Low Density,339,1
+604 - Low Density,340,1
+604 - Low Density,341,1
+604 - Low Density,342,1
+604 - Low Density,343,1
+604 - Low Density,344,1
+604 - Low Density,345,1
+604 - Low Density,346,1
+604 - Low Density,347,1
+604 - Low Density,348,1
+604 - Low Density,349,1
+604 - Low Density,350,1
+604 - Low Density,351,1
+604 - Low Density,352,1
+604 - Low Density,353,1
+604 - Low Density,354,1
+604 - Low Density,355,1
+604 - Low Density,356,1
+604 - Low Density,357,1
+604 - Low Density,358,1
+604 - Low Density,359,1
+604 - Low Density,360,1
+604 - Low Density,361,1
+604 - Low Density,362,1
+604 - Low Density,363,1
+604 - Low Density,364,1
+604 - Low Density,365,1
+604 - Low Density,366,1
+604 - Low Density,367,1
+604 - Low Density,368,1
+604 - Low Density,369,1
+604 - Low Density,370,1
+604 - Low Density,371,1
+604 - Low Density,372,1
+604 - Low Density,373,1
+604 - Low Density,374,1
+604 - Low Density,375,1
+604 - Low Density,376,1
+604 - Low Density,377,1
+604 - Low Density,378,1
+604 - Low Density,379,1
+604 - Low Density,380,1
+604 - Low Density,381,1
+604 - Low Density,382,1
+604 - Low Density,383,1
+604 - Low Density,384,1
+604 - Low Density,385,1
+604 - Low Density,386,1
+604 - Low Density,387,1
+604 - Low Density,388,1
+604 - Low Density,389,1
+604 - Low Density,390,1
+604 - Low Density,391,1
+604 - Low Density,392,1
+604 - Low Density,393,1
+604 - Low Density,394,1
+604 - Low Density,395,1
+604 - Low Density,396,1
+604 - Low Density,397,1
+604 - Low Density,398,1
+604 - Low Density,399,1
+604 - Low Density,400,1
+604 - Low Density,401,1
+604 - Low Density,402,1
+604 - Low Density,403,1
+604 - Low Density,404,1
+604 - Low Density,405,1
+604 - Low Density,406,1
+604 - Low Density,407,1
+604 - Low Density,408,1
+604 - Medium Density,409,2
+604 - Medium Density,410,2
+604 - Medium Density,411,2
+604 - Medium Density,412,2
+604 - Medium Density,413,2
+604 - Medium Density,414,2
+604 - Medium Density,415,2
+604 - Medium Density,416,2
+604 - Medium Density,417,2
+604 - Medium Density,418,2
+604 - Medium Density,419,2
+604 - Medium Density,420,2
+604 - Medium Density,421,2
+604 - Medium Density,422,2
+604 - Medium Density,423,2
+604 - Medium Density,424,2
+604 - Medium Density,425,2
+604 - Medium Density,426,2
+604 - Medium Density,427,2
+604 - Medium Density,428,2
+604 - Medium Density,429,2
+604 - Medium Density,430,2
+604 - Medium Density,431,2
+604 - Medium Density,432,2
+604 - Medium Density,433,2
+604 - Medium Density,434,2
+604 - Medium Density,435,2
+604 - Medium Density,436,2
+604 - Medium Density,437,2
+604 - Medium Density,438,2
+604 - Medium Density,439,2
+604 - Medium Density,440,2
+604 - Medium Density,441,2
+604 - Medium High Density,442,2
+604 - Medium High Density,443,2
+604 - Medium High Density,444,2
+604 - Medium High Density,445,2
+604 - Medium High Density,446,2
+604 - Medium High Density,447,2
+604 - Medium High Density,448,2
+604 - Medium High Density,449,2
+604 - Medium High Density,450,2
+604 - Medium High Density,451,2
+604 - Medium High Density,452,2
+604 - Medium High Density,453,2
+604 - Medium High Density,454,2
+604 - Medium High Density,455,2
+604 - Medium High Density,456,2
+604 - Medium High Density,457,2
+604 - Medium High Density,458,2
+604 - Medium High Density,459,2
+604 - Medium High Density,460,2
+604 - Medium High Density,461,2
+604 - Medium High Density,462,2
+604 - Medium High Density,463,2
+604 - Medium High Density,464,2
+604 - Medium High Density,465,2
+604 - Medium High Density,466,2
+604 - Medium High Density,467,2
+604 - Medium High Density,468,2
+604 - Medium High Density,469,2
+604 - Medium High Density,470,2
+604 - Medium High Density,471,2
+604 - Medium High Density,472,2
+604 - Medium High Density,473,2
+604 - Medium High Density,474,2
+604 - Medium High Density,475,2
+604 - Medium High Density,476,2
+604 - Medium High Density,477,2
+604 - Medium High Density,478,2
+604 - Medium High Density,479,2
+604 - Medium High Density,480,2
+604 - Medium High Density,481,2
+604 - Medium High Density,482,2
+604 - Medium High Density,483,2
+604 - Medium High Density,484,2
+604 - Medium High Density,485,2
+604 - Medium High Density,486,2
+604 - Medium High Density,487,2
+604 - Medium High Density,488,2
+604 - Medium High Density,489,2
+604 - Medium High Density,490,2
+604 - Medium High Density,491,2
+604 - Medium High Density,492,2
+604 - Medium High Density,493,2
+604 - Medium High Density,494,2
+604 - Medium High Density,495,2
+604 - Medium High Density,496,2
+604 - Medium High Density,497,2
+604 - Medium High Density,498,2
+604 - Medium High Density,499,2
+604 - Medium High Density,500,2
+604 - Medium High Density,501,2
+604 - Medium High Density,502,2
+604 - Medium High Density,503,2
+604 - Medium High Density,504,2
+604 - Medium High Density,505,2
+604 - Medium High Density,506,2
+604 - Medium High Density,507,2
+604 - Medium High Density,508,2
+604 - Office Use,509,0
+604 - Office Use,510,0
+604 - Office Use,511,0
+604 - Office Use,512,0
+604 - Office Use,513,0
+604 - Office Use,514,0
+604 - Office Use,515,0
+604 - Office Use,516,0
+604 - Office Use,517,0
+604 - Office Use,518,0
+604 - Office Use,519,0
+604 - Office Use,520,0
+604 - Other,521,0
+604 - Other,522,0
+604 - Preserve,523,0
+604 - Preserve,524,0
+604 - Preserve,525,0
+604 - Preserve,526,0
+604 - Preserve,527,0
+604 - Preserve,528,0
+604 - Preserve,529,0
+604 - Preserve,530,0
+604 - Preserve,531,0
+604 - Preserve,532,0
+604 - Restaurants,533,0
+604 - Restaurants,534,0
+604 - Restaurants,535,0
+604 - Restaurants,536,0
+604 - Restaurants,537,0
+604 - Restaurants,538,0
+604 - Service & Special Sales,539,0
+604 - Service & Special Sales,540,0
+604 - Service & Special Sales,541,0
+604 - Service & Special Sales,542,0
+604 - Service & Special Sales,543,0
+604 - Service & Special Sales,544,0
+604 - Service & Special Sales,545,0
+604 - Service & Special Sales,546,0
+604 - Service & Special Sales,547,0
+604 - Service & Special Sales,548,0
+604 - Service & Special Sales,549,0
+604 - Service & Special Sales,550,0
+604 - Service & Special Sales,551,0
+604 - Service & Special Sales,552,0
+604 - Service & Special Sales,553,0
+604 - Service & Special Sales,554,0
+604 - Service & Special Sales,555,0
+604 - Service & Special Sales,556,0
+604 - Service & Special Sales,557,0
+604 - Service & Special Sales,558,0
+604 - Service & Special Sales,559,0
+604 - Service & Special Sales,560,0
+604 - Service & Special Sales,561,0
+604 - Shopping & Service,562,0
+604 - Shopping & Service,563,0
+604 - Shopping & Service,564,0
+604 - Shopping & Service,565,0
+604 - Shopping & Service,566,0
+604 - Shopping & Service,567,0
+604 - Shopping & Service,568,0
+604 - Shopping & Service,569,0
+604 - Shopping & Service,570,0
+604 - Shopping & Service,571,0
+604 - Shopping & Service,572,0
+604 - Shopping & Service,573,0
+604 - Shopping & Service,574,0
+604 - Shopping & Service,575,0
+604 - Shopping & Service,576,0
+604 - Shopping & Service,577,0
+604 - Shopping & Service,578,0
+604 - Shopping & Service,579,0
+604 - Shopping & Service,580,0
+604 - Shopping & Service,581,0
+604 - Shopping & Service,582,0
+604 - Shopping & Service,583,0
+604 - Shopping & Service,584,0
+604 - Shopping & Service,585,0
+604 - Shopping & Service,586,0
+604 - Shopping & Service,587,0
+604 - Shopping & Service,588,0
+604 - Shopping & Service,589,0
+604 - Shopping & Service,590,0
+604 - Shopping & Service,591,0
+604 - Waterfront Commercial,592,0
+604 - Waterfront Commercial,593,0
+604 - Waterfront Commercial,594,0
+604 - Waterfront Commercial,595,0
+604 - Waterfront Commercial,596,0

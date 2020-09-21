@@ -1,0 +1,293 @@
+gnrl_p_,id,zoning
+306 - Agriculture,0,0
+306 - Agriculture,1,0
+306 - Agriculture,2,0
+306 - Agriculture,3,0
+306 - Business and Professional Office,4,0
+306 - Business and Professional Office,5,0
+306 - Business and Professional Office,6,0
+306 - Business and Professional Office,7,0
+306 - Business and Professional Office,8,0
+306 - Business and Professional Office,9,0
+306 - Business and Professional Office,10,0
+306 - Business and Professional Office,11,0
+306 - Business and Professional Office,12,0
+306 - Business and Professional Office,13,0
+306 - Business and Professional Office,14,0
+306 - Business and Professional Office,15,0
+306 - Business and Professional Office,16,0
+306 - Business and Professional Office,17,0
+306 - Business and Professional Office,18,0
+306 - Business and Professional Office,19,0
+306 - Commercial/Industrial,20,0
+306 - Commercial/Industrial,21,0
+306 - Commercial/Industrial,22,0
+306 - Community Facilities,23,0
+306 - Community Facilities,24,0
+306 - Community Facilities,25,0
+306 - Community Facilities,26,0
+306 - Community Facilities,27,0
+306 - Community Facilities,28,0
+306 - Community Facilities,29,0
+306 - Community Facilities,30,0
+306 - Community Facilities,31,0
+306 - Community Facilities,32,0
+306 - Community Facilities,33,0
+306 - Community Facilities,34,0
+306 - Community Facilities,35,0
+306 - Community Facilities,36,0
+306 - Community Facilities,37,0
+306 - Community Facilities,38,0
+306 - Community Facilities,39,0
+306 - Community Facilities,40,0
+306 - Community Facilities,41,0
+306 - Community Facilities,42,0
+306 - Community Facilities,43,0
+306 - Community Facilities,44,0
+306 - Community Facilities,45,0
+306 - Community Facilities,46,0
+306 - Community Facilities,47,0
+306 - Community Facilities,48,0
+306 - Conservation,49,0
+306 - Conservation,50,0
+306 - Conservation,51,0
+306 - Conservation,52,0
+306 - Conservation,53,0
+306 - Conservation,54,0
+306 - Conservation,55,0
+306 - Conservation,56,0
+306 - Conservation,57,0
+306 - Conservation,58,0
+306 - Conservation,59,0
+306 - Downtown Core,60,0
+306 - Downtown Core,61,0
+306 - Downtown Core,62,0
+306 - Downtown Core,63,0
+306 - Downtown Core,64,0
+306 - Downtown Core,65,0
+306 - General Commercial,66,0
+306 - General Commercial,67,0
+306 - General Commercial,68,0
+306 - General Commercial,69,0
+306 - General Commercial,70,0
+306 - General Commercial,71,0
+306 - General Commercial,72,0
+306 - General Commercial,73,0
+306 - General Commercial,74,0
+306 - General Commercial,75,0
+306 - General Commercial,76,0
+306 - General Commercial,77,0
+306 - General Commercial,78,0
+306 - General Commercial,79,0
+306 - General Commercial,80,0
+306 - General Commercial,81,0
+306 - General Commercial,82,0
+306 - General Commercial,83,0
+306 - General Commercial,84,0
+306 - General Commercial,85,0
+306 - General Commercial,86,0
+306 - General Commercial,87,0
+306 - General Commercial,88,0
+306 - General Commercial,89,0
+306 - General Commercial,90,0
+306 - General Commercial,91,0
+306 - General Commercial,92,0
+306 - General Commercial,93,0
+306 - General Commercial,94,0
+306 - General Commercial,95,0
+306 - General Commercial,96,0
+306 - General Commercial,97,0
+306 - General Commercial,98,0
+306 - General Commercial,99,0
+306 - General Commercial,100,0
+306 - General Commercial,101,0
+306 - High Density Multiple Family Residential,102,2
+306 - High Density Multiple Family Residential,103,2
+306 - High Density Multiple Family Residential,104,2
+306 - High Density Multiple Family Residential,105,2
+306 - High Density Multiple Family Residential,106,2
+306 - High Density Multiple Family Residential,107,2
+306 - Light Industrial/Office,108,0
+306 - Light Industrial/Office,109,0
+306 - Light Industrial/Office,110,0
+306 - Light Industrial/Office,111,0
+306 - Light Industrial/Office,112,0
+306 - Light Industrial/Office,113,0
+306 - Light Industrial/Office,114,0
+306 - Light Industrial/Office,115,0
+306 - Light Industrial/Office,116,0
+306 - Light Industrial/Office,117,0
+306 - Light Industrial/Office,118,0
+306 - Light Industrial/Office,119,0
+306 - Low Density Residential,120,1
+306 - Low Density Residential,121,1
+306 - Low Density Residential,122,1
+306 - Low Density Residential,123,1
+306 - Low Density Residential,124,1
+306 - Low Density Residential,125,1
+306 - Low Density Residential,126,1
+306 - Low Density Residential,127,1
+306 - Low Density Residential,128,1
+306 - Low Density Residential,129,1
+306 - Low Density Residential,130,1
+306 - Low Density Residential,131,1
+306 - Low Density Residential,132,1
+306 - Low Density Residential,133,1
+306 - Low Density Residential,134,1
+306 - Low Density Residential,135,1
+306 - Low Density Residential,136,1
+306 - Low Density Residential,137,1
+306 - Low Density Residential,138,1
+306 - Low Density Residential,139,1
+306 - Low Density Residential,140,1
+306 - Low Density Residential,141,1
+306 - Low Density Residential,142,1
+306 - Low Density Residential,143,1
+306 - Low Density Residential,144,1
+306 - Low Density Residential,145,1
+306 - Low Density Residential,146,1
+306 - Low Density Residential,147,1
+306 - Low Density Residential,148,1
+306 - Low Density Residential,149,1
+306 - Low Density Residential,150,1
+306 - Low Density Residential,151,1
+306 - Medium Density Detached Residential,152,1
+306 - Medium Density Detached Residential,153,1
+306 - Medium Density Multiple Family Residential,154,2
+306 - Medium Density Multiple Family Residential,155,2
+306 - Medium Density Multiple Family Residential,156,2
+306 - Medium Density Multiple Family Residential,157,2
+306 - Medium Density Multiple Family Residential,158,2
+306 - Medium Density Multiple Family Residential,159,2
+306 - Medium Density Multiple Family Residential,160,2
+306 - Medium Density Multiple Family Residential,161,2
+306 - Medium Density Multiple Family Residential,162,2
+306 - Medium Density Multiple Family Residential,163,2
+306 - Medium Density Multiple Family Residential,164,2
+306 - Medium Density Multiple Family Residential,165,2
+306 - Medium Density Multiple Family Residential,166,2
+306 - Medium Density Multiple Family Residential,167,2
+306 - Medium Density Multiple Family Residential,168,2
+306 - Medium Density Multiple Family Residential,169,2
+306 - Medium Density Multiple Family Residential,170,2
+306 - Medium Density Multiple Family Residential,171,2
+306 - Medium Density Multiple Family Residential,172,2
+306 - Medium Density Multiple Family Residential,173,2
+306 - Medium Density Multiple Family Residential,174,2
+306 - Medium Density Multiple Family Residential,175,2
+306 - Medium Density Multiple Family Residential,176,2
+306 - Medium Density Multiple Family Residential,177,2
+306 - Medium Density Multiple Family Residential,178,2
+306 - Medium Density Multiple Family Residential,179,2
+306 - Medium Density Multiple Family Residential,180,2
+306 - Medium Density Multiple Family Residential,181,2
+306 - Medium Density Multiple Family Residential,182,2
+306 - Medium Density Residential,183,2
+306 - Medium Density Residential,184,2
+306 - Medium Density Residential,185,2
+306 - Medium Density Residential,186,2
+306 - Medium Density Residential,187,2
+306 - Medium Density Residential,188,2
+306 - Medium Density Residential,189,2
+306 - Medium Density Residential,190,2
+306 - Medium Density Residential,191,2
+306 - Medium Density Residential,192,2
+306 - Medium Density Residential,193,2
+306 - Medium Density Residential,194,2
+306 - Medium Density Residential,196,2
+306 - Medium Density Residential,197,2
+306 - Medium Density Residential,198,2
+306 - Medium Density Residential,199,2
+306 - Medium Density Residential,200,2
+306 - Medium Density Residential,201,2
+306 - Medium Density Residential,202,2
+306 - Medium Density Residential,203,2
+306 - Medium Density Residential,204,2
+306 - Medium Density Residential,205,2
+306 - Medium Density Residential,206,2
+306 - Mixed Use,207,0
+306 - Mixed Use,208,0
+306 - Mixed Use,209,0
+306 - Mixed Use,210,0
+306 - Neighborhood Commercial,211,0
+306 - Neighborhood Commercial,212,0
+306 - Neighborhood Commercial,213,0
+306 - Neighborhood Commercial,214,0
+306 - Neighborhood Commercial,215,0
+306 - Neighborhood Commercial,216,0
+306 - Neighborhood Commercial,217,0
+306 - Neighborhood Commercial,218,0
+306 - Neighborhood Commercial,219,0
+306 - Neighborhood Commercial,220,0
+306 - Open Space,221,0
+306 - Open Space,222,0
+306 - Open Space,223,0
+306 - Open Space,224,0
+306 - Open Space,225,0
+306 - Open Space,226,0
+306 - Open Space,227,0
+306 - Open Space,228,0
+306 - Open Space,229,0
+306 - Open Space,230,0
+306 - Open Space,231,0
+306 - Open Space,232,0
+306 - Open Space,233,0
+306 - Open Space,234,0
+306 - Open Space,235,0
+306 - Open Space,236,0
+306 - Open Space,237,0
+306 - Open Space,238,0
+306 - Open Space,239,0
+306 - Open Space,240,0
+306 - Open Space,241,0
+306 - Open Space,242,0
+306 - Open Space,243,0
+306 - Open Space,244,0
+306 - Open Space,245,0
+306 - Open Space,246,0
+306 - Open Space,247,0
+306 - Open Space,248,0
+306 - Parkland,249,0
+306 - Parkland,250,0
+306 - Parkland,251,0
+306 - Parkland,252,0
+306 - Parkland,253,0
+306 - Parkland,254,0
+306 - Parkland,255,0
+306 - Parkland,256,0
+306 - Parkland,257,0
+306 - Parkland,258,0
+306 - Parkland,259,0
+306 - Parkland,260,0
+306 - Parkland,261,0
+306 - Parkland,262,0
+306 - Parkland,263,0
+306 - Research/Educational Institution,264,0
+306 - Research/Educational Institution,265,0
+306 - Research/Educational Institution,266,0
+306 - Research/Educational Institution,267,0
+306 - Rural Residential,268,1
+306 - Rural Residential,269,1
+306 - Very Low Density Residential,270,1
+306 - Very Low Density Residential,271,1
+306 - Very Low Density Residential,272,1
+306 - Very Low Density Residential,273,1
+306 - Very Low Density Residential,274,1
+306 - Very Low Density Residential,275,1
+306 - Very Low Density Residential,276,1
+306 - Very Low Density Residential,277,1
+306 - Very Low Density Residential,278,1
+306 - Very Low Density Residential,279,1
+306 - Very Low Density Residential,280,1
+306 - Very Low Density Residential,281,1
+306 - Very Low Density Residential,282,1
+306 - Very Low Density Residential,283,1
+306 - Very Low Density Residential,284,1
+306 - Very Low Density Residential,285,1
+306 - Very Low Density Residential,286,1
+306 - Very Low Density Residential,287,1
+306 - Very Low Density Residential,288,1
+306 - Very Low Density Residential,289,1
+306 - Very Low Density Residential,290,1
+306 - Very Low Density Residential,291,1
+306 - Very Low Density Residential,292,1

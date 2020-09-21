@@ -1,0 +1,121 @@
+gnrl_p_,id,zoning
+903 - Agricultural,0,0
+903 - Downtown Commercial,1,0
+903 - Downtown Residential,2,2
+903 - Downtown Residential,3,2
+903 - Heavy Industrial,4,0
+903 - Heavy Industrial,5,0
+903 - Heavy Industrial,6,0
+903 - Heavy Industrial,7,0
+903 - Heavy Industrial,8,0
+903 - Heavy Industrial,9,0
+903 - Heavy Industrial,10,0
+903 - High Density Residential,11,2
+903 - High Density Residential,12,2
+903 - High Density Residential,13,2
+903 - High Density Residential,14,2
+903 - High Density Residential,15,2
+903 - High Density Residential,16,2
+903 - High Density Residential,17,2
+903 - High Density Residential,18,2
+903 - High Density Residential,19,2
+903 - High Density Residential,20,2
+903 - High Density Residential_SF,21,1
+903 - Highway Commercial,22,0
+903 - Highway Commercial,23,0
+903 - Highway Commercial,24,0
+903 - Light Industrial,25,0
+903 - Light Industrial,26,0
+903 - Light Industrial,27,0
+903 - Light Industrial,28,0
+903 - Light Industrial,29,0
+903 - Light Industrial,30,0
+903 - Light Industrial,31,0
+903 - Light Industrial,32,0
+903 - Low Density Residential,33,1
+903 - Low Density Residential,34,1
+903 - Low Density Residential,35,1
+903 - Medical/Professional Office,36,0
+903 - Medium Density Residential,37,1
+903 - Medium Density Residential,38,1
+903 - Medium Density Residential,39,1
+903 - Medium Density Residential,40,1
+903 - Medium Density Residential_MF,41,2
+903 - Medium Density Residential,42,1
+903 - Medium Density Residential,44,1
+903 - Medium Density Residential,45,1
+903 - Medium Density Residential_NonRes,46,0
+903 - Medium Density Residential_NonRes,47,0
+903 - Medium Density Residential_NonRes,48,0
+903 - Medium High Density Residential,49,1
+903 - Medium High Density Residential,50,1
+903 - Medium High Density Residential,51,1
+903 - Medium High Density Residential,52,1
+903 - Mixed Commercial/Light Industrial,53,0
+903 - Mixed Commercial/Light Industrial,54,0
+903 - Mixed Use,55,2
+903 - Mixed Use,56,2
+903 - Open Space,57,0
+903 - Open Space,58,0
+903 - Open Space,59,0
+903 - Professional Office/High Density Residential_NonRes,60,0
+903 - Professional Office/High Density Residential,61,2
+903 - Professional Office/High Density Residential_NonRes,62,0
+903 - Professional Office/High Density Residential_NonRes,63,0
+903 - Public/Quasi Public,64,0
+903 - Public/Quasi Public,65,0
+903 - Public/Quasi Public,66,0
+903 - Public/Quasi Public,67,0
+903 - Public/Quasi Public,68,0
+903 - Public/Quasi Public,69,0
+903 - Public/Quasi Public,70,0
+903 - Public/Quasi Public,71,0
+903 - Public/Quasi Public,72,0
+903 - Public/Quasi Public,73,0
+903 - Public/Quasi Public,74,0
+903 - Public/Quasi Public,75,0
+903 - Public/Quasi Public,76,0
+903 - Public/Quasi Public,77,0
+903 - Public/Quasi Public,78,0
+903 - Public/Quasi Public,79,0
+903 - Public/Quasi Public,80,0
+903 - Public/Quasi Public,81,0
+903 - Recreation & Parks,82,0
+903 - Recreation & Parks,83,0
+903 - Recreation & Parks,84,0
+903 - Recreation & Parks,85,0
+903 - Recreation & Parks,86,0
+903 - Recreation & Parks,87,0
+903 - Recreation & Parks,88,0
+903 - Riparian Setback,89,0
+903 - Riparian Setback,90,0
+903 - Riparian Setback,91,0
+903 - Riparian Setback,92,0
+903 - Riparian Setback,93,0
+903 - Riparian Setback,94,0
+903 - Riparian Setback,95,0
+903 - Service Commercial,96,0
+903 - Service Commercial,97,0
+903 - Service Commercial,98,0
+903 - Service Commercial,99,0
+903 - Service Commercial,100,0
+903 - Service Commercial,101,0
+903 - Very Low Density Residential,102,1
+903 - Very Low Density Residential,103,1
+903 - Very Low Density Residential,104,1
+903 - Very Low Density Residential,105,1
+903 - Very Low Density Residential,106,1
+903 - Very Low Density Residential,107,1
+903 - Very Low Density Residential,108,1
+903 - Very Low Density Residential,109,1
+903 - Very Low Density Residential,110,1
+903 - Very Low Density Residential,111,1
+903 - Very Low Density Residential,112,1
+903 - Very Low Density Residential,113,1
+903 - Very Low Density Residential,114,1
+903 - Very Low Density Residential,115,1
+903 - Professional Office/High Density Residential,995,2
+903 - Professional Office/High Density Residential_NonRes,996,0
+903 - Very Low Density Residential,997,1
+903 - Medium High Density Residential,998,1
+903 - Medium Density Residential,999,1

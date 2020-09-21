@@ -1,0 +1,386 @@
+gnrl_p_,id,zoning
+222 - Agricultural Limited,0,1
+222 - Agricultural Limited,1,1
+222 - Agriculture,2,0
+222 - Commercial,3,0
+222 - Commercial,4,0
+222 - Commercial,5,0
+222 - Commercial,6,0
+222 - Commercial,7,0
+222 - Commercial,8,0
+222 - Commercial,9,0
+222 - Commercial,10,0
+222 - Commercial,11,0
+222 - Commercial,12,0
+222 - Commercial,13,0
+222 - Commercial,14,0
+222 - Commercial,15,0
+222 - Commercial,16,0
+222 - Commercial,17,0
+222 - Commercial,18,0
+222 - Commercial,19,0
+222 - Commercial,20,0
+222 - Commercial,21,0
+222 - Commercial,22,0
+222 - Commercial,23,0
+222 - Commercial,24,0
+222 - Commercial,25,0
+222 - Commercial,26,0
+222 - Commercial,27,0
+222 - Commercial,28,0
+222 - Commercial,29,0
+222 - Commercial,30,0
+222 - Commercial,31,0
+222 - Commercial,32,0
+222 - Commercial,33,0
+222 - Commercial,34,0
+222 - Commercial,35,0
+222 - Commercial,36,0
+222 - Commercial,37,0
+222 - Commercial,38,0
+222 - Commercial,39,0
+222 - Commercial Downtown,40,0
+222 - Commercial Downtown,41,0
+222 - Commercial Downtown,42,0
+222 - Commercial Downtown,43,0
+222 - Commercial Downtown,44,0
+222 - Commercial Downtown,45,0
+222 - Commercial Downtown,46,0
+222 - Commercial Downtown,47,0
+222 - Commercial Downtown,48,0
+222 - Commercial Downtown,49,0
+222 - Commercial Downtown,50,0
+222 - Commercial Downtown,51,0
+222 - Commercial Downtown,52,0
+222 - Commercial Downtown,53,0
+222 - Commercial Downtown,54,0
+222 - Commercial Downtown,55,0
+222 - Commercial Downtown,56,0
+222 - Commercial Downtown,57,0
+222 - Commercial Recreation,58,0
+222 - Delta Recreation,59,0
+222 - Delta Recreation,60,0
+222 - Light Industrial,61,0
+222 - Light Industrial,62,0
+222 - Light Industrial,63,0
+222 - Light Industrial,64,0
+222 - Light Industrial,65,0
+222 - Mobile Home,66,2
+222 - Multi-Family High,67,2
+222 - Multi-Family High,68,2
+222 - Multi-Family High,69,2
+222 - Multi-Family Low,70,2
+222 - Multi-Family Low,71,2
+222 - Multi-Family Low,72,2
+222 - Multi-Family Low,73,2
+222 - Multi-Family Low,74,2
+222 - Multi-Family Low,75,2
+222 - Multi-Family Low,76,2
+222 - Multi-Family Low,77,2
+222 - Multi-Family Low,78,2
+222 - Multi-Family Low,79,2
+222 - Multi-Family Low,80,2
+222 - Multi-Family Low,81,2
+222 - Multi-Family Low,82,2
+222 - Multi-Family Low,83,2
+222 - Multi-Family Low,84,2
+222 - Multi-Family Low,85,2
+222 - Multi-Family Low,86,2
+222 - Multi-Family Low,87,2
+222 - Multi-Family Low,88,2
+222 - Multi-Family Low,89,2
+222 - Multi-Family Low,90,2
+222 - Multi-Family Low,91,2
+222 - Multi-Family Low,92,2
+222 - Parks and Recreation,93,0
+222 - Parks and Recreation,94,0
+222 - Parks and Recreation,95,0
+222 - Parks and Recreation,96,0
+222 - Parks and Recreation,97,0
+222 - Parks and Recreation,98,0
+222 - Parks and Recreation,99,0
+222 - Parks and Recreation,100,0
+222 - Parks and Recreation,101,0
+222 - Parks and Recreation,102,0
+222 - Parks and Recreation,103,0
+222 - Parks and Recreation,104,0
+222 - Parks and Recreation,105,0
+222 - Parks and Recreation,106,0
+222 - Parks and Recreation,107,0
+222 - Parks and Recreation,108,0
+222 - Parks and Recreation,109,0
+222 - Parks and Recreation,110,0
+222 - Parks and Recreation,111,0
+222 - Public and Semi-Public,112,0
+222 - Public and Semi-Public,113,0
+222 - Public and Semi-Public,114,0
+222 - Public and Semi-Public,115,0
+222 - Public and Semi-Public,116,0
+222 - Public and Semi-Public,117,0
+222 - Public and Semi-Public,118,0
+222 - Public and Semi-Public,119,0
+222 - Public and Semi-Public,120,0
+222 - Public and Semi-Public,121,0
+222 - Public and Semi-Public,122,0
+222 - Public and Semi-Public,123,0
+222 - Public and Semi-Public,124,0
+222 - Public and Semi-Public,125,0
+222 - Public and Semi-Public,126,0
+222 - Public and Semi-Public,127,0
+222 - Public and Semi-Public,128,0
+222 - Public and Semi-Public,129,0
+222 - Single Family High,130,1
+222 - Single Family High,131,1
+222 - Single Family High,132,1
+222 - Single Family High,133,1
+222 - Single Family High,134,1
+222 - Single Family High,135,1
+222 - Single Family High,136,1
+222 - Single Family High,137,1
+222 - Single Family High,138,1
+222 - Single Family High,139,1
+222 - Single Family High,140,1
+222 - Single Family High,141,1
+222 - Single Family High,142,1
+222 - Single Family High,143,1
+222 - Single Family High,144,1
+222 - Single Family High,145,1
+222 - Single Family High,146,1
+222 - Single Family High,147,1
+222 - Single Family High,148,1
+222 - Single Family High,149,1
+222 - Single Family High,150,1
+222 - Single Family High,151,1
+222 - Single Family High,152,1
+222 - Single Family High,153,1
+222 - Single Family High,154,1
+222 - Single Family High,155,1
+222 - Single Family High,156,1
+222 - Single Family High,157,1
+222 - Single Family High,158,1
+222 - Single Family High,159,1
+222 - Single Family High,160,1
+222 - Single Family High,161,1
+222 - Single Family High,162,1
+222 - Single Family High,163,1
+222 - Single Family High,164,1
+222 - Single Family High,165,1
+222 - Single Family High,166,1
+222 - Single Family High,167,1
+222 - Single Family High,168,1
+222 - Single Family High,169,1
+222 - Single Family High,170,1
+222 - Single Family High,171,1
+222 - Single Family High,172,1
+222 - Single Family High,173,1
+222 - Single Family High,174,1
+222 - Single Family High,175,1
+222 - Single Family High,176,1
+222 - Single Family High,177,1
+222 - Single Family High,178,1
+222 - Single Family High,179,1
+222 - Single Family High,180,1
+222 - Single Family High,181,1
+222 - Single Family High,182,1
+222 - Single Family High,183,1
+222 - Single Family High,184,1
+222 - Single Family High,185,1
+222 - Single Family High,186,1
+222 - Single Family High,187,1
+222 - Single Family High,188,1
+222 - Single Family High,189,1
+222 - Single Family High,190,1
+222 - Single Family High,191,1
+222 - Single Family High,192,1
+222 - Single Family High,193,1
+222 - Single Family High,194,1
+222 - Single Family High,195,1
+222 - Single Family High,196,1
+222 - Single Family High,197,1
+222 - Single Family High,198,1
+222 - Single Family High,199,1
+222 - Single Family High,200,1
+222 - Single Family High,201,1
+222 - Single Family High,202,1
+222 - Single Family High,203,1
+222 - Single Family High,204,1
+222 - Single Family High,205,1
+222 - Single Family High,206,1
+222 - Single Family High,207,1
+222 - Single Family High,208,1
+222 - Single Family High,209,1
+222 - Single Family High,210,1
+222 - Single Family High,211,1
+222 - Single Family High,212,1
+222 - Single Family High,213,1
+222 - Single Family High,214,1
+222 - Single Family High,215,1
+222 - Single Family High,216,1
+222 - Single Family High,217,1
+222 - Single Family High,218,1
+222 - Single Family High,219,1
+222 - Single Family High,220,1
+222 - Single Family High,221,1
+222 - Single Family High,222,1
+222 - Single Family High,223,1
+222 - Single Family High,224,1
+222 - Single Family High,225,1
+222 - Single Family High,226,1
+222 - Single Family High,227,1
+222 - Single Family High,228,1
+222 - Single Family High,229,1
+222 - Single Family High,230,1
+222 - Single Family High,231,1
+222 - Single Family High,232,1
+222 - Single Family High,233,1
+222 - Single Family High,234,1
+222 - Single Family High,235,1
+222 - Single Family High,236,1
+222 - Single Family High,237,1
+222 - Single Family High,238,1
+222 - Single Family High,239,1
+222 - Single Family High,240,1
+222 - Single Family High,241,1
+222 - Single Family High,242,1
+222 - Single Family High,243,1
+222 - Single Family High,244,1
+222 - Single Family High,245,1
+222 - Single Family High,246,1
+222 - Single Family High,247,1
+222 - Single Family High,248,1
+222 - Single Family High,249,1
+222 - Single Family High,250,1
+222 - Single Family High,251,1
+222 - Single Family High,252,1
+222 - Single Family High,253,1
+222 - Single Family High,254,1
+222 - Single Family High,255,1
+222 - Single Family High,256,1
+222 - Single Family High,257,1
+222 - Single Family High,258,1
+222 - Single Family High,259,1
+222 - Single Family High,260,1
+222 - Single Family High,261,1
+222 - Single Family High,262,1
+222 - Single Family High,263,1
+222 - Single Family High,264,1
+222 - Single Family High,265,1
+222 - Single Family High,266,1
+222 - Single Family High,267,1
+222 - Single Family High,268,1
+222 - Single Family High,269,1
+222 - Single Family High,270,1
+222 - Single Family High,271,1
+222 - Single Family High,272,1
+222 - Single Family High,273,1
+222 - Single Family High,274,1
+222 - Single Family High,275,1
+222 - Single Family High,276,1
+222 - Single Family High,277,1
+222 - Single Family High,278,1
+222 - Single Family High,279,1
+222 - Single Family High,280,1
+222 - Single Family High,281,1
+222 - Single Family High,282,1
+222 - Single Family High,283,1
+222 - Single Family Low,284,1
+222 - Single Family Low,285,1
+222 - Single Family Low,286,1
+222 - Single Family Low,287,1
+222 - Single Family Low,288,1
+222 - Single Family Low,289,1
+222 - Single Family Low,290,1
+222 - Single Family Low,291,1
+222 - Single Family Low,292,1
+222 - Single Family Low,293,1
+222 - Single Family Low,294,1
+222 - Single Family Low,295,1
+222 - Single Family Low,296,1
+222 - Single Family Low,297,1
+222 - Single Family Low,298,1
+222 - Single Family Low,299,1
+222 - Single Family Low,300,1
+222 - Single Family Low,301,1
+222 - Single Family Low,302,1
+222 - Single Family Low,303,1
+222 - Single Family Low,304,1
+222 - Single Family Medium,305,1
+222 - Single Family Medium,306,1
+222 - Single Family Medium,307,1
+222 - Single Family Medium,308,1
+222 - Single Family Medium,309,1
+222 - Single Family Medium,310,1
+222 - Single Family Medium,311,1
+222 - Single Family Medium,312,1
+222 - Single Family Medium,313,1
+222 - Single Family Medium,314,1
+222 - Single Family Medium,315,1
+222 - Single Family Medium,316,1
+222 - Single Family Medium,317,1
+222 - Single Family Medium,318,1
+222 - Single Family Medium,319,1
+222 - Single Family Medium,320,1
+222 - Single Family Medium,321,1
+222 - Single Family Medium,322,1
+222 - Single Family Medium,323,1
+222 - Single Family Medium,324,1
+222 - Single Family Medium,325,1
+222 - Single Family Medium,326,1
+222 - Single Family Medium,327,1
+222 - Single Family Medium,328,1
+222 - Single Family Medium,329,1
+222 - Single Family Medium,330,1
+222 - Single Family Medium,331,1
+222 - Single Family Medium,332,1
+222 - Single Family Medium,333,1
+222 - Single Family Medium,334,1
+222 - Single Family Medium,335,1
+222 - Single Family Medium,336,1
+222 - Single Family Medium,337,1
+222 - Single Family Medium,338,1
+222 - Single Family Medium,339,1
+222 - Single Family Medium,340,1
+222 - Single Family Medium,341,1
+222 - Single Family Medium,342,1
+222 - Single Family Medium,343,1
+222 - Single Family Medium,344,1
+222 - Single Family Medium,345,1
+222 - Single Family Medium,346,1
+222 - Single Family Medium,347,1
+222 - Single Family Medium,348,1
+222 - Single Family Medium,349,1
+222 - Single Family Medium,350,1
+222 - Single Family Very Low,351,1
+222 - Single Family Very Low,352,1
+222 - Single Family Very Low,353,1
+222 - Single Family Very Low,354,1
+222 - Single Family Very Low,355,1
+222 - Single Family Very Low,356,1
+222 - Single Family Very Low,357,1
+222 - Single Family Very Low,358,1
+222 - Single Family Very Low,359,1
+222 - Single Family Very Low,360,1
+222 - Single Family Very Low,361,1
+222 - Single Family Very Low,362,1
+222 - Single Family Very Low,363,1
+222 - Single Family Very Low,364,1
+222 - Single Family Very Low,365,1
+222 - Single Family Very Low,366,1
+222 - Single Family Very Low,367,1
+222 - Utility Energy,368,0
+222 - Waterways,369,3
+222 - Waterways,370,3
+222 - Waterways,371,3
+222 - Waterways,372,3
+222 - Waterways,373,3
+222 - Waterways,374,3
+222 - Waterways,375,3
+222 - Waterways,376,3
+222 - Waterways,377,3
+222 - Edited_SingleFamily,992,1
+222 - Edited_Agriculture,993,0
+222 - Edited_Agriculture,995,0
+222 - Edited_Agriculture,996,0
+222 - Edited_SingleFamily,997,1
+222 - Edited_SingleFamily,998,1
+222 - Edited_SingleFamily,999,1

@@ -1,0 +1,328 @@
+ZoningDesc,SHAPE_STAr,SHAPE_STLe,BaseZone,Zoning
+Office,59074.2753906,1195.20920859,O,NA
+Neighborhood Commercial,126641.517578,1459.0847706,NC,NA
+Neighborhood Commercial,165643.893555,3191.21832434,NC,NA
+Neighborhood Commercial,104789.180664,1370.83033407,NC,NA
+Neighborhood Commercial,90768.1884766,1806.51372593,NC,NA
+Neighborhood Commercial,103822.055664,1591.36698383,NC,NA
+Neighborhood Commercial,28632.3427734,695.631953106,NC,NA
+Neighborhood Commercial,3750.47558594,252.359259357,NC,NA
+Neighborhood Commercial/Affordable Housing Overlay,141054.547852,1580.4887632,NC/AHO,NA
+Neighborhood Commercial/Affordable Housing Overlay,71206.5869141,1203.7398927,NC/AHO,NA
+Neighborhood Commercial/Affordable Housing Overlay,59038.1044922,1554.66720303,NC/AHO,NA
+Open Space,9729055.52246,40426.9644014,OS,NA
+Open Space,3607044.36426,15485.087852,OS,NA
+Open Space,955289.689453,5500.21635672,OS,NA
+Open Space,397471.273438,9948.05566593,OS,NA
+Open Space,308359.463867,4902.25519798,OS,NA
+Open Space,253503.477539,2678.95350665,OS,NA
+Open Space,183102.992188,3483.0415735,OS,NA
+Open Space,164394.262695,2130.35147811,OS,NA
+Open Space,149922.602539,2563.70230996,OS,NA
+Open Space,138451.078125,2650.82096132,OS,NA
+Open Space,122830.775391,3514.85008357,OS,NA
+Open Space,113526.132813,1607.42277519,OS,NA
+Open Space,102927.842773,1427.29562614,OS,NA
+Open Space,66700.2832031,1305.78587306,OS,NA
+Open Space,66213.5917969,1194.24834657,OS,NA
+Open Space,108331.324219,3356.59521145,OS,NA
+Open Space,54749.6083984,1016.73832286,OS,NA
+Open Space,73966.4355469,1357.84461868,OS,NA
+Open Space,41846.2099609,1731.24466112,OS,NA
+Open Space,31198.0078125,872.436995823,OS,NA
+Open Space,30977.171875,826.862867366,OS,NA
+Open Space,125874.342773,3951.82119713,OS,NA
+Open Space,19951.8134766,725.557560968,OS,NA
+Open Space,18410.2714844,553.585901185,OS,NA
+Open Space,17852.9619141,548.056140212,OS,NA
+Open Space,13048.7119141,643.458955839,OS,NA
+Open Space,4994.08789063,591.185437424,OS,NA
+Public/Quasi-public,32744904.7002,30228.5371734,P,NA
+Public/Quasi-public,426141.989258,4924.6573464,P,NA
+Public/Quasi-public,465438.34375,3851.51174022,P,NA
+Public/Quasi-public,433620.232422,3167.93820996,P,NA
+Public/Quasi-public,327768.269531,2746.86384336,P,NA
+Public/Quasi-public,271438.80957,2446.66626275,P,NA
+Public/Quasi-public,153961.219727,2385.73541727,P,NA
+Public/Quasi-public,96197.0683594,1804.15168378,P,NA
+Public/Quasi-public,69930.9404297,1436.36514923,P,NA
+Public/Quasi-public,52936.9736328,902.480978305,P,NA
+Public/Quasi-public,48168.1113281,840.098630431,P,NA
+Public/Quasi-public,32169.1025391,773.950479455,P,NA
+Public/Quasi-public,23451.3349609,719.678173275,P,NA
+Public/Quasi-public,19288.6015625,565.979787959,P,NA
+Public/Quasi-public,11377.1748047,442.072436296,P,NA
+Public/Quasi-public,8123.34570313,446.017007842,P,NA
+Public/Quasi-public,5805.08984375,626.17552161,P,NA
+Public/Quasi-public,4946.8671875,277.161949826,P,NA
+Public/Quasi-public,4625.38085938,1063.53462399,P,NA
+Public/Quasi-public,4200.70703125,473.309471195,P,NA
+Public/Quasi-public,2350.10742188,197.948732408,P,NA
+Public/Quasi-public,1664.73925781,311.9233007,P,NA
+Public/Quasi-public,1400.63476563,283.339733595,P,NA
+Public/Quasi-public,1303.3984375,240.966403367,P,NA
+Public/Quasi-public,947.42578125,125.96185418500001,P,NA
+Public/Quasi-public,810.44921875,114.966811396,P,NA
+Public/Quasi-public,738.2890625,115.066039105,P,NA
+Public/Quasi-public,691.064453125,155.976397811,P,NA
+Public/Quasi-public,552.215820313,119.440708695,P,NA
+Public/Quasi-public,520.721679688,103.052850988,P,NA
+Public/Quasi-public,432.524414063,84.1282874638,P,NA
+Public/Quasi-public,396.004882813,79.6527987192,P,NA
+Public/Quasi-public,300.71875,75.6220130559,P,NA
+Public/Quasi-public,228.479492188,71.9366087083,P,NA
+Park and Recreation,1840395.81836,19893.6711296,P and R,NA
+Park and Recreation,436602.12207,2647.41151723,P and R,NA
+Park and Recreation,102278.266602,3211.54078852,P and R,NA
+Park and Recreation,208486.594727,6801.99813078,P and R,NA
+Park and Recreation,86641.3886719,1364.74972939,P and R,NA
+Park and Recreation,90853.3203125,2141.16945656,P and R,NA
+Park and Recreation,62624.0400391,1169.93798373,P and R,NA
+Park and Recreation,22945.8632813,733.757407684,P and R,NA
+Open Space,14768.0976563,860.714536085,OS,NA
+Park and Recreation,804.0390625,136.415900503,P and R,NA
+Single Family Residential,662580.117188,8108.68185045,R-1,1
+Single Family Residential,611995.56543,9097.79993718,R-1,1
+Single Family Residential,561696.801758,6314.96615157,R-1,1
+Single Family Residential,230333.061523,4359.44023376,R-1,1
+Single Family Residential,481223.693359,4225.09135245,R-1,1
+Single Family Residential,405970.866211,5675.73569706,R-1,1
+Single Family Residential,346096.714844,4250.71036221,R-1,1
+Single Family Residential,344549.328125,4175.54716351,R-1,1
+Single Family Residential,325651.067383,4356.84200249,R-1,1
+Single Family Residential,296043.336914,4175.44832556,R-1,1
+Single Family Residential,281588.854492,4293.88706005,R-1,1
+Single Family Residential,278087.621094,2973.5899732,R-1,1
+Single Family Residential,266022.591797,3681.1827889,R-1,1
+Single Family Residential,245482.929688,3747.46922805,R-1,1
+Single Family Residential,234077.804688,2731.62401858,R-1,1
+Single Family Residential,217841.097656,3258.08396015,R-1,1
+Single Family Residential,186316.186523,1914.18556205,R-1,1
+Single Family Residential,179651.78418,2662.52126661,R-1,1
+Single Family Residential,154389.726563,2926.37782473,R-1,1
+Single Family Residential,139138.443359,2385.72924532,R-1,1
+Single Family Residential,138315.874023,1621.08802112,R-1,1
+Single Family Residential,137115.261719,2498.54793018,R-1,1
+Single Family Residential,136723.887695,1567.53151039,R-1,1
+Single Family Residential,126339.757813,2255.89317129,R-1,1
+Single Family Residential,124926.938477,1762.35568468,R-1,1
+Single Family Residential,124226.194336,1568.73222755,R-1,1
+Single Family Residential,124070.49707,1436.49598882,R-1,1
+Single Family Residential,123735.325195,1459.57828227,R-1,1
+Single Family Residential,118144.81543,1642.98974547,R-1,1
+Single Family Residential,111763.146484,2013.29001354,R-1,1
+Single Family Residential,110768.311523,2234.3581589,R-1,1
+Single Family Residential,99314.5273438,2128.8273186,R-1,1
+Single Family Residential,92671.6054688,1968.81383859,R-1,1
+Single Family Residential,88460.4570313,1612.13902035,R-1,1
+Single Family Residential,85648.9560547,1237.97847371,R-1,1
+Single Family Residential,84587.1201172,1222.62902976,R-1,1
+Single Family Residential,64763.3251953,1285.45427052,R-1,1
+Single Family Residential,58463.6318359,1252.10632547,R-1,1
+Single Family Residential,41376.8222656,1440.77017792,R-1,1
+Single Family Residential,40441.9121094,866.784809303,R-1,1
+Single Family Residential,38865.5517578,1005.75336883,R-1,1
+Single Family Residential,37615.7773438,1266.22664403,R-1,1
+Single Family Residential,35427.2080078,1009.39003571,R-1,1
+Single Family Residential,35321.9414063,816.32270262,R-1,1
+Single Family Residential,34248.4208984,1226.6147903,R-1,1
+Single Family Residential,31910.8603516,829.726454525,R-1,1
+Single Family Residential,31139.8349609,993.393957811,R-1,1
+Single Family Residential,11885.5009766,746.477487421,R-1,1
+Single Family Residential,22336.5751953,622.157582405,R-1,1
+Bel Aire Single Family Residential,351864.810547,6122.64809889,R-1-BA,1
+Bel Aire Single Family Residential,270647.577148,2777.94023579,R-1-BA,1
+Bel Aire Single Family Residential,219595.208008,2309.79835835,R-1-BA,1
+Bel Aire Single Family Residential,136108.955078,2441.26135973,R-1-BA,1
+Bel Aire Single Family Residential,121089.725586,2038.7512465,R-1-BA,1
+Bel Aire Single Family Residential,110284.536133,1928.09810156,R-1-BA,1
+Bel Aire Single Family Residential,107753.34375,2069.95717696,R-1-BA,1
+Bel Aire Single Family Residential,78036.2060547,1508.5747521,R-1-BA,1
+Bel Aire Single Family Residential,61887.7597656,1271.00731284,R-1-BA,1
+Bel Aire Single Family Residential,45499.7841797,1014.87420363,R-1-BA,1
+Two-Family Residential,371637.609375,6209.95643363,R-2,2
+Two-Family Residential,364268.31543,5626.11818874,R-2,2
+Two-Family Residential,278348.194336,4231.28397462,R-2,2
+Two-Family Residential,193445.493164,3388.23632248,R-2,2
+Two-Family Residential,130102.576172,1643.54500044,R-2,2
+Two-Family Residential,131338.941406,2132.15096883,R-2,2
+Two-Family Residential,94694.4414063,2107.45297924,R-2,2
+Two-Family Residential,91581.3916016,1448.79155161,R-2,2
+Two-Family Residential,36959.5810547,961.431711511,R-2,2
+Two-Family Residential,82531.5771484,1190.50748002,R-2,2
+Two-Family Residential,79863.7783203,1278.31392606,R-2,2
+Two-Family Residential,66008.1904297,1349.2117758,R-2,2
+Two-Family Residential,57135.2519531,1294.84291094,R-2,2
+Two-Family Residential,54857.1464844,1311.04526227,R-2,2
+Two-Family Residential,51054.328125,1064.64118817,R-2,2
+Two-Family Residential,48525.5292969,950.826963352,R-2,2
+Two-Family Residential,41280.6386719,1213.9977966,R-2,2
+Two-Family Residential,29214.984375,748.212281864,R-2,2
+Multi-Family Residential,659618.349609,7057.00208409,R-3,2
+Multi-Family Residential,266583.586914,4243.73777672,R-3,2
+Multi-Family Residential,193584.978516,2279.68158807,R-3,2
+Multi-Family Residential,163928.291016,1837.96779924,R-3,2
+Multi-Family Residential,155453.374023,1614.47867245,R-3,2
+Multi-Family Residential,119774.993164,1333.71451611,R-3,2
+Multi-Family Residential,105790.076172,1993.773585,R-3,2
+Multi-Family Residential,85201.0371094,1278.27736611,R-3,2
+Multi-Family Residential,39381.6552734,823.675426613,R-3,2
+Multi-Family Residential,34016.6777344,816.589340377,R-3,2
+Multi-Family Residential,31050.6152344,762.476825912,R-3,2
+Multi-Family Residential,22194.8476563,700.797468567,R-3,2
+Residential Multiple Planned,494370.552734,3559.53391253,RMP,2
+Residential Multiple Planned,328404.407227,2651.46292934,RMP,2
+Residential Multiple Planned,296522.941406,2825.37778263,RMP,2
+Residential Multiple Planned,231779.765625,3422.49062443,RMP,2
+Residential Multiple Planned,151823.500977,1816.27569383,RMP,2
+Residential Multiple Planned,132826.424805,1504.13069001,RMP,2
+Residential Multiple Planned,92047.6582031,1437.92909638,RMP,2
+Residential Multiple Planned,65618.1328125,1210.63149609,RMP,2
+Residential Multiple Planned,32955.9941406,766.26062438,RMP,2
+"Residential Open (40,000 square feet)",1001596.1748,7138.71762506,RO-1,1
+"Residential Open (40,000 square feet)",957939.269531,6004.36375496,RO-1,1
+"Residential Open (40,000 square feet)",774596.202148,4140.16641273,RO-1,1
+"Residential Open (40,000 square feet)",657250.677734,5767.35797238,RO-1,1
+"Residential Open (40,000 square feet)",216820.658203,2375.97921072,RO-1,1
+"Residential Open (40,000 square feet)",513065.479492,4807.6986356,RO-1,1
+"Residential Open (40,000 square feet)",512512.899414,4341.50568213,RO-1,1
+"Residential Open (40,000 square feet)",447741.458008,4454.20373023,RO-1,1
+"Residential Open (40,000 square feet)",408100.834961,3562.80369498,RO-1,1
+"Residential Open (40,000 square feet)",372641.701172,2585.30136853,RO-1,1
+"Residential Open (40,000 square feet)",350450.849609,2599.09170251,RO-1,1
+"Residential Open (40,000 square feet)",284137.46875,2357.91023898,RO-1,1
+"Residential Open (40,000 square feet)",239701.140625,2953.21509345,RO-1,1
+"Residential Open (40,000 square feet)",82280.0839844,1410.28094985,RO-1,1
+"Residential Open (40,000 square feet)",48410.4511719,1004.94768558,RO-1,1
+"Residential Open (20,000 square feet)",925578.199219,7184.45316176,RO-2,1
+"Residential Open (20,000 square feet)",1409166.58496,10274.320018,RO-2,1
+"Residential Open (20,000 square feet)",1265667.91504,9802.21218166,RO-2,1
+"Residential Open (20,000 square feet)",1196881.8584,9429.75264047,RO-2,1
+"Residential Open (20,000 square feet)",987002.510742,5676.57105063,RO-2,1
+"Residential Open (20,000 square feet)",633246.672852,8754.63949628,RO-2,1
+"Residential Open (20,000 square feet)",760683.537109,4272.7528058,RO-2,1
+"Residential Open (20,000 square feet)",723855.797852,6713.85526237,RO-2,1
+"Residential Open (20,000 square feet)",700586.130859,8582.27977578,RO-2,1
+"Residential Open (20,000 square feet)",700094.260742,7303.01277633,RO-2,1
+"Residential Open (20,000 square feet)",608944.719727,7799.99637701,RO-2,1
+"Residential Open (20,000 square feet)",489167.833984,6115.42718938,RO-2,1
+"Residential Open (20,000 square feet)",458337.458008,6564.25596196,RO-2,1
+"Residential Open (20,000 square feet)",444493.662109,4559.36752985,RO-2,1
+"Residential Open (20,000 square feet)",416858.143555,3345.85655119,RO-2,1
+"Residential Open (20,000 square feet)",411109.538086,4140.36329894,RO-2,1
+"Residential Open (20,000 square feet)",70997.0166016,1202.66841747,RO-2,1
+"Residential Open (20,000 square feet)",344791.124023,2686.88754001,RO-2,1
+"Residential Open (20,000 square feet)",313901.259766,3398.84466971,RO-2,1
+"Residential Open (20,000 square feet)",293198.345703,2663.44960928,RO-2,1
+"Residential Open (20,000 square feet)",249030.688477,2826.41469391,RO-2,1
+"Residential Open (20,000 square feet)",66003.4990234,1068.86765704,RO-2,1
+"Residential Open (20,000 square feet)",234306.206055,2240.0019625,RO-2,1
+"Residential Open (20,000 square feet)",221706.101563,1887.78528106,RO-2,1
+"Residential Open (20,000 square feet)",210257.713867,2248.24719074,RO-2,1
+"Residential Open (20,000 square feet)",190586.449219,2361.16158973,RO-2,1
+"Residential Open (20,000 square feet)",185780.256836,2723.61848897,RO-2,1
+"Residential Open (20,000 square feet)",178883.74707,1850.74222212,RO-2,1
+"Residential Open (20,000 square feet)",177145.804688,1763.49608392,RO-2,1
+"Residential Open (20,000 square feet)",173176.079102,2141.40455861,RO-2,1
+"Residential Open (20,000 square feet)",171074.648438,1774.74340693,RO-2,1
+"Residential Open (20,000 square feet)",58449.9814453,981.111873168,RO-2,1
+"Residential Open (20,000 square feet)",163449.880859,3000.76083383,RO-2,1
+"Residential Open (20,000 square feet)",159211.015625,2014.84963024,RO-2,1
+"Residential Open (20,000 square feet)",150848.832031,2293.49504654,RO-2,1
+"Residential Open (20,000 square feet)",145905.780273,2297.45604185,RO-2,1
+"Residential Open (20,000 square feet)",135362.285156,2079.28645129,RO-2,1
+"Residential Open (20,000 square feet)",132737.908203,1853.14371781,RO-2,1
+"Residential Open (20,000 square feet)",128865.944336,1718.90236027,RO-2,1
+"Residential Open (20,000 square feet)",127176.089844,1534.45048417,RO-2,1
+"Residential Open (20,000 square feet)",100356.521484,1732.09774548,RO-2,1
+"Residential Open (20,000 square feet)",100021.308594,1345.01778384,RO-2,1
+"Residential Open (20,000 square feet)",85677.2285156,1279.73187013,RO-2,1
+"Residential Open (20,000 square feet)",83724.0175781,1280.33883829,RO-2,1
+"Residential Open (20,000 square feet)",78404.7880859,1323.86143393,RO-2,1
+"Residential Open (20,000 square feet)",62526.2109375,1102.96008856,RO-2,1
+"Residential Open (20,000 square feet)",61868.5458984,1769.06066051,RO-2,1
+"Residential Open (20,000 square feet)",58128.9746094,1170.91238343,RO-2,1
+"Residential Open (20,000 square feet)",56832.5966797,1204.5211806,RO-2,1
+"Residential Open (20,000 square feet)",53134.1455078,944.842541455,RO-2,1
+"Residential Open (20,000 square feet)",48977.5507813,937.37848569,RO-2,1
+"Residential Open (20,000 square feet)",44758.4160156,960.542477025,RO-2,1
+"Residential Open (20,000 square feet)",44094.5683594,1064.81897356,RO-2,1
+"Residential Open (20,000 square feet)",34492.3486328,896.683350839,RO-2,1
+"Residential Open (20,000 square feet)",32018.9882813,875.594244821,RO-2,1
+"Residential Open (20,000 square feet)",27587.0253906,1495.89380994,RO-2,1
+"Residential Open (20,000 square feet)",26613.7451172,806.489435657,RO-2,1
+"Residential Open (20,000 square feet)",24000.578125,663.992676168,RO-2,1
+"Residential Open (20,000 square feet)",23010.3076172,1202.57085165,RO-2,1
+"Residential Open (20,000 square feet)",20628.9345703,724.668502908,RO-2,1
+Residential Planned Development,3871426.36133,14388.1247296,RPD,1
+Residential Planned Development,1190322.84961,5477.70738472,RPD,1
+Residential Planned Development,993020.408203,7709.80128209,RPD,1
+Residential Planned Development,977238.90332,9894.81913768,RPD,1
+Residential Planned Development,701703.535156,5134.03753776,RPD,1
+Residential Planned Development,671087.232422,7533.00433497,RPD,1
+Residential Planned Development,571091.394531,6446.13607499,RPD,1
+Residential Planned Development,504344.200195,6043.25411644,RPD,1
+Residential Planned Development,495380.092773,6133.3587511,RPD,1
+Residential Planned Development,465768.195313,4373.24238415,RPD,1
+Residential Planned Development,462521.189453,4997.2153302,RPD,1
+Residential Planned Development,427939.708008,5240.10451442,RPD,1
+Residential Planned Development,406441.405273,3527.00871337,RPD,1
+Residential Planned Development,347403.595703,4031.35732302,RPD,1
+Residential Planned Development,402338.164063,5481.33637818,RPD,1
+Residential Planned Development,400991.662109,5067.10984236,RPD,1
+Residential Planned Development,338555.18457,5543.62556757,RPD,1
+Residential Planned Development,332480.391602,3179.09439138,RPD,1
+Residential Planned Development,280616.317383,3161.32923243,RPD,1
+Residential Planned Development,259708.957031,3237.33031141,RPD,1
+Residential Planned Development,210136.769531,2274.45578857,RPD,1
+Residential Planned Development,183431.750977,2378.28137357,RPD,1
+Residential Planned Development,162562.728516,1841.59804523,RPD,1
+Residential Planned Development,151852.338867,1625.80548118,RPD,1
+Residential Planned Development,144690.59082,1869.49635284,RPD,1
+Residential Planned Development,233246.477539,2979.58420238,RPD,1
+Residential Planned Development,132316.746094,1488.92626896,RPD,1
+Residential Planned Development,109410.907227,1549.07915016,RPD,1
+Residential Planned Development,104358.056641,2501.14574207,RPD,1
+Residential Planned Development,103492.086914,1834.20905981,RPD,1
+Residential Planned Development,81851.625,1643.40705885,RPD,1
+Residential Planned Development,96571.6904297,2054.40669525,RPD,1
+Residential Planned Development,95224.4570313,1200.24628159,RPD,1
+Residential Planned Development,85255.890625,2045.48966477,RPD,1
+Residential Planned Development,84550.0976563,1241.47309914,RPD,1
+Residential Planned Development,82396.3847656,1268.29495732,RPD,1
+Residential Planned Development,75811.7119141,1617.97747257,RPD,1
+Residential Planned Development,73048.0634766,1340.12287646,RPD,1
+Residential Planned Development,69790.4121094,1149.10061766,RPD,1
+Residential Planned Development,67646.6640625,1140.34521111,RPD,1
+Residential Planned Development,64209.4375,1127.66573741,RPD,1
+Residential Planned Development,46735.0371094,1033.11801083,RPD,1
+Residential Planned Development,46103.1425781,933.975331322,RPD,1
+Residential Planned Development,32377.9189453,975.54396925,RPD,1
+Residential Planned Development,20043.5810547,707.414960195,RPD,1
+Residential Planned Development,7863.52734375,533.230913597,RPD,1
+Village Commercial,98691.6669922,2533.65464604,VC,NA
+Village Commercial,203115.420898,2748.71557875,VC,NA
+Public/Quasi-public,96456.4521484,1258.36693923,P,NA
+Neighborhood Commercial/Affordable Housing Overlay,17145.5878906,514.399620884,NC/AHO,NA
+Open Space,1000870.29395,5713.01046957,OS,NA
+Residential Planned Development,113743.982422,2036.24873962,RPD,1
+Residential Multiple Planned,41971.2832031,980.455242064,RMP,2
+Residential Multiple Planned,125204.931641,1824.95081715,RMP,2
+Residential Multiple Planned,227057.658203,2862.08326484,RMP,2
+Residential Multiple Planned/Affordable Housing,116514.010742,1526.11191489,RMP/AHO,2
+Residential Planned Development,78387.5986328,1260.93959031,RPD,1
+Residential Planned Development,13925.6933594,476.622435833,RPD,1
+Open Space,110630.469727,2354.85876394,OS,NA
+Open Space,65276.8740234,1198.46841515,OS,NA
+Open Space,58156.3056641,1698.04779592,OS,NA
+Single Family Residential,355616.298828,4505.47909387,R-1,1
+Park and Recreation,23798.9931641,729.807239926,P and R,NA
+Two-Family Residential,7494.109375,347.613144873,R-2,2
+Marine,538718.368164,5429.55624834,Marine,3
+Marine,28026893.0742,28083.3820929,Marine,3
+Marine,271116268.991,131028.226324,Marine,3
+Open Space,181442.804688,1923.12063328,OS,NA
+Open Space,178194.238281,3118.38681591,OS,NA
+Open Space,0,0,OS,NA
+Open Space,3607044.36426,15485.087852,OS,NA
+Residential Planned Development,25148.15625,665.820137754,RPD,1

@@ -1,0 +1,147 @@
+general_pl,id,Zoning
+401 - Airport Commercial,0,NA
+401 - Community Commercial,1,NA
+401 - Community Commercial,2,NA
+401 - Community Commercial,3,NA
+401 - Community Commercial,4,NA
+401 - Community Commercial,5,NA
+401 - Community Commercial,6,NA
+401 - Community Commercial,7,NA
+401 - Community Commercial,8,NA
+401 - Community Commercial,9,NA
+401 - Community Commercial,10,NA
+401 - Community Commercial,11,NA
+401 - Community Commercial,12,NA
+401 - Community Commercial,13,NA
+401 - Community Commercial,14,NA
+401 - Downtown Commercial,15,NA
+401 - Downtown Commercial,16,NA
+401 - Downtown Commercial,17,NA
+401 - Downtown Commercial,18,NA
+401 - Downtown Commercial,19,NA
+401 - Downtown Commercial,20,NA
+401 - Downtown Commercial,21,NA
+401 - Downtown Commercial,22,NA
+401 - Downtown Commercial,23,NA
+401 - Downtown Commercial,24,NA
+401 - Downtown Commercial,25,NA
+401 - Downtown Commercial,26,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),27,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),28,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),29,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),30,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),31,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),32,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),33,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),34,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),35,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),36,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),37,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),38,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),39,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),40,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),41,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),42,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),43,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),44,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),45,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),46,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),47,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),48,2
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),49,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),50,NA
+401 - High Density Residential/Office (10 - 20 dwelling units per acre),51,NA
+401 - Light Industrial,52,NA
+401 - Light Industrial,53,NA
+401 - Light Industrial,54,NA
+401 - Low Density Residential (1 - 4 dwelling units per acre),55,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),56,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),57,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),58,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),59,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),60,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),61,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),62,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),63,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),64,1
+401 - Low Density Residential (1 - 4 dwelling units per acre),65,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),66,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),67,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),68,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),69,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),70,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),71,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),72,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),73,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),74,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),75,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),76,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),77,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),78,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),79,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),80,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),81,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),82,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),83,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),84,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),85,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),86,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),87,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),88,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),89,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),90,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),91,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),92,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),93,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),94,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),95,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),96,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),97,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),98,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),99,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),100,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),101,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),102,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),103,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),104,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),105,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),106,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),107,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),108,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),109,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),110,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),111,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),112,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),113,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),114,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),115,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),116,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),117,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),118,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),119,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),120,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),121,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),122,1
+401 - Medium Density Residential (4 - 10 dwelling units per acre),123,1
+401 - Public/Quasi-Public,124,NA
+401 - Public/Quasi-Public,125,NA
+401 - Public/Quasi-Public,126,NA
+401 - Public/Quasi-Public,127,NA
+401 - Public/Quasi-Public,128,NA
+401 - Public/Quasi-Public,129,NA
+401 - Public/Quasi-Public,130,NA
+401 - Public/Quasi-Public,131,NA
+401 - Public/Quasi-Public,132,NA
+401 - Public/Quasi-Public,133,NA
+401 - Public/Quasi-Public,134,NA
+401 - Rural Residential,135,1
+401 - Rural Residential,136,1
+401 - Rural Residential,137,1
+401 - Rural Residential,138,1
+401 - Rural Residential,139,1
+401 - Rural Residential,140,1
+401 - Rural Residential,141,1
+401 - Rural Residential,142,1
+401 - Rural Residential,143,1
+401 - Rural Residential - Hillside,144,1
+401 - Rural Residential - Hillside,145,1

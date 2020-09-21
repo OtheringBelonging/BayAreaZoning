@@ -1,0 +1,662 @@
+gnrl_p_,id,zoning
+801 - Commercial - Business and Professional,0,0
+801 - Commercial - Business and Professional,1,0
+801 - Commercial - Business and Professional,2,0
+801 - Commercial - Business and Professional,3,0
+801 - Commercial - Business and Professional,4,0
+801 - Commercial - Business and Professional,5,0
+801 - Commercial - Business and Professional,6,0
+801 - Commercial - Business and Professional,7,0
+801 - Commercial - Community,8,0
+801 - Commercial - Community,9,0
+801 - Commercial - Community,10,0
+801 - Commercial - Community,11,0
+801 - Commercial - Community,12,0
+801 - Commercial - Community,13,0
+801 - Commercial - Downtown,14,0
+801 - Commercial - Downtown,15,0
+801 - Commercial - Downtown,16,0
+801 - Commercial - Downtown,17,0
+801 - Commercial - Downtown,18,0
+801 - Commercial - Downtown,19,0
+801 - Commercial - Downtown,20,0
+801 - Commercial - Downtown,21,0
+801 - Commercial - Downtown,22,0
+801 - Commercial - Downtown,23,0
+801 - Commercial - Downtown,24,0
+801 - Commercial - Downtown,25,0
+801 - Commercial - Downtown,26,0
+801 - Commercial - Downtown,27,0
+801 - Commercial - Downtown,28,0
+801 - Commercial - Downtown,29,0
+801 - Commercial - Downtown,30,0
+801 - Commercial - Downtown,31,0
+801 - Commercial - Downtown,32,0
+801 - Commercial - Downtown,33,0
+801 - Commercial - Downtown,34,0
+801 - Commercial - Downtown,35,0
+801 - Commercial - Downtown,36,0
+801 - Commercial - Downtown,37,0
+801 - Commercial - Downtown,38,0
+801 - Commercial - Downtown,39,0
+801 - Commercial - Downtown,40,0
+801 - Commercial - Downtown,41,0
+801 - Commercial - Downtown,42,0
+801 - Commercial - Downtown,43,0
+801 - Commercial - Downtown,44,0
+801 - Commercial - General,45,0
+801 - Commercial - General,46,0
+801 - Commercial - General,47,0
+801 - Commercial - General,48,0
+801 - Commercial - General,49,0
+801 - Commercial - General,50,0
+801 - Commercial - General,51,0
+801 - Commercial - General,52,0
+801 - Commercial - General,53,0
+801 - Commercial - General,54,0
+801 - Commercial - General,55,0
+801 - Commercial - General,56,0
+801 - Commercial - General,57,0
+801 - Commercial - General,58,0
+801 - Commercial - General,59,0
+801 - Commercial - General,60,0
+801 - Commercial - General,61,0
+801 - Commercial - General,62,0
+801 - Commercial - General,63,0
+801 - Commercial - General,64,0
+801 - Commercial - General,65,0
+801 - Commercial - General,66,0
+801 - Commercial - General,67,0
+801 - Commercial - General,68,0
+801 - Commercial - General,69,0
+801 - Commercial - General,70,0
+801 - Commercial - General,71,0
+801 - Commercial - Waterfront,72,0
+801 - Industrial - General,73,0
+801 - Industrial - General,74,0
+801 - Industrial - General,75,0
+801 - Industrial - General,76,0
+801 - Industrial - General,77,0
+801 - Industrial - General,78,0
+801 - Industrial - General,79,0
+801 - Industrial - General,80,0
+801 - Industrial - General,81,0
+801 - Industrial - General,82,0
+801 - Industrial - General,83,0
+801 - Industrial - General,84,0
+801 - Industrial - General,85,0
+801 - Industrial - General,86,0
+801 - Industrial - General,87,0
+801 - Industrial - General,88,0
+801 - Industrial - General,89,0
+801 - Industrial - General,90,0
+801 - Industrial - General,91,0
+801 - Industrial - General,92,0
+801 - Industrial - Limited,93,0
+801 - Industrial - Limited,94,0
+801 - Industrial - Limited,95,0
+801 - Industrial - Limited,96,0
+801 - Industrial - Limited,97,0
+801 - Industrial - Limited,98,0
+801 - Industrial - Limited,99,0
+801 - Industrial - Limited,100,0
+801 - Industrial - Limited,101,0
+801 - Industrial - Limited,102,0
+801 - Industrial - Limited,103,0
+801 - Industrial - Limited,104,0
+801 - Industrial - Limited,105,0
+801 - Industrial - Limited,106,0
+801 - Industrial - Limited,107,0
+801 - Industrial - Limited,108,0
+801 - Industrial - Waterfront,109,0
+801 - Industrial - Waterfront,110,0
+801 - Industrial - Waterfront,111,0
+801 - Industrial - Waterfront,112,0
+801 - Industrial - Waterfront,113,0
+801 - Mixed Use - Downtown,114,2
+801 - Mixed Use - Downtown,115,2
+801 - Mixed Use - Downtown,116,2
+801 - Mixed Use - Downtown,117,2
+801 - Mixed Use - Downtown,118,2
+801 - Mixed Use - Downtown,119,2
+801 - Mixed Use - Downtown,120,2
+801 - Mixed Use - Downtown,121,2
+801 - Mixed Use - Downtown,122,2
+801 - Mixed Use - Downtown,123,2
+801 - Mixed Use - Downtown,124,2
+801 - Mixed Use - Downtown,125,2
+801 - Mixed Use - Downtown,126,2
+801 - Mixed Use - Downtown,127,2
+801 - Mixed Use - Downtown,128,2
+801 - Mixed Use - Downtown,129,2
+801 - Mixed Use - Downtown,130,2
+801 - Mixed Use - Downtown,131,2
+801 - Mixed Use - Downtown,132,2
+801 - Mixed Use - Downtown,133,2
+801 - Mixed Use - Downtown,134,2
+801 - Mixed Use - Downtown,135,2
+801 - Mixed Use - Downtown,136,2
+801 - Mixed Use - Downtown,137,2
+801 - Mixed Use - Downtown,138,2
+801 - Mixed Use - Downtown,139,2
+801 - Mixed Use - Downtown,140,2
+801 - Mixed Use - Downtown,141,2
+801 - Mixed Use - Downtown,142,2
+801 - Mixed Use - Lower Arsenal,143,0
+801 - Mixed Use - Lower Arsenal,144,0
+801 - Mixed Use - Lower Arsenal,145,0
+801 - Mixed Use - Lower Arsenal,146,0
+801 - Mixed Use - Lower Arsenal,147,0
+801 - Mixed Use - Lower Arsenal,148,0
+801 - Mixed Use - Lower Arsenal,149,0
+801 - Mixed Use - Lower Arsenal,150,0
+801 - Mixed Use - Lower Arsenal,151,0
+801 - Open Space - General,152,0
+801 - Open Space - General,153,0
+801 - Open Space - General,154,0
+801 - Open Space - General,155,0
+801 - Open Space - General,156,0
+801 - Open Space - General,157,0
+801 - Open Space - General,158,0
+801 - Open Space - General,159,0
+801 - Open Space - General,160,0
+801 - Open Space - General,161,0
+801 - Open Space - General,162,0
+801 - Open Space - General,163,0
+801 - Open Space - General,164,0
+801 - Open Space - General,165,0
+801 - Open Space - General,166,0
+801 - Open Space - General,167,0
+801 - Open Space - General,168,0
+801 - Open Space - General,169,0
+801 - Open Space - General,170,0
+801 - Open Space - General,171,0
+801 - Open Space - General,172,0
+801 - Open Space - General,173,0
+801 - Open Space - General,174,0
+801 - Open Space - General,175,0
+801 - Open Space - General,176,0
+801 - Open Space - General,177,0
+801 - Open Space - General,178,0
+801 - Open Space - General,179,0
+801 - Open Space - General,180,0
+801 - Open Space - General,181,0
+801 - Open Space - General,182,0
+801 - Open Space - General,183,0
+801 - Open Space - General,184,0
+801 - Open Space - General,185,0
+801 - Open Space - General,186,0
+801 - Open Space - General,187,0
+801 - Open Space - General,188,0
+801 - Open Space - General,189,0
+801 - Open Space - General,190,0
+801 - Open Space - General,191,0
+801 - Open Space - General,192,0
+801 - Open Space - General,193,0
+801 - Open Space - General,194,0
+801 - Open Space - Marsh,195,0
+801 - Open Space - Marsh,196,0
+801 - Open Space - Marsh,197,0
+801 - Open Space - Marsh,198,0
+801 - Open Space - Parks,199,0
+801 - Open Space - Parks,200,0
+801 - Open Space - Parks,201,0
+801 - Open Space - Parks,202,0
+801 - Open Space - Parks,203,0
+801 - Open Space - Parks,204,0
+801 - Open Space - Parks,205,0
+801 - Open Space - Parks,206,0
+801 - Open Space - Parks,207,0
+801 - Open Space - Parks,208,0
+801 - Open Space - Parks,209,0
+801 - Open Space - Parks,210,0
+801 - Open Space - Parks,211,0
+801 - Open Space - Parks,212,0
+801 - Open Space - Parks,213,0
+801 - Open Space - Parks,214,0
+801 - Open Space - Parks,215,0
+801 - Open Space - Parks,216,0
+801 - Open Space - Parks,217,0
+801 - Open Space - Parks,218,0
+801 - Open Space - Parks,219,0
+801 - Open Space - Parks,220,0
+801 - Open Space - Parks,221,0
+801 - Open Space - Parks,222,0
+801 - Open Space - Parks,223,0
+801 - Open Space - Parks,224,0
+801 - Open Space - Parks,225,0
+801 - Open Space - Parks,226,0
+801 - Open Space - Parks,227,0
+801 - Open Space - Parks,228,0
+801 - Open Space - Parks,229,0
+801 - Open Space - Parks,230,0
+801 - Open Space - Water,231,0
+801 - Public and Quasi-Public,232,0
+801 - Public and Quasi-Public,233,0
+801 - Public and Quasi-Public,234,0
+801 - Public and Quasi-Public,235,0
+801 - Public and Quasi-Public,236,0
+801 - Public and Quasi-Public,237,0
+801 - Public and Quasi-Public,238,0
+801 - Public and Quasi-Public,239,0
+801 - Public and Quasi-Public,240,0
+801 - Public and Quasi-Public,241,0
+801 - Public and Quasi-Public,242,0
+801 - Public and Quasi-Public,243,0
+801 - Public and Quasi-Public,244,0
+801 - Public and Quasi-Public,245,0
+801 - Public and Quasi-Public,246,0
+801 - Public and Quasi-Public,247,0
+801 - Public and Quasi-Public,248,0
+801 - Public and Quasi-Public,249,0
+801 - Public and Quasi-Public,250,0
+801 - Public and Quasi-Public,251,0
+801 - Public and Quasi-Public,252,0
+801 - Public and Quasi-Public,253,0
+801 - Public and Quasi-Public,254,0
+801 - Public and Quasi-Public,255,0
+801 - Public and Quasi-Public,256,0
+801 - Public and Quasi-Public,257,0
+801 - Public and Quasi-Public,258,0
+801 - Public and Quasi-Public,259,0
+801 - Public and Quasi-Public,260,0
+801 - Public and Quasi-Public,261,0
+801 - Residential - High Density,262,2
+801 - Residential - High Density,263,2
+801 - Residential - High Density,264,2
+801 - Residential - High Density,265,2
+801 - Residential - High Density,266,2
+801 - Residential - High Density,267,2
+801 - Residential - High Density,268,2
+801 - Residential - High Density,269,2
+801 - Residential - High Density,270,2
+801 - Residential - High Density,271,2
+801 - Residential - High Density,272,2
+801 - Residential - High Density,273,2
+801 - Residential - High Density,274,2
+801 - Residential - High Density,275,2
+801 - Residential - High Density,276,2
+801 - Residential - High Density,277,2
+801 - Residential - High Density,278,2
+801 - Residential - High Density,279,2
+801 - Residential - High Density,280,2
+801 - Residential - High Density,281,2
+801 - Residential - High Density,282,2
+801 - Residential - High Density,283,2
+801 - Residential - High Density,284,2
+801 - Residential - High Density,285,2
+801 - Residential - High Density,286,2
+801 - Residential - High Density,287,2
+801 - Residential - High Density,288,2
+801 - Residential - High Density,289,2
+801 - Residential - High Density,290,2
+801 - Residential - High Density,291,2
+801 - Residential - High Density,292,2
+801 - Residential - High Density,293,2
+801 - Residential - High Density,294,2
+801 - Residential - High Density,295,2
+801 - Residential - High Density,296,2
+801 - Residential - High Density,297,2
+801 - Residential - High Density,298,2
+801 - Residential - High Density,299,2
+801 - Residential - High Density,300,2
+801 - Residential - High Density,301,2
+801 - Residential - High Density,302,2
+801 - Residential - High Density,303,2
+801 - Residential - High Density,304,2
+801 - Residential - High Density,305,2
+801 - Residential - High Density,306,2
+801 - Residential - High Density,307,2
+801 - Residential - High Density,308,2
+801 - Residential - High Density,309,2
+801 - Residential - High Density,310,2
+801 - Residential - High Density,311,2
+801 - Residential - Low Density,312,2
+801 - Residential - Low Density,313,2
+801 - Residential - Low Density,314,2
+801 - Residential - Low Density,315,2
+801 - Residential - Low Density,316,2
+801 - Residential - Low Density,317,2
+801 - Residential - Low Density,318,2
+801 - Residential - Low Density,319,2
+801 - Residential - Low Density,320,2
+801 - Residential - Low Density,321,2
+801 - Residential - Low Density,322,2
+801 - Residential - Low Density,323,2
+801 - Residential - Low Density,324,2
+801 - Residential - Low Density,325,2
+801 - Residential - Low Density,326,2
+801 - Residential - Low Density,327,2
+801 - Residential - Low Density,328,2
+801 - Residential - Low Density,329,2
+801 - Residential - Low Density,330,2
+801 - Residential - Low Density,331,2
+801 - Residential - Low Density,332,2
+801 - Residential - Low Density,333,2
+801 - Residential - Low Density,334,2
+801 - Residential - Low Density,335,2
+801 - Residential - Low Density,336,2
+801 - Residential - Low Density,337,2
+801 - Residential - Low Density,338,2
+801 - Residential - Low Density,339,2
+801 - Residential - Low Density,340,2
+801 - Residential - Low Density,341,2
+801 - Residential - Low Density,342,2
+801 - Residential - Low Density,343,2
+801 - Residential - Low Density,344,2
+801 - Residential - Low Density,345,2
+801 - Residential - Low Density,346,2
+801 - Residential - Low Density,347,2
+801 - Residential - Low Density,348,2
+801 - Residential - Low Density,349,2
+801 - Residential - Low Density,350,2
+801 - Residential - Low Density,351,2
+801 - Residential - Low Density,352,2
+801 - Residential - Low Density,353,2
+801 - Residential - Low Density,354,2
+801 - Residential - Low Density,355,2
+801 - Residential - Low Density,356,2
+801 - Residential - Low Density,357,2
+801 - Residential - Low Density,358,2
+801 - Residential - Low Density,359,2
+801 - Residential - Low Density,360,2
+801 - Residential - Low Density,361,2
+801 - Residential - Low Density,362,2
+801 - Residential - Low Density,363,2
+801 - Residential - Low Density,364,2
+801 - Residential - Low Density,365,2
+801 - Residential - Low Density,366,2
+801 - Residential - Low Density,367,2
+801 - Residential - Low Density,368,2
+801 - Residential - Low Density,369,2
+801 - Residential - Low Density,370,2
+801 - Residential - Low Density,371,2
+801 - Residential - Low Density,372,2
+801 - Residential - Low Density,373,2
+801 - Residential - Low Density,374,2
+801 - Residential - Low Density,375,2
+801 - Residential - Low Density,376,2
+801 - Residential - Low Density,377,2
+801 - Residential - Low Density,378,2
+801 - Residential - Low Density,379,2
+801 - Residential - Low Density,380,2
+801 - Residential - Low Density,381,2
+801 - Residential - Low Density,382,2
+801 - Residential - Low Density,383,2
+801 - Residential - Low Density,384,2
+801 - Residential - Low Density,385,2
+801 - Residential - Low Density,386,2
+801 - Residential - Low Density,387,2
+801 - Residential - Low Density,388,2
+801 - Residential - Low Density,389,2
+801 - Residential - Low Density,390,2
+801 - Residential - Low Density,391,2
+801 - Residential - Low Density,392,2
+801 - Residential - Low Density,393,2
+801 - Residential - Low Density,394,2
+801 - Residential - Low Density,395,2
+801 - Residential - Low Density,396,2
+801 - Residential - Low Density,397,2
+801 - Residential - Low Density,398,2
+801 - Residential - Low Density,399,2
+801 - Residential - Low Density,400,2
+801 - Residential - Low Density,401,2
+801 - Residential - Low Density,402,2
+801 - Residential - Low Density,403,2
+801 - Residential - Low Density,404,2
+801 - Residential - Low Density,405,2
+801 - Residential - Low Density,406,2
+801 - Residential - Low Density,407,2
+801 - Residential - Low Density,408,2
+801 - Residential - Low Density,409,2
+801 - Residential - Low Density,410,2
+801 - Residential - Low Density,411,2
+801 - Residential - Low Density,412,2
+801 - Residential - Low Density,413,2
+801 - Residential - Low Density,414,2
+801 - Residential - Low Density,415,2
+801 - Residential - Low Density,416,2
+801 - Residential - Low Density,417,2
+801 - Residential - Low Density,418,2
+801 - Residential - Low Density,419,2
+801 - Residential - Low Density,420,2
+801 - Residential - Low Density,421,2
+801 - Residential - Low Density,422,2
+801 - Residential - Low Density,423,2
+801 - Residential - Low Density,424,2
+801 - Residential - Low Density,425,2
+801 - Residential - Low Density,426,2
+801 - Residential - Low Density,427,2
+801 - Residential - Low Density,428,2
+801 - Residential - Low Density,429,2
+801 - Residential - Low Density,430,2
+801 - Residential - Low Density,431,2
+801 - Residential - Low Density,432,2
+801 - Residential - Low Density,433,2
+801 - Residential - Low Density,434,2
+801 - Residential - Low Density,435,2
+801 - Residential - Low Density,436,2
+801 - Residential - Low Density,437,2
+801 - Residential - Low Density,438,2
+801 - Residential - Low Density,439,2
+801 - Residential - Low Density,440,2
+801 - Residential - Low Density,441,2
+801 - Residential - Low Density,442,2
+801 - Residential - Low Density,443,2
+801 - Residential - Low Density,444,2
+801 - Residential - Low Density,445,2
+801 - Residential - Low Density,446,2
+801 - Residential - Low Density,447,2
+801 - Residential - Low Density,448,2
+801 - Residential - Low Density,449,2
+801 - Residential - Low Density,450,2
+801 - Residential - Low Density,451,2
+801 - Residential - Low Density,452,2
+801 - Residential - Low Density,453,2
+801 - Residential - Low Density,454,2
+801 - Residential - Low Density,455,2
+801 - Residential - Low Density,456,2
+801 - Residential - Low Density,457,2
+801 - Residential - Low Density,458,2
+801 - Residential - Low Density,459,2
+801 - Residential - Low Density,460,2
+801 - Residential - Low Density,461,2
+801 - Residential - Low Density,462,2
+801 - Residential - Low Density,463,2
+801 - Residential - Low Density,464,2
+801 - Residential - Low Density,465,2
+801 - Residential - Low Density,466,2
+801 - Residential - Low Density,467,2
+801 - Residential - Low Density,468,2
+801 - Residential - Low Density,469,2
+801 - Residential - Low Density,470,2
+801 - Residential - Low Density,471,2
+801 - Residential - Low Density,472,2
+801 - Residential - Low Density,473,2
+801 - Residential - Low Density,474,2
+801 - Residential - Low Density,475,2
+801 - Residential - Low Density,476,2
+801 - Residential - Low Density,477,2
+801 - Residential - Low Density,478,2
+801 - Residential - Low Density,479,2
+801 - Residential - Low Density,480,2
+801 - Residential - Low Density,481,2
+801 - Residential - Low Density,482,2
+801 - Residential - Low Density,483,2
+801 - Residential - Low Density,484,2
+801 - Residential - Low Density,485,2
+801 - Residential - Low Density,486,2
+801 - Residential - Low Density,487,2
+801 - Residential - Low Density,488,2
+801 - Residential - Low Density,489,2
+801 - Residential - Low Density,490,2
+801 - Residential - Low Density,491,2
+801 - Residential - Low Density,492,2
+801 - Residential - Low Density,493,2
+801 - Residential - Low Density,494,2
+801 - Residential - Low Density,495,2
+801 - Residential - Low Density,496,2
+801 - Residential - Low Density,497,2
+801 - Residential - Low Density,498,2
+801 - Residential - Low Density,499,2
+801 - Residential - Low Density,500,2
+801 - Residential - Low Density,501,2
+801 - Residential - Low Density,502,2
+801 - Residential - Low Density,503,2
+801 - Residential - Low Density,504,2
+801 - Residential - Low Density,505,2
+801 - Residential - Low Density,506,2
+801 - Residential - Low Density,507,2
+801 - Residential - Low Density,508,2
+801 - Residential - Low Density,509,2
+801 - Residential - Low Density,510,2
+801 - Residential - Low Density,511,2
+801 - Residential - Low Density,512,2
+801 - Residential - Low Density,513,2
+801 - Residential - Low Density,514,2
+801 - Residential - Low Density,515,2
+801 - Residential - Low Density,516,2
+801 - Residential - Low Density,517,2
+801 - Residential - Low Density,518,2
+801 - Residential - Low Density,519,2
+801 - Residential - Low Density,520,2
+801 - Residential - Low Density,521,2
+801 - Residential - Low Density,522,2
+801 - Residential - Low Density,523,2
+801 - Residential - Low Density,524,2
+801 - Residential - Low Density,525,2
+801 - Residential - Low Density,526,2
+801 - Residential - Low Density,527,2
+801 - Residential - Low Density,528,2
+801 - Residential - Low Density,529,2
+801 - Residential - Low Density,530,2
+801 - Residential - Low Density,531,2
+801 - Residential - Low Density,532,2
+801 - Residential - Low Density,533,2
+801 - Residential - Low Density,534,2
+801 - Residential - Low Density,535,2
+801 - Residential - Low Density,536,2
+801 - Residential - Low Density,537,2
+801 - Residential - Low Density,538,2
+801 - Residential - Low Density,539,2
+801 - Residential - Low Density,540,2
+801 - Residential - Low Density,541,2
+801 - Residential - Low Density,542,2
+801 - Residential - Low Density,543,2
+801 - Residential - Low Density,544,2
+801 - Residential - Low Density,545,2
+801 - Residential - Low Density,546,2
+801 - Residential - Low Density,547,2
+801 - Residential - Low Density,548,2
+801 - Residential - Low Density,549,2
+801 - Residential - Low Density,550,2
+801 - Residential - Low Density,551,2
+801 - Residential - Low Density,552,2
+801 - Residential - Low Density,553,2
+801 - Residential - Low Density,554,2
+801 - Residential - Low Density,555,2
+801 - Residential - Low Density,556,2
+801 - Residential - Low Density,557,2
+801 - Residential - Low Density,558,2
+801 - Residential - Low Density,559,2
+801 - Residential - Low Density,560,2
+801 - Residential - Low Density,561,2
+801 - Residential - Low Density,562,2
+801 - Residential - Low Density,563,2
+801 - Residential - Low Density,564,2
+801 - Residential - Low Density,565,2
+801 - Residential - Low Density,566,2
+801 - Residential - Low Density,567,2
+801 - Residential - Low Density,568,2
+801 - Residential - Low Density,569,2
+801 - Residential - Low Density,570,2
+801 - Residential - Low Density,571,2
+801 - Residential - Low Density,572,2
+801 - Residential - Low Density,573,2
+801 - Residential - Low Density,574,2
+801 - Residential - Low Density,575,2
+801 - Residential - Low Density,576,2
+801 - Residential - Low Density,577,2
+801 - Residential - Low Density,578,2
+801 - Residential - Low Density,579,2
+801 - Residential - Low Density,580,2
+801 - Residential - Low Density,581,2
+801 - Residential - Low Density,582,2
+801 - Residential - Low Density,583,2
+801 - Residential - Low Density,584,2
+801 - Residential - Low Density,585,2
+801 - Residential - Low Density,586,2
+801 - Residential - Low Density,587,2
+801 - Residential - Low Density,588,2
+801 - Residential - Low Density,589,2
+801 - Residential - Low Density,590,2
+801 - Residential - Low Density,591,2
+801 - Residential - Low Density,592,2
+801 - Residential - Low Density,593,2
+801 - Residential - Low Density,594,2
+801 - Residential - Low Density,595,2
+801 - Residential - Low Density,596,2
+801 - Residential - Low Density,597,2
+801 - Residential - Low Density,598,2
+801 - Residential - Low Density,599,2
+801 - Residential - Low Density,600,2
+801 - Residential - Low Density,601,2
+801 - Residential - Low Density,602,2
+801 - Residential - Low Density,603,2
+801 - Residential - Low Density,604,2
+801 - Residential - Low Density,605,2
+801 - Residential - Low Density,606,2
+801 - Residential - Low Density,607,2
+801 - Residential - Low Density,608,2
+801 - Residential - Low Density,609,2
+801 - Residential - Low Density,610,2
+801 - Residential - Low Density,611,2
+801 - Residential - Low Density,612,2
+801 - Residential - Low Density,613,2
+801 - Residential - Low Density,614,2
+801 - Residential - Low Density,615,2
+801 - Residential - Low Density,616,2
+801 - Residential - Low Density,617,2
+801 - Residential - Low Density,618,2
+801 - Residential - Low Density,619,2
+801 - Residential - Low Density,620,2
+801 - Residential - Medium Density,621,1
+801 - Residential - Medium Density,622,1
+801 - Residential - Medium Density,623,1
+801 - Residential - Medium Density,624,1
+801 - Residential - Medium Density,625,1
+801 - Residential - Medium Density,626,1
+801 - Residential - Medium Density,627,1
+801 - Residential - Medium Density,628,1
+801 - Residential - Medium Density,629,1
+801 - Residential - Medium Density,630,1
+801 - Residential - Medium Density,631,1
+801 - Residential - Medium Density,632,1
+801 - Residential - Medium Density,633,1
+801 - Residential - Medium Density,634,1
+801 - Residential - Medium Density,635,1
+801 - Residential - Medium Density,636,1
+801 - Residential - Medium Density,637,1
+801 - Residential - Medium Density,638,1
+801 - Residential - Medium Density,639,1
+801 - Residential - Medium Density,640,1
+801 - Residential - Medium Density,641,1
+801 - Residential - Medium Density,642,1
+801 - Residential - Medium Density,643,1
+801 - Residential - Medium Density,644,1
+801 - Residential - Medium Density,645,1
+801 - Residential - Medium Density,646,1
+801 - Residential - Medium Density,647,1
+801 - Residential - Medium Density,648,1
+801 - Residential - Medium Density,649,1
+801 - Residential - Medium Density,650,1
+801 - Residential - Medium Density,651,1
+801 - Residential - Medium Density,652,1
+801 - Residential - Medium Density,653,1
+801 - Residential - Medium Density,654,1
+801 - Residential - Medium Density,655,1
+801 - Residential - Medium Density,656,1
+801 - Residential - Medium Density,657,1
+801 - Residential - Medium Density,658,1
+801 - Residential - Medium Density,659,1
+801 - Residential - Medium Density,660,1

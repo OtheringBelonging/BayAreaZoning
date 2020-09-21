@@ -1,0 +1,300 @@
+gnrl_p_,id,zoning
+908 - Agriculture,0,0
+908 - Agriculture,1,0
+908 - Commercial,2,0
+908 - Commercial,3,0
+908 - Commercial,4,0
+908 - Commercial,5,0
+908 - Commercial,6,0
+908 - Commercial,7,0
+908 - Commercial,8,0
+908 - Commercial,9,0
+908 - Commercial,10,0
+908 - Commercial,11,0
+908 - Commercial,12,0
+908 - Commercial,13,0
+908 - Commercial,14,0
+908 - Commercial,15,0
+908 - Commercial,16,0
+908 - Commercial,17,0
+908 - Commercial,18,0
+908 - Commercial,19,0
+908 - Commercial,20,0
+908 - Commercial,21,0
+908 - Commercial,22,0
+908 - Commercial,23,0
+908 - Commercial,24,0
+908 - Commercial,25,0
+908 - Commercial,26,0
+908 - Commercial,27,0
+908 - Commercial,28,0
+908 - Commercial,29,0
+908 - Gateway Commercial,30,0
+908 - Gateway Commercial,31,0
+908 - Gateway Commercial,32,0
+908 - Gateway Commercial,33,0
+908 - Gateway Commercial,34,0
+908 - Gateway Commercial,35,0
+908 - Gateway Commercial,36,0
+908 - High Density Residential,37,2
+908 - High Density Residential,38,2
+908 - Hillside,39,0
+908 - Housing Opportunity,40,2
+908 - Housing Opportunity_NonRes,41,0
+908 - Housing Opportunity,42,2
+908 - Low Density Residential,43,1
+908 - Low Density Residential,44,1
+908 - Low Density Residential,45,1
+908 - Low Density Residential,46,1
+908 - Low Density Residential,47,1
+908 - Low Density Residential,48,1
+908 - Low Density Residential,49,1
+908 - Low Density Residential,50,1
+908 - Low Density Residential,51,1
+908 - Low Density Residential,52,1
+908 - Low Density Residential,53,1
+908 - Low Density Residential,54,1
+908 - Low Density Residential,55,1
+908 - Low Density Residential,56,1
+908 - Low Density Residential,57,1
+908 - Low Density Residential,58,1
+908 - Low Density Residential,59,1
+908 - Low Density Residential,60,1
+908 - Low Density Residential,61,1
+908 - Low Density Residential,62,1
+908 - Low Density Residential,63,1
+908 - Low Density Residential,64,1
+908 - Low Density Residential,65,1
+908 - Low Density Residential,66,1
+908 - Low Density Residential,67,1
+908 - Low Density Residential,68,1
+908 - Low Density Residential,69,1
+908 - Low Density Residential,70,1
+908 - Low Density Residential,71,1
+908 - Low Density Residential,72,1
+908 - Low Density Residential,73,1
+908 - Low Density Residential,74,1
+908 - Low Density Residential,75,1
+908 - Low Density Residential,76,1
+908 - Low Density Residential,77,1
+908 - Low Density Residential,78,1
+908 - Low Density Residential,79,1
+908 - Low Density Residential,80,1
+908 - Low Density Residential,81,1
+908 - Low Density Residential,82,1
+908 - Low Density Residential,83,1
+908 - Low Density Residential,84,1
+908 - Low Density Residential,85,1
+908 - Low Density Residential,86,1
+908 - Low Density Residential,87,1
+908 - Low Density Residential,88,1
+908 - Low Density Residential,89,1
+908 - Low Density Residential,90,1
+908 - Low Density Residential,91,1
+908 - Low Density Residential,92,1
+908 - Low Density Residential,93,1
+908 - Low Density Residential,94,1
+908 - Low Density Residential,95,1
+908 - Low Density Residential,96,1
+908 - Low Density Residential,97,1
+908 - Low Density Residential,98,1
+908 - Low Density Residential,99,1
+908 - Low Density Residential,100,1
+908 - Low Density Residential,101,1
+908 - Low Density Residential,102,1
+908 - Low Density Residential,103,1
+908 - Low Density Residential,104,1
+908 - Low Density Residential,105,1
+908 - Low Density Residential,106,1
+908 - Low Density Residential,107,1
+908 - Low Density Residential,108,1
+908 - Low Density Residential,109,1
+908 - Low Density Residential,110,1
+908 - Low Density Residential,111,1
+908 - Low Density Residential,112,1
+908 - Low Density Residential,113,1
+908 - Low Density Residential,114,1
+908 - Low Density Residential,115,1
+908 - Low Density Residential,116,1
+908 - Low Density Residential,117,1
+908 - Low Density Residential,118,1
+908 - Low Density Residential,119,1
+908 - Low Density Residential,120,1
+908 - Low Density Residential,121,1
+908 - Low Density Residential,122,1
+908 - Low Density Residential,123,1
+908 - Low Density Residential,124,1
+908 - Low Density Residential,125,1
+908 - Low Density Residential,126,1
+908 - Low Density Residential,127,1
+908 - Low Density Residential,128,1
+908 - Low Density Residential,129,1
+908 - Low Density Residential,130,1
+908 - Low Density Residential,131,1
+908 - Low Density Residential,132,1
+908 - Low Density Residential,133,1
+908 - Low Density Residential,134,1
+908 - Low Density Residential,135,1
+908 - Low Density Residential,136,1
+908 - Low Density Residential,137,1
+908 - Low Density Residential,138,1
+908 - Low Density Residential,139,1
+908 - Low Density Residential,140,1
+908 - Low Density Residential,141,1
+908 - Low Density Residential,142,1
+908 - Low Density Residential,143,1
+908 - Low Density Residential,144,1
+908 - Low Density Residential,145,1
+908 - Low Density Residential,146,1
+908 - Low Density Residential,147,1
+908 - Low Density Residential,148,1
+908 - Low Density Residential,149,1
+908 - Low Density Residential,150,1
+908 - Medium Density Residential,151,2
+908 - Medium Density Residential,152,2
+908 - Medium Density Residential,153,2
+908 - Medium Density Residential,154,2
+908 - Medium Density Residential,155,2
+908 - Medium Density Residential,156,2
+908 - Medium Density Residential,157,2
+908 - Medium Density Residential,158,2
+908 - Medium Density Residential,159,2
+908 - Medium Density Residential,160,2
+908 - Medium Density Residential,161,2
+908 - Medium Density Residential,162,2
+908 - Medium Density Residential,163,2
+908 - Medium Density Residential,164,2
+908 - Medium Density Residential,165,2
+908 - Medium Density Residential,166,2
+908 - Medium Density Residential,167,2
+908 - Medium Density Residential,168,2
+908 - Medium Density Residential,169,2
+908 - Medium Density Residential,170,2
+908 - Medium Density Residential,171,2
+908 - Medium Density Residential,172,2
+908 - Medium Density Residential,173,2
+908 - Medium Density Residential,174,2
+908 - Medium Density Residential_NonRes,175,0
+908 - Medium Density Residential,176,2
+908 - Medium Density Residential,177,2
+908 - Medium Density Residential,178,2
+908 - Medium Density Residential,179,2
+908 - Medium Density Residential,180,2
+908 - Medium Density Residential,181,2
+908 - Medium Density Residential,182,2
+908 - Medium Density Residential,183,2
+908 - Medium Density Residential,184,2
+908 - Medium Density Residential,185,2
+908 - Medium Density Residential,186,2
+908 - Medium Density Residential,187,2
+908 - Medium Density Residential,188,2
+908 - Medium Density Residential,189,2
+908 - Medium Density Residential,190,2
+908 - Medium Density Residential_NonRes,191,0
+908 - Medium Density Residential,192,2
+908 - Medium Density Residential,193,2
+908 - Medium Density Residential,194,2
+908 - Medium Density Residential,195,2
+908 - Medium Density Residential,196,2
+908 - Medium Density Residential,197,2
+908 - Medium Density Residential_NonRes,198,0
+908 - Medium Density Residential,199,2
+908 - Medium Density Residential,200,2
+908 - Medium Density Residential,201,2
+908 - Medium Density Residential,202,2
+908 - Medium Density Residential,203,2
+908 - Medium Density Residential,204,2
+908 - Medium Density Residential,205,2
+908 - Medium Density Residential,206,2
+908 - Medium Density Residential,207,2
+908 - Medium Density Residential_NonRes,208,0
+908 - Mixed Use_MF,209,2
+908 - Mixed Use_MF,210,2
+908 - Mixed Use,211,0
+908 - Mixed Use_MF,212,2
+908 - Mixed Use,213,0
+908 - Mixed Use,214,0
+908 - Mixed Use,215,0
+908 - Mixed Use,216,0
+908 - Mixed Use,217,0
+908 - Mixed Use,218,0
+908 - Mixed Use,219,0
+908 - Mixed Use,220,0
+908 - Mixed Use,221,0
+908 - Mixed Use_MF,222,2
+908 - Mixed Use,223,0
+908 - Mixed Use,224,0
+908 - Mixed Use,225,0
+908 - Mixed Use,226,0
+908 - Mixed Use,227,0
+908 - Mixed Use,228,0
+908 - Mixed Use,229,0
+908 - Mixed Use,230,0
+908 - Mixed Use,231,0
+908 - Mixed Use,232,0
+908 - Mixed Use,233,0
+908 - Mixed Use,234,0
+908 - Mobile Home Park,235,2
+908 - Mobile Home Park,236,2
+908 - Mobile Home Park,237,2
+908 - Park,238,0
+908 - Park,239,0
+908 - Park,240,0
+908 - Park,241,0
+908 - Park,242,0
+908 - Park,243,0
+908 - Park,244,0
+908 - Park,245,0
+908 - Park,246,0
+908 - Park,247,0
+908 - Park,248,0
+908 - Park,249,0
+908 - Park,250,0
+908 - Park,251,0
+908 - Park,252,0
+908 - Park,253,0
+908 - Park,254,0
+908 - Park,255,0
+908 - Public Facility,256,0
+908 - Public Facility,257,0
+908 - Public Facility,258,0
+908 - Public Facility,259,0
+908 - Public Facility,260,0
+908 - Public Facility,261,0
+908 - Public Facility,262,0
+908 - Public Facility,263,0
+908 - Public Facility,264,0
+908 - Public Facility,265,0
+908 - Rural Residential,266,1
+908 - Rural Residential,267,1
+908 - Rural Residential,268,1
+908 - Rural Residential,269,1
+908 - Rural Residential,270,1
+908 - Sonoma Residential,271,1
+908 - Sonoma Residential,272,1
+908 - Sonoma Residential,273,1
+908 - Wine Production,274,0
+908 - Wine Production,275,0
+908 - Medium Density Residential,980,2
+908 - Medium Density Residential,984,2
+908 - Medium Density Residential,979,2
+908 - Medium Density Residential_MF,980,2
+908 - Medium Density Residential_NonRes,981,0
+908 - Medium Density Residential,982,2
+908 - Medium Density Residential,983,2
+908 - Medium Density Residential_MF,984,2
+908 - Medium Density Residential,985,2
+908 - Medium Density Residential,986,2
+908 - Medium Density Residential,987,2
+908 - Medium Density Residential,988,2
+908 - Medium Density Residential,989,2
+908 - Mixed Use_MF,990,2
+908 - Mixed Use_MF,991,2
+908 - Mixed Use_MF,992,2
+908 - Mixed Use_MF,993,2
+908 - Mixed Use,994,0
+908 - Mixed Use,995,0
+908 - Sonoma Residential,996,1
+908 - High Density Residential,997,2
+908 - Sonoma Residential,998,1
+908 - Commercial,999,0

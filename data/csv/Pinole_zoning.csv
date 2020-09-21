@@ -1,0 +1,170 @@
+gnrl_p_,id,zoning
+210 - High Density Residential,0,2
+210 - High Density Residential,1,2
+210 - High Density Residential,2,2
+210 - High Density Residential,3,2
+210 - High Density Residential,4,2
+210 - High Density Residential,5,2
+210 - High Density Residential,6,2
+210 - Light Industrial/Service Commercial,7,0
+210 - Low Density Residential,8,1
+210 - Low Density Residential,9,1
+210 - Low Density Residential,10,1
+210 - Low Density Residential,11,1
+210 - Low Density Residential,12,1
+210 - Low Density Residential,13,1
+210 - Low Density Residential,14,1
+210 - Low Density Residential,15,1
+210 - Low Density Residential,16,1
+210 - Low Density Residential,17,1
+210 - Low Density Residential,18,1
+210 - Low Density Residential,19,1
+210 - Low Density Residential,20,1
+210 - Low Density Residential,21,1
+210 - Low Density Residential,22,1
+210 - Low Density Residential,23,1
+210 - Low Density Residential,24,1
+210 - Low Density Residential,25,1
+210 - Low Density Residential,26,1
+210 - Low Density Residential,27,1
+210 - Low Density Residential,28,1
+210 - Low Density Residential,29,1
+210 - Low Density Residential,30,1
+210 - Low Density Residential,31,1
+210 - Low Density Residential,32,1
+210 - Low Density Residential,33,1
+210 - Low Density Residential,34,1
+210 - Low Density Residential,35,1
+210 - Low Density Residential,36,1
+210 - Low Density Residential,37,1
+210 - Low Density Residential,38,1
+210 - Low Density Residential,39,1
+210 - Major Institution/Medical,40,0
+210 - Medium Density Residential,41,2
+210 - Medium Density Residential,42,2
+210 - Medium Density Residential,43,2
+210 - Medium Density Residential,44,2
+210 - Medium Density Residential,45,2
+210 - Medium Density Residential,46,2
+210 - Medium Density Residential,47,2
+210 - Medium Density Residential,48,2
+210 - Medium Density Residential,49,2
+210 - Medium Density Residential,50,2
+210 - Medium Density Residential,51,2
+210 - Medium Density Residential,52,2
+210 - Medium Density Residential,53,2
+210 - Medium Density Residential,54,2
+210 - Medium Density Residential,55,2
+210 - Medium Density Residential,56,2
+210 - Medium Density Residential,57,2
+210 - Medium Density Residential,58,2
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,59,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,60,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,61,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,62,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,63,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,64,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,65,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,66,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,67,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,68,1
+210 - Mixed Use - Neighborhood Commercial/High Density Residential,69,1
+210 - Mixed Use - Neighborhood Commercial/Low Density Residential,70,1
+210 - Mixed Use - Neighborhood Commercial/Medium Density Residential,71,0
+210 - Mixed Use - Neighborhood Commercial/Medium Density Residential,72,0
+210 - Mixed Use - Suburban/Rural Residential and Medium Density Residential,73,0
+210 - Neighborhood Commercial,74,0
+210 - Neighborhood Commercial,75,0
+210 - Neighborhood Commercial,76,0
+210 - Neighborhood Commercial,77,0
+210 - Neighborhood Commercial,78,0
+210 - Neighborhood Commercial,79,0
+210 - Neighborhood Commercial,80,0
+210 - Neighborhood Commercial,81,0
+210 - Neighborhood Commercial,82,0
+210 - Neighborhood Commercial,83,0
+210 - Neighborhood Commercial,84,0
+210 - Neighborhood Commercial,85,0
+210 - Neighborhood Commercial,86,0
+210 - Neighborhood Commercial,87,0
+210 - Neighborhood Commercial,88,0
+210 - Open Space,89,0
+210 - Open Space,90,0
+210 - Open Space,91,0
+210 - Open Space,92,0
+210 - Open Space,93,0
+210 - Open Space,94,0
+210 - Open Space,95,0
+210 - Open Space,96,0
+210 - Open Space,97,0
+210 - Open Space,98,0
+210 - Open Space,99,0
+210 - Open Space,100,0
+210 - Open Space,101,0
+210 - Open Space,102,0
+210 - Open Space,103,0
+210 - Open Space,104,0
+210 - Open Space,105,0
+210 - Open Space,106,0
+210 - Open Space,107,0
+210 - Open Space,108,0
+210 - Open Space,109,0
+210 - Open Space,110,0
+210 - Open Space,111,0
+210 - Open Space,112,0
+210 - Open Space,113,0
+210 - Parks and Recreation,114,0
+210 - Parks and Recreation,115,0
+210 - Parks and Recreation,116,0
+210 - Parks and Recreation,117,0
+210 - Parks and Recreation,118,0
+210 - Parks and Recreation,119,0
+210 - Parks and Recreation,120,0
+210 - Parks and Recreation,121,0
+210 - Parks and Recreation,122,0
+210 - Parks and Recreation,123,0
+210 - Parks and Recreation,124,0
+210 - Parks and Recreation,125,0
+210 - Public Facilities,126,0
+210 - Public Facilities,127,0
+210 - Public Facilities,128,0
+210 - Public Facilities,129,0
+210 - Public Facilities,130,0
+210 - Public Facilities,131,0
+210 - Public Facilities,132,0
+210 - Public Facilities,133,0
+210 - Public Facilities,134,0
+210 - Public Facilities,135,0
+210 - Public Facilities,136,0
+210 - Public Facilities,137,0
+210 - Public Facilities,138,0
+210 - Regional Commercial,139,0
+210 - Regional Commercial,140,0
+210 - San Pablo Bay Conservation Area,141,0
+210 - San Pablo Bay Conservation Area,142,0
+210 - San Pablo Bay Conservation Area,143,0
+210 - Suburban/Rural Residential,144,1
+210 - Suburban/Rural Residential,145,1
+210 - Suburban/Rural Residential,146,1
+210 - Suburban/Rural Residential,147,1
+210 - Suburban/Rural Residential,148,1
+210 - Suburban/Rural Residential,149,1
+210 - Suburban/Rural Residential,150,1
+210 - Suburban/Rural Residential,151,1
+210 - Suburban/Rural Residential,152,1
+210 - Suburban/Rural Residential,153,1
+210 - Suburban/Rural Residential,154,1
+210 - Suburban/Rural Residential,155,1
+210 - Suburban/Rural Residential,156,1
+210 - Suburban/Rural Residential,157,1
+210 - Suburban/Rural Residential,158,1
+210 - Suburban/Rural Residential,159,1
+210 - Suburban/Rural Residential,160,1
+210 - Suburban/Rural Residential,161,1
+210 - Suburban/Rural Residential,162,1
+210 - Suburban/Rural Residential,163,1
+210 - Transportation Right of Way,164,0
+210 - Transportation Right of Way,165,0
+210 - Transportation Right of Way,166,0
+210 - Transportation Right of Way,167,0
+210 - Transportation Right of Way,168,0

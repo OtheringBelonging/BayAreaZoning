@@ -1,0 +1,231 @@
+gnrl_p_,id,zoning
+SOFA II CAP,0,0
+SOFA I CAP,1,1
+MIUL/Campus Educational Facility,2,3
+Regional/Community Commercial,3,0
+Single Family Residential,4,1
+Single Family Res,5,1
+Single Family Res,6,1
+Research/Office Park,7,0
+Public Conservation Land,8,0
+Public Park,9,0
+Public Park,10,0
+Public Park,11,0
+Public Park,12,0
+Public Park,13,0
+Public Park,14,0
+Public Park,15,0
+Public Park,16,0
+Public Park,17,0
+Public Park,18,0
+School District Land,19,0
+School District Land,20,0
+School District Land,21,0
+School District Land,22,0
+School District Land,23,0
+School District Land_SOI,24,3
+Regional/Community Commercial,25,0
+Major Institution/Special Facility,26,3
+Major Institution/Special Facility,27,3
+Major Institution/Special Facility,28,3
+Major Institution/Special Facility,29,3
+Major Institution/Special Facility,30,3
+Major Institution/Special Facility,32,3
+Major Institution/Special Facility,33,3
+Major Institution/Special Facility,34,3
+Major Institution/Special Facility,35,3
+Single Family Res,36,1
+School District Land,37,0
+Major Institution/Special Facility,38,3
+Major Institution/Special Facility,39,3
+Major Institution/Special Facility,40,3
+Major Institution/Special Facility,41,3
+Streamside Open Space,42,0
+School District Land,43,0
+School District Land_SOI,44,3
+Public Park,45,0
+Public Park,46,0
+Public Park,47,0
+Public Conservation Land,48,0
+Public Conservation Land,49,0
+Single Family Res,50,1
+Streamside Open Space,51,0
+Public Conservation Land,52,0
+Service Commercial,53,0
+Service Commercial,54,0
+Service Commercial,55,0
+Service Commercial,56,0
+Light Industrial,57,0
+MIUL/Campus Single Family,58,3
+MIUL/Campus Multiple Family,59,3
+MIUL/Campus Multiple Family,60,3
+Major Institution/Special Facility,61,3
+Service Commercial,62,0
+Major Institution/Special Facility,63,3
+Service Commercial,64,0
+Multiple Family Residential,65,2
+Multi-Family Res,66,2
+Multi-Family Res,67,2
+Multi-Family Res,68,2
+Multi-Family Res,69,2
+Multi-Family Res,70,2
+Multi-Family Res,71,2
+Multi-Family Res,72,2
+Open Space/Controlled Development,73,0
+Open Space/Controlled Development,74,0
+Open Space/Controlled Development,75,0
+Open Space/Controlled Development_SOI,76,3
+Open Space/Controlled Development,77,0
+Open Space/Controlled Development,78,0
+Open Space/Controlled Development,79,0
+Open Space/Controlled Development,80,0
+Open Space/Controlled Development,81,0
+Open Space/Controlled Development,82,0
+Open Space/Controlled Development,83,0
+Open Space/Controlled Development,84,0
+Open Space/Controlled Development,85,0
+Open Space/Controlled Development,86,0
+Open Space/Controlled Development,87,0
+MIUL/Academic Reserve and Open Space,88,3
+MIUL/Academic Reserve and Open Space,89,3
+Neighborhood Commercial,90,0
+Neighborhood Commercial,91,0
+Neighborhood Commercial,92,0
+Neighborhood Commercial,93,0
+Major Institution/Special Facility,94,3
+MIUL/Campus Multiple Family,95,3
+MIUL/Campus Educational Facility,96,3
+Streamside Open Space,97,0
+Multi-Family Res,98,2
+Multi-Family Res,99,2
+Neighborhood Commercial,100,0
+Public Park,101,0
+Major Institution/Special Facility,102,3
+Public Park,103,0
+MIUL/Academic Reserve and Open Space,104,3
+Major Institution/University Lands/Campus Single Family,105,3
+MIUL/Campus Multiple Family,106,3
+Public Park,107,0
+Major Institution/Special Facility,108,3
+Service Commercial,109,0
+Multi-Family Res,110,2
+Single Family Res,111,1
+Multi-Family Res,112,2
+Light Industrial,113,0
+Multi-Family Res,114,2
+Research/Office Park,115,0
+Multi-Family Res,116,2
+Major Institution/Special Facility,117,3
+Public Park,118,0
+Regional/Community Commercial,119,0
+Streamside Open Space,120,0
+Neighborhood Commercial,121,0
+Public Park,122,0
+Single Family Res,123,1
+Single Family Res,124,1
+Multi-Family Res,125,2
+Public Park,126,0
+Multi-Family Res,127,2
+Regional/Community Commercial,128,0
+Multi-Family Res,129,2
+Single Family Res,130,1
+Public Conservation Land,131,0
+Single Family Res,132,1
+Single Family Res,133,1
+Single Family Res,134,1
+Public Conservation Land,135,0
+Public Conservation Land,136,0
+Public Conservation Land,137,0
+Major Institution/Special Facility,138,3
+Major Institution/Special Facility,139,3
+Major Institution/Special Facility,140,3
+Major Institution/Special Facility,141,3
+Major Institution/Special Facility,142,3
+School District Land,143,0
+School District Land,144,0
+School District Land,145,0
+School District Land,146,0
+Public Park,147,0
+Public Park,148,0
+Public Park,149,0
+Public Park,150,0
+Public Park,151,0
+Public Park,152,0
+Single Family Res,153,1
+Single Family Res,154,1
+Single Family Res,155,1
+School District Land,156,0
+School District Land,157,0
+School District Land,158,0
+School District Land,159,0
+Public Park,160,0
+Public Park,161,0
+Public Park,162,0
+Major Institution/Special Facility,163,3
+Open Space/Controlled Development,164,0
+Major Institution/Special Facility,165,3
+Service Commercial,166,0
+Light Industrial,167,0
+Light Industrial,168,0
+Light Industrial,169,0
+Service Commercial,170,0
+Hotel Commercial,171,0
+Major Institution/Special Facility,172,3
+Multi-Family Res,173,2
+Multi-Family Res,174,2
+Multi-Family Res,175,2
+Multi-Family Res,176,2
+Multi-Family Res,177,2
+Multi-Family Res,178,2
+Multi-Family Res,179,2
+Multi-Family Res,180,2
+Multi-Family Res,181,2
+Multi-Family Res,182,2
+Multi-Family Res,183,2
+Multi-Family Res,184,2
+Multi-Family Res,185,2
+Multi-Family Res,186,2
+Multi-Family Res,187,2
+Multi-Family Res,188,2
+Multi-Family Res,189,2
+Multi-Family Res,190,2
+Multi-Family Res,191,2
+Multi-Family Res (w/Hotel Overlay),192,2
+Neighborhood Commercial,193,0
+Neighborhood Commercial,194,0
+Neighborhood Commercial,195,0
+Neighborhood Commercial,196,0
+Neighborhood Commercial,197,0
+Neighborhood Commercial,198,0
+Neighborhood Commercial,199,0
+Neighborhood Commercial,200,0
+Research/Office Park,201,0
+Research/Office Park,202,0
+Research/Office Park,203,0
+Research/Office Park,204,0
+Research/Office Park,205,0
+Research/Office Park,206,0
+Research/Office Park,207,0
+Research/Office Park,208,0
+Service Commercial,209,0
+Public Conservation Land,210,0
+Service Commercial,211,0
+Research/Office Park,212,0
+Research/Office Park,213,0
+Public Park,214,0
+Multi-Family Res,215,2
+Multi-Family Res,216,2
+Neighborhood Commercial,217,0
+Service Commercial,218,0
+Service Commercial,219,0
+Multi-Family Res,220,2
+Public Park,221,0
+Single Family Res,222,1
+Public Park,223,0
+School District Land,224,0
+Multi-Family Res (w/Hotel Overlay),225,2
+Single Family Res,226,1
+Streamside Open Space_SOI,997,3
+Open Space/Controlled Development_SOI,998,3
+Streamside Open Space_SOI,999,3
+Major Institution/Special Facility,31,3

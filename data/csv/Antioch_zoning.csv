@@ -1,0 +1,332 @@
+ZN_ID,GP_DESG,FILENUM,OTHER,ACRES,CHANGED,LABCLAS,ZNPROP,ZNEX,ZNEXUPD,T_GP,LABEL_F,ZNPROPD,T_hndlb,Cannabs,gnrl_p_,id,edt_g__,zoning
+3,OS,NA,NA,1.305,N,Small,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,1,Open Space/Public Use District,0
+4,PI,NA,NA,11.52,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),2,Single-Family Residential District (6 du/acre),1
+5,PI,NA,NA,15.156,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),3,Single-Family Residential District (6 du/acre),1
+6,PI,NA,NA,9.986,N,Medium,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),4,Single-Family Residential District (6 du/acre),1
+7,PI,NA,NA,11.681,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),5,Single-Family Residential District (6 du/acre),1
+8,NA,81-8,Park,17.497,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,6,Planned Development District_NonRes,0
+9,NA,NA,NA,2.473,Y,Medium,C-2,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,7,Professional Office District,0
+10,OS,NA,NA,3.004,Y,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,8,Open Space/Public Use District,0
+11,OS,NA,NA,6.156,Y,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,9,Open Space/Public Use District,0
+12,OS,NA,NA,16.716,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),10,Single-Family Residential District (6 du/acre),1
+13,NA,NA,(C-2),2.263,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,11,Planned Development District_NonRes,0
+15,NA,80-2,NA,19.97,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,12,Planned Development District_NonRes,0
+16,OS,NA,NA,9.214,Y,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,13,Open Space/Public Use District,0
+18,NA,NA,NA,9.905,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,14,Planned Development District_NonRes,0
+19,NA,06-03,NA,54.272,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,15,Planned Development District_NonRes,0
+20,NA,86-6,NA,19.436,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,16,Planned Development District_NonRes,0
+21,NA,86-11,NA,17.699,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,17,Planned Development District_NonRes,0
+22,NA,NA,NA,20.122,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,18,Planned Development District_NonRes,0
+23,NA,NA,NA,110.102,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,19,Planned Development District_NonRes,0
+25,NA,NA,NA,36.449,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,20,Planned Development District_SF,1
+26,NA,NA,NA,14.876,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,21,Planned Development District_NonRes,0
+27,NA,97-9.3,(C-O),11.229,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,22,Planned Development District_NonRes,0
+28,NA,87-9.2,NA,61.517,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,23,Planned Development District_NonRes,0
+29,NA,NA,NA,8.381,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,24,Planned Development District_NonRes,0
+30,NA,NA,O.S.,25.302,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,25,Planned Development District_NonRes,0
+31,NA,87-9.2,NA,49.427,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,26,Planned Development District_SF,1
+32,NA,NA,Park,3.959,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,27,Planned Development District_NonRes,0
+33,NA,NA,NA,2661.226,Y,Large,S,S,S,NA,NA,Study District,No,0,Study District_NonRes,28,Study District_NonRes,0
+34,NA,NA,(C-O),77.09,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,29,Planned Development District_NonRes,0
+36,NA,NA,NA,76.682,N,Large,U,U,U,NA,NA,Unincorporated Area (Not Zoned),No,0,Unincorporated Area (Not Zoned),30,Unincorporated Area (Not Zoned),3
+38,NA,NA,NA,5.562,N,Medium,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,31,Medium High and High Density Residential District,2
+40,NA,NA,NA,1.944,N,Medium,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,32,Medium High and High Density Residential District,2
+42,NA,79-1,NA,5.018,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_SF,33,Planned Development District_SF,1
+43,NA,78-1,NA,12.358,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,34,Planned Development District_SF,1
+44,NA,78-3,NA,26.172,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,35,Planned Development District_SF,1
+47,NA,NA,NA,0.266,N,Use  leader,R-10,R-2,R-10,NA,NA,Medium Density Residential District,Yes,0,Medium Density Residential District,36,Medium Density Residential District,2
+51,NA,NA,NA,0.117,Y,Use  leader,R-20,R-3,R-15,RIVERTWN,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,37,Medium High and High Density Residential District,2
+52,NA,NA,NA,2.382,N,Medium,R-10,R-2,R-10,RIVERTWN,NA,Medium Density Residential District,No,0,Medium Density Residential District,38,Medium Density Residential District,2
+56,NA,NA,NA,4.668,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,39,Convenience Commercial District,0
+60,NA,NA,NA,0.205,N,Use  leader,C-O,C-O,C-O,RIVERTWN,NA,Professional Office District,Yes,0,Professional Office District,40,Professional Office District,0
+62,NA,NA,NA,0.47,Y,Very small,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,41,Medium High and High Density Residential District,2
+64,NA,04-05,NA,51.449,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,42,Planned Development District_NonRes,0
+65,NA,04-06,(C-O),14.479,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,43,Planned Development District_NonRes,0
+66,NA,88-7.1,NA,82.549,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,44,Planned Development District_SF,1
+67,MDR,NA,NA,0.224,N,Use  leader,M-1,M-1,M-1,RIVERTWN,NA,Light Industrial District,Yes,0,Light Industrial District,45,Light Industrial District,0
+70,NA,NA,NA,0.439,NA,Very small,C-2,C-2,C-2,Neighborhood/Com,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,46,Neighborhood/Community Commercial District,0
+71,NA,NA,NA,0.438,N,Very small,C-1,C-1,C-1,RIVERTWN,NA,Convenience Commercial District,No,0,Convenience Commercial District,47,Convenience Commercial District,0
+77,NA,NA,NA,10.091,N,Large,P-D/S-H,P-D/S-H,P-D/S-H,NA,NA,Planned Development/Senior Housing Overlay District,No,0,Planned Development/Senior Housing Overlay Distric,48,Planned Development/Senior Housing Overlay Distric,2
+79,NA,NA,NA,4.284,N,Medium,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,49,Professional Office District,0
+80,Commercial Office,NA,NA,1.195,N,Small,M-1,M-1,M-1,NA,NA,Light Industrial District,No,0,Light Industrial District,50,Light Industrial District,0
+81,NA,NA,NA,0.834,Y,Small,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,51,Medium High and High Density Residential District,2
+84,NA,NA,NA,1.204,Y,Small,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,52,Medium High and High Density Residential District,2
+86,NA,NA,NA,9.487,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,53,Medium High and High Density Residential District,2
+88,NA,NA,NA,0.114,Y,Use  leader,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,54,Medium High and High Density Residential District,2
+89,Commercial Office,NA,NA,38.409,N,Medium,C-2,C-3,C-3,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,55,Neighborhood/Community Commercial District,0
+93,NA,NA,NA,0.744,Y,Small,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,56,Medium High and High Density Residential District,2
+94,NA,NA,NA,0.626,N,Small,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,57,Professional Office District,0
+95,CO,NA,NA,4.594,N,Medium,C-3,C-3,C-3,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,58,Service/Regional Commercial District,0
+96,NA,NA,NA,0.301,N,Very small,R-10,R-2,R-10,NA,NA,Medium Density Residential District,No,0,Medium Density Residential District,59,Medium Density Residential District,2
+97,NA,NA,NA,0.204,N,Use  leader,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,60,Medium High and High Density Residential District,2
+98,CN,NA,NA,0.306,N,Very small,C-3,C-3/B-4,C-3/B-4,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,61,Service/Regional Commercial District,0
+100,NA,NA,NA,0.64,N,Small,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,62,Medium High and High Density Residential District,2
+101,NA,NA,NA,0.224,N,Use  leader,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,Yes,0,Neighborhood/Community Commercial District,63,Neighborhood/Community Commercial District,0
+103,NA,NA,NA,0.521,N,Small,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,64,Convenience Commercial District,0
+105,NA,NA,NA,0.569,N,Small,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,65,Convenience Commercial District,0
+106,NA,NA,NA,0.233,N,Use  leader,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,66,Medium High and High Density Residential District,2
+107,NA,NA,NA,1.14,N,Small,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,67,Medium High and High Density Residential District,2
+108,NA,NA,NA,4.798,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,68,Convenience Commercial District,0
+109,NA,NA,NA,3.611,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,69,Medium High and High Density Residential District,2
+110,NA,NA,NA,1.152,N,Small,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,70,Neighborhood/Community Commercial District,0
+111,NA,NA,NA,0.202,N,Use  leader,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,71,Medium High and High Density Residential District,2
+113,NA,NA,NA,1.5,N,Small,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,72,Neighborhood/Community Commercial District,0
+115,NA,NA,NA,1.43,N,Small,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,73,Convenience Commercial District,0
+116,NA,NA,NA,6.742,N,Medium,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,74,Neighborhood/Community Commercial District,0
+117,NA,NA,NA,0.32,N,Very small,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,75,Professional Office District,0
+118,NA,NA,NA,0.596,N,Small,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,76,Professional Office District,0
+119,NA,NA,NA,1.791,N,Medium,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,77,Professional Office District,0
+120,NA,NA,NA,4.8,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,78,Convenience Commercial District,0
+122,NA,NA,NA,0.658,Y,Small,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,79,Medium High and High Density Residential District,2
+124,NA,NA,NA,1.719,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,80,Convenience Commercial District,0
+125,NA,NA,NA,4.145,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,81,Medium High and High Density Residential District,2
+126,NA,NA,NA,2.164,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,82,Medium High and High Density Residential District,2
+127,NA,NA,NA,2.269,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,83,Medium High and High Density Residential District,2
+128,OS,NA,NA,0.606,N,Small,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),84,Single-Family Residential District (6 du/acre),1
+130,NA,83-3,NA,4.802,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_NonRes,85,Planned Development District_NonRes,0
+138,Flood control Wetlands Mitigation area,NA,NA,2.092,N,Medium,R-6,R-1,R-6,RIVERTWN,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),86,Single-Family Residential District (6 du/acre),1
+144,NA,NA,NA,230.364,N,Large,FRWY,U,FRWY,NA,NA,Freeway,No,0,Freeway,87,Freeway,3
+147,NA,70-2,NA,10.57,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,88,Planned Development District_MF,2
+148,NA,NA,NA,24.334,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,89,Medium High and High Density Residential District,2
+149,NA,07-01,NA,156.682,N,Large,C-3,C-3,C-4,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,90,Service/Regional Commercial District,0
+150,NA,NA,NA,7.181,N,Medium,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,91,Professional Office District,0
+153,NA,NA,NA,2.855,N,Medium,R-10,R-2,R-10,NA,NA,Medium Density Residential District,No,0,Medium Density Residential District,92,Medium Density Residential District,2
+154,NA,NA,NA,0.169,N,Use  leader,C-O,C-O/B-4,C-O/B-4,NA,NA,Professional Office District,Yes,0,Professional Office District,93,Professional Office District,0
+155,NA,NA,NA,1.004,N,Small,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,94,Convenience Commercial District,0
+156,NA,NA,NA,0.437,N,Very small,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,95,Professional Office District,0
+159,NA,85-2,NA,4.995,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_SF,96,Planned Development District_SF,1
+160,NA,80-1,NA,10.605,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,97,Planned Development District_SF,1
+170,MDR,NA,NA,0.123,N,Use  leader,C-2,M-1,M-1,RIVERTWN,NA,Neighborhood/Community Commercial District,Yes,0,Neighborhood/Community Commercial District,98,Neighborhood/Community Commercial District,0
+171,NA,NA,NA,24.668,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,99,Medium High and High Density Residential District,2
+176,Industrial,NA,NA,8.753,Y,Medium,WF,M-1,M-1,RIVERTWN,NA,Urban Waterfront District,No,0,Urban Waterfront District,100,Urban Waterfront District,0
+177,NA,NA,NA,29.546,N,Large,P-D,P-D,P-D,RIVERTWN,NA,Planned Development District,No,0,Planned Development District_NonRes,101,Planned Development District_NonRes,0
+178,NA,NA,NA,10.882,N,Large,R-10,R-2,R-10,NA,NA,Medium Density Residential District,No,0,Medium Density Residential District,102,Medium Density Residential District,2
+179,NA,85-4,NA,4.885,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_SF,103,Planned Development District_SF,1
+180,NA,NA,NA,13.132,N,Large,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,104,Medium High and High Density Residential District,2
+181,NA,NA,NA,10.801,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,105,Medium High and High Density Residential District,2
+182,NA,NA,NA,15.956,Y,Large,R-20T,R-3T,R-15T,NA,NA,R-20 Manufactured Housing Combining District,No,0,R-20 Manufactured Housing Combining District,106,R-20 Manufactured Housing Combining District,2
+183,NA,83-1,NA,129.638,N,Large-FileNum,HPD,HPD,HPD,NA,has fn,Hillside Planned Development District,No,0,Hillside Planned Development District,107,Hillside Planned Development District,1
+184,NA,78-2,NA,69.453,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,108,Planned Development District_SF,1
+185,"BP, OS, no data",NA,NA,60.5,N,Large,PBC,M-1,M-1,NA,NA,Light Industrial District,No,0,Light Industrial District,109,Light Industrial District,0
+186,NA,NA,NA,5.448,N,Medium,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,110,Professional Office District,0
+189,OS,NA,NA,46.243,Y,Large,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,111,Open Space/Public Use District,0
+190,NA,NA,NA,2.416,N,Medium,R-6,C-O/B-4,C-O/B-4,NA,NA,Professional Office District,No,0,Professional Office District,112,Professional Office District,0
+191,NA,NA,NA,11.636,N,Large,R-20,R-3/B-4,R-15/B-4,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,113,Medium High and High Density Residential District,2
+192,NA,88-1.1,NA,3.669,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_NonRes,114,Planned Development District_NonRes,0
+198,NA,NA,NA,19.37,NA,Medium,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,115,Neighborhood/Community Commercial District,0
+205,NA,NA,NA,0.346,N,Use  leader,R-10,R-2,R-10,NA,NA,Medium Density Residential District,Yes,0,Medium Density Residential District,116,Medium Density Residential District,2
+206,NA,NA,NA,0.341,Y,Very small,C-2,C-O/B-4,C-O/B-4,NA,NA,Professional Office District,No,0,Professional Office District,117,Professional Office District,0
+207,NA,NA,NA,2.159,Y,Medium,C-2,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,118,Professional Office District,0
+210,NA,NA,NA,0.213,Y,Use  leader,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,119,Medium High and High Density Residential District,2
+214,NA,NA,NA,9.312,Y,Medium,C-2,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,120,Convenience Commercial District,0
+218,NA,NA,NA,15.372,N,Large,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,121,Neighborhood/Community Commercial District,0
+219,NA,NA,NA,2.101,N,Medium,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,122,Medium High and High Density Residential District,2
+220,NA,78-7,NA,9.76,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,123,Planned Development District_MF,2
+221,NA,NA,NA,17.534,N,Large,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,124,Professional Office District,0
+222,NA,78-6,NA,11.019,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,125,Planned Development District_SF,1
+224,NA,NA,NA,4.009,N,Medium,C-1,C-1/B-4,C-1/B-4,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,126,Convenience Commercial District,0
+225,NA,86-10,NA,22.1,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,127,Planned Development District_SF,1
+226,NA,NA,NA,3.744,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,128,Planned Development District_SF,1
+227,NA,79-2,NA,18.921,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,129,Planned Development District_SF,1
+228,NA,85-3,NA,17.921,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,130,Planned Development District_MF,2
+229,NA,NA,NA,0.154,Y,Use  leader,C-2,C-O/B-4,C-O/B-4,NA,NA,Professional Office District,Yes,0,Professional Office District,131,Professional Office District,0
+231,NA,NA,NA,4.686,Y,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,132,Medium High and High Density Residential District,2
+232,NA,06-04,(C-2),5.044,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,133,Planned Development District_NonRes,0
+233,NA,NA,NA,1.813,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,134,Convenience Commercial District,0
+237,NA,89-6.1,NA,13.801,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,135,Planned Development District_NonRes,0
+239,NA,88-5,NA,17,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,136,Planned Development District_MF,2
+240,NA,NA,NA,9.617,N,Medium,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,137,Convenience Commercial District,0
+244,NA,NA,NA,139.066,Y,Large,PBC,M-2,M-2,NA,NA,Planned Business Center,No,1,Planned Business Center,138,Planned Business Center,0
+245,NA,NA,NA,9.167,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,139,Planned Development District_SF,1
+248,BP,NA,NA,5.83,N,Medium,PBC,M-1,PBC,NA,NA,Planned Business Center,No,1,Planned Business Center,140,Planned Business Center,0
+250,NA,79-3,NA,24.636,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,141,Planned Development District_MF,2
+252,NA,85-9,NA,34.973,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,142,Planned Development District_NonRes,0
+257,NA,NA,NA,974.445,Y,Large,OS,S,S,NA,NA,Study District,No,0,Study District_NonRes,143,Study District_NonRes,0
+258,NA,04-12,(PBC),14.76,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_MF,144,Planned Development District_MF,2
+259,OS,NA,NA,11.593,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),145,Single-Family Residential District (6 du/acre),1
+260,NA,85-1.1,NA,24.116,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,146,Planned Development District_NonRes,0
+261,NA,NA,NA,13.184,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,147,Planned Development District_NonRes,0
+262,NA,86-4,NA,52.386,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,148,Planned Development District_SF,1
+264,NA,86-9.1,NA,18.182,N,Large-FileNum,HPD,HPD,HPD,NA,has fn,Hillside Planned Development District,No,0,Hillside Planned Development District,149,Hillside Planned Development District,1
+265,NA,NA,NA,5.721,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,150,Planned Development District_NonRes,0
+266,NA,NA,NA,6.114,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,151,Planned Development District_NonRes,0
+267,NA,NA,NA,1.927,N,Medium,S,S,S,NA,NA,Study District,No,0,Study District_NonRes,152,Study District_NonRes,0
+268,OS,NA,NA,4.406,N,Medium,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),153,Single-Family Residential District (6 du/acre),1
+269,NA,NA,ELEM SCHOOL,9.729,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,154,Planned Development District_NonRes,0
+270,NA,81-8,NA,33.153,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,155,Planned Development District_NonRes,0
+271,NA,83-4,NA,44.436,N,Large-FileNum,HPD,HPD,HPD,NA,has fn,Hillside Planned Development District,No,0,Hillside Planned Development District,156,Hillside Planned Development District,1
+272,NA,NA,NA,10.291,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),157,Single-Family Residential District (6 du/acre),1
+273,NA,NA,NA,0.658,Y,Small,C-2,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,158,Professional Office District,0
+274,NA,NA,NA,17.493,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,159,Medium High and High Density Residential District,2
+279,NA,NA,NA,22.933,N,Large,R-10T,R-2T,R-10T,NA,NA,R-10 Manufactured Housing Combining District,No,0,R-10 Manufactured Housing Combining District,160,R-10 Manufactured Housing Combining District,2
+284,NA,NA,NA,1.379,Y,Small,R-20,R-3,R-15,RIVERTWN,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,161,Medium High and High Density Residential District,2
+285,NA,NA,NA,15.119,N,Large,C-O,C-O,C-O,NA,NA,Professional Office District,No,0,Professional Office District,162,Professional Office District,0
+286,NA,NA,NA,1.231,N,Small,R-20,R-4/B-4,R-20/B-4,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,163,Medium High and High Density Residential District,2
+289,NA,70-1,NA,16.868,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,164,Planned Development District_MF,2
+290,NA,70-1,(C-O),10.414,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,165,Planned Development District_NonRes,0
+291,NA,09-01,(R-20),12.609,N,Large,R-6,R-6,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),166,Single-Family Residential District (6 du/acre),1
+292,NA,NA,(C-2),7.627,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,167,Planned Development District_NonRes,0
+293,NA,84-1,NA,60.519,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,168,Planned Development District_NonRes,0
+294,NA,79-5.4,NA,40.487,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,169,Planned Development District_SF,1
+295,MDR,NA,NA,0.118,Y,Use  leader,C-1,R-1,R-6,RIVERTWN,NA,Convenience Commercial District,Yes,0,Convenience Commercial District,170,Convenience Commercial District,0
+296,NA,NA,NA,0.979,Y,Small,C-1,C-O,C-O,RIVERTWN,NA,Convenience Commercial District,No,0,Convenience Commercial District,171,Convenience Commercial District,0
+297,NA,NA,NA,0.113,Y,Use  leader,C-1,C-2,C-2,RIVERTWN,NA,Convenience Commercial District,Yes,0,Convenience Commercial District,172,Convenience Commercial District,0
+301,Commercial,NA,NA,0.464,N,Very small,M-1,M-1,M-1,RIVERTWN,NA,Light Industrial District,No,0,Light Industrial District,173,Light Industrial District,0
+302,NA,NA,NA,0.152,N,Use  leader,R-20,R-4,R-20,NA,NA,Medium High and High Density Residential District,Yes,0,Medium High and High Density Residential District,174,Medium High and High Density Residential District,2
+304,NA,NA,NA,0.687,N,Small,C-1,C-1,C-1,NA,NA,Convenience Commercial District,No,0,Convenience Commercial District,175,Convenience Commercial District,0
+305,NA,86-1,NA,16.693,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,176,Planned Development District_NonRes,0
+306,NA,NA,NA,7.228,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_MF,177,Planned Development District_MF,2
+307,BP,NA,NA,70.588,N,Large,PBC,M-1,PBC,NA,NA,Planned Business Center,No,0,Planned Business Center,178,Planned Business Center,0
+308,NA,85-1.0,NA,117.758,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,179,Planned Development District_NonRes,0
+309,NA,88-2,NA,1.481,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_SF,180,Planned Development District_SF,1
+310,NA,86-9.1,NA,144.109,N,Large-FileNum,HPD,HPD,HPD,NA,has fn,Hillside Planned Development District,No,0,Hillside Planned Development District,181,Hillside Planned Development District,1
+311,NA,87-4.1,NA,89.436,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,182,Planned Development District_SF,1
+312,NA,85-6,NA,41.887,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,183,Planned Development District_SF,1
+313,NA,81-8,NA,148.048,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,184,Planned Development District_SF,1
+314,NA,85-11.1,NA,6.607,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_NonRes,185,Planned Development District_NonRes,0
+315,NA,86-8,NA,2.491,N,Small -FileNum,P-D,P-D,P-D,NA,fn - hand lab,Planned Development District,Yes,0,Planned Development District_NonRes,186,Planned Development District_NonRes,0
+316,NA,NA,NA,0.77,N,Small,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,187,Planned Development District_SF,1
+317,NA,86-8,NA,119.369,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,188,Planned Development District_SF,1
+318,NA,85-11.1,NA,106.517,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,189,Planned Development District_SF,1
+319,NA,85-11.2,NA,17.769,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,190,Planned Development District_MF,2
+320,NA,88-5.1,NA,316.83,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,191,Planned Development District_SF,1
+322,NA,87-9.2,NA,108.729,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,192,Planned Development District_SF,1
+323,NA,87-6.1,NA,148.523,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,193,Planned Development District_SF,1
+324,NA,88-4.1,NA,81.033,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,194,Planned Development District_SF,1
+325,NA,87-8.1,NA,268.74,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,195,Planned Development District_SF,1
+327,NA,89-1.1,NA,313.588,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,196,Planned Development District_SF,1
+328,NA,NA,NA,198.735,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,197,Planned Development District_SF,1
+329,NA,NA,NA,30.259,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,198,Planned Development District_SF,1
+330,NA,86-3.1,NA,196.308,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,199,Planned Development District_SF,1
+331,NA,86-5,NA,30.821,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,200,Planned Development District_SF,1
+332,NA,86-4,NA,47.821,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,201,Planned Development District_NonRes,0
+333,NA,86-5,NA,46.208,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,202,Planned Development District_SF,1
+334,NA,86-5,NA,34.873,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,203,Planned Development District_SF,1
+335,NA,87-5,NA,15.115,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,204,Planned Development District_SF,1
+336,NA,87-3,NA,48.292,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,205,Planned Development District_SF,1
+337,NA,86-6,NA,36.279,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,206,Planned Development District_SF,1
+338,NA,85-1.2,NA,241.459,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,207,Planned Development District_SF,1
+339,NA,87-2,NA,129.946,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,208,Planned Development District_SF,1
+340,NA,86-11,NA,179.677,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,209,Planned Development District_SF,1
+341,NA,NA,NA,9.8,N,Medium,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,210,Neighborhood/Community Commercial District,0
+344,NA,NA,NA,5.639,Y,Medium,R-10,R-3,R-15,NA,NA,Medium Density Residential District,No,0,Medium Density Residential District,211,Medium Density Residential District,2
+345,NA,NA,NA,1.011,N,Small,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_MF,212,Planned Development District_MF,2
+346,NA,NA,(C-2),6.127,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,213,Planned Development District_NonRes,0
+347,NA,NA,(C-O),12.115,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,214,Planned Development District_NonRes,0
+348,NA,98-01 & 13-01,(C-2),26.303,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,215,Planned Development District_NonRes,0
+349,NA,04-11,(C-2),9.479,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,216,Planned Development District_NonRes,0
+350,NA,04-08,(C-O),7.823,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,217,Planned Development District_NonRes,0
+351,NA,87-7.1,NA,92.479,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,218,Planned Development District_SF,1
+352,NA,87-1,NA,102.522,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,219,Planned Development District_SF,1
+353,NA,80-2,NA,101.609,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,220,Planned Development District_SF,1
+354,NA,87-11.1,NA,38.164,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,221,Planned Development District_SF,1
+355,NA,86-7,NA,114.716,Y,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,222,Planned Development District_SF,1
+356,NA,79-5.3,NA,32.58,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,223,Planned Development District_SF,1
+359,NA,90-1,NA,48.845,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,224,Planned Development District_SF,1
+360,NA,NA,NA,40.97,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_SF,225,Planned Development District_SF,1
+361,NA,NA,NA,2.509,N,Medium,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,226,Planned Development District_NonRes,0
+362,NA,NA,NA,0.584,N,Small,P-D/S-H,P-D/S-H,P-D/S-H,NA,NA,Planned Development/Senior Housing Overlay District,No,0,Planned Development/Senior Housing Overlay Distric,227,Planned Development/Senior Housing Overlay Distric,2
+363,NA,NA,NA,0,N,Large,HPD,HPD,HPD,NA,NA,Hillside Planned Development District,No,0,Hillside Planned Development District,228,Hillside Planned Development District,1
+364,MLDR,NA,NA,3.655,N,Medium,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,1,Single-Family Residential District (6 du/acre),229,Single-Family Residential District (6 du/acre),1
+35,Dow Wetlands Preserve,NA,NA,0,NA,Large,M-1,M-1,M-1,RIVERTWN,NA,Light Industrial District,No,0,Light Industrial District,230,Light Industrial District,0
+140,NA,NA,NA,43.458,Y,Large,RTC,M-2,M-2,RIVERTWN,NA,Rivertown Retail District,No,0,Rivertown Retail District,231,Rivertown Retail District,0
+50,MDR,NA,NA,25.461,N,Large,R-6,R-1,R-6,RIVERTWN,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),232,Single-Family Residential District (6 du/acre),1
+75,NA,NA,NA,2.608,N,Medium,R-10,R-2,R-10,RIVERTWN,NA,Medium Density Residential District,No,0,Medium Density Residential District,233,Medium Density Residential District,2
+168,NA,NA,NA,10.277,N,Large,C-2,C-1,C-1,RIVERTWN,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,234,Neighborhood/Community Commercial District,0
+175,NA,NA,NA,7.93,N,Medium,M-2,M-2,M-2,RIVERTWN,NA,Heavy Industrial District,No,1,Heavy Industrial District,235,Heavy Industrial District,0
+175,NA,NA,NA,15.035,Y,Large,WF,M-2,M-2,RIVERTWN,NA,Urban Waterfront District,No,1,Urban Waterfront District,236,Urban Waterfront District,0
+241,NA,NA,NA,32.097,N,Large,M-1,M-1,M-1,NA,NA,Light Industrial District,No,1,Light Industrial District,237,Light Industrial District,0
+241,NA,NA,NA,8.816,Y,Medium,OS,M-1,M-1,NA,NA,Open Space/Public Use District,No,1,Open Space/Public Use District,238,Open Space/Public Use District,0
+158,NA,NA,NA,13.225,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,239,Medium High and High Density Residential District,2
+238,NA,NA,NA,59.269,N,Large,C-2,C-2/B-4,C-2/B-4,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,240,Neighborhood/Community Commercial District,0
+235,NA,NA,NA,15.664,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,241,Planned Development District_NonRes,0
+263,NA,NA,NA,7.86,Y,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,242,Open Space/Public Use District,0
+281,NA,NA,NA,5.117,Y-newisl,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,243,Open Space/Public Use District,0
+17,PI,NA,NA,10.63,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),244,Single-Family Residential District (6 du/acre),1
+17,PI,NA,NA,5.358,Y,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,245,Open Space/Public Use District,0
+321,NA,87-10.1,NA,234.303,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,246,Planned Development District_SF,1
+24,NA,NA,(C-2),6.816,N,Medium,P-D,P-D,P-D,NA,NA,Mixed Commercial/Residential District,No,0,Mixed Commercial/Residential District_NonRes,247,Mixed Commercial/Residential District_NonRes,0
+24,NA,87-10.1,(C-2),32.175,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_NonRes,248,Planned Development District_NonRes,0
+358,NA,NA,NA,5.909,Y,Medium,R-6,P-D,P-D,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),249,Single-Family Residential District (6 du/acre),1
+246,BP,NA,NA,0,N,Large,NA,M-2,M-2,NA,NA,Heavy Industrial District,No,1,Heavy Industrial District,250,Heavy Industrial District,0
+246,BP,NA,NA,19.833,Y,Large,OS,M-1,PBC,NA,NA,Open Space/Public Use District,No,1,Open Space/Public Use District,251,Open Space/Public Use District,0
+246,BP,NA,NA,54.86,N,Large,PBC,M-1,PBC,NA,NA,Planned Business Center,No,1,Planned Business Center,252,Planned Business Center,0
+246,BP,NA,NA,19.77,N,Large,PBC,M-1,PBC,NA,NA,Planned Business Center,No,1,Planned Business Center,253,Planned Business Center,0
+246,BP,NA,NA,20.712,Y-INTPOL,Large,OS,M-1,PBC,NA,NA,Open Space/Public Use District,No,1,Open Space/Public Use District,254,Open Space/Public Use District,0
+204,"PI, OS",NA,NA,13.257,Y-S,Large,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,255,Open Space/Public Use District,0
+204,"PI, OS",NA,NA,29.998,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),256,Single-Family Residential District (6 du/acre),1
+204,"PI, OS",NA,NA,12.056,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),257,Single-Family Residential District (6 du/acre),1
+343,NA,NA,NA,18.719,Y-S,Large,R-4,R-1,R-6,NA,NA,Single-Family Residential District (4 du/acre),No,0,Single-Family Residential District (4 du/acre),258,Single-Family Residential District (4 du/acre),1
+343,NA,NA,Senior Housing Overlay,5.882,Y-S,Medium,R-20,R-1,R-6,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,259,Medium High and High Density Residential District,2
+343,NA,NA,NA,4.726,Y-S,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,260,Open Space/Public Use District,0
+343,NA,NA,NA,1089.949,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),261,Single-Family Residential District (6 du/acre),1
+342,NA,NA,NA,14.304,Y-S,Large,OS,P-D,P-D,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,262,Open Space/Public Use District,0
+342,NA,88-3,NA,424.916,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_SF,263,Planned Development District_SF,1
+142,NA,NA,School,167.146,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),264,Single-Family Residential District (6 du/acre),1
+142,NA,NA,School,4.996,Y-S,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,265,Open Space/Public Use District,0
+87,NA,NA,NA,7.44,Y-S,Medium,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,266,Medium High and High Density Residential District,2
+132,Park,NA,NA,5.285,Y,Medium,OS,R-1,R-6,RIVERTWN,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,267,Open Space/Public Use District,0
+358,NA,NA,NA,127.367,N,Large,P-D,P-D,P-D,NA,NA,Planned Development District,No,0,Planned Development District_NonRes,268,Planned Development District_NonRes,0
+256,NA,NA,NA,45.834,N,Large,FRWY,U,FRWY,NA,NA,Freeway,No,0,Freeway,269,Freeway,3
+342,NA,NA,NA,6.799,Y-S,Medium,OS,P-D,P-D,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,270,Open Space/Public Use District,0
+342,NA,NA,NA,8.17,Y-S,Medium,R-6,P-D,P-D,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),271,Single-Family Residential District (6 du/acre),1
+275,NA,NA,NA,0.361,N,Very small,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,272,Open Space/Public Use District,0
+255,OS,NA,NA,1.782,N,Medium,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,273,Open Space/Public Use District,0
+255,OS,NA,NA,0.759,N,Small,OS,R-1,R-6,NA,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,274,Open Space/Public Use District,0
+275,NA,NA,NA,520.435,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),275,Single-Family Residential District (6 du/acre),1
+137,NA,NA,NA,31.62,Y-M,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),276,Single-Family Residential District (6 du/acre),1
+137,NA,NA,NA,16.157,Y-M,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),277,Single-Family Residential District (6 du/acre),1
+137,NA,NA,NA,6.811,Y-M,Medium,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),278,Single-Family Residential District (6 du/acre),1
+14,NA,NA,East Lone Tree Specific P,803.719,N,Large,P-D,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_NonRes,279,Specific Plan_NonRes,0
+14,NA,13-02,East Lone Tree Specific P,803.719,N,Large,S-P,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_NonRes,280,Specific Plan_NonRes,0
+14,NA,NA,East Lone Tree Specific P,803.719,N,Large,S-P,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_SF,281,Specific Plan_SF,1
+14,NA,NA,East Lone Tree Specific P,803.719,N,Large,P-D,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_NonRes,282,Specific Plan_NonRes,0
+14,NA,04-02,East Lone Tree Specific P,803.719,N,Large,P-D,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_NonRes,283,Specific Plan_NonRes,0
+357,BP,NA,NA,76.973,N,Large,C-3,C-3,C-3,NA,NA,Service/Regional Commercial District,No,1,Service/Regional Commercial District,284,Service/Regional Commercial District,0
+254,"PG&E, BP",NA,NA,132.709,N,Large,M-1,M-1,M-1,NA,NA,Light Industrial District,No,0,Light Industrial District,285,Light Industrial District,0
+254,"PG&E, BP",NA,NA,132.709,N,Large,C-2,C-2,C-2,NA,NA,Neighborhood/Community Commercial District,No,0,Neighborhood/Community Commercial District,286,Neighborhood/Community Commercial District,0
+46,NA,NA,NA,102.285,Y,Large,R-20,R-3,R-15,NA,NA,Medium High and High Density Residential District,No,0,Medium High and High Density Residential District,287,Medium High and High Density Residential District,2
+137,NA,NA,NA,284.68,Y-M,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),288,Single-Family Residential District (6 du/acre),1
+188,NA,NA,Landfill,92.957,N,Large,U,S,S,NA,NA,Study District,No,0,Study District_NonRes,289,Study District_NonRes,0
+140,NA,NA,NA,96.208,N,Large,PBC,M-2,M-2,RIVERTWN,NA,Heavy Industrial District,No,0,Heavy Industrial District,290,Heavy Industrial District,0
+35,Dow Wetlands Preserve,NA,NA,282.517,Y,Large,OS,M-1/B-4,M-1/B-4,RIVERTWN,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,291,Open Space/Public Use District,0
+140,NA,NA,NA,7.456,Y,Medium,OS,M-2,M-2,RIVERTWN,NA,Open Space/Public Use District,No,0,Open Space/Public Use District,292,Open Space/Public Use District,0
+140,NA,NA,NA,8.708,Y,Medium,RTR-10,M-2,M-2,RIVERTWN,NA,Rivertown Medium Density Residential District,No,0,Rivertown Medium Density Residential District,293,Rivertown Medium Density Residential District,1
+140,NA,NA,NA,8.708,Y,Medium,OS,M-2,M-2,RIVERTWN,NA,Rivertown Medium Density Residential District,No,0,Rivertown Medium Density Residential District_NonRes,294,Rivertown Medium Density Residential District_NonRes,0
+357,BP,08-06,NA,76.973,N,Large,PBC,C-3,C-3,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,295,Service/Regional Commercial District,0
+263,NA,NA,NA,795.093,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),296,Single-Family Residential District (6 du/acre),1
+300,Commercial,05-06,NA,99.183,Y,Large,RTR-10,RTR-10,RTR-10,RIVERTWN,NA,Rivertown Low/Medium Density Residential District (11-20DU/ACRE),No,0,Rivertown Low/Medium Density Residential District,297,Rivertown Low/Medium Density Residential District,1
+61,NA,NA,NA,52.571,Y,Large,MCR,R-3,R-15,RIVERTWN,NA,Mixed Commercial/Residential District,No,0,Mixed Commercial/Residential District_SF,298,Mixed Commercial/Residential District_SF,1
+2,Office related,NA,NA,48.439,N,Large,C-3,C-3/B-4,C-3/B-4,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,299,Service/Regional Commercial District,0
+2,Office related,NA,NA,48.439,Y,Large,MCR,C-3/B-4,C-3/B-4,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,300,Service/Regional Commercial District,0
+55,NA,NA,NA,4.4,Y,Medium,RTR-20,R-4,R-20,RIVERTWN,NA,Rivertown Medium High and High Density Residential District,No,0,Rivertown Medium High and High Density Residential,301,Rivertown Medium High and High Density Residential,2
+55,NA,NA,NA,4.4,Y,Medium,C-1,R-4,R-20,RIVERTWN,NA,Rivertown Medium High and High Density Residential District,No,0,Rivertown Medium High and High Density Residential,302,Rivertown Medium High and High Density Residential,2
+137,NA,NA,NA,284.68,Y-M,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),303,Single-Family Residential District (6 du/acre),1
+137,NA,NA,NA,284.68,Y-M,Large,PBC,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),304,Single-Family Residential District (6 du/acre),1
+277,NA,NA,NA,57.558,N,Large,R-6,R-1,R-6,NA,NA,Single-Family Residential District (6 du/acre),No,0,Single-Family Residential District (6 du/acre),305,Single-Family Residential District (6 du/acre),1
+39,Commercial,NA,NA,22.449,N,Large,C-3,C-3,C-3,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,306,Service/Regional Commercial District,0
+39,Commercial,10-01,NA,22.449,N,Large,C-2,C-3,C-3,NA,NA,Service/Regional Commercial District,No,0,Service/Regional Commercial District,307,Service/Regional Commercial District,0
+53,MDR,NA,NA,27.178,N,Large,M-1,M-1,M-1,RIVERTWN,NA,Light Industrial District,No,0,Light Industrial District,308,Light Industrial District,0
+0,PLANNED DEVELOPMENT DISTRICT,NA,NA,0,Y,NA,PD,PD,PD,NA,NA,PLANNED DEVELOPMENT DISTRICT,NA,0,PLANNED DEVELOPMENT DISTRICT_MF,309,PLANNED DEVELOPMENT DISTRICT_MF,2
+0,NA,NA,NA,0,Y,NA,C-2,NA,NA,NA,NA,NEIGHBORHOOD/COMMUNITY COMMERCIAL DISTRICT,NA,0,NEIGHBORHOOD/COMMUNITY COMMERCIAL DISTRICT,310,NEIGHBORHOOD/COMMUNITY COMMERCIAL DISTRICT,0
+37,BP,NA,NA,0,NA,Large,PBC,PBC,PBC,RIVERTWN,NA,Planned Business Center,No,0,Planned Business Center,311,Planned Business Center,0
+246,BP,07-02,NA,0,N,Large,NA,PD,PD,NA,NA,Planned Development District,No,1,Planned Development District_NonRes,312,Planned Development District_NonRes,0
+0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,313,NA,3
+0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,315,NA,3
+0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,316,NA,3
+0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,317,NA,3
+0,NA,NA,NA,0,NA,NA,RRMP,RRMP,RRMP,NA,NA,Roddy Ranch Master Plan District,NA,0,Roddy Ranch Master Plan District,318,Roddy Ranch Master Plan District,0
+0,NA,05-01,NA,0,NA,NA,P-D,P-D,P-D,NA,NA,Planned Development,NA,0,Planned Development_NonRes,319,Planned Development_NonRes,0
+0,NA,04-10,NA,0,NA,NA,P-D,P-D,P-D,NA,NA,Planned Development,NA,0,Planned Development_NonRes,320,Planned Development_NonRes,0
+0,NA,NA,NA,0,NA,NA,R-25,NA,NA,NA,NA,High Density Residential,NA,0,High Density Residential,321,High Density Residential,2
+0,NA,OS,NA,0,NA,NA,OS,OS,OS,NA,NA,Open Space,NA,0,Open Space,322,Open Space,0
+0,NA,NA,NA,0,NA,NA,M-2,NA,NA,NA,NA,Heavy Industrial,NA,1,Heavy Industrial,323,Heavy Industrial,0
+0,NA,NA,NA,0,NA,NA,OS,NA,NA,NA,NA,Open Space,NA,0,Open Space,324,Open Space,0
+0,NA,NA,NA,0,NA,NA,M-2,NA,NA,NA,NA,Heavy Industrial,NA,1,Heavy Industrial,325,Heavy Industrial,0
+0,NA,NA,NA,0,NA,NA,S,NA,NA,NA,NA,Zoning Study District,NA,1,Zoning Study District,326,Zoning Study District,1
+0,NA,08-06,NA,0,NA,NA,NA,NA,NA,NA,NA,Planned Development,NA,0,Planned Development_NonRes,327,Planned Development_NonRes,0
+0,NA,NA,NA,0,NA,NA,R-35,NA,NA,NA,NA,High Density Residential,NA,0,High Density Residential,328,High Density Residential,2
+0,NA,09-07,NA,0,NA,NA,NA,NA,NA,NA,NA,Planned Development,NA,0,Planned Development_NonRes,329,Planned Development_NonRes,0
+0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,Planned Development,NA,0,Planned Development_NonRes,330,Planned Development_NonRes,0
+999,NA,88-4.1,NA,81.033,N,Large-FileNum,P-D,P-D,P-D,NA,has fn,Planned Development District,No,0,Planned Development District_MF,337,Planned Development District_MF,2
+14,NA,NA,East Lone Tree Specific P,803.719,N,Large,S-P,S-P,S-P,NA,NA,Specific Plan,No,0,Specific Plan_NonRes,338,Specific Plan_NonRes,0

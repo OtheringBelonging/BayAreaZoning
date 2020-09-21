@@ -1,0 +1,44 @@
+gnrl_p_,id,zoning
+407 - Agriculture,0,0
+407 - Commercial Neighborhood,1,0
+407 - Commercial Neighborhood,2,0
+407 - Commercial Recreation,3,0
+407 - Community Commercial,4,0
+407 - Industrial,5,0
+407 - Industrial,6,0
+407 - Industrial/Commercial Recreation,7,0
+407 - Industrial/Commercial Specialty,8,0
+407 - Open Space,9,0
+407 - Open Space,10,0
+407 - Public,11,0
+407 - Public,12,0
+407 - Public,14,0
+407 - Public,15,0
+407 - Residential Estate,16,1
+407 - Residential Estate,18,1
+407 - Edit_NonRes,19,0
+407 - Residential High-2,20,2
+407 - Residential High-2,21,2
+407 - Residential Low,22,1
+407 - Residential Low,23,1
+407 - Residential Low,24,1
+407 - Residential Low,25,1
+407 - Residential Medium,26,2
+407 - Residential Medium,27,2
+407 - Specific Plan: Cluster Residential,28,2
+407 - Specific Plan: Cluster Residential,29,2
+407 - Specific Plan: Open Space,30,0
+407 - Specific Plan: Single Family,31,1
+407 - Specific Plan: Single Family,32,1
+407 - Town Center Mixed Use,33,0
+407 - Town Center Mixed Use,34,0
+407 - Edit_Park,994,0
+407 - Edit_High Residential,990,2
+407 - Edit_TC,992,0
+407 - Edit_Public,993,0
+407 - Edit_Public,994,0
+407 - Edit_OS,995,0
+407 - Edit_OS,996,0
+407 - Edit_REC,997,0
+407 - Edit_SpecificPlan,998,0
+407 - Edit_GI,999,0

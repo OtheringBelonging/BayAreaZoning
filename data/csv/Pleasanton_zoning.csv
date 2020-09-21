@@ -1,0 +1,728 @@
+DATA,DATA_TY,Shp_Lng,Shap_Ar,gnrl_p_,id,edt_g__,zoningd,zoning
+A,Agriculture,1190.7211232,82222.4084808,Agriculture,1,Agriculture,1,0
+A,Agriculture,534.248908594,11088.641348,Agriculture,2,Agriculture,1,0
+HPD,Hillside Planned Development,7194.2584711,2152705.01153,Hillside Planned Development,3,Hillside Planned Development,3,1
+P,Public & Institutional,20171.261723,9523131.70871,Public & Institutional,4,Public & Institutional,4,0
+PUD-A/OS/LDR,Agriculture/Open Space/Low Density Residential-PUD,34767.5745857,50643786.3471,Agriculture/Open Space/Low Density Residential-PUD_SingleFam,5,Agriculture/Open Space/Low Density Residential-PUD_SingleFam,993,1
+PUD-C,Commercial-PUD,555.153394543,19796.016631900002,Commercial-PUD,6,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1433.24549254,102177.339109,Commercial-PUD,7,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1945.15788465,174996.166391,Commercial-PUD,8,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1161.78961948,87096.3136898,Commercial-PUD,9,Commercial-PUD,6,0
+PUD-C-N,Commercial Neighborhood-PUD,2408.05708842,220938.692799,Commercial Neighborhood-PUD,10,Commercial Neighborhood-PUD,10,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1849.72891222,169643.985851,Planned Unit Development - Commercial-Office,11,Planned Unit Development - Commercial-Office,11,0
+PUD-O/HDR,Office/High Density Residential-PUD,2150.34153609,141623.945617,Office/High Density Residential-PUD_NonRes,12,Office/High Density Residential-PUD_NonRes,987,0
+PUD-ELEMENTARY SCHOOL,Elementary School-PUD,3060.5545105,499170.339007,Elementary School-PUD,13,Elementary School-PUD,13,0
+PUD-HDR,Planned Unit Development - High Density Residential,2273.4230369,201928.216282,Planned Unit Development - High Density Residential,14,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1699.41318305,112128.546437,Planned Unit Development - High Density Residential,15,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1373.06460019,111681.068642,Planned Unit Development - High Density Residential,16,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3495.49635574,647856.836139,Planned Unit Development - High Density Residential,17,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1627.28277774,109646.673836,Planned Unit Development - High Density Residential,18,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,5164.22826771,1152140.25898,Planned Unit Development - High Density Residential,19,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,6663.235147,2299750.3975,Planned Unit Development - High Density Residential,20,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1539.96508113,128999.297314,Planned Unit Development - High Density Residential,21,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,559.969889483,11969.5492647,Planned Unit Development - High Density Residential,22,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,824.842625257,42320.1554061,Planned Unit Development - High Density Residential,23,Planned Unit Development - High Density Residential,14,2
+PUD-HDR-MDR,High Density Residential & Medium Density Residential-PUD,5493.32450026,752200.696057,High Density Residential & Medium Density_SingleFamily,24,High Density Residential & Medium Density_SingleFamily,24,1
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,6634.22288312,900262.766564,Planned Unit Development - Industrial/Commercial-Offices,25,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,7381.04376895,2612114.00454,Planned Unit Development - Industrial/Commercial-Offices,26,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,5942.31236489,1430037.21219,Planned Unit Development - Industrial/Commercial-Offices,27,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-LDR,Low Density Residential,2863.37267918,405463.507907,Low Density Residential,28,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,12287.707052,6531514.59339,Low Density Residential,29,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1959.12955259,205704.143408,Low Density Residential,30,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1453.6255371,124759.946168,Low Density Residential,31,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1310.69664397,81053.7228525,Low Density Residential,32,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,3798.08185485,879202.050895,Low Density Residential,33,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1558.19487547,83787.1043855,Low Density Residential,34,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,5793.83472665,1834017.74252,Low Density Residential,35,Low Density Residential,29,1
+PUD-LDR/C/PHS/WO,Low Density Residential/Commercial/Public Health & Safety/Wildlands Overlay-PUD,9430.07850837,2672639.22352,Low Density Residential/Commercial_NonRes,36,Low Density Residential/Commercial_NonRes,37,0
+PUD-LDR/MDR,Low Density Residential/Medium Density Residential-PUD,5067.73234052,1020397.28192,Low Density Residential/Medium Density Residential_SingleFam,37,Low Density Residential/Medium Density Residential_SingleFam,662,1
+PUD-LDR/RDR/PHS,Low Density Residential/Rural Density Residential/Public Health & Safety-PUD,1310.40132097,86804.8006884,Low Density Residential/Rural Density Residential_SingleFam,38,Low Density Residential/Rural Density Residential_SingleFam,39,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,6065.70168035,1925342.95969,Planned Unit Development - Medium Density Residential,39,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1647.98010981,80535.1210102,Planned Unit Development - Medium Density Residential,40,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2027.42975765,224399.66926,Planned Unit Development - Medium Density Residential,41,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,941.665568253,51419.4779966,Planned Unit Development - Medium Density Residential,42,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2886.73708684,405599.33934,Planned Unit Development - Medium Density Residential,43,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,771.348318035,36447.8411639,Planned Unit Development - Medium Density Residential,44,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,894.265591024,49934.4804074,Planned Unit Development - Medium Density Residential,45,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2569.30829475,400587.701222,Planned Unit Development - Medium Density Residential,46,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2883.48493007,546727.034674,Planned Unit Development - Medium Density Residential,47,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR/OS,Medium Density Residential/Open Space-PUD,2305.77656534,313218.319934,Medium Density Residential/Open Space-PUD_SingleFam,48,Medium Density Residential/Open Space-PUD_SingleFam,49,1
+PUD-O/C-C,Commercial Office / Commercial Central-PUD,3323.12079864,362880.744259,Commercial Office / Commercial Central-PUD,49,Commercial Office / Commercial Central-PUD,50,0
+PUD-P,Public & Institutional-PUD,4568.75811528,1209666.71099,Public & Institutional-PUD,50,Public & Institutional-PUD,51,0
+PUD-P,Public & Institutional-PUD,4509.13688504,229586.345495,Public & Institutional-PUD,51,Public & Institutional-PUD,51,0
+PUD-RM-25,Multiple Family Residential-PUD,2563.27142294,369459.93595,Multiple Family Residential-PUD,52,Multiple Family Residential-PUD,53,2
+PUD-SRR,Semi-Rural Residential-PUD,3379.72256602,686619.081285,Semi-Rural Residential-PUD,53,Semi-Rural Residential-PUD,54,1
+R-1-75,Single Family Residential,11789.12889,2592893.20804,Single Family Residential,54,Single Family Residential,55,1
+R-1-85,Single Family Residential,613.143984487,17940.3883268,Single Family Residential,55,Single Family Residential,55,1
+P,Public & Institutional,2135.01923654,78663.4773288,Public & Institutional,56,Public & Institutional,4,0
+A,Agriculture,1148.27280144,68196.0245403,Agriculture,57,Agriculture,1,0
+A,Agriculture,12739.4861776,575638.500483,Agriculture,58,Agriculture,1,0
+A,Agriculture,4438.49089636,748154.329571,Agriculture,59,Agriculture,1,0
+A,Agriculture,3645.52616237,619973.750977,Agriculture,60,Agriculture,1,0
+A,Agriculture,3965.62684373,654011.062688,Agriculture,61,Agriculture,1,0
+PUD-A-OS,Planned Unit Development - Agriculture and Open Space,3532.97386531,502781.436401,Planned Unit Development - Agriculture and Open Space,62,Planned Unit Development - Agriculture and Open Space,63,0
+A,Agriculture,6030.3044128,692119.856592,Agriculture,63,Agriculture,1,0
+C-C,Commercial Central,591.177799344,13420.0639269,Commercial Central,64,Commercial Central,65,0
+A,Agriculture,4988.34776897,1262073.21314,Agriculture,65,Agriculture,1,0
+A,Agriculture,7691.31745288,2068435.83647,Agriculture,66,Agriculture,1,0
+A,Agriculture,11398.4516927,4311119.88502,Agriculture,67,Agriculture,1,0
+A,Agriculture,3107.13499517,544062.413124,Agriculture,68,Agriculture,1,0
+A,Agriculture,3300.00295889,524304.90502,Agriculture,69,Agriculture,1,0
+A,Agriculture,3528.55651758,522717.955207,Agriculture,70,Agriculture,1,0
+A,Agriculture,2578.79003109,435029.053328,Agriculture,71,Agriculture,1,0
+PUD-HDR,Planned Unit Development - High Density Residential,3682.95176197,554299.30926,Planned Unit Development - High Density Residential,72,Planned Unit Development - High Density Residential,14,2
+A,Agriculture,2232.57706089,302523.716937,Agriculture,73,Agriculture,1,0
+A,Agriculture,2297.18662761,299823.108405,Agriculture,74,Agriculture,1,0
+A,Agriculture,1865.9579871399999,213390.196645,Agriculture,75,Agriculture,1,0
+A,Agriculture,748.288261555,26050.570618,Agriculture,76,Agriculture,1,0
+A,Agriculture,870.659678854,33087.7079583,Agriculture,77,Agriculture,1,0
+A,Agriculture,1100.4269554,43716.3936338,Agriculture,78,Agriculture,1,0
+A,Agriculture,2116.12952356,167292.20103,Agriculture,79,Agriculture,1,0
+A,Agriculture,1806.09270339,120851.597192,Agriculture,80,Agriculture,1,0
+PUD-LDR,Low Density Residential,1349.47302398,118394.170443,Low Density Residential,81,Low Density Residential,29,1
+A,Agriculture,1399.01232649,117317.806916,Agriculture,82,Agriculture,1,0
+C-C,Commercial Central,647.889678007,10448.9343899,Commercial Central,83,Commercial Central,65,0
+C-C,Commercial Central,1343.53538842,104638.166755,Commercial Central,84,Commercial Central,65,0
+C-C,Commercial Central,1037.06629763,58863.6167146,Commercial Central,85,Commercial Central,65,0
+C-C,Commercial Central,1163.69171491,48341.851394,Commercial Central,86,Commercial Central,65,0
+C-C,Commercial Central,849.69208458,35586.5230085,Commercial Central,87,Commercial Central,65,0
+C-C,Commercial Central,689.180300809,26930.9263407,Commercial Central,88,Commercial Central,65,0
+C-C,Commercial Central,544.717542415,16966.7799672,Commercial Central,89,Commercial Central,65,0
+C-F,Commercial Freeway,4918.69931166,1217725.12034,Commercial Freeway,90,Commercial Freeway,93,0
+C-F,Commercial Freeway,2075.80877406,221154.526915,Commercial Freeway,91,Commercial Freeway,93,0
+C-F,Commercial Freeway,1273.41007323,100070.660586,Commercial Freeway,92,Commercial Freeway,93,0
+PUD-MDR/OS/PH&S/WO,Medium Density Residential/Open Space/PublicHealth&Safety/Wildland Overlay-PUD,1307.2391393,82881.4068424,Medium Density Residential/Open Space/_SingleFam,93,Medium Density Residential/Open Space/_SingleFam,96,1
+C-F,Commercial Freeway,851.589706426,41780.462181,Commercial Freeway,94,Commercial Freeway,93,0
+C-F,Commercial Freeway,806.324498981,28478.7355724,Commercial Freeway,95,Commercial Freeway,93,0
+C-F,Commercial Freeway,641.709583997,24570.9398418,Commercial Freeway,96,Commercial Freeway,93,0
+C-F,Commercial Freeway,556.376329151,20765.2841674,Commercial Freeway,97,Commercial Freeway,93,0
+C-C,Commercial Central,447.457685901,11466.1479963,Commercial Central,98,Commercial Central,65,0
+C-N,Commercial Neighborhood,2844.59368008,499789.754017,Commercial Neighborhood,99,Commercial Neighborhood,102,0
+C-N,Commercial Neighborhood,2038.66567569,261218.020657,Commercial Neighborhood,100,Commercial Neighborhood,102,0
+C-N,Commercial Neighborhood,2455.94121562,338461.179561,Commercial Neighborhood,101,Commercial Neighborhood,102,0
+C-N,Commercial Neighborhood,2496.83856531,330508.516905,Commercial Neighborhood,102,Commercial Neighborhood,102,0
+PUD-C,Commercial-PUD,720.056061345,34814.9081443,Commercial-PUD,103,Commercial-PUD,6,0
+C-C,Commercial Central,1072.19334695,34289.5596584,Commercial Central,104,Commercial Central,65,0
+C-C,Commercial Central,732.621297051,21853.7948512,Commercial Central,105,Commercial Central,65,0
+C-S,Commercial Service,2821.99526391,398391.824842,Commercial Service,106,Commercial Service,109,0
+C-S,Commercial Service,579.849934734,17504.7733621,Commercial Service,107,Commercial Service,109,0
+U,Unincorporated,7540.55691854,2017736.15093,Unincorporated,108,Unincorporated,112,3
+I-G-40,General Industrial,6177.47263133,1230141.07319,General Industrial,109,General Industrial,114,0
+I-G-40,General Industrial,6603.07786984,2406487.06618,General Industrial,110,General Industrial,114,0
+I-P,Industrial Park,3635.55800771,312545.604526,Industrial Park,111,Industrial Park,116,0
+I-P,Industrial Park,5798.96850189,1517366.51695,Industrial Park,112,Industrial Park,116,0
+I-P,Industrial Park,3457.94148368,158547.370377,Industrial Park,113,Industrial Park,116,0
+O,Office Commercial,2549.13420258,214209.028243,Office Commercial,114,Office Commercial,119,0
+O,Office Commercial,2141.83586624,213445.607801,Office Commercial,115,Office Commercial,119,0
+O,Office Commercial,1809.7472836,121807.113496,Office Commercial,116,Office Commercial,119,0
+O,Office Commercial,1357.21192201,80127.1570327,Office Commercial,117,Office Commercial,119,0
+O,Office Commercial,1110.07045153,66609.8413213,Office Commercial,118,Office Commercial,119,0
+O,Office Commercial,1133.54318677,56526.0603464,Office Commercial,119,Office Commercial,119,0
+O,Office Commercial,965.419253049,52778.9858445,Office Commercial,120,Office Commercial,119,0
+PUD-O,Planned Unit Development - Office,1126.96065924,42253.2907423,Planned Unit Development - Office,121,Planned Unit Development - Office,126,0
+O,Office Commercial,862.485357554,43887.5600487,Office Commercial,122,Office Commercial,119,0
+MU-T,Mixed Use Transitional,713.141713629,25168.1675527,Mixed Use Transitional,123,Mixed Use Transitional,128,0
+PUD-O,Planned Unit Development - Office,821.155402225,28368.5878939,Planned Unit Development - Office,124,Planned Unit Development - Office,126,0
+MU-T,Mixed Use Transitional,471.144740455,10727.5382034,Mixed Use Transitional,125,Mixed Use Transitional,128,0
+O,Office Commercial,423.467371975,11425.0677749,Office Commercial,126,Office Commercial,119,0
+C-C,Commercial Central,374.529946345,8456.10396977,Commercial Central,127,Commercial Central,65,0
+O,Office Commercial,2486.47758765,240132.386724,Office Commercial,128,Office Commercial,119,0
+MU-D,Mixed Used Downtown,1840.05766962,137243.965345,Mixed Used Downtown,129,Mixed Used Downtown,698,0
+P,Public & Institutional,4798.17197384,1107889.88756,Public & Institutional,130,Public & Institutional,4,0
+P,Public & Institutional,4685.61367554,1022428.24935,Public & Institutional,131,Public & Institutional,4,0
+P,Public & Institutional,4276.80561119,824556.500131,Public & Institutional,132,Public & Institutional,4,0
+P,Public & Institutional,3454.86075741,734425.455574,Public & Institutional,133,Public & Institutional,4,0
+MU-D,Mixed Used Downtown,1874.32171091,170106.341336,Mixed Used Downtown,134,Mixed Used Downtown,698,0
+P,Public & Institutional,2440.84150829,244014.275386,Public & Institutional,135,Public & Institutional,4,0
+P,Public & Institutional,1873.94943025,188841.606643,Public & Institutional,136,Public & Institutional,4,0
+P,Public & Institutional,1667.57386167,174691.570429,Public & Institutional,137,Public & Institutional,4,0
+P,Public & Institutional,1934.56731452,160009.322134,Public & Institutional,138,Public & Institutional,4,0
+P,Public & Institutional,1855.00924167,154116.245287,Public & Institutional,139,Public & Institutional,4,0
+P,Public & Institutional,1637.99088255,148721.944261,Public & Institutional,140,Public & Institutional,4,0
+P,Public & Institutional,1807.90670834,114349.378595,Public & Institutional,141,Public & Institutional,4,0
+P,Public & Institutional,1519.87906832,85812.9786526,Public & Institutional,142,Public & Institutional,4,0
+P,Public & Institutional,13384.6823519,11193035.4581,Public & Institutional,143,Public & Institutional,4,0
+PUD-A,Agriculture-PUD,1010.7934705,57660.5432816,Agriculture-PUD,144,Agriculture-PUD,149,0
+PUD-C,Commercial-PUD,905.426465635,32021.8273425,Commercial-PUD,145,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,525.596095403,17180.827256,Commercial-PUD,146,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1965.09737672,221165.580887,Commercial-PUD,147,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,4674.85990271,1321914.86991,Commercial-PUD,148,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,3302.72576929,636731.346891,Commercial-PUD,149,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1415.17073335,73163.8810368,Commercial-PUD,150,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,2339.17359912,340348.256064,Commercial-PUD,151,Commercial-PUD,6,0
+PUD-C-C,Central Commercial-PUD,976.966715423,50530.9289516,Central Commercial-PUD,152,Central Commercial-PUD,157,0
+PUD-C-O,Planned Unit Development - Commercial-Office,4324.44409663,553589.560219,Planned Unit Development - Commercial-Office,153,Planned Unit Development - Commercial-Office,11,0
+PUD-MU,Planned Unit Development - Mixed Use,5586.20169576,1293787.59965,Planned Unit Development - Mixed Use_NonRes,154,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1648.2671776,167501.026587,Planned Unit Development - Commercial-Office,155,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,2094.49092138,157405.875114,Planned Unit Development - Commercial-Office,156,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1415.40799691,109325.276665,Planned Unit Development - Commercial-Office,157,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1361.67202808,105735.091525,Planned Unit Development - Commercial-Office,158,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1162.08128207,65930.8118103,Planned Unit Development - Commercial-Office,159,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,386.047128842,9085.83067419,Planned Unit Development - Commercial-Office,160,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1058.6679102,61122.1885955,Planned Unit Development - Commercial-Office,161,Planned Unit Development - Commercial-Office,11,0
+PUD-C-S,Commercial Service-PUD,870.063656472,48654.2433232,Commercial Service-PUD,162,Commercial Service-PUD,167,0
+PUD-HDR,Planned Unit Development - High Density Residential,721.870234707,31081.7128966,Planned Unit Development - High Density Residential,163,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,540.770863051,18056.4880106,Planned Unit Development - High Density Residential,164,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,603.457213716,14671.0335031,Planned Unit Development - High Density Residential,165,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,509.279377808,12395.5107248,Planned Unit Development - High Density Residential,166,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,598.884793789,22757.9502443,Planned Unit Development - High Density Residential,167,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,452.776737099,10126.5082566,Planned Unit Development - High Density Residential,168,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,410.314229267,7098.25096187,Planned Unit Development - High Density Residential,169,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,898.777701901,49895.973193,Planned Unit Development - High Density Residential,170,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,977.807969235,54672.6306166,Planned Unit Development - High Density Residential,171,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1372.32668881,76869.5661964,Planned Unit Development - High Density Residential,172,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1213.80551107,78782.3201858,Planned Unit Development - High Density Residential,173,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2046.29636822,89991.0255713,Planned Unit Development - High Density Residential,174,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1537.8143854100001,90728.3105356,Planned Unit Development - High Density Residential,175,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1658.84941294,105532.863421,Planned Unit Development - High Density Residential,176,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1421.9018818,120897.215691,Planned Unit Development - High Density Residential,177,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2158.21423529,161820.665308,Planned Unit Development - High Density Residential,178,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1948.9083369,185539.517017,Planned Unit Development - High Density Residential,179,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,889.708967385,40559.491577,Planned Unit Development - High Density Residential,180,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3705.67631634,537416.557141,Planned Unit Development - High Density Residential,181,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2816.01631816,312025.759461,Planned Unit Development - High Density Residential,182,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2621.84743471,331682.017485,Planned Unit Development - High Density Residential,183,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2740.35979147,381366.946686,Planned Unit Development - High Density Residential,184,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2570.43923827,402372.057047,Planned Unit Development - High Density Residential,185,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3731.65121732,479487.172881,Planned Unit Development - High Density Residential,186,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,4547.76083215,542597.671729,Planned Unit Development - High Density Residential,187,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3562.18490232,581918.786325,Planned Unit Development - High Density Residential,188,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,4328.3768981,664039.854589,Planned Unit Development - High Density Residential,189,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,4451.04731273,697121.716202,Planned Unit Development - High Density Residential,190,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3665.55650593,864109.562109,Planned Unit Development - High Density Residential,191,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,4293.14496971,1029956.84468,Planned Unit Development - High Density Residential,192,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1053.82184208,33185.0262412,Planned Unit Development - High Density Residential,193,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,862.38713783,33008.173727,Planned Unit Development - High Density Residential,194,Planned Unit Development - High Density Residential,14,2
+PUD-HR,Hillside Residential,434.595713339,14985.2381124,Hillside Residential,195,Hillside Residential,202,1
+PUD-HR,Hillside Residential,514.002443584,15065.5395374,Hillside Residential,196,Hillside Residential,202,1
+PUD-HR,Hillside Residential,440.724646833,15404.8566815,Hillside Residential,197,Hillside Residential,202,1
+PUD-HR,Hillside Residential,1174.97270305,62782.290246,Hillside Residential,198,Hillside Residential,202,1
+PUD-HR,Hillside Residential,405.074948132,13001.6648549,Hillside Residential,199,Hillside Residential,202,1
+PUD-HR,Hillside Residential,414.780091464,13546.310505,Hillside Residential,200,Hillside Residential,202,1
+PUD-HR,Hillside Residential,406.322448941,13082.5401003,Hillside Residential,201,Hillside Residential,202,1
+PUD-HR,Hillside Residential,360.054428505,9587.77846131,Hillside Residential,202,Hillside Residential,202,1
+PUD-I,Industrial-PUD,1443.58398969,66790.0266008,Industrial-PUD,203,Industrial-PUD,210,0
+PUD-I,Industrial-PUD,7539.15087353,2904246.33519,Industrial-PUD,204,Industrial-PUD,210,0
+PUD-I,Industrial-PUD,7397.35648154,3502450.16809,Industrial-PUD,205,Industrial-PUD,210,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,9052.44707695,4592878.89998,Planned Unit Development - Industrial/Commercial-Offices,206,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,3359.38672952,733236.80446,Planned Unit Development - Industrial/Commercial-Offices,207,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,3325.72557276,399701.669694,Planned Unit Development - Industrial/Commercial-Offices,208,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-LDR,Low Density Residential,3314.60497946,403328.794951,Low Density Residential,209,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,811.171920476,45655.2679454,Low Density Residential,210,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1773.68868586,201676.871281,Low Density Residential,211,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,357.02179664,10096.6487848,Low Density Residential,212,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,7176.51745076,3207377.94372,Low Density Residential,213,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,2928.37351571,424688.692577,Low Density Residential,214,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,3020.21771181,438774.75617,Low Density Residential,215,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1909.15036906,221898.465254,Low Density Residential,216,Low Density Residential,29,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,6091.63813203,2074172.08102,Low Density Residential/Open Space-PUD_SingleFamily,217,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,6674.4146272,2203488.01611,Low Density Residential/Open Space-PUD_NonRes,218,Low Density Residential/Open Space-PUD_NonRes,994,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,3289.38229828,461208.310906,Planned Unit Development - Medium Density Residential,219,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3247.8863056,395648.669291,Planned Unit Development - Medium Density Residential,220,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3243.7712847,585614.445603,Planned Unit Development - Medium Density Residential,221,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,6785.85331906,2490967.58712,Planned Unit Development - Medium Density Residential,222,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,6561.26704617,2117489.2122,Planned Unit Development - Medium Density Residential,223,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4491.27258142,1246484.88465,Planned Unit Development - Medium Density Residential,224,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4877.2298662,1109209.22695,Planned Unit Development - Medium Density Residential,225,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4084.50424182,840021.262594,Planned Unit Development - Medium Density Residential,226,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,521.397185858,12357.7738296,Planned Unit Development - Medium Density Residential,227,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1103.90514165,39855.3111738,Planned Unit Development - Medium Density Residential,228,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,997.830064099,42202.601462,Planned Unit Development - Medium Density Residential,229,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1007.11575322,53128.008931,Planned Unit Development - Medium Density Residential,230,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1299.33664075,86494.9783566,Planned Unit Development - Medium Density Residential,231,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1525.05740428,87661.0623944,Planned Unit Development - Medium Density Residential,232,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2268.5486872,89955.7776252,Planned Unit Development - Medium Density Residential,233,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1364.76674048,106761.798078,Planned Unit Development - Medium Density Residential,234,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2153.82722338,169642.009111,Planned Unit Development - Medium Density Residential,235,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1890.08047292,192259.494847,Planned Unit Development - Medium Density Residential,236,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1940.89402143,208440.310758,Planned Unit Development - Medium Density Residential,237,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1970.87533986,227466.725187,Planned Unit Development - Medium Density Residential,238,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3089.27268314,531326.527011,Planned Unit Development - Medium Density Residential,239,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2725.16065938,342538.466465,Planned Unit Development - Medium Density Residential,240,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2485.77068659,364727.089092,Planned Unit Development - Medium Density Residential,241,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2756.75640493,379229.673417,Planned Unit Development - Medium Density Residential,242,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4071.24314833,409030.155205,Planned Unit Development - Medium Density Residential,243,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2711.80844465,317482.742261,Planned Unit Development - Medium Density Residential,244,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1082.26950181,65750.7234188,Planned Unit Development - Medium Density Residential,245,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,7716.90387016,2190092.16454,Planned Unit Development - Medium Density Residential,246,Planned Unit Development - Medium Density Residential,40,1
+PUD-O,Planned Unit Development - Office,973.1295503,58742.4903792,Planned Unit Development - Office,247,Planned Unit Development - Office,126,0
+PUD-O,Planned Unit Development - Office,822.998668214,42121.8239618,Planned Unit Development - Office,248,Planned Unit Development - Office,126,0
+PUD-O,Planned Unit Development - Office,1646.57194625,83122.9067011,Planned Unit Development - Office,249,Planned Unit Development - Office,126,0
+PUD-O,Planned Unit Development - Office,506.472136539,8830.76422785,Planned Unit Development - Office,250,Planned Unit Development - Office,126,0
+PUD-OS,Planned Unit Development - Open Space,900.041495687,35003.6827661,Planned Unit Development - Open Space,251,Planned Unit Development - Open Space,260,0
+PUD-OS,Planned Unit Development - Open Space,837.415520359,31868.5654,Planned Unit Development - Open Space,252,Planned Unit Development - Open Space,260,0
+PUD-OS,Planned Unit Development - Open Space,1118.34814828,43226.373284,Planned Unit Development - Open Space,253,Planned Unit Development - Open Space,260,0
+PUD-OS,Planned Unit Development - Open Space,1398.44520127,67171.4187721,Planned Unit Development - Open Space,254,Planned Unit Development - Open Space,260,0
+PUD-OS,Planned Unit Development - Open Space,2257.69243797,130190.051629,Planned Unit Development - Open Space,255,Planned Unit Development - Open Space,260,0
+PUD-R-1-65,Single Family Residential-PUD,5141.47939579,642932.285495,Single Family Residential-PUD,256,Single Family Residential-PUD,266,1
+PUD-R-1-65,Single Family Residential-PUD,5292.91217639,1630601.69703,Single Family Residential-PUD,257,Single Family Residential-PUD,266,1
+PUD-RDR/LDR,Rural Density Residential/Low Density Residential-PUD,9287.96345312,3793219.03363,Rural Density Residential/Low Density Residential-PUD,258,Rural Density Residential/Low Density Residential-PUD,268,1
+PUD-VINEYARD,Vineyard-PUD,5455.715915,405213.024648,Vineyard-PUD,259,Vineyard-PUD,269,0
+PUD-VINEYARD,Vineyard-PUD,1906.80027985,137877.622742,Vineyard-PUD,260,Vineyard-PUD,269,0
+R-1-10,Single Family Residential,736.609231739,32776.1636251,Single Family Residential,261,Single Family Residential,55,1
+R-1-10,Single Family Residential,1271.40470287,78048.9269921,Single Family Residential,262,Single Family Residential,55,1
+R-1-20,Single Family Residential,1437.03860468,114253.244661,Single Family Residential,263,Single Family Residential,55,1
+R-1-20,Single Family Residential,440.621488692,12087.7719976,Single Family Residential,264,Single Family Residential,55,1
+R-1-20,Single Family Residential,1561.92675375,152909.735082,Single Family Residential,265,Single Family Residential,55,1
+R-1-20,Single Family Residential,2471.28867828,227821.664454,Single Family Residential,266,Single Family Residential,55,1
+R-1-20,Single Family Residential,3154.42483221,384701.10961,Single Family Residential,267,Single Family Residential,55,1
+R-1-20,Single Family Residential,3626.73802168,742079.95232,Single Family Residential,268,Single Family Residential,55,1
+R-1-20,Single Family Residential,885.993949208,43294.6898866,Single Family Residential,269,Single Family Residential,55,1
+R-1-20,Single Family Residential,1006.22741274,46517.4064698,Single Family Residential,270,Single Family Residential,55,1
+R-1-40,Single Family Residential,4665.55257798,748429.590551,Single Family Residential,271,Single Family Residential,55,1
+R-1-40,Single Family Residential,1604.19019003,73940.5158446,Single Family Residential,272,Single Family Residential,55,1
+R-1-40,Single Family Residential,2553.047815,313899.920108,Single Family Residential,273,Single Family Residential,55,1
+R-1-65,Single Family Residential,922.159788024,46493.6820861,Single Family Residential,274,Single Family Residential,55,1
+R-1-65,Single Family Residential,26214.8135312,6949436.01329,Single Family Residential,275,Single Family Residential,55,1
+R-1-65,Single Family Residential,19814.068005,10238927.2426,Single Family Residential,276,Single Family Residential,55,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4262.37183426,572432.338241,Planned Unit Development - Medium Density Residential,277,Planned Unit Development - Medium Density Residential,40,1
+R-1-65,Single Family Residential,15210.6575775,10372395.1775,Single Family Residential,278,Single Family Residential,55,1
+R-1-65,Single Family Residential,10305.4078494,4957934.05624,Single Family Residential,279,Single Family Residential,55,1
+R-1-65,Single Family Residential,12305.8448976,4866281.88127,Single Family Residential,280,Single Family Residential,55,1
+R-1-65,Single Family Residential,10554.7209162,5016239.58845,Single Family Residential,281,Single Family Residential,55,1
+R-1-65,Single Family Residential,9970.63919242,3888309.99621,Single Family Residential,282,Single Family Residential,55,1
+R-1-65,Single Family Residential,8745.0398702,3653249.59221,Single Family Residential,283,Single Family Residential,55,1
+R-1-65,Single Family Residential,6391.24980611,2582486.6438,Single Family Residential,284,Single Family Residential,55,1
+R-1-65,Single Family Residential,6085.76559197,1065540.22045,Single Family Residential,285,Single Family Residential,55,1
+R-1-65,Single Family Residential,13589.2418172,6414154.15778,Single Family Residential,286,Single Family Residential,55,1
+R-1-65,Single Family Residential,3295.5173952,640150.431058,Single Family Residential,287,Single Family Residential,55,1
+R-1-65,Single Family Residential,3997.05188232,540540.435647,Single Family Residential,288,Single Family Residential,55,1
+R-1-65,Single Family Residential,2776.56734846,178767.112816,Single Family Residential,289,Single Family Residential,55,1
+R-1-65,Single Family Residential,1999.20139564,137407.151846,Single Family Residential,290,Single Family Residential,55,1
+PUD-HDR,Planned Unit Development - High Density Residential,723.652519676,32721.1253924,Planned Unit Development - High Density Residential,291,Planned Unit Development - High Density Residential,14,2
+RM-15,Multiple-Family Residential,1938.91476937,97358.3711259,Multiple-Family Residential,292,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,737.303897916,32448.720887,Multiple-Family Residential,293,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,529.523098533,17371.3974471,Multiple-Family Residential,294,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,407.826911006,9659.23065976,Multiple-Family Residential,295,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,1132.0722755,54729.3026442,Multiple-Family Residential,296,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,1538.66460247,83147.7300921,Multiple-Family Residential,297,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,5509.87851748,781655.336788,Multiple-Family Residential,298,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,6059.88723719,450756.067838,Multiple-Family Residential,299,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,1903.9143439,204220.632891,Multiple-Family Residential,300,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,2965.66950664,202001.933749,Multiple-Family Residential,301,Multiple-Family Residential,302,2
+RM-15,Multiple-Family Residential,1456.68574001,130037.57495,Multiple-Family Residential,302,Multiple-Family Residential,302,2
+RM-2,Multiple-Family Residential,1576.43230936,146508.359864,Multiple-Family Residential,303,Multiple-Family Residential,302,2
+RM-2,Multiple-Family Residential,509.554788337,10971.4093501,Multiple-Family Residential,304,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,1937.98150633,119466.42288,Multiple-Family Residential,305,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,1119.72651425,84199.3720042,Multiple-Family Residential,306,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,1408.29978163,83404.7467156,Multiple-Family Residential,307,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,2229.50513758,131981.969012,Multiple-Family Residential,308,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,801.947281338,37220.9884926,Multiple-Family Residential,309,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,549.293898229,18850.5337404,Multiple-Family Residential,310,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,569.727380889,13578.0595541,Multiple-Family Residential,311,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,1025.98376143,47118.6253108,Multiple-Family Residential,312,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,3437.8461327,687014.235083,Multiple-Family Residential,313,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,4754.4031391300005,639354.03113,Multiple-Family Residential,314,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,1464.21471701,134972.746835,Multiple-Family Residential,315,Multiple-Family Residential,302,2
+RM-25,Multiple-Family Residential,2661.22643337,169416.395994,Multiple-Family Residential,316,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,731.535932215,32345.3956418,Multiple-Family Residential,317,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,448.043055125,12388.5131842,Multiple-Family Residential,318,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,460.01997678,11200.9746497,Multiple-Family Residential,319,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,322.632391249,6131.98247408,Multiple-Family Residential,320,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,4451.96757394,393912.494715,Multiple-Family Residential,321,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,2786.10144821,269837.865236,Multiple-Family Residential,322,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,1917.32593697,86531.512078,Multiple-Family Residential,323,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,1220.58061389,50856.0594051,Multiple-Family Residential,324,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,4377.02074305,860846.113134,Multiple-Family Residential,325,Multiple-Family Residential,302,2
+RM-4,Multiple-Family Residential,1049.92920875,47550.6737975,Multiple-Family Residential,326,Multiple-Family Residential,302,2
+PUD-HDR,Planned Unit Development - High Density Residential,953.134029518,38195.881502,Planned Unit Development - High Density Residential,327,Planned Unit Development - High Density Residential,14,2
+RM-40,Multiple-Family Residential,4155.73930168,339555.506609,Multiple-Family Residential,328,Multiple-Family Residential,302,2
+RM-40,Multiple-Family Residential,1067.76631329,48877.3193006,Multiple-Family Residential,329,Multiple-Family Residential,302,2
+RM-40,Multiple-Family Residential,1319.36581335,83958.0080327,Multiple-Family Residential,330,Multiple-Family Residential,302,2
+U,Unincorporated,35816.1642641,56533000.9022,Unincorporated,331,Unincorporated,112,3
+U,Unincorporated,2347.78216335,162332.96676,Unincorporated,332,Unincorporated,112,3
+U,Unincorporated,73133.3744969,72737650.442,Unincorporated,333,Unincorporated,112,3
+U,Unincorporated,10104.1650354,3887244.44276,Unincorporated,334,Unincorporated,112,3
+U,Unincorporated,20484.5578653,17528145.035,Unincorporated,335,Unincorporated,112,3
+U,Unincorporated,10906.7038061,7027034.63819,Unincorporated,336,Unincorporated,112,3
+U,Unincorporated,8026.16626659,3654444.39977,Unincorporated,337,Unincorporated,112,3
+U,Unincorporated,8029.87905443,1812865.83264,Unincorporated,338,Unincorporated,112,3
+U,Unincorporated,6173.46815249,1646049.07872,Unincorporated,339,Unincorporated,112,3
+U,Unincorporated,5130.27108751,941904.283431,Unincorporated,340,Unincorporated,112,3
+U,Unincorporated,4342.78779292,892190.924693,Unincorporated,341,Unincorporated,112,3
+U,Unincorporated,5415.26994375,792330.933182,Unincorporated,342,Unincorporated,112,3
+U,Unincorporated,10535.2461223,556171.14755,Unincorporated,343,Unincorporated,112,3
+U,Unincorporated,94900.3548835,277896210.281,Unincorporated,344,Unincorporated,112,3
+U,Unincorporated,2678.29525466,391510.673595,Unincorporated,345,Unincorporated,112,3
+U,Unincorporated,4240.67506235,385980.861182,Unincorporated,346,Unincorporated,112,3
+U,Unincorporated,3847.77269556,289106.461372,Unincorporated,347,Unincorporated,112,3
+U,Unincorporated,3046.26132204,240579.845717,Unincorporated,348,Unincorporated,112,3
+U,Unincorporated,1500.07499218,135305.363769,Unincorporated,349,Unincorporated,112,3
+U,Unincorporated,1524.40547528,106913.937391,Unincorporated,350,Unincorporated,112,3
+U,Unincorporated,1299.23356379,88838.0992353,Unincorporated,351,Unincorporated,112,3
+U,Unincorporated,1581.27529972,86316.8435064,Unincorporated,352,Unincorporated,112,3
+U,Unincorporated,1483.52636342,77515.2378658,Unincorporated,353,Unincorporated,112,3
+U,Unincorporated,1628.41958198,61647.3995161,Unincorporated,354,Unincorporated,112,3
+U,Unincorporated,1152.2980253,36529.3871447,Unincorporated,355,Unincorporated,112,3
+U,Unincorporated,956.043605134,34733.8079056,Unincorporated,356,Unincorporated,112,3
+U,Unincorporated,1886.6881197,24429.0758142,Unincorporated,357,Unincorporated,112,3
+U,Unincorporated,541.100463008,14699.119873,Unincorporated,358,Unincorporated,112,3
+U,Unincorporated,383.265998675,3486.57683311,Unincorporated,359,Unincorporated,112,3
+U,Unincorporated,946.262843405,19080.646054,Unincorporated,360,Unincorporated,112,3
+U,Unincorporated,472.95613146,4140.96236168,Unincorporated,361,Unincorporated,112,3
+U,Unincorporated,2112.76255337,39234.8491753,Unincorporated,362,Unincorporated,112,3
+PUD-MDR,Planned Unit Development - Medium Density Residential,5890.58208577,1190665.27274,Planned Unit Development - Medium Density Residential,363,Planned Unit Development - Medium Density Residential,40,1
+RM-15,Multiple-Family Residential,1642.63812201,163219.998153,Multiple-Family Residential,364,Multiple-Family Residential,302,2
+R-1-65,Single Family Residential,712.433058769,32610.4618536,Single Family Residential,365,Single Family Residential,55,1
+PUD-HDR,Planned Unit Development - High Density Residential,588.901624078,20622.5003135,Planned Unit Development - High Density Residential,366,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,617.240191696,22014.013685,Planned Unit Development - High Density Residential,367,Planned Unit Development - High Density Residential,14,2
+A,Agriculture,3122.31582594,362623.110327,Agriculture,368,Agriculture,1,0
+PUD-HDR,Planned Unit Development - High Density Residential,1816.09941885,156354.315672,Planned Unit Development - High Density Residential,369,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3336.66256133,578231.189278,Planned Unit Development - High Density Residential,370,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2525.22070291,321973.559335,Planned Unit Development - High Density Residential,371,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2715.40358871,418253.626688,Planned Unit Development - High Density Residential,372,Planned Unit Development - High Density Residential,14,2
+PUD-A,Agriculture-PUD,1623.58561248,136822.399895,Agriculture-PUD,373,Agriculture-PUD,149,0
+PUD-A/MDR,Agriculture/Medium Density Residential-PUD,1168.64513152,83420.768576,Agriculture/Medium Density Residential-PUD_SingleFamily,374,Agriculture/Medium Density Residential-PUD_SingleFamily,387,1
+PUD-C,Commercial-PUD,795.97059195,36101.9903246,Commercial-PUD,375,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1530.61752126,154096.427637,Commercial-PUD,376,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1262.70927608,86788.5471322,Commercial-PUD,377,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,1442.82140264,103962.539758,Commercial-PUD,378,Commercial-PUD,6,0
+PUD-HDR,Planned Unit Development - High Density Residential,3564.25700483,593797.259942,Planned Unit Development - High Density Residential,379,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2828.19262039,466662.233856,Planned Unit Development - High Density Residential,380,Planned Unit Development - High Density Residential,14,2
+PUD-R-1-65,Single Family Residential-PUD,4026.82659626,854864.049079,Single Family Residential-PUD,381,Single Family Residential-PUD,266,1
+PUD-R-1-65,Single Family Residential-PUD,6026.64357897,1645085.80502,Single Family Residential-PUD,382,Single Family Residential-PUD,266,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,904.407394317,43406.3397291,Planned Unit Development - Medium Density Residential,383,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4893.98704609,1324002.83551,Planned Unit Development - Medium Density Residential,384,Planned Unit Development - Medium Density Residential,40,1
+PUD-O,Planned Unit Development - Office,1100.94987383,67102.4146637,Planned Unit Development - Office,385,Planned Unit Development - Office,126,0
+R-1-65,Single Family Residential,389.581446133,6492.15911916,Single Family Residential,386,Single Family Residential,55,1
+R-1-65,Single Family Residential,3146.32231404,290682.502673,Single Family Residential,387,Single Family Residential,55,1
+RM-25,Multiple-Family Residential,539.237103718,13885.3647407,Multiple-Family Residential,388,Multiple-Family Residential,302,2
+PUD-HDR,Planned Unit Development - High Density Residential,536.663036354,14612.5647209,Planned Unit Development - High Density Residential,389,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,448.754115438,10359.2949071,Planned Unit Development - High Density Residential,390,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2225.52071404,183786.80629,Planned Unit Development - High Density Residential,391,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2034.5600465,86600.5653027,Planned Unit Development - High Density Residential,392,Planned Unit Development - High Density Residential,14,2
+PUD-C,Commercial-PUD,2693.3787289,339641.318844,Commercial-PUD,393,Commercial-PUD,6,0
+PUD-OS,Planned Unit Development - Open Space,1249.17266159,24836.7013521,Planned Unit Development - Open Space,394,Planned Unit Development - Open Space,260,0
+PUD-OS,Planned Unit Development - Open Space,2028.11093564,226543.894167,Planned Unit Development - Open Space,395,Planned Unit Development - Open Space,260,0
+PUD-HDR,Planned Unit Development - High Density Residential,4645.01778509,872372.934378,Planned Unit Development - High Density Residential,396,Planned Unit Development - High Density Residential,14,2
+PUD-LDR,Low Density Residential,2317.65526925,242006.093216,Low Density Residential,397,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1646.80792068,173398.880316,Low Density Residential,398,Low Density Residential,29,1
+PUD-HDR,Planned Unit Development - High Density Residential,474.704909219,10905.7606639,Planned Unit Development - High Density Residential,399,Planned Unit Development - High Density Residential,14,2
+PUD-MDR,Planned Unit Development - Medium Density Residential,2097.57466328,182636.456289,Planned Unit Development - Medium Density Residential,400,Planned Unit Development - Medium Density Residential,40,1
+PUD-HDR,Planned Unit Development - High Density Residential,473.272573835,10785.5873415,Planned Unit Development - High Density Residential,401,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,462.424546143,10179.7111139,Planned Unit Development - High Density Residential,402,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1862.09253989,118587.282908,Planned Unit Development - High Density Residential,403,Planned Unit Development - High Density Residential,14,2
+PUD-O,Planned Unit Development - Office,722.999143517,30637.4138718,Planned Unit Development - Office,404,Planned Unit Development - Office,126,0
+PUD-LDR,Low Density Residential,1163.17674255,72623.1651935,Low Density Residential,405,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1526.49293735,145335.837152,Low Density Residential,406,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,4833.90794253,1469730.87443,Planned Unit Development - Medium Density Residential,407,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2656.845997,311800.662196,Planned Unit Development - Medium Density Residential,408,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3190.45576987,629681.403489,Planned Unit Development - Medium Density Residential,409,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR,Low Density Residential,844.100133945,34840.4071577,Low Density Residential,410,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1346.63569348,113659.111196,Low Density Residential,411,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1170.68465671,60316.8816019,Low Density Residential,412,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,1421.34138663,117554.944429,Low Density Residential,413,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,2992.38411459,360121.047702,Low Density Residential,414,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,7717.49723151,2646013.62683,Low Density Residential,415,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,5231.45519961,1816732.16064,Low Density Residential,416,Low Density Residential,29,1
+PUD-OS,Planned Unit Development - Open Space,1183.45270612,71458.4612833,Planned Unit Development - Open Space,417,Planned Unit Development - Open Space,260,0
+PUD-LDR,Low Density Residential,1416.55126013,99159.4091242,Low Density Residential,418,Low Density Residential,29,1
+PUD-COMMUNITY PARK,Community Park,5018.32846443,896604.583676,Community Park,419,Community Park,432,0
+PUD-HR,Hillside Residential,468.522650049,17420.8142706,Hillside Residential,420,Hillside Residential,202,1
+PUD-HR,Hillside Residential,673.985180084,36075.5294566,Hillside Residential,421,Hillside Residential,202,1
+PUD-HR,Hillside Residential,396.047361156,12443.8788482,Hillside Residential,422,Hillside Residential,202,1
+PUD-HR,Hillside Residential,396.075725432,12447.4175801,Hillside Residential,423,Hillside Residential,202,1
+PUD-OS,Planned Unit Development - Open Space,908.628596229,16824.1976836,Planned Unit Development - Open Space,424,Planned Unit Development - Open Space,260,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,4861.27115693,719634.112595,Planned Unit Development - Medium Density Residential,425,Planned Unit Development - Medium Density Residential,40,1
+PUD-HR,Hillside Residential,536.014549731,19137.9129291,Hillside Residential,426,Hillside Residential,202,1
+PUD-HDR,Planned Unit Development - High Density Residential,530.732167428,13098.4999724,Planned Unit Development - High Density Residential,427,Planned Unit Development - High Density Residential,14,2
+PUD-R-1-65,Single Family Residential-PUD,783.833062749,19463.5870138,Single Family Residential-PUD,428,Single Family Residential-PUD,266,1
+PUD-RDR/LDR,Rural Density Residential/Low Density Residential-PUD,1236.49638212,75991.9139102,Rural Density Residential/Low Density Residential-PUD,429,Rural Density Residential/Low Density Residential-PUD,268,1
+R-1-65,Single Family Residential,4516.90398541,964498.582724,Single Family Residential,430,Single Family Residential,55,1
+RM-4,Multiple-Family Residential,1550.20360549,63751.0809929,Multiple-Family Residential,431,Multiple-Family Residential,302,2
+PUD-HDR,Planned Unit Development - High Density Residential,453.885602439,9630.99453339,Planned Unit Development - High Density Residential,432,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,602.930029936,22719.751873,Planned Unit Development - High Density Residential,433,Planned Unit Development - High Density Residential,14,2
+PUD-MU,Planned Unit Development - Mixed Use,2490.98103516,370697.979356,Planned Unit Development - Mixed Use_NonRes,434,Planned Unit Development - Mixed Use_NonRes,159,0
+P,Public & Institutional,6408.89722578,1003895.13405,Public & Institutional,435,Public & Institutional,4,0
+PUD-G&LI,General & Light Industrial-PUD,1631.46047943,138879.785055,General & Light Industrial-PUD,436,General & Light Industrial-PUD,453,0
+A,Agriculture,11622.4483172,6063395.44319,Agriculture,437,Agriculture,1,0
+PUD-C-C,Central Commercial-PUD,2580.69557978,263447.946724,Central Commercial-PUD,438,Central Commercial-PUD,157,0
+PUD-C-C,Central Commercial-PUD,565.3114202,11664.3138999,Central Commercial-PUD,439,Central Commercial-PUD,157,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,4750.49586028,1175570.10979,Planned Unit Development - Medium Density Residential,440,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2635.99588028,286614.728241,Planned Unit Development - Medium Density Residential,441,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR/HDR/P&I & Mixed P&I/MDR,Low Density Residential/High Density Residential/Public & Institutional-Mixed Public & Institutional/Medium Density Residential-PUD,4239.83219319,1003018.18546,Low Density Residential/High Density Residential_NonRes,442,Low Density Residential/High Density Residential_NonRes,461,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,2605.85150663,398243.016341,Planned Unit Development - Medium Density Residential,443,Planned Unit Development - Medium Density Residential,40,1
+PUD-C,Commercial-PUD,1077.78072929,72957.1516218,Commercial-PUD,444,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,834.017857368,36323.5847125,Commercial-PUD,445,Commercial-PUD,6,0
+PUD-SRDR,Semi-Rural Residential,3290.12482631,445601.03545,Semi-Rural Residential,446,Semi-Rural Residential,465,1
+PUD-SRDR,Semi-Rural Residential,5731.43005689,1426888.76569,Semi-Rural Residential,447,Semi-Rural Residential,465,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,3852.72339032,653422.755903,Low Density Residential/Open Space-PUD_SingleFamily,448,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+PUD-OS,Planned Unit Development - Open Space,1999.35496909,163639.128944,Planned Unit Development - Open Space,449,Planned Unit Development - Open Space,260,0
+PUD-LDR,Low Density Residential,1689.20204053,168161.308387,Low Density Residential,450,Low Density Residential,29,1
+PUD-OS,Planned Unit Development - Open Space,3823.68528811,696284.601178,Planned Unit Development - Open Space,451,Planned Unit Development - Open Space,260,0
+PUD-LDR,Low Density Residential,1539.85262482,117009.171251,Low Density Residential,452,Low Density Residential,29,1
+A,Agriculture,1809.84725973,115980.120374,Agriculture,453,Agriculture,1,0
+R-1-40,Single Family Residential,1552.16488975,133969.57756,Single Family Residential,454,Single Family Residential,55,1
+PUD-LDR,Low Density Residential,1611.30708858,107817.010032,Low Density Residential,455,Low Density Residential,29,1
+PUD-RDR/LDR/A,Rural Density Residential/Low Density Residential/Agriculture-PUD,15203.8342602,8582499.40354,Rural Density Residential/Low Density Residential_NonRes,456,Rural Density Residential/Low Density Residential_NonRes,988,0
+PUD-OSD,Open Space District-PUD,6981.6695121,2195788.60602,Open Space District-PUD,457,Open Space District-PUD,478,0
+P,Public & Institutional,1499.96151314,132545.228178,Public & Institutional,458,Public & Institutional,4,0
+PUD-HDR,Planned Unit Development - High Density Residential,1689.42714939,98996.8639097,Planned Unit Development - High Density Residential,459,Planned Unit Development - High Density Residential,14,2
+A,Agriculture,1061.54022661,68535.5916071,Agriculture,460,Agriculture,1,0
+R-1-65,Single Family Residential,30236.2607802,25811813.197,Single Family Residential_Multifamily,461,Single Family Residential_Multifamily,482,2
+PUD-LDR/RDR/OS,Low Density Residential/Rural Density Residential/Open Space-PUD,3961.60105149,882635.681445,Low Density Residential/Rural Density Residential_SingleFam,462,Low Density Residential/Rural Density Residential_SingleFam,39,1
+PUD-LDR/O,Low Density Residential/Office-PUD,1490.82863714,115697.571998,Low Density Residential/Office-PUD_NonRes,463,Low Density Residential/Office-PUD_NonRes,484,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,1027.43283553,40531.5805064,Planned Unit Development - Medium Density Residential,464,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR,Low Density Residential,2531.132582,344631.109946,Low Density Residential,465,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,4632.8001626,822642.156274,Low Density Residential,466,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1179.34716356,84763.6691343,Planned Unit Development - Medium Density Residential,467,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1655.39970007,91745.334858,Planned Unit Development - Medium Density Residential,468,Planned Unit Development - Medium Density Residential,40,1
+R-1-20,Single Family Residential,6735.68095954,1958701.00162,Single Family Residential,469,Single Family Residential,55,1
+R-1-65,Single Family Residential,3966.62758597,857109.034531,Single Family Residential,470,Single Family Residential,55,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,988.932630512,39166.7948055,Planned Unit Development - Medium Density Residential,471,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1281.94369162,81458.5175261,Planned Unit Development - Medium Density Residential,472,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1000.2885528,47488.7614899,Planned Unit Development - Medium Density Residential,473,Planned Unit Development - Medium Density Residential,40,1
+PUD-A/OS,Agriculture/Open Space-PUD,12974.7971875,2490701.18571,Agriculture/Open Space-PUD,474,Agriculture/Open Space-PUD,496,0
+PUD-GC,Open Space - PUD,16772.0450997,5738463.80972,Open Space - PUD,475,Open Space - PUD,497,0
+PUD-LDR/MDR/OS,Low Density Residential/Medium Density Residential/Open Space-PUD,13771.1445735,9997395.9495,Low Density Residential/Medium Density Residential_SingleFam,476,Low Density Residential/Medium Density Residential_SingleFam,662,1
+PUD-RDR/OS,Rural Density Residential/Open Space-PUD,22490.461968,24403938.2566,Rural Density Residential/Open Space-PUD,477,Rural Density Residential/Open Space-PUD,499,0
+PUD-LDR,Low Density Residential,5682.63063832,1641405.05459,Low Density Residential,478,Low Density Residential,29,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,6602.05524006,2331472.97919,Low Density Residential/Open Space-PUD_SingleFamily,479,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+R-1-65,Single Family Residential,7276.96833214,2498767.54434,Single Family Residential,480,Single Family Residential,55,1
+PUD-LDR,Low Density Residential,1797.97855698,195716.673113,Low Density Residential,481,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3840.85186156,680101.515736,Planned Unit Development - Medium Density Residential,482,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR,Low Density Residential,1050.48181727,68652.4744715,Low Density Residential,483,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,870.643680411,43302.1594248,Low Density Residential,484,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,3276.61058902,346576.204032,Low Density Residential,485,Low Density Residential,29,1
+PUD-MU,Planned Unit Development - Mixed Use,1576.80867985,145055.078943,Planned Unit Development - Mixed Use_NonRes,486,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,1968.16041105,119716.292298,Planned Unit Development - Mixed Use_NonRes,487,Planned Unit Development - Mixed Use_NonRes,159,0
+C-R (m),Commercial Regional (Enclosed Mall),8948.29488584,2751706.55342,Commercial Regional (Enclosed Mall),488,Commercial Regional (Enclosed Mall),510,0
+PUD-MU,Planned Unit Development - Mixed Use,2586.45224341,377335.809769,Planned Unit Development - Mixed Use_NonRes,489,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-RDR,Planned Unit Development - Rural Density Residential,2480.95459688,278919.701001,Planned Unit Development - Rural Density Residential,490,Planned Unit Development - Rural Density Residential,512,1
+PUD-HDR,Planned Unit Development - High Density Residential,3343.63262188,304921.666434,Planned Unit Development - High Density Residential,491,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2750.83985795,388760.943299,Planned Unit Development - High Density Residential,492,Planned Unit Development - High Density Residential,14,2
+PUD-LDR,Low Density Residential,1670.45918019,159081.048849,Low Density Residential,493,Low Density Residential,29,1
+PUD-HDR,Planned Unit Development - High Density Residential,2220.54052242,242478.063635,Planned Unit Development - High Density Residential,494,Planned Unit Development - High Density Residential,14,2
+PUD-C,Commercial-PUD,1452.73161915,109224.918985,Commercial-PUD,495,Commercial-PUD,6,0
+PUD-HDR,Planned Unit Development - High Density Residential,1786.64905839,196238.489428,Planned Unit Development - High Density Residential,496,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,3516.58363706,500913.928758,Planned Unit Development - High Density Residential,497,Planned Unit Development - High Density Residential,14,2
+PUD-MDR/LDR/RDR,Medium Density Residential/Low Density Residential/Rural Density Residential-PUD,9677.79490779,4575799.32976,Medium Density Residential/Low Density Residential_NonRes,498,Medium Density Residential/Low Density Residential_NonRes,991,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,3877.26963466,867762.154925,Planned Unit Development - Medium Density Residential,499,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1877.86720995,95456.6849704,Planned Unit Development - Medium Density Residential,500,Planned Unit Development - Medium Density Residential,40,1
+PUD-C,Commercial-PUD,1831.97004043,196353.181077,Commercial-PUD,501,Commercial-PUD,6,0
+PUD-HDR/C,High Density Residential/Commercial,6508.53143269,1803035.93294,High Density Residential/Commercial_MultiFamily,502,High Density Residential/Commercial_MultiFamily,528,2
+PUD-C,Commercial-PUD,1398.08742109,33567.2746045,Commercial-PUD,503,Commercial-PUD,6,0
+PUD-HDR/C,High Density Residential/Commercial,625.091227021,14975.9984153,High Density Residential/Commercial_MultiFamily,504,High Density Residential/Commercial_MultiFamily,528,2
+PUD-P,Public & Institutional-PUD,2026.89550931,210684.903602,Public & Institutional-PUD,505,Public & Institutional-PUD,51,0
+PUD-P,Public & Institutional-PUD,4440.96941136,740344.589343,Public & Institutional-PUD,506,Public & Institutional-PUD,51,0
+PUD-C,Commercial-PUD,2797.16693829,500183.260458,Commercial-PUD,507,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,4096.27194926,856255.751386,Commercial-PUD,508,Commercial-PUD,6,0
+PUD-OS,Planned Unit Development - Open Space,6331.12645632,71040.3839325,Planned Unit Development - Open Space,509,Planned Unit Development - Open Space,260,1
+PUD-OS,Planned Unit Development - Open Space,7165.61509408,776922.550998,Planned Unit Development - Open Space,510,Planned Unit Development - Open Space,260,0
+PUD-HR,Hillside Residential,1218.11482447,84450.7128644,Hillside Residential,511,Hillside Residential,202,1
+PUD-OS,Planned Unit Development - Open Space,5550.76774689,793136.828733,Planned Unit Development - Open Space,512,Planned Unit Development - Open Space,260,0
+PUD-LDR,Low Density Residential,4979.23833499,859080.545071,Low Density Residential,513,Low Density Residential,29,1
+PUD-OS,Planned Unit Development - Open Space,5820.4748416,826831.261864,Planned Unit Development - Open Space,514,Planned Unit Development - Open Space,260,0
+U,Unincorporated,13708.1988899,7218782.83213,Unincorporated,515,Unincorporated,112,3
+PUD-LDR/HDR/P&I & Mixed P&I/MDR,Low Density Residential/High Density Residential/Public & Institutional-Mixed Public & Institutional/Medium Density Residential-PUD,7277.23406103,2703354.71768,Low Density Residential/High Density Residential_MultiFamily,516,Low Density Residential/High Density Residential_MultiFamily,995,2
+I-G-40,General Industrial,17594.2242861,9500985.10165,General Industrial,517,General Industrial,114,0
+S,Study District,2364.22264798,57146.3999517,Study District_NonRes,518,Study District_NonRes,545,0
+S,Study District,2874.15672974,69465.7366812,Study District_NonRes,519,Study District_NonRes,545,0
+PUD-I,Industrial-PUD,3798.14010514,310476.005315,Industrial-PUD,520,Industrial-PUD,210,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,4897.69344106,738862.498848,Planned Unit Development - Medium Density Residential,521,Planned Unit Development - Medium Density Residential,40,1
+PUD-C,Commercial-PUD,2806.21651349,152845.468485,Commercial-PUD,522,Commercial-PUD,6,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,3767.28226447,211171.083336,Planned Unit Development - Medium Density Residential,523,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2212.2949512,219486.284083,Planned Unit Development - Medium Density Residential,524,Planned Unit Development - Medium Density Residential,40,1
+PUD-P,Public & Institutional-PUD,2171.60954055,210477.013831,Public & Institutional-PUD,525,Public & Institutional-PUD,51,0
+PUD-HDR,Planned Unit Development - High Density Residential,1196.88792125,61347.5752874,Planned Unit Development - High Density Residential,526,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,1904.33844867,213083.046453,Planned Unit Development - High Density Residential,527,Planned Unit Development - High Density Residential,14,2
+PUD-MDR,Planned Unit Development - Medium Density Residential,4072.19917298,916903.527416,Planned Unit Development - Medium Density Residential,528,Planned Unit Development - Medium Density Residential,40,1
+PUD-O,Planned Unit Development - Office,1739.86630572,179851.056252,Planned Unit Development - Office,529,Planned Unit Development - Office,126,0
+PUD-C,Commercial-PUD,1012.38693591,58750.09864,Commercial-PUD,530,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,3357.04116975,578503.382494,Commercial-PUD,531,Commercial-PUD,6,0
+PUD-C-S,Commercial Service-PUD,873.848917471,42723.3143437,Commercial Service-PUD,532,Commercial Service-PUD,167,0
+PUD-C-C,Central Commercial-PUD,1905.90302395,218781.993641,Central Commercial-PUD,533,Central Commercial-PUD,157,0
+PUD-C-S,Commercial Service-PUD,983.303529195,58511.5039532,Commercial Service-PUD,534,Commercial Service-PUD,167,0
+C-S,Commercial Service,7585.7065596,618858.969103,Commercial Service,535,Commercial Service,109,0
+C-C,Commercial Central,3298.24840099,694930.501715,Commercial Central,536,Commercial Central,65,0
+PUD-C-C,Central Commercial-PUD,2341.42521109,253296.947661,Central Commercial-PUD,537,Central Commercial-PUD,157,0
+U,Unincorporated,51489.1600424,70434718.8536,Unincorporated,538,Unincorporated,112,3
+PUD-LDR,Low Density Residential,4657.31351487,882238.217978,Low Density Residential,539,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,2298.02540136,237321.233326,Low Density Residential,540,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,3615.67356141,680122.785716,Planned Unit Development - Medium Density Residential,541,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR,Low Density Residential,1664.01384561,168147.72466,Low Density Residential,542,Low Density Residential,29,1
+PUD-LDR/RDR/OS,Low Density Residential/Rural Density Residential/Open Space-PUD,5834.56434761,1278328.25877,Low Density Residential/Rural Density Residential_SingleFam,543,Low Density Residential/Rural Density Residential_SingleFam,39,1
+PUD-A/RDR,Agriculture/Rural Density Residential-PUD,11470.2626138,3306977.85701,Agriculture/Rural Density Residential-PUD_NonRes,544,Agriculture/Rural Density Residential-PUD_NonRes,573,0
+A,Agriculture,1491.35000736,76791.5804183,Agriculture,545,Agriculture,1,0
+PUD-A,Agriculture-PUD,7679.89375996,3262699.28286,Agriculture-PUD,546,Agriculture-PUD,149,0
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,11236.9501158,5103333.14404,Low Density Residential/Open Space-PUD_NonRes,547,Low Density Residential/Open Space-PUD_NonRes,994,0
+A,Agriculture,10268.8632212,4886876.15703,Agriculture_Remove,548,Agriculture_Remove,577,3
+PUD-OS/A,"Open Space, Agriculture -PUD",8289.37888385,992424.74779,"Open Space, Agriculture -PUD",549,"Open Space, Agriculture -PUD",578,0
+A,Agriculture,15539.3139788,9509733.87688,Agriculture,550,Agriculture,1,0
+A,Agriculture,13639.0059096,9557192.27282,Agriculture,551,Agriculture,1,0
+PUD-LDR,Low Density Residential,18327.4954376,13507219.0484,Low Density Residential,552,Low Density Residential,29,1
+PUD,PUD,8429.76040017,2680481.56991,PUD_NonRes,553,PUD_NonRes,998,0
+PUD,PUD,14388.9457899,8516328.38259,PUD_NonRes,554,PUD_NonRes,998,0
+PUD-TC,Transportation Corridor,10645.5996285,522541.848009,Transportation Corridor,555,Transportation Corridor,584,0
+U,Unincorporated,9324.93259575,4510200.98559,Unincorporated,556,Unincorporated,112,3
+PUD-LDR/RDR/OS-PHS/WO,Planned Unit Development - Low Density Residential/Rural Density Residential/Open Space - Public Health and Safety/Wildland Overlay,12537.8602207,8621908.62067,Planned Unit Development - Low Density Residential/Rural Den,557,Planned Unit Development - Low Density Residential/Rural Den,586,1
+U,Unincorporated,88033.0305018,226309519.111,Unincorporated,558,Unincorporated,112,3
+PUD-LDR,Low Density Residential,2223.1907413,163955.892741,Low Density Residential,559,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,2774.84840564,303929.236115,Planned Unit Development - Medium Density Residential,560,Planned Unit Development - Medium Density Residential,40,1
+PUD-OS,Planned Unit Development - Open Space,2709.70319879,151635.452629,Planned Unit Development - Open Space,561,Planned Unit Development - Open Space,260,0
+PUD-VINEYARD,Vineyard-PUD,3046.24974935,409667.556476,Vineyard-PUD,562,Vineyard-PUD,269,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,3693.85931713,386912.322635,Planned Unit Development - Medium Density Residential,563,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR,Low Density Residential,1660.64678782,153572.086535,Low Density Residential,564,Low Density Residential,29,1
+PUD-LDR,Low Density Residential,12007.5268902,987139.265864,Low Density Residential,565,Low Density Residential,29,1
+PUD-SRDR,Semi-Rural Residential,6311.02865832,1555693.77928,Semi-Rural Residential,566,Semi-Rural Residential,465,1
+PUD-A,Agriculture-PUD,3409.77418369,311326.745055,Agriculture-PUD,567,Agriculture-PUD,149,0
+PUD-LDR,Low Density Residential,1475.80157076,80664.5164117,Low Density Residential,568,Low Density Residential,29,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,1788.5298359,55373.9719206,Planned Unit Development - Medium Density Residential,569,Planned Unit Development - Medium Density Residential,40,1
+PUD-A,Agriculture-PUD,874.700867415,43986.8407868,Agriculture-PUD,570,Agriculture-PUD,149,0
+PUD-LDR,Low Density Residential,971.59882597,55993.7965747,Low Density Residential,571,Low Density Residential,29,1
+PUD-LDR/A,Low Density Residential/Agriculture-PUD,1641.18785349,97499.6621986,Low Density Residential/Agriculture-PUD_SingleFamily,572,Low Density Residential/Agriculture-PUD_SingleFamily,602,1
+PUD-LDR/A,Low Density Residential/Agriculture-PUD,1934.17362548,111974.581953,Low Density Residential/Agriculture-PUD_SingleFamily,573,Low Density Residential/Agriculture-PUD_SingleFamily,602,1
+PUD-LDR/A,Low Density Residential/Agriculture-PUD,7290.85777874,2419041.64753,Low Density Residential/Agriculture-PUD_SingleFamily,574,Low Density Residential/Agriculture-PUD_SingleFamily,602,1
+P,Public & Institutional,18147.6012773,11080508.9969,Public & Institutional,575,Public & Institutional,4,0
+PUD-A/OS,Agriculture/Open Space-PUD,10645.3012802,4295397.17072,Agriculture/Open Space-PUD_Remove,576,Agriculture/Open Space-PUD_Remove,606,3
+PUD-A/OS,Agriculture/Open Space-PUD,20229.080958,9970137.32585,Agriculture/Open Space-PUD,577,Agriculture/Open Space-PUD,496,0
+PUD-SRDR,Semi-Rural Residential,24048.1982394,10008888.9533,Semi-Rural Residential_Remove,578,Semi-Rural Residential_Remove,608,3
+C-R (p),Commercial Regional (Peripheral Area),15234.5982769,3233838.87994,Commercial Regional (Peripheral Area),579,Commercial Regional (Peripheral Area),609,0
+PUD-MU,Planned Unit Development - Mixed Use,2160.29562168,264083.282556,Planned Unit Development - Mixed Use_NonRes,580,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,6271.69688805,2263507.64247,Planned Unit Development - Industrial/Commercial-Offices,581,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-HDR,Planned Unit Development - High Density Residential,998.204330491,50981.0756587,Planned Unit Development - High Density Residential,582,Planned Unit Development - High Density Residential,14,2
+R-1-65,Single Family Residential,350.002498955,6250.56306838,Single Family Residential,583,Single Family Residential,55,1
+PUD-RDR/PHS,Rural Density Residential/Public Health & Safety-PUD,7629.1961705,2713308.34194,Rural Density Residential/Public Health & Safety-PUD,584,Rural Density Residential/Public Health & Safety-PUD,626,0
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,18179.0761315,11678941.5283,Low Density Residential/Open Space-PUD_SingleFamily,585,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+U,Unincorporated,285907.342987,712606781.66,Unincorporated,586,Unincorporated,112,3
+PUD-RDR/LDR,Rural Density Residential/Low Density Residential-PUD,6704.69968398,1256933.77172,Rural Density Residential/Low Density Residential-PUD,587,Rural Density Residential/Low Density Residential-PUD,268,1
+A,Agriculture,5536.1796187,808763.517784,Agriculture,588,Agriculture,1,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,1515.37178688,120374.722998,Planned Unit Development - Medium Density Residential,589,Planned Unit Development - Medium Density Residential,40,1
+PUD-MDR,Planned Unit Development - Medium Density Residential,451.582296115,10648.3441871,Planned Unit Development - Medium Density Residential,590,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,1405.2207268,107818.640636,Low Density Residential/Open Space-PUD_SingleFamily,591,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+PUD-LDR,Low Density Residential,4286.10549582,764989.303818,Low Density Residential,592,Low Density Residential,29,1
+PUD-OS,Planned Unit Development - Open Space,2503.71898352,141915.31615,Planned Unit Development - Open Space,593,Planned Unit Development - Open Space,260,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,51026.3616802,27109103.717,Planned Unit Development - Industrial/Commercial-Offices,594,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-MU,Planned Unit Development - Mixed Use,2284.75106429,291327.48839,Planned Unit Development - Mixed Use_NonRes,595,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,2051.76967652,258119.945648,Planned Unit Development - Mixed Use_NonRes,596,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,6547.19422275,859182.821826,Planned Unit Development - Medium Density Residential,597,Planned Unit Development - Medium Density Residential,40,1
+PUD-C,Commercial-PUD,3005.98014399,544154.65418,Commercial-PUD,598,Commercial-PUD,6,0
+PUD,PUD,13693.9713021,8950076.72451,PUD_SingleFamily,599,PUD_SingleFamily,997,1
+PUD-MU,Planned Unit Development - Mixed Use,4665.95945991,650483.578819,Planned Unit Development - Mixed Use_NonRes,600,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,3137.17920913,583593.931115,Planned Unit Development - Mixed Use_NonRes,601,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,2823.9661129,496258.149324,Planned Unit Development - Mixed Use_NonRes,602,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,2710.1377845,355433.177653,Planned Unit Development - Mixed Use_NonRes,603,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-I/C-O,Planned Unit Development - Industrial/Commercial-Offices,1132.73978912,35778.4919453,Planned Unit Development - Industrial/Commercial-Offices,604,Planned Unit Development - Industrial/Commercial-Offices,25,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,2839.66841974,184192.524952,Planned Unit Development - Medium Density Residential,605,Planned Unit Development - Medium Density Residential,40,1
+PUD-LDR/HDR/P&I & Mixed P&I/MDR,Low Density Residential/High Density Residential/Public & Institutional-Mixed Public & Institutional/Medium Density Residential-PUD,1378.36013398,87432.9507876,Low Density Residential/High Density Residential_NonRes,606,Low Density Residential/High Density Residential_NonRes,461,0
+PUD-HDR,Planned Unit Development - High Density Residential,1241.27769757,84634.3582951,Planned Unit Development - High Density Residential,607,Planned Unit Development - High Density Residential,14,2
+PUD-HDR,Planned Unit Development - High Density Residential,2195.62194236,192029.091968,Planned Unit Development - High Density Residential,608,Planned Unit Development - High Density Residential,14,2
+PUD-HDR/C-C,Planned Unit Development - High Density residential/Central Commercial,474.512879239,10922.0160832,Planned Unit Development - High Density residential/Central,609,Planned Unit Development - High Density residential/Central,645,2
+PUD-C,Commercial-PUD,2338.44125609,305111.764831,Commercial-PUD,610,Commercial-PUD,6,0
+PUD-C-O,Planned Unit Development - Commercial-Office,1740.54309903,92918.7497258,Planned Unit Development - Commercial-Office,611,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,950.903051803,46683.7123852,Planned Unit Development - Commercial-Office,612,Planned Unit Development - Commercial-Office,11,0
+PUD-C-O,Planned Unit Development - Commercial-Office,951.585475992,43995.1886495,Planned Unit Development - Commercial-Office,613,Planned Unit Development - Commercial-Office,11,0
+PUD-C,Commercial-PUD,1085.74244209,76245.58957,Commercial-PUD,614,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,960.332097753,56794.7767541,Commercial-PUD,615,Commercial-PUD,6,0
+R-1-65,Single Family Residential,19172.3312786,6513983.94978,Single Family Residential,616,Single Family Residential,55,1
+R-1-65,Single Family Residential,10062.6306311,2757204.56087,Single Family Residential,617,Single Family Residential,55,1
+PUD-C-O,Planned Unit Development - Commercial-Office,404.198186382,9798.94406398,Planned Unit Development - Commercial-Office,618,Planned Unit Development - Commercial-Office,11,0
+MU-T,Mixed Use Transitional,544.56475485,17246.8687108,Mixed Use Transitional,619,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,774.705396496,28053.2399276,Mixed Use Transitional,620,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,273.578802785,4306.30168234,Mixed Use Transitional,621,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,349.0141229,7000.32959056,Mixed Use Transitional,622,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,495.686547597,13011.3271576,Mixed Use Transitional,623,Mixed Use Transitional,128,0
+PUD-LDR/MDR,Low Density Residential/Medium Density Residential-PUD,3023.54817463,458909.607602,Low Density Residential/Medium Density Residential_NonRes,624,Low Density Residential/Medium Density Residential_NonRes,661,0
+PUD-LDR/MDR,Low Density Residential/Medium Density Residential-PUD,4647.03650248,970609.437074,Low Density Residential/Medium Density Residential_SingleFam,625,Low Density Residential/Medium Density Residential_SingleFam,662,1
+PUD-LDR/MDR,Low Density Residential/Medium Density Residential-PUD,3506.08840123,733773.77024,Low Density Residential/Medium Density Residential_SingleFam,626,Low Density Residential/Medium Density Residential_SingleFam,662,1
+PUD-RDR,Planned Unit Development - Rural Density Residential,2088.58919145,204276.556176,Planned Unit Development - Rural Density Residential,627,Planned Unit Development - Rural Density Residential,512,1
+PUD-OS,Planned Unit Development - Open Space,2650.215478,131018.121157,Planned Unit Development - Open Space,628,Planned Unit Development - Open Space,260,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,1109.7688897,67758.1442855,Planned Unit Development - Medium Density Residential,629,Planned Unit Development - Medium Density Residential,40,1
+PUD-C,Commercial-PUD,1600.68996636,157873.37059,Commercial-PUD,630,Commercial-PUD,6,0
+PUD-C,Commercial-PUD,2102.39795716,237933.656645,Commercial-PUD,631,Commercial-PUD,6,0
+PUD-MU,Planned Unit Development - Mixed Use,460.020626548,12628.7747527,Planned Unit Development - Mixed Use_NonRes,632,Planned Unit Development - Mixed Use_NonRes,159,0
+MU-T,Mixed Use Transitional,640.148525893,21424.9201843,Mixed Use Transitional,633,Mixed Use Transitional,128,0
+RM-15,Multiple-Family Residential,1165.61692653,23527.5173124,Multiple-Family Residential,634,Multiple-Family Residential,302,2
+PUD-HR/OS,Planned Unit Development - Hillside Residential/Open Space,12307.4121801,1866460.13891,Planned Unit Development - Hillside Residential_SingleFamily,635,Planned Unit Development - Hillside Residential_SingleFamily,535,1
+PUD-HR/OS,Planned Unit Development - Hillside Residential/Open Space,1662.61092994,134484.850268,Planned Unit Development - Hillside Residential_SingleFamily,636,Planned Unit Development - Hillside Residential_SingleFamily,535,1
+PUD-C,Commercial-PUD,8731.78001916,1781816.59076,Commercial-PUD,637,Commercial-PUD,6,0
+PUD-MDR,Planned Unit Development - Medium Density Residential,2617.87136139,389895.303552,Planned Unit Development - Medium Density Residential,638,Planned Unit Development - Medium Density Residential,40,1
+PUD-MU,Planned Unit Development - Mixed Use,1160.17885541,47212.2231689,Planned Unit Development - Mixed Use_NonRes,639,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-MU,Planned Unit Development - Mixed Use,4540.82923095,1081955.8055,Planned Unit Development - Mixed Use_NonRes,640,Planned Unit Development - Mixed Use_NonRes,159,0
+PUD-C,Commercial-PUD,977.045818068,55858.5099875,Commercial-PUD,641,Commercial-PUD,6,0
+PUD-LDR,Low Density Residential-PUD,2378.07115099,330710.575743,Low Density Residential-PUD,642,Low Density Residential-PUD,675,1
+PUD-C-C,Central Commercial-PUD,1683.69072676,94948.107494,Central Commercial-PUD,643,Central Commercial-PUD,157,0
+PUD-I,Industrial-PUD,1706.8141882,186935.969543,Industrial-PUD,644,Industrial-PUD,210,0
+PUD-I,Industrial-PUD,3826.14523164,436354.713505,Industrial-PUD,645,Industrial-PUD,210,0
+PUD-LDR/A,Low Density Residential/Agriculture-PUD,8163.63112077,297794.546932,Low Density Residential/Agriculture-PUD_SingleFamily,646,Low Density Residential/Agriculture-PUD_SingleFamily,602,1
+P,Public & Institutional,541.585081461,17134.8343808,Public & Institutional,647,Public & Institutional,4,0
+RM-40,Multiple-Family Residential,661.835186227,12637.7178046,Multiple-Family Residential,648,Multiple-Family Residential,302,2
+RM-40,Multiple-Family Residential,441.327518709,12045.773265,Multiple-Family Residential,649,Multiple-Family Residential,302,2
+MU-T,Mixed Use Transitional,585.808191006,13651.7629663,Mixed Use Transitional,650,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,238.972474715,3270.91223655,Mixed Use Transitional,651,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,270.997532181,4529.90961415,Mixed Use Transitional,652,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,291.929781542,5013.60653883,Mixed Use Transitional,653,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,465.364998243,9209.30519086,Mixed Use Transitional,654,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,520.339630778,15623.6860767,Mixed Use Transitional,655,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,355.744167215,6295.37981644,Mixed Use Transitional,656,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,188.595993886,0.27855923116,Mixed Use Transitional,657,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,495.735239246,9425.01337758,Mixed Use Transitional,658,Mixed Use Transitional,128,0
+C-C,Commercial Central,125.016910405,0.19450509357,Commercial Central,659,Commercial Central,65,0
+P,Public & Institutional,1526.91167275,51293.6707783,Public & Institutional,660,Public & Institutional,4,0
+MU-T,Mixed Use Transitional,357.51627013,6957.9610401,Mixed Use Transitional,661,Mixed Use Transitional,128,0
+P,Public and Institutional,482.947963688,14333.0672003,Public and Institutional,662,Public and Institutional,707,0
+MU-T,Mixed Use Transitional,425.496861754,9436.01178098,Mixed Use Transitional,663,Mixed Use Transitional,128,0
+C-C,Commercial Central,2.63184170598,1.0908894e-4,Commercial Central,664,Commercial Central,65,0
+MU-T,Mixed Use Transitional,366.263096946,4486.3694337,Mixed Use Transitional,665,Mixed Use Transitional,128,0
+MU-D,Mixed Used Downtown,229.9621067,2147.93655688,Mixed Used Downtown,666,Mixed Used Downtown,698,0
+MU-D,Mixed Used Downtown,655.422352913,19094.5674011,Mixed Used Downtown,667,Mixed Used Downtown,698,0
+MU-D,Mixed Used Downtown,1051.62234837,70986.8209049,Mixed Used Downtown,668,Mixed Used Downtown,698,0
+MU-D,Mixed Used Downtown,1097.42376523,56936.8084754,Mixed Used Downtown,669,Mixed Used Downtown,698,0
+MU-T,Mixed Use Transitional,412.708531838,7822.05115981,Mixed Use Transitional,670,Mixed Use Transitional,128,0
+C-C,Commercial Central,54.5735999984,0.40631382168,Commercial Central,671,Commercial Central,65,0
+MU-T,Mixed Use Transitional,335.064467199,4324.92007866,Mixed Use Transitional,672,Mixed Use Transitional,128,0
+P,Public & Institutional,576.018130712,10911.4723383,Public & Institutional,673,Public & Institutional,4,0
+P,Public & Institutional,466.190501159,12794.6746182,Public & Institutional,674,Public & Institutional,4,0
+P,Public & Institutional,1740.4612902,62082.9827152,Public & Institutional,675,Public & Institutional,4,0
+P,Public & Institutional,850.544999745,26270.132566,Public & Institutional,676,Public & Institutional,4,0
+P,Public & Institutional,786.28947838,23860.7977659,Public & Institutional,677,Public & Institutional,4,0
+P,Public & Institutional,900.001590459,34999.7566984,Public & Institutional,678,Public & Institutional,4,0
+MU-T,Mixed Use Transitional,415.375730836,7785.74280476,Mixed Use Transitional,679,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,289.853531125,4286.167149,Mixed Use Transitional,680,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,232.504184798,1574.9300945,Mixed Use Transitional,681,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,166.765254906,1573.06488916,Mixed Use Transitional,682,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,120.588057654,333.225081485,Mixed Use Transitional,683,Mixed Use Transitional,128,0
+MU-T,Mixed Use Transitional,187.153863653,477.137766748,Mixed Use Transitional,684,Mixed Use Transitional,128,0
+C-C,Commercial Central,177.824275845,1490.74971522,Commercial Central,685,Commercial Central,65,0
+MU-D,Mixed Used Downtown,1066.97719865,67003.552868,Mixed Used Downtown,686,Mixed Used Downtown,698,0
+MU-D,Mixed Used Downtown,663.906008795,6236.47935105,Mixed Used Downtown,687,Mixed Used Downtown,698,0
+MU-D,Mixed Used Downtown,765.777694669,30338.1357611,Mixed Used Downtown,688,Mixed Used Downtown,698,0
+C-C,Central Commercial,597.065860106,16911.4358649,Central Commercial,689,Central Commercial,710,0
+C-S,Commercial Service,210.937616276,0.41353134739,Commercial Service,690,Commercial Service,109,0
+C-C,Commercial Central,597.106160961,16913.4808804,Commercial Central,691,Commercial Central,65,0
+C-C,Commercial Central,298.559418034,4228.62568195,Commercial Central,692,Commercial Central,65,0
+C-S,Commercial Service,75.9988194344,0.34489017174,Commercial Service,693,Commercial Service,109,0
+C-C,Commercial Central,298.573781319,4228.95550151,Commercial Central,694,Commercial Central,65,0
+A,Agriculture,754.342746095,34722.3501432,Agriculture,695,Agriculture,1,0
+A,Agriculture,510.98091207,12730.1152858,Agriculture,696,Agriculture,1,0
+A,Agriculture,490.087887664,9744.20395233,Agriculture,697,Agriculture,1,0
+C-S,Commercial Service,307.615022859,0.96138154169,Commercial Service,698,Commercial Service,109,0
+P,Public & Institutional,1049.15552329,20778.6574112,Public & Institutional,699,Public & Institutional,4,0
+P,Public & Institutional,95.6255355947,0.04460581454,Public & Institutional,700,Public & Institutional,4,0
+P,Public & Institutional,710.17076265,0.89730405776,Public & Institutional,701,Public & Institutional,4,0
+P,Public & Institutional,937.035450119,19901.3949048,Public & Institutional,702,Public & Institutional,4,0
+C-C,Commercial Central,196.888608545,2018.99658249,Commercial Central,703,Commercial Central,65,0
+P,Public & Institutional,1293.00736692,54854.53871,Public & Institutional,704,Public & Institutional,4,0
+P,Public & Institutional,999.065644398,39106.3134629,Public & Institutional,705,Public & Institutional,4,0
+C-C,Commercial Central,6.21703780511,7.2016226e-4,Commercial Central,706,Commercial Central,65,0
+C-C,Commercial Central,248.621826594,0.05745950513,Commercial Central,707,Commercial Central,65,0
+P,Public & Institutional,1505.92705532,64843.4783967,Public & Institutional,708,Public & Institutional,4,0
+A,Agriculture,366.860775461,7103.3653113,Agriculture,709,Agriculture,1,0
+P,Public & Institutional,1095.11234664,43661.7950873,Public & Institutional,710,Public & Institutional,4,0
+A,Agriculture,377.577576553,8299.9033064,Agriculture,711,Agriculture,1,0
+C-C,Commercial Central,13975.6259081,2292041.14932,Commercial Central,712,Commercial Central,65,0
+PUD,PUD,8429.76040017,2680481.56991,PUD_NonRes,713,PUD_NonRes,998,0
+PUD,PUD,8429.76040017,2680481.56991,PUD_SingleFamily,714,PUD_SingleFamily,997,1
+PUD,PUD,13693.9713021,8950076.72451,PUD_NonRes,715,PUD_NonRes,998,0
+PUD,PUD,14388.9457899,8516328.38259,PUD_SingleFamily,716,PUD_SingleFamily,997,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,6602.05524006,2331472.97919,Low Density Residential/Open Space-PUD_NonRes,717,Low Density Residential/Open Space-PUD_NonRes,994,0
+PUD-LDR/HDR/P&I & Mixed P&I/MDR,Low Density Residential/High Density Residential/Public & Institutional-Mixed Public & Institutional/Medium Density Residential-PUD,7277.23406103,2703354.71768,Low Density Residential/High Density Residentia_SingleFamily,718,Low Density Residential/High Density Residentia_SingleFamily,543,1
+PUD-LDR/OS,Low Density Residential/Open Space-PUD,6674.4146272,2203488.01611,Low Density Residential/Open Space-PUD_SingleFamily,719,Low Density Residential/Open Space-PUD_SingleFamily,225,1
+PUD-A/OS/LDR,Agriculture/Open Space/Low Density Residential-PUD,34767.5745857,50643786.3471,Agriculture/Open Space/Low Density Residential-PUD_NonRes,720,Agriculture/Open Space/Low Density Residential-PUD_NonRes,5,0
+PUD-A/RDR,Agriculture/Rural Density Residential-PUD,11470.2626138,3306977.85701,Agriculture/Rural Density Residential-PUD_SingleFam,721,Agriculture/Rural Density Residential-PUD_SingleFam,992,1
+PUD-HDR-MDR,High Density Residential & Medium Density Residential-PUD,5493.32450026,752200.696057,High Density Residential & Medium Density_MultiFamily,722,High Density Residential & Medium Density_MultiFamily,991,2
+PUD-MDR/LDR/RDR,Medium Density Residential/Low Density Residential/Rural Density Residential-PUD,9677.79490779,4575799.32976,Medium Density Residential/Low Density Residential_SingleFam,723,Medium Density Residential/Low Density Residential_SingleFam,990,1
+PUD-MDR/LDR/RDR,Medium Density Residential/Low Density Residential/Rural Density Residential-PUD,9677.79490779,4575799.32976,Medium Density Residential/Low Density Residential_SingleFam,724,Medium Density Residential/Low Density Residential_SingleFam,990,1
+PUD-O/HDR,Office/High Density Residential-PUD,2150.34153609,141623.945617,Office/High Density Residential-PUD_MultiFamily,725,Office/High Density Residential-PUD_MultiFamily,12,2
+PUD-RDR/LDR/A,Rural Density Residential/Low Density Residential/Agriculture-PUD,15203.8342602,8582499.40354,Rural Density Residential/Low Density Residential/_SingleFam,726,Rural Density Residential/Low Density Residential/_SingleFam,477,1
+R-1-65,Single Family Residential,30236.2607802,25811813.197,Single Family Residential,727,Single Family Residential,55,1

@@ -1,0 +1,215 @@
+general_pl,id,Zoning
+403 - Agriculture,0,NA
+403 - Agriculture,1,NA
+403 - Agriculture,2,NA
+403 - Agriculture,3,NA
+403 - Agriculture,4,NA
+403 - Agriculture,5,NA
+403 - Agriculture,6,NA
+403 - Agriculture,7,NA
+403 - Agriculture,8,NA
+403 - Agriculture,9,NA
+403 - Agriculture,10,NA
+403 - Agriculture,11,NA
+403 - Agriculture,12,NA
+403 - Agriculture,13,NA
+403 - Agriculture,14,NA
+403 - Agriculture,15,NA
+403 - Agriculture,16,NA
+403 - Agriculture,17,NA
+403 - Agriculture,18,NA
+403 - Central Business,19,NA
+403 - Central Business,20,NA
+403 - Central Business,21,NA
+403 - Central Business,22,NA
+403 - Central Business,23,NA
+403 - Central Business,24,NA
+403 - Central Business,25,NA
+403 - Central Business,26,NA
+403 - Central Business,27,NA
+403 - Central Business,28,NA
+403 - Central Business,29,NA
+403 - Central Business,30,NA
+403 - Higher Density Residential,31,2
+403 - Higher Density Residential,32,2
+403 - Higher Density Residential,33,2
+403 - Higher Density Residential,34,2
+403 - Higher Density Residential,35,2
+403 - Higher Density Residential,36,2
+403 - Higher Density Residential,37,2
+403 - Higher Density Residential,38,2
+403 - Higher Density Residential,39,2
+403 - Higher Density Residential,40,2
+403 - Higher Density Residential,41,2
+403 - Higher Density Residential,42,2
+403 - Higher Density Residential,43,2
+403 - Higher Density Residential,44,2
+403 - Higher Density Residential,45,2
+403 - Higher Density Residential,46,2
+403 - Industrial,47,NA
+403 - Industrial,48,NA
+403 - Industrial,49,NA
+403 - Industrial,50,NA
+403 - Industrial,51,NA
+403 - Industrial,52,NA
+403 - Industrial,53,NA
+403 - Low Density Residential,54,1
+403 - Low Density Residential,55,1
+403 - Low Density Residential,56,1
+403 - Low Density Residential,57,1
+403 - Low Density Residential,58,1
+403 - Low Density Residential,59,1
+403 - Low Density Residential,60,1
+403 - Low Density Residential,61,1
+403 - Low Density Residential,62,1
+403 - Low Density Residential,63,1
+403 - Low Density Residential,64,1
+403 - Low Density Residential,65,1
+403 - Low Density Residential,66,1
+403 - Low Density Residential,67,1
+403 - Low Density Residential,68,1
+403 - Low Density Residential,69,1
+403 - Low Density Residential,70,1
+403 - Medium Density Residential,71,1
+403 - Medium Density Residential,72,1
+403 - Medium Density Residential,73,1
+403 - Medium Density Residential,74,1
+403 - Medium Density Residential,75,1
+403 - Medium Density Residential,76,1
+403 - Medium Density Residential,77,1
+403 - Medium Density Residential,78,1
+403 - Medium Density Residential,79,1
+403 - Medium Density Residential,80,1
+403 - Medium Density Residential,81,1
+403 - Medium Density Residential,82,1
+403 - Medium Density Residential,83,1
+403 - Medium Density Residential,84,1
+403 - Medium Density Residential,85,1
+403 - Medium Density Residential,86,1
+403 - Medium Density Residential,87,1
+403 - Medium Density Residential,88,1
+403 - Medium Density Residential,89,1
+403 - Medium Density Residential,90,1
+403 - Medium Density Residential,91,1
+403 - Medium Density Residential,92,1
+403 - Medium Density Residential,93,1
+403 - Medium Density Residential,94,1
+403 - Medium Density Residential,95,1
+403 - Medium Density Residential,96,1
+403 - Medium Density Residential,97,1
+403 - Medium Density Residential,98,1
+403 - Medium Density Residential,99,1
+403 - Medium Density Residential,100,1
+403 - Medium Density Residential,101,1
+403 - Medium Density Residential,102,1
+403 - Medium Density Residential,103,1
+403 - Medium Density Residential,104,1
+403 - Medium Density Residential,105,1
+403 - Medium Density Residential,106,1
+403 - Medium Density Residential,107,1
+403 - Medium Density Residential,108,1
+403 - Medium Density Residential,109,1
+403 - Medium Density Residential,110,1
+403 - Medium Density Residential,111,1
+403 - Medium Density Residential,112,1
+403 - Medium Density Residential,113,1
+403 - Medium Density Residential,114,1
+403 - Medium Density Residential,115,1
+403 - Medium Density Residential,116,1
+403 - Medium Density Residential,117,1
+403 - Medium Density Residential,118,1
+403 - Medium Density Residential,119,1
+403 - Medium Density Residential,120,1
+403 - Medium Density Residential,121,1
+403 - Medium Density Residential,122,1
+403 - Medium Density Residential,123,1
+403 - Medium Density Residential,124,1
+403 - Medium Density Residential,125,1
+403 - Medium Density Residential,126,1
+403 - Medium Density Residential,127,1
+403 - Medium Density Residential,128,1
+403 - Medium Density Residential,129,1
+403 - Medium Density Residential,130,1
+403 - Medium Density Residential,131,1
+403 - Medium Density Residential,132,1
+403 - Office,133,NA
+403 - Office,134,NA
+403 - Office,135,NA
+403 - Office,136,NA
+403 - Office,137,NA
+403 - Office,138,NA
+403 - Office,139,NA
+403 - Office,140,NA
+403 - Office,141,NA
+403 - Office,142,NA
+403 - Office,143,NA
+403 - Office,144,NA
+403 - Open Space,145,NA
+403 - Open Space,146,NA
+403 - Open Space,147,NA
+403 - Open Space,148,NA
+403 - Open Space,149,NA
+403 - Open Space,150,NA
+403 - Open Space,151,NA
+403 - Open Space,152,NA
+403 - Open Space,153,NA
+403 - Open Space,154,NA
+403 - Open Space,155,NA
+403 - Open Space,156,NA
+403 - Open Space,157,NA
+403 - Open Space,158,NA
+403 - Open Space,159,NA
+403 - Open Space,160,NA
+403 - Open Space,161,NA
+403 - Open Space,162,NA
+403 - Open Space,163,NA
+403 - Park,164,NA
+403 - Park,165,NA
+403 - Park,166,NA
+403 - Park,167,NA
+403 - Park,168,NA
+403 - Park,169,NA
+403 - Public & Semi-Public,170,NA
+403 - Public & Semi-Public,171,NA
+403 - Public & Semi-Public,172,NA
+403 - Public & Semi-Public,173,NA
+403 - Public & Semi-Public,174,NA
+403 - Public & Semi-Public,175,NA
+403 - Public & Semi-Public,176,NA
+403 - Public & Semi-Public,177,NA
+403 - Public & Semi-Public,178,NA
+403 - Public & Semi-Public,179,NA
+403 - Public & Semi-Public,180,NA
+403 - Public & Semi-Public,181,NA
+403 - Public & Semi-Public,182,NA
+403 - Public & Semi-Public,183,NA
+403 - Public & Semi-Public,184,NA
+403 - Railroad,185,NA
+403 - Railroad,186,NA
+403 - Railroad,187,NA
+403 - Railroad,188,NA
+403 - Railroad,189,NA
+403 - Railroad,190,NA
+403 - Railroad,191,NA
+403 - Railroad,192,NA
+403 - Railroad,193,NA
+403 - Railroad,194,NA
+403 - Service Commercial,195,NA
+403 - Service Commercial,196,NA
+403 - Service Commercial,197,NA
+403 - Service Commercial,198,NA
+403 - Service Commercial,199,NA
+403 - Service Commercial,200,NA
+403 - Service Commercial,201,NA
+403 - Service Commercial,202,NA
+403 - Service Commercial,203,NA
+403 - Service Commercial,204,NA
+403 - Service Commercial,205,NA
+403 - Service Commercial,206,NA
+403 - Service Commercial,207,NA
+403 - Woodlands & Watershed,208,NA
+403 - Woodlands & Watershed,209,NA
+403 - Woodlands & Watershed,210,NA
+403 - Woodlands & Watershed,211,NA
+403 - Woodlands & Watershed,212,NA
+403 - Woodlands & Watershed,213,NA

@@ -1,0 +1,561 @@
+id,LAYER,COLOR,LABEL,gnrl_p_,GLOBALI,Shp__Ar,Shp__Ln,MuncplC,edt_g__,zoning
+1,EX_ZONE_PF,1,PF,Public Facilities,ff6a4e34-ae75-47ca-9c10-399384dc8e5a,66398.5859375,1102.34925523,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+2,EX_ZONE_PF,1,PF,Public Facilities,62a47658-146d-4767-a401-37521aa7496c,26810.3007813,690.954640377737,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+3,EX_ZONE_PF,1,PF,Public Facilities,050a63c4-0421-4fec-b633-e9ed459f7084,22175.3632813,645.055760319138,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+4,EX_ZONE_PF,1,PF,Public Facilities,d11c9d32-0af9-4cd3-bdfe-7074d0a3ed44,95344.5703125,3669.03610688,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+5,EX_ZONE_PF,1,PF,Public Facilities,8b7db4a2-c4bb-45a8-ada0-ea6590fd624d,3625.84375,347.259607375748,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+6,EX_ZONE_PF,1,PF,Public Facilities,1ead27cd-83e6-440e-90bf-5d2e6f0cde72,66110.4257813,1064.34438848,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+7,EX_ZONE_LDR,2,LDR,Low Density Residential,2bcc887d-2130-414d-9561-37bae39dceda,963022.074219,5175.95398829,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+8,EX_ZONE_PF,1,PF,Public Facilities,76b5e3fb-93c2-448a-bedd-67c2a7601638,25636.3671875,720.522092581136,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+9,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,50c3f42a-7e51-4d47-a8e0-61bbfeab928e,498175.621094,3728.61150256,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+11,EX_ZONE_LDR,2,LDR,Low Density Residential,1664072a-0abb-4138-bfe3-40972e8881e8,3747002.66406,16872.9944987,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+12,EX_ZONE_PF,1,PF,Public Facilities,5920e806-7bee-40c1-8130-8ed4c6998e55,418888.027344,3092.71539755,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+13,EX_ZONE_PF,1,PF,Public Facilities,d4481984-c215-4fed-b899-e48cb8a50528,5777.109375,337.062131090009,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+14,EX_ZONE_PF,1,PF,Public Facilities,5f6d405b-c3c8-4515-b409-e33b61811f62,4387.7421875,303.426771618015,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+15,EX_ZONE_MDR,41,MDR,Medium Density Residential,9dd398a7-26f7-4fc8-8414-b2e80aa0299a,280323.769531,2283.38725064,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+16,EX_ZONE_HDR,5,HDR,High Density Residential,4d528078-e024-4746-931f-55cb1ed02ca4,226971.238281,2021.75083404,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+17,EX_ZONE_IU,4,IU,Intensive Use,ca4497ee-b1ca-43be-b384-ded212023708,378090.464844,4851.62067956,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+980,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_MF,a98d3bd6-d866-455d-a8be-ffa41b5b046f,272405.945313,3104.817425,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_MF,2
+19,EX_ZONE_RC,5,RC,Resource Conservation,3ad07333-b7bd-49a7-bfc1-dc1391122742,414986.238281,3805.61322729,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+20,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,b99d9ba7-6c79-473b-b638-0e0b83043ef8,69633.5664063,2211.93137409,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+21,EX_ZONE_PDR,5,PDR,Planned Development Residential,8af7c0e4-0775-422c-a80e-69067ad80c07,80351.8242188,1257.25264326,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+22,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,88b44650-7dbd-403e-983d-bcc3398ea6a9,190550.84375,1710.60093135,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+23,EX_ZONE_LDR,2,LDR,Low Density Residential,1844bca5-3d0e-4de4-bedd-3c7de9c5c083,92443.7421875,2111.26862642,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+24,EX_ZONE_LDR,2,LDR,Low Density Residential,1bebc0dc-3c12-401f-90d8-67a445672565,715928.414063,4835.6238465,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+25,EX_ZONE_PF,1,PF,Public Facilities,e5b5cccd-b913-4ed2-8638-bd5aba69af62,506443.667969,3296.01322789,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+26,EX_ZONE_PF,1,PF,Public Facilities,15ca4b88-d4fe-4be0-8234-853583c0b28d,1582502.5,5239.31008486,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+27,EX_ZONE_MDR,41,MDR,Medium Density Residential,93ac92e1-4d1e-47da-9ac6-4814eafe0f96,55235.953125,1126.06201449,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+28,EX_ZONE_PDC,5,PDC,Planned Development Commercial,753a7377-a974-430b-ada0-3d9bf90efde1,142370.941406,1995.99173962,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+29,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,52de3119-341b-4c1e-a211-83d208f8cf6b,102503.003906,1516.83839861,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+30,EX_ZONE_CL,6,CL,Linear Commercial,aa358ea0-d750-4c64-913a-80253bb8b5d8,354557.355469,6384.16126849,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+31,EX_ZONE_HDR,5,HDR,High Density Residential,4cecb6e8-7833-4ed8-a897-09948092c6b3,56582.953125,1507.69095403,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+32,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,5e98ef68-53aa-4763-9e67-7081ba68d69d,24130.0625,696.495894965757,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+33,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,f2e0bef1-9b5a-4784-a4bc-4b8f1eaa5175,58730.546875,1081.9421204,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+34,EX_ZONE_HDR,5,HDR,High Density Residential,b4e7952e-9659-496d-b675-43b0ba4de4d7,8632.50390625,372.918446067135,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+35,EX_ZONE_CL,6,CL,Linear Commercial,51c8f508-07f8-4fba-837a-38446bf5ff39,39404.1953125,1275.85668694,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+36,EX_ZONE_IUL,5,IUL,Limited Intesive Use,6882f95a-79f0-464b-b776-964a07d14b56,2946.78125,487.383609595868,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+37,EX_ZONE_IU,4,IU,Intensive Use,d3a865eb-0ac3-4444-8411-c14747097538,26314.1757813,897.932089026715,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+38,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,7a792f02-343a-4302-94cc-be723e07663d,133918.417969,1555.39123212,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+39,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,2edd1926-2510-4d8f-b200-af48aefda883,195985.535156,2016.61661835,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+40,EX_ZONE_CW,140,CW,Waterfront Shopping & Service,4c0fc1d8-0c29-4d63-bd2b-16adfc3d0f5a,420746.601563,3394.17097013,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Waterfront Shopping & Service,0
+41,EX_ZONE_RC,5,RC,Resource Conservation,fe3fa70c-85b6-4a3f-b1ed-478341e8b455,50536.1796875,999.497478251295,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+43,EX_ZONE_HDR,5,HDR,High Density Residential,1775e18a-fdfa-4737-a5a2-6ed552f03aca,16615.5820313,534.517194120589,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+45,EX_ZONE_LO,5,LO,Limited Office,72abf9b3-e405-4aea-af47-37f033bb2cd6,6109.01171875,321.005631302588,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+47,EX_ZONE_MDR,41,MDR,Medium Density Residential,9daa3c3a-404f-4224-a8b2-5974612ccefe,5621.77734375,352.674419276056,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+49,EX_ZONE_PF,1,PF,Public Facilities,86e41d4d-d9bf-48b1-a1eb-921f63d3b0e2,2975.046875,219.715275805834,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+50,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,ffb96f45-2815-44ff-b7eb-396b3c26ebd4,22622.4140625,634.949465918019,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+52,EX_ZONE_IU,4,IU,Intensive Use,12077ac0-f377-4fe8-8cfc-3cf5fb5912f0,7761.89453125,422.755744824483,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+53,EX_ZONE_LO,5,LO,Limited Office,6aed5054-bfed-478a-a828-64a3ad501035,1652.73046875,177.212615100483,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+54,EX_ZONE_HDR,5,HDR,High Density Residential,cf7263ea-a5e3-4a52-9e65-0113a780b22d,9794.1796875,429.018552342868,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+55,EX_ZONE_LO,5,LO,Limited Office,dd27ee4b-5407-4f47-8d1a-b116ed5f02c3,2053.7890625,181.10791894423,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+56,EX_ZONE_LDR,2,LDR,Low Density Residential,0cf567e3-f0a6-4e11-954e-3eb0364d7a07,612063.101563,4259.1323192,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+57,EX_ZONE_CW,140,CW,Waterfront Shopping & Service,4b33a4f8-abd4-49e9-8cce-5106b2a51f22,93609.3632813,1256.0228802,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Waterfront Shopping & Service,0
+58,EX_ZONE_HDR,5,HDR,High Density Residential,a2fc5bb7-65e3-47fb-8771-1273b1ba220f,191170.992188,1737.10908179,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+59,EX_ZONE_PF,1,PF,Public Facilities,9e6b1945-973f-4e4f-be94-8122f15684f8,167613.097656,1811.47370965,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+60,EX_ZONE_CL,6,CL,Linear Commercial,891d7147-d147-4d67-92b0-e86d779a3e53,47337.6601563,1123.67259996,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+61,EX_ZONE_IU,4,IU,Intensive Use,488b8cfb-ac84-48da-9dfa-d2e49bbef524,88764.546875,1300.45153227,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+62,EX_ZONE_PDC,5,PDC,Planned Development Commercial,4b1c8f9d-d95d-4547-afff-84728d72e32c,131724.457031,1498.67586321,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+63,EX_ZONE_MDR,41,MDR,Medium Density Residential,b102f2e6-9b13-42cc-aafe-f510b586014e,14915.578125,497.234424385575,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+64,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,e06df719-b67d-4284-929b-e15aaeab94ab,12212.2617188,443.959995492041,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+65,EX_ZONE_MDR,41,MDR,Medium Density Residential,47971ddc-c0c0-4833-87f8-279d787d52ac,36016.8046875,789.560576707831,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+66,EX_ZONE_MDR,41,MDR,Medium Density Residential,b00ea252-2fe4-4192-b736-ca84f4caf894,6177.05078125,336.402713948851,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+67,EX_ZONE_MDR,41,MDR,Medium Density Residential,73b1970f-5208-405b-8d78-c46aecf1843c,1244.46484375,153.419560355174,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+68,EX_ZONE_CL,6,CL,Linear Commercial,787320e4-cf79-493e-8211-d5075707c781,5884.828125,354.09355418598,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+69,EX_ZONE_CL,6,CL,Linear Commercial,cf0bf281-979c-4285-b705-3478f8ae8d5e,16127.0898438,637.995304980757,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+70,EX_ZONE_CL,6,CL,Linear Commercial,218a2e87-b3a5-4198-bf89-244ca00614e0,6665.38671875,401.522536290143,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+71,EX_ZONE_M,5,M,Medical,a62ddb50-3049-4a41-aa18-c6528dfc7d66,202133.988281,2265.43490583,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medical,0
+72,EX_ZONE_CL,6,CL,Linear Commercial,c5cff9a6-3f17-41ff-b7b0-12aacc783ec5,2543.1015625,207.787200118925,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+73,EX_ZONE_MDR,41,MDR,Medium Density Residential,03931cbf-e093-4f65-9974-4de717d99ea1,7917.17578125,370.25484570047,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+74,EX_ZONE_LO,5,LO,Limited Office,5b64bee3-bf33-4b3c-b75e-683d940d6720,1649.70703125,176.969837765005,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+75,EX_ZONE_HDR,5,HDR,High Density Residential,2e2f4ff0-f100-43e8-941d-77ce95aff412,1111.015625,133.214663546307,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+76,EX_ZONE_HDR,5,HDR,High Density Residential,e3d653cc-9af6-4d8f-a080-aa902e0987de,761.1796875,113.597252313193,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+77,EX_ZONE_PDR,5,PDR,Planned Development Residential,bf42dc62-3481-4c7d-be03-ba8dca1e024c,18970.7382813,585.300092184113,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+78,EX_ZONE_PDR,5,PDR,Planned Development Residential,306fa09e-e90e-4b56-bab8-723bbdf7a183,84414.6757813,1337.11474816,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+79,EX_ZONE_MDR,41,MDR,Medium Density Residential,23fdd8fe-ac9d-43be-8795-8a2fd9304bb9,6029.625,324.591120509432,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+80,EX_ZONE_PDR,5,PDR,Planned Development Residential,2715f7ce-4178-40ea-a5fd-01ca1f54c196,12260.734375,568.254701335955,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+81,EX_ZONE_MDR,41,MDR,Medium Density Residential,04ffed60-7bcc-497e-98a2-f83df0060aba,26011.4882813,1073.53056938,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+82,EX_ZONE_CL,6,CL,Linear Commercial,3677c9c4-2846-460d-b06d-c60fda236fe3,2733.625,235.295895375413,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+83,EX_ZONE_MDR,41,MDR,Medium Density Residential,1d51f687-3aeb-4fad-83d5-39d2ef003c5a,32193.578125,956.812733516096,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+84,EX_ZONE_MDR,41,MDR,Medium Density Residential,bba8aeca-9aff-45ac-a899-b1e2cd55b1c4,26496.9296875,945.331958634279,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+85,EX_ZONE_PDR,5,PDR,Planned Development Residential,0dc131a4-beb2-4603-84f5-097a0db41cfa,4121.81640625,295.403806698306,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+86,EX_ZONE_PDC,5,PDC,Planned Development Commercial,1f1862a3-8e79-4993-919a-ca11ed7bd18c,37332.5429688,1055.40199664,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+87,EX_ZONE_MDR,41,MDR,Medium Density Residential,0f892aa9-0e7a-4cdc-ae09-2a554b00faf2,22677.0898438,600.770816701191,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+88,EX_ZONE_CL,6,CL,Linear Commercial,7e29ca04-4f3e-4f2b-8804-ef93f529b597,2696.62890625,231.113254767297,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+89,EX_ZONE_CL,6,CL,Linear Commercial,1996b0d9-b04a-4c4e-9759-ab24788fc3ba,10405.03125,430.529072584126,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+90,EX_ZONE_CL,6,CL,Linear Commercial,9a88e243-9777-456c-92d8-b755b9a4db7e,34265.15625,905.807690800511,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+91,EX_ZONE_CL,6,CL,Linear Commercial,f4f37a79-33cb-49fc-9e57-568ece14e6e8,7386.84765625,353.565675064297,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+92,EX_ZONE_M,5,M,Medical,84053f5d-31d4-4f90-903d-cb2eb21c60b5,30170.6679688,786.91850663779,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medical,0
+93,EX_ZONE_IUL,5,IUL,Limited Intesive Use,0c64e647-c05d-48b6-8da6-2a3b7f2f1886,9312.16015625,542.451311050675,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+94,EX_ZONE_IU,4,IU,Intensive Use,6485ba3b-31eb-4f2c-a3c1-43b0cd52e062,15545.3125,513.352788286505,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+95,EX_ZONE_HDR,5,HDR,High Density Residential,ffcd0a9f-0a02-4a45-a63e-d0049abe28d4,12926.4570313,580.611028352652,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+96,EX_ZONE_HDR,5,HDR,High Density Residential,8616d9b9-4dcc-44de-ac98-6ebbf23f2732,15782.484375,503.041237602715,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+97,EX_ZONE_IU,4,IU,Intensive Use,cb6c41fd-0c5c-497e-af3a-4da78af07b76,29757.671875,1459.83165035,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+98,EX_ZONE_CL,6,CL,Linear Commercial,3767be63-c851-4ac4-a70d-1c377caabd41,49029.171875,1460.96488216,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+99,EX_ZONE_CL,6,CL,Linear Commercial,9df29749-c3f6-4e5e-9f1d-42e217527883,7167.16796875,355.639279205282,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+100,EX_ZONE_CL,6,CL,Linear Commercial,52b83047-80bb-48c3-aa8e-bc783b05d08e,16251.2539063,721.031300910438,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+101,EX_ZONE_IUL,5,IUL,Limited Intesive Use,13bd24ae-ce47-447d-96f5-5419374fb434,895.11328125,131.158852034688,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+102,EX_ZONE_IUL,5,IUL,Limited Intesive Use,990a49c0-5ec5-4bfb-989a-cff2c0766a0c,22484.7773438,744.811090925254,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+103,EX_ZONE_LDR,2,LDR,Low Density Residential,06ceabc2-ad49-479e-a43d-62f3da38fc38,13393.8632813,681.141231618433,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+104,EX_ZONE_LDR,2,LDR,Low Density Residential,f300073a-3b50-473a-9b35-78242b2d9acf,3077.20703125,222.122335782137,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+105,EX_ZONE_HDR,5,HDR,High Density Residential,f5bace2b-1fba-492b-a3e3-1c7111590171,2637.62890625,206.97124415236,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+106,EX_ZONE_IUL,5,IUL,Limited Intesive Use,828a2644-0eb4-4b84-b5f2-956b42f87309,14330.4257813,565.270834454046,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+107,EX_ZONE_MDR,41,MDR,Medium Density Residential,8dac3901-54e7-4f74-bda7-46461cad005d,5377.96484375,382.188385817067,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+108,EX_ZONE_MDR,41,MDR,Medium Density Residential,19296aa2-9ba5-4d23-88a8-1e3e4be94eb7,12708.71875,475.70429728863,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+109,EX_ZONE_MDR,41,MDR,Medium Density Residential,1dfca871-de99-4ae4-969a-f50d73d5666c,107883.511719,1700.9260904,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+110,EX_ZONE_LDR,2,LDR,Low Density Residential,d6666c54-068e-4ce2-bc98-432c83522c94,66491.859375,1254.04574361,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+111,EX_ZONE_MDR,41,MDR,Medium Density Residential,60327b78-70d8-437a-b6f0-69f88c8fd3b0,11598.203125,506.379103811889,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+112,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,5c2e309b-c339-4520-bb48-0d05422d45ea,2666.62109375,227.251238786337,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+113,EX_ZONE_CL,6,CL,Linear Commercial,f73deb9c-046f-44ad-bbfb-89eec66643ff,40325.8320313,1232.14798855,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+114,EX_ZONE_MDR,41,MDR,Medium Density Residential,e2050368-b06c-40c0-bb38-02cea6debd1f,1275.47265625,143.875616164916,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+115,EX_ZONE_HDR,5,HDR,High Density Residential,588ef736-a79e-48ab-b35d-f71e6bdb3db5,1069.8515625,131.043560665399,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+116,EX_ZONE_HDR,5,HDR,High Density Residential,bebfad93-f180-4cc6-a95c-8e0162359c12,3795.6640625,251.185453424426,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+117,EX_ZONE_IU,4,IU,Intensive Use,8218560d-e2e3-4de4-8abf-b8833562bb1b,7609.4453125,491.381963716797,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+118,EX_ZONE_CL,6,CL,Linear Commercial,5f581c87-6b52-45bf-a5fc-15c43d3171ae,1858.1953125,179.627086670471,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+119,EX_ZONE_LDR,2,LDR,Low Density Residential,99906d70-3529-422a-bee4-3909568e9d39,3832.6953125,267.22213063869,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+120,EX_ZONE_MDR,41,MDR,Medium Density Residential,34d8ad04-472c-4dd1-a476-0148fbad57c1,8645.37109375,422.640590360404,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+121,EX_ZONE_MDR,41,MDR,Medium Density Residential,cdbb0ccd-a3b0-4b2c-b7a9-7df1c442e40e,4787.640625,284.062446254304,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+122,EX_ZONE_MDR,41,MDR,Medium Density Residential,a4e6b5e7-c1c4-4500-acbf-1563c61be537,4623.8828125,280.741627527111,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+123,EX_ZONE_MDR,41,MDR,Medium Density Residential,774b8be9-e5c0-41f7-9449-932e433ab190,16661.375,587.531845804752,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+124,EX_ZONE_CL,6,CL,Linear Commercial,45750d42-1306-4755-ade9-21491ac926ab,7016.52734375,390.828758976397,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+125,EX_ZONE_LO,5,LO,Limited Office,3c6854a5-70e2-4b80-8668-c9c3ad0a1f95,8085.3125,378.470795509827,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+126,EX_ZONE_PF,1,PF,Public Facilities,05a8b052-c78f-446d-938e-f3e9d7a97a1a,1013654.13672,4246.59801542,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+127,EX_ZONE_CF,150,CF,Freeway Shopping & Service,5bcc3374-240b-4aff-8c2a-c40a7cf8fd04,316096.035156,3175.9887781,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+128,EX_ZONE_CL,6,CL,Linear Commercial,d1900268-50c0-4c39-a7b3-4d681ace9eee,20461.8242188,741.321473350264,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+129,EX_ZONE_CL,6,CL,Linear Commercial,d613ae8c-8da4-4b11-80d3-5b694f378fda,14402.3476563,480.050933302627,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+130,EX_ZONE_HDR,5,HDR,High Density Residential,75bd553a-bb5e-466e-a221-e2221d112261,147562.863281,1979.47720741,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+131,EX_ZONE_HDR,5,HDR,High Density Residential,9638d588-60b7-4c43-844a-69b57e1ba760,38296.8515625,1022.92935671,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+132,EX_ZONE_MDR,41,MDR,Medium Density Residential,a7d1188a-1c5f-47e2-bb7e-31ffff470352,114527.359375,1582.45879076,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+133,EX_ZONE_CL,6,CL,Linear Commercial,340f3530-a6ed-406c-b4b0-89e213379caa,9322.53515625,406.643486504093,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+134,EX_ZONE_PF,1,PF,Public Facilities,e94dbcdb-82f2-4b58-9230-40ea80d28f98,7827.7578125,357.092748790745,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+135,EX_ZONE_PDR,5,PDR,Planned Development Residential,b70a93bd-f9e9-4475-999d-a984fdc206a9,74203.609375,1166.99719816,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+136,EX_ZONE_HDR,5,HDR,High Density Residential,f731a2f9-08ec-49d2-9719-58c314414c18,104434.699219,1491.93082199,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+137,EX_ZONE_HDR,5,HDR,High Density Residential,6970b9a8-00f7-429c-8f29-7c28036aa397,19422.3242188,551.908377895021,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+138,EX_ZONE_PDR,5,PDR,Planned Development Residential,fbfe4b5d-4a59-41d3-90cf-b97cba195fea,136792.234375,2049.68844405,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+139,EX_ZONE_LO,5,LO,Limited Office,8d381544-51f9-457b-af25-a9d1e4c5cb0a,4705.2734375,329.537084882307,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+140,EX_ZONE_MDR,41,MDR,Medium Density Residential,728bf547-89fd-476a-8816-4089ad08c4d6,2275.91796875,219.029679149655,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+141,EX_ZONE_HDR,5,HDR,High Density Residential,99aae1d8-16d0-4e27-947b-c788f25b76d6,11801.328125,699.646335325369,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+142,EX_ZONE_LO,5,LO,Limited Office,32719bad-72a1-460d-bc35-9ba6391dfaf3,1016.28125,133.771959747758,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+143,EX_ZONE_LO,5,LO,Limited Office,ee93d765-b27b-4ea6-b865-c6c0c105d5d4,18437.234375,552.363455588459,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+144,EX_ZONE_CL,6,CL,Linear Commercial,7a87e812-4c5f-43c2-9e28-8c4c5b0b3176,125502.734375,2026.78832977,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+145,EX_ZONE_HDR,5,HDR,High Density Residential,04f06dad-ea6e-4d01-81ad-87ee578b7a5d,3902.63671875,288.574382384452,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+146,EX_ZONE_HDR,5,HDR,High Density Residential,73edf004-0652-4e54-938b-621a1448c804,3811.203125,251.708245534229,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+147,EX_ZONE_HDR,5,HDR,High Density Residential,6e131dcc-af5c-4cb6-802c-7e468e5c25eb,16669.125,670.37924701435,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+148,EX_ZONE_PF,1,PF,Public Facilities,091c7165-f2b7-4aca-924a-3c9d5c85c60c,89998.8007813,1368.69425338,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+149,EX_ZONE_PF,1,PF,Public Facilities,c8725338-2966-44c8-a417-78d4d3aa9ad7,3333.9375,207.091295975747,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+150,EX_ZONE_PF,1,PF,Public Facilities,c60d35a2-a0c0-4a53-b0c9-f456f417e19c,150059.199219,2253.76499532,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+151,EX_ZONE_PF,1,PF,Public Facilities,c782f9a2-d54f-495c-af33-83f9b2c287b6,39483.2851563,821.518445405847,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+152,EX_ZONE_PF,1,PF,Public Facilities,0b8eb12d-b134-4b38-b20c-eb72d4797313,43511.2617188,956.687982891932,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+153,EX_ZONE_PF,1,PF,Public Facilities,025bdf1e-9afb-4d34-93a3-67c0ebfe786e,110001.257813,1541.60443203,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+154,EX_ZONE_PF,1,PF,Public Facilities,34394fac-da87-4486-a9a1-a5cdc871c190,77307.6054688,1448.57542387,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+155,EX_ZONE_PF,1,PF,Public Facilities,c946baed-3041-4c01-9508-c4840f373dab,532.1796875,116.689847103189,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+156,EX_ZONE_PF,1,PF,Public Facilities,f8bac770-5187-4946-ae6e-f4f709b97392,679.42578125,215.622439604025,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+157,EX_ZONE_PF,1,PF,Public Facilities,7e0a1f3a-c445-4cc4-bb03-6c4e4c348cba,124.54296875,55.5497727749906,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+158,EX_ZONE_PF,1,PF,Public Facilities,0b564906-7700-42e9-8d3f-db72e7457bb5,14607.4414063,519.757336927811,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+159,EX_ZONE_PF,1,PF,Public Facilities,c359aa11-8cbd-4daa-9cb1-760bac1851ca,1175.65625,184.283141041619,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+160,EX_ZONE_PF,1,PF,Public Facilities,b5c0252e-bf6e-4658-97bd-ffd3f93e1d54,2465.0625,547.621230489688,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+161,EX_ZONE_PF,1,PF,Public Facilities,ce3d308a-70fd-4234-8532-99f2624d8ab2,47728.8398438,907.956536984423,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+162,EX_ZONE_PF,1,PF,Public Facilities,c400493d-d6de-4bd3-80b8-db07809456dd,17052.5039063,687.959836010679,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+163,EX_ZONE_IU,4,IU,Intensive Use,1a3d609c-91b4-4caa-bf8b-7464e04cf58d,15594.9179688,502.891343581232,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+164,EX_ZONE_PF,1,PF,Public Facilities,4406f4c3-1177-4737-ae45-13ed21258627,70421.1484375,1210.17562388,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+165,EX_ZONE_PF,1,PF,Public Facilities,5e320cb8-aac5-48ba-803b-eea4902602db,223782.902344,1948.74412352,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+166,EX_ZONE_PF,1,PF,Public Facilities,6ca2e287-c2a1-4783-bbc0-020a6da70348,6162.33203125,366.707644558854,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+167,EX_ZONE_PF,1,PF,Public Facilities,f83fd240-6253-483f-b9e0-a37afc9ddb04,41307.8164063,807.178478617722,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+168,EX_ZONE_PF,1,PF,Public Facilities,3f52a26b-53c0-4bba-b172-c1ef11f907fd,188962.863281,2761.09460002,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+169,EX_ZONE_PF,1,PF,Public Facilities,c22b374d-04e3-47fa-925a-7661d440a97e,63573.78125,1271.21116538,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+170,EX_ZONE_PF,1,PF,Public Facilities,c754a34a-a1cc-4a37-9d90-1f5f2bdf07f8,52784.6992188,1041.30695443,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+171,EX_ZONE_PF,1,PF,Public Facilities,fd712c11-8acd-42cb-bfaa-383b1c596303,6009.12890625,331.456805543634,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+172,EX_ZONE_PF,1,PF,Public Facilities,02d63252-4d51-4b41-b981-6dcd603912d9,119148.292969,1662.43332672,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+173,EX_ZONE_PF,1,PF,Public Facilities,5b06dd2e-fc08-42fe-b14d-f4d0c1b6c8fa,3656.33203125,246.846293560352,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+174,EX_ZONE_PF,1,PF,Public Facilities,bc86382a-7fa3-4656-9746-11bf306c4ac8,20339.6289063,564.362543363253,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+175,EX_ZONE_PF,1,PF,Public Facilities,54a50589-950e-4970-bfbe-5baaf7bfab03,19077.9257813,575.901994342696,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+176,EX_ZONE_PF,1,PF,Public Facilities,fe92de49-603a-4bfc-a720-60401c162eb4,11516.1953125,453.822226167999,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+177,EX_ZONE_PF,1,PF,Public Facilities,54097963-4361-4040-9a1f-a9a2345ef555,24269.9296875,731.503532036826,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+178,EX_ZONE_PF,1,PF,Public Facilities,0c0fd6b6-5a15-4916-81d1-47372945ded3,4738.9375,277.164388619106,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+179,EX_ZONE_PF,1,PF,Public Facilities,e76167d9-449e-4f40-930e-f9b61d666e08,3605.125,236.194782754819,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+180,EX_ZONE_PF,1,PF,Public Facilities,df90b2e0-811e-49a7-b8e1-a207b5686d11,28095.9648438,760.430365553315,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+181,EX_ZONE_PF,1,PF,Public Facilities,56b5477d-648f-49f7-8507-73ae2558b965,12983.1289063,653.551298504804,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+182,EX_ZONE_PF,1,PF,Public Facilities,70d813d9-362b-4aa0-9256-9dbf44a9e511,7883.00390625,390.011320063954,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+183,EX_ZONE_PF,1,PF,Public Facilities,3e94a820-ced4-4bee-afbc-4a9666923854,8379.625,398.693020109847,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+184,EX_ZONE_PF,1,PF,Public Facilities,02dcb5c4-ced6-4dd7-8d10-297c08617c41,6147.34765625,330.664479424347,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+185,EX_ZONE_PF,1,PF,Public Facilities,25b42f0b-45e4-49c8-ade2-28182cbf34d3,4273.42578125,263.977396856723,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+186,EX_ZONE_PF,1,PF,Public Facilities,d6c773e2-f5d8-4818-9ba6-4750cd007b5d,34090.78125,997.080971322925,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+187,EX_ZONE_PF,1,PF,Public Facilities,de32f715-6a77-4372-835f-35c6b191f67e,27531.8320313,687.189460615784,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+188,EX_ZONE_PF,1,PF,Public Facilities,a7f9cf37-45c5-4171-857b-4506dccd0b5e,3539.51953125,238.449127185859,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+189,EX_ZONE_PF,1,PF,Public Facilities,5812540b-4976-4ac9-9d77-c9d82e56887a,62012.1523438,994.701739129473,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+190,EX_ZONE_PF,1,PF,Public Facilities,12703e2c-54be-44b1-8528-2cd5037517d5,49536.7617188,1084.46411006,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+191,EX_ZONE_PF,1,PF,Public Facilities,a8cfe7d2-6f5c-4f80-bebe-06c710a7b2db,118166.476563,1981.91953686,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+192,EX_ZONE_IU,4,IU,Intensive Use,9f71902d-0c56-435e-9c12-14e3a857a438,69146.2382813,1148.76375902,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+193,EX_ZONE_PF,1,PF,Public Facilities,2df2b9ae-d72c-4e6a-a5aa-5dc5244b105c,32663.9296875,1164.09345872,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+194,EX_ZONE_PF,1,PF,Public Facilities,c0a73a18-13c1-4836-b12c-a753def5eccd,150815.878906,1570.52032844,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+195,EX_ZONE_PF,1,PF,Public Facilities,04d766fd-288b-476b-bdc3-fb1f900036d0,7840.70703125,669.816382860216,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+196,EX_ZONE_PF,1,PF,Public Facilities,5246767a-c34a-49ce-924f-0f780e647afa,9616.07421875,622.340334198583,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+197,EX_ZONE_PF,1,PF,Public Facilities,f16675d6-16ff-400d-b480-58417b0e507f,45500.03125,910.211653480482,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+198,EX_ZONE_PF,1,PF,Public Facilities,507d1a83-172f-4737-bc03-02a757dc2054,12448.2265625,532.844941660546,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+199,EX_ZONE_PF,1,PF,Public Facilities,dc8067cb-8543-431d-8352-b4a131918be2,31579.7421875,857.133014690347,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+200,EX_ZONE_PF,1,PF,Public Facilities,784efed5-d6e5-4df3-b4ea-616ff86c973d,24170.9335938,777.565138739148,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+201,EX_ZONE_PF,1,PF,Public Facilities,61fbde2b-018a-4942-ba55-034193d5e3f9,126184.417969,1727.84404976,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+202,EX_ZONE_PF,1,PF,Public Facilities,9df51975-f9cf-4061-a2b1-c40279a9ecfa,398101.675781,3263.93904592,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+203,EX_ZONE_PF,1,PF,Public Facilities,c5daf84c-7544-402a-bef7-cbe75b4ad339,17334.734375,787.228940914504,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+204,EX_ZONE_PF,1,PF,Public Facilities,be61bf23-6dee-4c36-b63c-b8b83ff4dec2,128172.296875,1421.78944971,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+205,EX_ZONE_PF,1,PF,Public Facilities,b2e3435c-db24-44a7-975c-1feff8db2b6e,13962.0664063,743.229515332537,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+206,EX_ZONE_PF,1,PF,Public Facilities,be0eafe4-e068-46cb-a3b0-145df2777395,427.28515625,127.540279104421,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+207,EX_ZONE_PF,1,PF,Public Facilities,12261535-c0bc-4bb8-9b08-e6078c953940,162124.953125,1526.85838483,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+208,EX_ZONE_PF,1,PF,Public Facilities,967c54bd-392e-48ac-b639-dc600d8b408b,7374,875.863140564767,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+209,EX_ZONE_PF,1,PF,Public Facilities,6bdd8bdd-bb00-49ce-84b1-20ba48ff2aad,1763.9921875,329.264810897858,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+210,EX_ZONE_PF,1,PF,Public Facilities,2b5a156e-c381-4ffc-817f-684619e2b47f,42012.4101563,1445.86453623,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+211,EX_ZONE_PF,1,PF,Public Facilities,c61b267c-c001-45dc-a5fe-2595770cb409,73992.0898438,1465.87063114,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+212,EX_ZONE_PF,1,PF,Public Facilities,8b202639-fbba-47e5-a0e8-86850d448a05,31039.765625,831.324935528093,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+213,EX_ZONE_PF,1,PF,Public Facilities,45b2ca38-9e02-485b-80a3-39f8ea4362f0,18094.9882813,1048.65785323,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+214,EX_ZONE_PF,1,PF,Public Facilities,04978ac9-7d6e-4002-b0a8-620ff161809c,84042.5195313,1235.21040236,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+215,EX_ZONE_PF,1,PF,Public Facilities,f3e526c1-38fc-480a-bf22-e44068db2734,4846.90234375,280.320839123554,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+216,EX_ZONE_PF,1,PF,Public Facilities,826722aa-071f-45ee-b484-24cc11691688,17866.890625,887.92069331141,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+217,EX_ZONE_PF,1,PF,Public Facilities,e235d624-8f5b-4b46-acdc-ab047da1ac1f,10388.4140625,586.269257084049,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+218,EX_ZONE_PF,1,PF,Public Facilities,d4e9c3ac-79ac-476b-8ce5-0139e909753c,16102.1640625,932.077210092892,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+219,EX_ZONE_PF,1,PF,Public Facilities,78d1c250-fa75-49ea-a2d5-c4ac16cc4d45,4660.1171875,363.73699192183,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+220,EX_ZONE_PF,1,PF,Public Facilities,3b99efe0-6de1-4484-8f9b-84668813e43b,169013.835938,1899.82839071,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+221,EX_ZONE_PF,1,PF,Public Facilities,d688528f-d522-4aea-8f0a-455d44e3f5ce,184650.898438,1698.94586878,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+222,EX_ZONE_PF,1,PF,Public Facilities,f628631b-d5a7-47ed-968c-9a7c1c13d266,36983.4492188,766.475335955249,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+223,EX_ZONE_PF,1,PF,Public Facilities,f01edf59-c84d-494c-801b-ab63895c7f2d,57089.828125,1371.89472308,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+224,EX_ZONE_PF,1,PF,Public Facilities,a1f853c4-1df6-44c1-993f-9e0d2beecc6e,206172.992188,3799.54422298,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+225,EX_ZONE_PF,1,PF,Public Facilities,74cffb64-9f2b-47ff-8859-f15d673b5c79,263956.394531,2789.80940234,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+226,EX_ZONE_PF,1,PF,Public Facilities,471139b6-1a77-48af-bdfa-fe5886f3c88f,19829.8085938,1899.3616393,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+227,EX_ZONE_PF,1,PF,Public Facilities,d794c198-34ef-45dc-9345-e687173343e7,39913.5703125,1455.49472906,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+228,EX_ZONE_PF,1,PF,Public Facilities,ac487847-cff5-470f-aa95-e0733bd86275,742799.097656,5391.20467567,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+229,EX_ZONE_PF,1,PF,Public Facilities,52285acd-61ad-4566-8e1b-969682ebc85f,764981.074219,6209.9245607,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+230,EX_ZONE_PF,1,PF,Public Facilities,0c5aa64e-b20d-40d9-8419-f95e5e4419ae,8574.10546875,477.267679356641,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+231,EX_ZONE_PF,1,PF,Public Facilities,b584809b-9b8c-4888-828a-88f4e4daf7e5,180855.519531,2246.6223518,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+233,EX_ZONE_PF,1,PF,Public Facilities,b975ddbb-35ab-4a2d-904a-bb03b57b7314,623974.027344,6834.54761488,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+234,EX_ZONE_PF,1,PF,Public Facilities,c58ef24a-b3e0-426e-93d1-cee267e5f0a6,122363.726563,2993.78507859,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+235,EX_ZONE_PF,1,PF,Public Facilities,42f4f6de-4676-4c0f-b65e-41c4cca6e177,11053.0195313,446.813260739209,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+236,EX_ZONE_PF,1,PF,Public Facilities,29ef8357-d509-4668-b6b5-690eff510139,10330.1210938,651.416874412356,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+237,EX_ZONE_PF,1,PF,Public Facilities,12a42f17-8e05-4c4f-bb2e-39f76f5683c7,10331.1523438,931.412297398204,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+238,EX_ZONE_PF,1,PF,Public Facilities,ca6c8a30-4374-48e7-be9b-e7c67c89d633,5964.61328125,715.252659564101,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+239,EX_ZONE_PF,1,PF,Public Facilities,9437e0aa-c83f-443c-b5ab-9f6fc5f43af5,13433.4140625,922.865882326795,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+240,EX_ZONE_PF,1,PF,Public Facilities,d641f412-0712-462c-b0be-5f788b0440a3,36760.9453125,1367.26954457,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+241,EX_ZONE_PF,1,PF,Public Facilities,d9be2bd0-f91a-4f65-b9fd-15dadef8cfa1,3108.97265625,477.528434170815,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+242,EX_ZONE_PF,1,PF,Public Facilities,aeb3743c-fe19-4758-b974-b44675625282,18047.9921875,1249.77171075,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+243,EX_ZONE_PF,1,PF,Public Facilities,0fa240f0-22a2-46d5-bed0-18164e509d78,1456.2734375,310.546323930672,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+244,EX_ZONE_PF,1,PF,Public Facilities,17eed016-d8b9-425c-936e-c8f8a1ed8d35,451781.1875,4158.9015324,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+245,EX_ZONE_PF,1,PF,Public Facilities,93e8409b-4dfd-4ab8-b510-3ebbae12fe47,295.640625,73.1993020987105,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+246,EX_ZONE_PF,1,PF,Public Facilities,5834cf3a-b886-42a9-b165-13821cc8fd66,169639.566406,2371.34163179,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+247,EX_ZONE_PF,1,PF,Public Facilities,6f3835d2-e69e-4613-b1a2-beda9926b933,518.6171875,126.610838096636,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+248,EX_ZONE_PF,1,PF,Public Facilities,00ec0057-648a-45f7-8647-6e93c7776d88,7158.0859375,528.182267775448,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+249,EX_ZONE_PF,1,PF,Public Facilities,f1057351-46e7-4a22-8596-7658b7525985,423426.171875,5859.8541193,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+250,EX_ZONE_PF,1,PF,Public Facilities,98c7fbc1-8b74-4e1c-8ee5-886fb3dd0d3b,13974.1992188,958.064209153387,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+251,EX_ZONE_PF,1,PF,Public Facilities,619e112b-1b8d-4682-a8be-e35da8208867,119247.734375,2166.76490043,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+252,EX_ZONE_PF,1,PF,Public Facilities,18b9c3b1-8fae-4578-926d-e6a07884a3d6,82024.8007813,1260.13671813,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+253,EX_ZONE_PF,1,PF,Public Facilities,350b209d-07c0-4804-84f3-d830e720a64e,28644.1015625,1415.930178,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+254,EX_ZONE_PF,1,PF,Public Facilities,921a29ab-e5a6-4d8b-969f-13bb20a1ce19,4283.859375,542.662596848204,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+255,EX_ZONE_PF,1,PF,Public Facilities,53b02f99-8b64-4567-bce2-625da0f36471,45686.625,1232.63023174,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+256,EX_ZONE_PF,1,PF,Public Facilities,96b2b199-bd53-465a-bcea-8c336df3c203,3082.921875,351.457872612959,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+257,EX_ZONE_PF,1,PF,Public Facilities,030711a4-b190-4b5d-96fb-92f974da7a12,6189.28515625,586.381312515554,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+258,EX_ZONE_PF,1,PF,Public Facilities,cf48d646-fbdc-4e70-badf-5ea044f55471,439.01171875,158.979034461011,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+259,EX_ZONE_PF,1,PF,Public Facilities,6e2421a4-f878-47e7-9f02-697818b5adbf,13890.2578125,673.572596758822,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+260,EX_ZONE_PF,1,PF,Public Facilities,13eecc59-eee5-4ef6-b0f2-9a171bacc7e7,143952.539063,2513.87629305,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+261,EX_ZONE_CL,6,CL,Linear Commercial,68d22075-8b5d-4e43-b0af-6b85b83332f7,74457.1601563,2015.20370041,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+262,EX_ZONE_HDR,5,HDR,High Density Residential,e3adb838-825f-4f57-a403-913020708879,3534.66796875,242.777208141412,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+263,EX_ZONE_HDR,5,HDR,High Density Residential,ff12731f-0e9b-42c9-8dd0-823053b80d0f,7640.3828125,413.766714656105,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+264,EX_ZONE_MDR,41,MDR,Medium Density Residential,1f8d454f-d805-426f-90db-fbf13cbdd8b3,88882.53125,1599.23002062,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+265,EX_ZONE_MDR,41,MDR,Medium Density Residential,560ea980-9e58-4f01-b0af-e6a23172fe0f,113969.898438,1866.64589057,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+266,EX_ZONE_IU,4,IU,Intensive Use,71097b9f-422b-4699-a134-c950979a55fa,4102.43359375,274.933104980484,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+267,EX_ZONE_RC,5,RC,Resource Conservation,a5cabe97-b647-4e82-b0f4-d0f0eb52eb63,95037.7070313,1457.60163319,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+268,EX_ZONE_MDR,41,MDR,Medium Density Residential,7b949cc4-d36d-4886-aa56-dfc3130b3d98,39426.8085938,951.393629119119,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+269,EX_ZONE_MDR,41,MDR,Medium Density Residential,288468a6-e4b4-424b-8191-a0d053d7230f,4895.87890625,288.94302052647,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+270,EX_ZONE_CL,6,CL,Linear Commercial,5ec0a8e0-ff6f-4aeb-ad13-cb6562d67d0d,4183.87890625,263.087410852742,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+271,EX_ZONE_MDR,41,MDR,Medium Density Residential,51224d25-f942-4a42-b702-2c1077fff0fb,111316.347656,2082.81468227,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+272,EX_ZONE_LDR,2,LDR,Low Density Residential,8421b921-a6d6-4c49-ac8f-46dc94331ead,147881.175781,2393.39055711,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+273,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,3e975e55-6855-4ba4-9a20-d0bcdee119b6,4213.1484375,261.285875402013,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+274,EX_ZONE_PDC,5,PDC,Planned Development Commercial,0fe0ac0e-5536-4f07-8e67-2cc0e5cd4670,33769.5820313,841.130382020949,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+275,EX_ZONE_PDC,5,PDC,Planned Development Commercial,15cd2f85-8367-4653-b98b-9d000a8e85b2,32836.7929688,1017.12576074,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+276,EX_ZONE_HDR,5,HDR,High Density Residential,88f69c4b-62ad-4808-89a0-ccd530510532,7420.91015625,451.502206227686,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+277,EX_ZONE_CL,6,CL,Linear Commercial,422ae698-4c6f-4eea-9738-2766598adf0f,2292.8359375,188.691396943423,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+278,EX_ZONE_IU,4,IU,Intensive Use,dcd53b83-9c4c-4abc-8535-76b6362bae21,271326.875,2388.69439455,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+279,EX_ZONE_MDR,41,MDR,Medium Density Residential,6599c9a8-1f22-4992-b872-924cd7b5d913,313054.824219,2734.9592511,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+280,EX_ZONE_LO,5,LO,Limited Office,b1897b80-3411-407c-bb2b-5a789b22e9c8,51554.9765625,1295.28943688,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+281,EX_ZONE_HDR,5,HDR,High Density Residential,3fa42d13-4363-4a22-96c9-314d19530a10,57119.6484375,1017.75473775,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+282,EX_ZONE_PDR,5,PDR,Planned Development Residential,44167b6e-a9ba-4693-afd8-e95613e4c163,106157.589844,1808.14397786,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+283,EX_ZONE_LDR,2,LDR,Low Density Residential,3630b468-461d-409b-8898-2e230e954b7f,186157.96875,2054.51594076,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+284,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,cbc0737f-48d2-46f9-acb6-5597bf4060d6,6631.72265625,427.190924130112,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+285,EX_ZONE_MDR,41,MDR,Medium Density Residential,e655a801-5d09-4df7-ac19-56cd866f3469,34525.5585938,796.842988182547,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+286,EX_ZONE_HDR,5,HDR,High Density Residential,ec10c032-0086-4db7-b3b4-a40187972600,50915.0039063,1522.92571941,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+287,EX_ZONE_MDR,41,MDR,Medium Density Residential,210df3e7-4d6f-44a8-93fa-1fc272d80552,8776.421875,389.625833865992,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+288,EX_ZONE_MDR,41,MDR,Medium Density Residential,f9789773-5e78-49ec-b5de-0b3d21599c05,1760.5,167.56172641878,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+289,EX_ZONE_MDR,41,MDR,Medium Density Residential,e0169d59-c690-45df-ab85-cb15cd7765b1,2151.09375,307.785034364357,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+290,EX_ZONE_IU,4,IU,Intensive Use,ba8680cc-b369-46bd-811e-2c4ad62e0f54,14957.0507813,561.205821128551,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+291,EX_ZONE_IU,4,IU,Intensive Use,59241dd3-4f06-4a33-9f21-339a66f4f7dc,262370.375,3717.62243576,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+292,EX_ZONE_HDR,5,HDR,High Density Residential,82d79727-0c95-46d8-b183-62f020aa3b10,3216.24609375,223.399176784879,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+293,EX_ZONE_PDR,5,PDR,Planned Development Residential,165e2531-abb9-4738-bb9d-ca53d6c44c3d,253805.625,4134.39061943,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+294,EX_ZONE_RR,5,RR,Rural Residential,1d3ef428-ee56-4776-ab5e-223f32572842,253897.582031,2810.42026984,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Rural Residential,1
+295,EX_ZONE_RR,5,RR,Rural Residential,7f8e62b7-0df8-4bcd-847e-669e4153f23a,538599.40625,4074.60604338,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Rural Residential,1
+296,EX_ZONE_RR,5,RR,Rural Residential,9afa06e6-fd95-4892-8648-e3e8c4fc00a5,14186.6523438,651.526152710392,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Rural Residential,1
+297,EX_ZONE_RR,5,RR,Rural Residential,bf65da78-56ab-4616-bde2-c079fe8d0aed,42856.6445313,1157.85532719,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Rural Residential,1
+298,EX_ZONE_CL,6,CL,Linear Commercial,1551ff73-c5f1-48c5-a8f8-1406c359f4ab,110027.128906,2594.1744423,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+299,EX_ZONE_IU,4,IU,Intensive Use,b4a0a4e4-66bd-4834-9ef5-a21523eb1fef,26289.0859375,897.792044020704,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+300,EX_ZONE_HDR,5,HDR,High Density Residential,52699153-d003-4c23-846b-5ba629dbdbd9,20109.2851563,702.023320890994,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+301,EX_ZONE_IU,4,IU,Intensive Use,e00ace7a-3507-4820-94a4-ddd00476733e,24968.2460938,633.254616726097,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+302,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,67b64a5c-1445-4796-8636-3e5dc86ff1a4,30475.3515625,700.229148205456,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+303,EX_ZONE_CL,6,CL,Linear Commercial,ff6b0f65-69bb-4733-bc58-cc42e3b7d815,32843.4921875,1026.44825597,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+304,EX_ZONE_IU,4,IU,Intensive Use,e7c273a5-4450-42ec-91df-fc328f392fc8,163041.925781,2120.22427404,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+305,EX_ZONE_RC,5,RC,Resource Conservation,7b4208d2-c414-4782-932c-8d0875837e7e,919725.730469,4679.42306018,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+306,EX_ZONE_IU,4,IU,Intensive Use,fc05f8aa-b134-4867-abd5-660008804378,407124.820313,4513.71107558,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+307,EX_ZONE_IU,4,IU,Intensive Use,b2a02395-31f1-47b3-80de-f34ec12139d2,118510.714844,2062.05310348,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+308,EX_ZONE_LDR,2,LDR,Low Density Residential,bcb164cf-fe21-4407-a510-2a1bc100e070,49126.5273438,948.013450674811,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+309,EX_ZONE_CL,6,CL,Linear Commercial,fb6f8468-1e80-4630-9b07-c496039b86b5,157623.125,4107.6896364,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+310,EX_ZONE_MDR,41,MDR,Medium Density Residential,125081b6-77bc-4971-ba2f-dc8de8675f04,6213.3515625,360.187317625648,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+311,EX_ZONE_HDR,5,HDR,High Density Residential,3cc93a4b-30f5-45ab-b62f-d1e29385ad73,209869.96875,2650.76899081,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+312,EX_ZONE_CL,6,CL,Linear Commercial,f3824099-87a3-4326-a07f-3e9844d3ec6c,18082.5273438,718.170414302003,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+313,EX_ZONE_MDR,41,MDR,Medium Density Residential,87812efe-7c60-41fe-afbc-d106ad5d781b,5027.35546875,398.022719363028,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+314,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,30ce96eb-7aed-4823-bc4a-b0ee7e9abeee,2301.93359375,190.087279322253,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+315,EX_ZONE_MDR,41,MDR,Medium Density Residential,31cdcdd6-11d8-4822-a204-6b7ecf6376b6,6622.15234375,345.49858296159,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+316,EX_ZONE_HDR,5,HDR,High Density Residential,7e19bf5f-7a31-41f8-a2be-3a9041ca64dc,8889.8984375,495.524672198906,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+317,EX_ZONE_MDR,41,MDR,Medium Density Residential,0e54cf63-baee-43a9-82c6-7692b2d6e612,968.28125,156.755236601526,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+318,EX_ZONE_MDR,41,MDR,Medium Density Residential,d79655b2-526f-4554-ae06-69757cc6dc4f,12908.6679688,724.104860626886,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+319,EX_ZONE_LDR,2,LDR,Low Density Residential,9a4d7bbb-2736-4d2e-8bf1-ff82767e7cd6,1341734.44922,11818.9167164,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+320,EX_ZONE_LDR,2,LDR,Low Density Residential,5b9d95cc-91a4-4679-a79a-3d881713d704,44875.5664063,814.870189930514,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+321,EX_ZONE_PDR,5,PDR,Planned Development Residential,243d6c64-0707-4e14-8075-4e0458198d54,72287.2773438,1571.1772437,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+322,EX_ZONE_HDR,5,HDR,High Density Residential,b6fabcc9-de95-4264-9db3-5fa6a035db7a,10516.9179688,491.745173174226,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+323,EX_ZONE_LDR,2,LDR,Low Density Residential,b87233ba-47b5-46f8-b23a-aba499b48339,66719.6953125,1194.22958485,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+324,EX_ZONE_LDR,2,LDR,Low Density Residential,ed1fe5b5-1e5c-4bde-8248-b7d6628f8fb6,42938.015625,1025.78797094,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+325,EX_ZONE_IU,4,IU,Intensive Use,ce80e49b-44bb-46d3-aee0-3562c51a9f4b,68038.7382813,1266.23626231,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+326,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,fe94258e-1ece-4ca9-a277-fed6d7bc9691,20357.5078125,572.256874782524,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+327,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,1014c90c-ae93-4bfe-a402-6890ba7a62c9,17649.34375,638.393603536382,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+328,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,534c439a-b4d5-4892-9000-bff7b93ab289,12689.9023438,581.783277573223,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+329,EX_ZONE_HDR,5,HDR,High Density Residential,2e9f07c1-fb8b-4122-98a6-1f71e484a924,20879.984375,852.161763574972,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+330,EX_ZONE_MDR,41,MDR,Medium Density Residential,46cbf18f-be99-4a59-8823-b5cd435afcab,215439.910156,2854.6883569,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+331,EX_ZONE_MDR,41,MDR,Medium Density Residential,91fc65ca-550d-4cc8-bb9c-d305a5f2b622,83224.5273438,2015.57657743,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+332,EX_ZONE_CL,6,CL,Linear Commercial,8019d8f6-2590-4869-80d0-7f7f2586d17b,21888.2851563,811.232728561857,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+333,EX_ZONE_HDR,5,HDR,High Density Residential,772238cb-df33-43ee-94aa-d833c1de5513,16576.4492188,609.512649615679,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+334,EX_ZONE_CL,6,CL,Linear Commercial,adc241c7-0c14-4c6e-8e11-ed7839a73fe9,238643.121094,4830.50628829,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+335,EX_ZONE_HDR,5,HDR,High Density Residential,dbc23f35-b3a5-495d-b3ea-4bfaf419c196,133945.941406,1856.77193331,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+336,EX_ZONE_CL,6,CL,Linear Commercial,13035479-27a0-4c1e-9975-b1b944c95489,287576.644531,4253.10515512,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+337,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,a1c83a00-bd19-46ff-9de2-cd958cedf3e8,304589.71875,4879.24837625,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+338,EX_ZONE_PDR,5,PDR,Planned Development Residential,783f2da6-1752-4368-9137-48a354cfc74b,155391.226563,2022.96770969,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+339,EX_ZONE_LDR,2,LDR,Low Density Residential,07dd5cdf-d60a-49fe-8e36-4974a2e28a9e,45167.796875,869.335071486028,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+340,EX_ZONE_CW,140,CW,Waterfront Shopping & Service,389c94be-334c-4f04-9352-d9cb3c44665c,39784.1640625,1013.88084092,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Waterfront Shopping & Service,0
+341,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,8712133d-e119-45f7-a8e8-f0298aa1e088,8819.06640625,376.853754029414,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+342,EX_ZONE_MDR,41,MDR,Medium Density Residential,3df6d347-7a47-4fdf-853f-3dfc05a6f9c1,335576.90625,2952.44759098,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+343,EX_ZONE_HDR,5,HDR,High Density Residential,e6bf6eb5-4a0e-47c5-9ca0-4b29abcc19de,42926.3085938,1237.04634818,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+344,EX_ZONE_PF,1,PF,Public Facilities,421a8269-bc47-45e6-9ec2-6a2651e4d549,6244.03515625,472.428086112733,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+345,EX_ZONE_COUNTY,5,COUNTY,Solano County,48d0a769-5ff2-41e4-8d9a-fd58670b40db,2008803.01172,7819.11450188,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Solano County,3
+346,EX_ZONE_COUNTY,5,COUNTY,Solano County,edf7dc24-217b-4243-a58f-5a93c941ceca,523150.710938,3674.02476067,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Solano County,3
+347,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,b2d7fe1d-61c5-41a0-b827-ee6789604d72,6722614.11328,12266.7803628,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+348,EX_ZONE_IU,4,IU,Intensive Use,7f349a0f-5abc-40a0-b2b4-d0d2c52adfe1,64523.59375,1080.18769225,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+349,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,c2c93a23-7d55-4019-9698-8ea3d9672c0f,5887.3984375,307.838270866089,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+350,EX_ZONE_PDI,191,PDI,Planned Development Industrial,0ad5d64e-a24f-437c-8c10-c78cd672eb27,1375072.69922,6760.85499064,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Industrial,0
+351,EX_ZONE_MDR,41,MDR,Medium Density Residential,0ba0ec17-9201-464f-9d4a-9e311476b106,1713.87109375,189.841034109285,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+352,EX_ZONE_CF,150,CF,Freeway Shopping & Service,d4b88d9f-f42f-4247-b0a5-1f84b7742de3,58295.21875,1624.99119427,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+353,EX_ZONE_HDR,5,HDR,High Density Residential,d48585f7-edf7-49e4-b194-66a17da530d0,105397.257813,1484.70694358,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+354,EX_ZONE_LO,5,LO,Limited Office,703b2186-cd63-4ffe-98ef-d9d0fc3b9da5,8609.74609375,467.433231500255,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+355,EX_ZONE_MDR,41,MDR,Medium Density Residential,37564ca4-f2c5-4713-8a43-6484c8424a11,5547.31640625,369.516037658697,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+356,EX_ZONE_HDR,5,HDR,High Density Residential,3886c1c0-c102-4149-bac2-0f22ed56038b,7724.77734375,370.184429096506,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+357,EX_ZONE_CW,140,CW,Waterfront Shopping & Service,1f5d999c-8319-4f46-b267-9dbe5360f176,307399.636719,6304.19481871,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Waterfront Shopping & Service,0
+358,EX_ZONE_CF,150,CF,Freeway Shopping & Service,0c1ee25c-4de8-4713-a957-0cd02727f240,39577.1289063,1052.0515509,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+359,EX_ZONE_CF,150,CF,Freeway Shopping & Service,d9d66a13-5895-43a5-982f-6c5387d6e92d,50262.4375,1135.22763192,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+360,EX_ZONE_CL,6,CL,Linear Commercial,863bbfc4-2669-40a4-9ac9-0071ef6ada78,35189.9179688,878.093357663843,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+361,EX_ZONE_COUNTY,5,COUNTY,Solano County,2936f4ce-e01d-42c4-b061-8819ef08515c,35187.6679688,836.641055144797,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Solano County,3
+362,EX_ZONE_RC,5,RC,Resource Conservation,1ff806bd-0e69-4ece-a737-aad55c54dc47,14275.5039063,731.840988312032,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+363,EX_ZONE_PDR,5,PDR,Planned Development Residential,4f3bf3b0-4d31-4f52-ab90-fc8b801545f6,2198.34375,191.593552006743,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+981,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_MF,961790f7-70aa-4406-a4a1-67f596313bb6,341043.113281,2721.18634838,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_MF,2
+365,EX_ZONE_COUNTY,5,COUNTY,Solano County,ca91019c-6130-4e2f-ac9d-de3222d6749e,495138.542969,3633.27823051,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Solano County,3
+366,EX_ZONE_MDR,41,MDR,Medium Density Residential,b895716a-daea-455d-88fe-7e58231f3156,23488.078125,784.994825508658,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+367,EX_ZONE_RC,5,RC,Resource Conservation,8b14df71-37f7-4090-8d48-bc78a62807a3,14380.2070313,731.970697051634,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+368,EX_ZONE_HDR,5,HDR,High Density Residential,ecc20c88-e005-4b88-a189-e034b46d9483,17670.7382813,550.130846958867,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+369,EX_ZONE_CL,6,CL,Linear Commercial,dab444fc-0792-42cd-babf-9e312f7788e2,20209.015625,930.994274660294,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+370,EX_ZONE_HDR,5,HDR,High Density Residential,a4c56b05-9962-4b6e-b36f-9400db2715ff,5604.22265625,310.573098316928,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+371,EX_ZONE_HDR,5,HDR,High Density Residential,2288b26d-76cd-4167-aa5b-2dfa716db504,43398.2578125,925.227596952783,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+372,EX_ZONE_CL,6,CL,Linear Commercial,5a5c613f-d18f-4a96-91c8-d457756821cd,32188.6640625,930.908897812106,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+373,EX_ZONE_PF,1,PF,Public Facilities,0248dddb-d056-493c-bca8-9f783c078baf,48372.4023438,1059.67159739,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+374,EX_ZONE_CL,6,CL,Linear Commercial,8a94f40f-de3f-44b9-a4fd-aadc12a43d5a,15122.390625,487.871342455984,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+375,EX_ZONE_LDR,2,LDR,Low Density Residential,9489b01b-10b5-4b76-b7a6-3fe105f4ba86,137675.925781,2219.43258871,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+376,EX_ZONE_MDR,41,MDR,Medium Density Residential,438c9536-9ead-4d66-b422-d8c0b1dcf829,3584.37890625,289.108307400685,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+377,EX_ZONE_LO,5,LO,Limited Office,7789937d-e7b0-4335-a0b8-ea9fbca243e0,5116.125,300.654460057791,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+378,EX_ZONE_LDR,2,LDR,Low Density Residential,5672a8ba-bbae-4650-9785-daa5c2e4060f,1106235.92188,5801.80280744,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+379,EX_ZONE_PF,1,PF,Public Facilities,8bc257f5-5783-4596-abab-3f453bc61685,36533.046875,2360.62112735,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+380,EX_ZONE_PF,1,PF,Public Facilities,7e677b53-cf29-460b-97bf-59e47c590fb1,79371.234375,2308.88978467,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+381,EX_ZONE_PF,1,PF,Public Facilities,77394f59-8ee6-4add-bfcc-1b80eba32071,69464.6367188,3141.63053549,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+382,EX_ZONE_MDR,41,MDR,Medium Density Residential,610e8035-5fb0-469d-89ab-4ef55e900ffc,96714.2070313,1222.97907333,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+977,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_SF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_SF,1
+384,EX_ZONE_HDR,5,HDR,High Density Residential,c051e39d-0734-4068-a575-c60d11724ce8,114312.707031,2430.68708741,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+385,EX_ZONE_MDR,41,MDR,Medium Density Residential,001b3c39-b8b4-4435-b872-66058d5cd2c3,50919.7734375,1011.19061521,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+386,EX_ZONE_MDR,41,MDR,Medium Density Residential,70fd4be1-bf2b-4e43-8be4-1dcb48d2feb4,129769.667969,2021.02133733,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+387,EX_ZONE_LO,5,LO,Limited Office,5fd97fda-47b4-4353-80c2-60fdd86b832f,7991.05859375,438.6037319658,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+388,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,003d438f-16bf-417f-829c-af2e3fb7a2a2,45909.9570313,863.611459862304,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+389,EX_ZONE_LDR,2,LDR,Low Density Residential,5b8eea08-dab6-40c3-8c7f-1550e0fb1bde,1206865.53906,6604.3073137,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+390,EX_ZONE_MDR,41,MDR,Medium Density Residential,83e62737-d73e-4f82-aa55-40e83b23fa4a,68917.6054688,1029.16830228,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+391,EX_ZONE_LDR,2,LDR,Low Density Residential,47227a7b-0d28-47cb-a492-d02d97032134,240055.554688,3470.82918833,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+392,EX_ZONE_MDR,41,MDR,Medium Density Residential,87859d60-6a2e-4c73-9192-fc7df4f2fdd1,2163.3515625,183.394038283499,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+393,EX_ZONE_LDR,2,LDR,Low Density Residential,ac8b953d-0886-4828-a455-de735e4e7d8d,623268.417969,5632.15346368,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+394,EX_ZONE_LDR,2,LDR,Low Density Residential,4e0d1217-fef3-4445-83c5-c0d59e7dd28d,624572.457031,3979.86592377,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+395,EX_ZONE_LDR,2,LDR,Low Density Residential,d924d00b-30dc-4d33-8727-751d94c1fbbe,1475633.12109,7039.0686978,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+396,EX_ZONE_PF,1,PF,Public Facilities,bc6fe6d2-2bc2-4cbc-87a8-bc601f87d438,22316.4609375,609.808467141076,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+397,EX_ZONE_PF,1,PF,Public Facilities,7a224118-167b-4da2-a921-00ce90e072bd,12751.6445313,469.903744735822,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+398,EX_ZONE_HDR,5,HDR,High Density Residential,22efd162-5f42-46d2-84f1-fac1c00710dd,9321.95703125,405.174894380118,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+399,EX_ZONE_M,5,M,Medical,1ff60948-0f4b-4e41-9922-86a12d13a788,230432.957031,2107.00674426,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medical,0
+400,EX_ZONE_CL,6,CL,Linear Commercial,0eecdec4-04ac-4424-8502-84e8cd512a83,28758.8945313,964.317354816341,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+401,EX_ZONE_IUL,5,IUL,Limited Intesive Use,a959fe94-96f4-4299-ac80-07521fe6ef8f,3897.20703125,270.318847396443,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+402,EX_ZONE_IUL,5,IUL,Limited Intesive Use,612b8382-e053-49f5-b311-c52446f2d912,10968.8203125,419.417242209468,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+403,EX_ZONE_CL,6,CL,Linear Commercial,75fe11c1-3b8b-41f5-9626-13847e7e902b,18258.6640625,794.967876919418,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+404,EX_ZONE_CL,6,CL,Linear Commercial,c04d3ccf-806c-4587-97a4-ea8c285016c6,16082.765625,804.660912273532,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+405,EX_ZONE_CL,6,CL,Linear Commercial,f44a8d2e-416f-483f-8e2a-d5f6c614f84d,5283.54296875,294.217957722932,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+406,EX_ZONE_CL,6,CL,Linear Commercial,b1dcdf81-d8ce-4ca1-8bb6-4a460fd3ea46,5659.24609375,389.882110722965,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+407,EX_ZONE_CL,6,CL,Linear Commercial,991ab12a-0c0c-4f00-b26b-f0ce914c5a93,8810.890625,547.230952922896,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+408,EX_ZONE_CL,6,CL,Linear Commercial,6f7de9ce-6583-4aad-bffc-e10b31de9e8d,20916.8554688,739.701781840792,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+409,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,baa8f84f-d164-46f0-9789-e6fb501e7e1d,32665.625,854.826647676489,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+410,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,6b947814-a1c8-45e4-bbfc-55591149e54f,1910.23046875,171.527826981349,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+411,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,304e38f3-4f41-4001-804d-41764424b201,5847.18359375,380.059118928871,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+412,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,0c82e61f-349b-4ad4-8f1b-5cccc9ec527c,48965.1953125,855.440458207005,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+413,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,eeb2c85f-09ee-4f55-b624-6d07d3d197f2,150174.566406,1828.42995668,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+414,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,acc9b323-0047-47f3-ba45-f67859d8e596,76727.3828125,1095.22503361,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+415,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,103da72e-ce96-49af-8da7-e0b3c718f87a,111359.933594,2436.02057658,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+416,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,fa724503-93a0-4a2f-8ac4-ded1e4aee9c1,18150.5195313,715.14688018423,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+417,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,7f467004-2bd0-44d4-950c-4694a6a885aa,1167.17578125,148.139316337294,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+418,EX_ZONE_HDR,5,HDR,High Density Residential,877796d7-a897-4bfe-aad5-40f898867037,10564.7890625,494.668095856668,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+419,EX_ZONE_HDR,5,HDR,High Density Residential,b00ffec6-b76d-44f7-bb5b-ec2d6c4a960d,630528.972656,6271.75949054,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+420,EX_ZONE_HDR,5,HDR,High Density Residential,55f0fab6-8601-4721-a750-37bb7aa91bdd,1660.12109375,166.228323496178,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+421,EX_ZONE_IU,4,IU,Intensive Use,b6d6076e-f1eb-4e59-9368-a3c2d72f7773,45629.671875,1428.64478063,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+422,EX_ZONE_IU,4,IU,Intensive Use,a4c74b9b-3c58-43ba-9485-a2df901483e8,80111.7226563,1330.37876207,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+423,EX_ZONE_IU,4,IU,Intensive Use,b2324066-b4df-461c-9a9d-44389cc0361a,44756.6054688,1160.01972888,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+424,EX_ZONE_IUL,5,IUL,Limited Intesive Use,8b5945ac-4716-425b-932c-cf4d9aea2b54,5454.50390625,320.447706364626,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+425,EX_ZONE_LDR,2,LDR,Low Density Residential,46c51c6d-d87a-4538-b215-5b4cd03109a4,157321.976563,2832.71238849,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+426,EX_ZONE_LDR,2,LDR,Low Density Residential,7722eb06-f7e8-4e88-a378-7e2d8e561315,1190037.83984,7970.60944518,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+427,EX_ZONE_LDR,2,LDR,Low Density Residential,5b62f663-2962-40f1-b29a-1052b8dae249,777358.582031,5774.78936691,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+428,EX_ZONE_LDR,2,LDR,Low Density Residential,8af0f0bb-1c5c-4a54-8fe7-162c66fedb2b,343075.8125,3891.95205374,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+429,EX_ZONE_LDR,2,LDR,Low Density Residential,3a497525-ec5c-4add-a365-1a38a05f9ccd,1060964.81641,4800.09818376,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+430,EX_ZONE_LDR,2,LDR,Low Density Residential,5033190b-dfe6-4bb2-8acc-be430b9d3bb9,1123548.93359,5761.86417176,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+431,EX_ZONE_LDR,2,LDR,Low Density Residential,a652b972-a33f-4e71-a3de-c634df23167e,1021193.04688,9527.34372837,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+432,EX_ZONE_LO,5,LO,Limited Office,3947a55e-4226-46b8-80c8-23f7e3975204,1383.78125,146.688069176877,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+433,EX_ZONE_LO,5,LO,Limited Office,25758093-b06e-40b4-b934-35533583cf80,2403.3828125,188.860820146652,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+434,EX_ZONE_LO,5,LO,Limited Office,5e77cd30-d47c-434b-9a3c-24a75a6c5058,2050.4375,181.384757989377,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+435,EX_ZONE_MDR,41,MDR,Medium Density Residential,917603f5-45e0-48ce-8146-f1c86e00891b,40548.1953125,1175.77262732,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+436,EX_ZONE_MDR,41,MDR,Medium Density Residential,c9048799-29f2-44d0-b52b-3339d5b8d190,2856.2734375,228.937446843986,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+437,EX_ZONE_MDR,41,MDR,Medium Density Residential,da22340d-51cd-4328-a06c-391fe724e362,1294.11328125,153.024034621743,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+438,EX_ZONE_MDR,41,MDR,Medium Density Residential,94d8e8fd-95b3-42c0-b686-4bbc72572f85,15115.4023438,488.072461326219,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+439,EX_ZONE_MDR,41,MDR,Medium Density Residential,e1ccfe12-4480-424b-b957-139c15247f3a,10134.9960938,451.488053565086,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+440,EX_ZONE_PDC,5,PDC,Planned Development Commercial,444cebc7-2ae3-431f-8754-da7f6fc830fb,35690.7109375,768.019977190045,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+441,EX_ZONE_PF,1,PF,Public Facilities,d5bb893d-e681-4384-a1f6-2bddd79b5bd1,1056145.82031,4278.02628384,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+442,EX_ZONE_LDR,2,LDR,Low Density Residential,1df2f854-6534-4487-a55f-5735ec4905e2,47834.90625,866.884148266848,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+443,EX_ZONE_PDC,5,PDC,Planned Development Commercial,909b039b-28b6-4589-870d-97310f16cc9c,30777.8242188,1016.9664498,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+444,EX_ZONE_CL,6,CL,Linear Commercial,5419414c-5ac5-4f91-8c85-456f2de90371,4906.5234375,298.922970535993,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+445,EX_ZONE_CL,6,CL,Linear Commercial,2229dd2a-4d14-4a58-bd01-43877d477ec1,12697.703125,436.314851304132,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+446,EX_ZONE_HDR,5,HDR,High Density Residential,caa1d171-f7eb-442e-96ec-f728ca8e4b94,104618.097656,1989.13592113,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+447,EX_ZONE_IU,4,IU,Intensive Use,171686ef-f9df-460e-9ef3-9ab69a2d89d0,507.39453125,91.9442700277199,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+448,EX_ZONE_IU,4,IU,Intensive Use,fe455270-bad4-4711-a134-54c51a290449,13015.2695313,546.549776218674,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+449,EX_ZONE_MDR,41,MDR,Medium Density Residential,357ff2be-8da1-4c58-b75b-89f7219db21f,98865.125,1285.28788822,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+450,EX_ZONE_IU,4,IU,Intensive Use,695df44b-8ed9-4acd-a9bf-b01e034045e0,18708.3867188,1181.60538618,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+451,EX_ZONE_IUL,5,IUL,Limited Intesive Use,517c9d0d-f9da-4e4c-87aa-808183a725bf,1643.359375,158.889021006316,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Intesive Use,0
+452,EX_ZONE_PF,1,PF,Public Facilities,9d0913f0-f80d-4487-b56f-c0c0d7c77cd8,15193.9101563,502.698745483747,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+453,EX_ZONE_PDR,5,PDR,Planned Development Residential,9c4d2ad1-2559-4709-8ad5-04c59297733f,37893.8476563,855.711832018889,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential,2
+454,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,d3eaaf6c-5d64-409d-9daa-6d1b88040ee4,22759.2851563,619.472009690637,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+455,EX_ZONE_MDR,41,MDR,Medium Density Residential,f7115d4c-f15f-4dce-8508-759be73a4789,105803.554688,1749.44721556,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+456,EX_ZONE_PDC,5,PDC,Planned Development Commercial,bbf585eb-d159-440b-aceb-4ffa4977d498,65781.8164063,1233.61011913,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+457,EX_ZONE_CW,140,CW,Waterfront Shopping & Service,3f817fc2-d9e5-4514-868b-56389c160cac,110963.15625,1568.15623942,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Waterfront Shopping & Service,0
+458,EX_ZONE_PDR,5,PDR,Planned Development Residential,563ecda5-5523-4006-a595-45acb902697b,106274.53125,1392.05111966,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+459,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,c57f15ca-0d66-43ce-8fda-606fdaa2f1c0,84626.015625,1222.86062068,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+461,EX_ZONE_PF,1,PF,Public Facilities,dbcd7149-f8ab-4b96-b55e-32035ebb21c0,70245.640625,1327.61510601,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+462,EX_ZONE_CF,150,CF,Freeway Shopping & Service,8973a6ca-86c2-4cd3-b8bf-51f33f5f5677,9075.43359375,368.226744831252,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+463,EX_ZONE_MDR,41,MDR,Medium Density Residential,5ed2dc29-83f8-4e9c-b335-4661c0d1d264,2256.06640625,193.466397567903,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+464,EX_ZONE_MDR,41,MDR,Medium Density Residential,64e818b7-000e-47de-9c68-a2373a025e4f,7685.94921875,468.832077219126,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+465,EX_ZONE_CN,5,CN,Neighborhood Shopping & Service,5a455f84-1b5b-46ce-b729-0721f1d6a6db,1850.47265625,176.052905135503,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Neighborhood Shopping & Service,0
+466,EX_ZONE_CF,150,CF,Freeway Shopping & Service,0d6fa226-028c-4833-bef3-500ad048990a,32641.0546875,1261.42986479,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+467,EX_ZONE_PDC,5,PDC,Planned Development Commercial,276172e7-970e-4272-80f7-a8a3878437b2,4645.3125,276.644235883222,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+468,EX_ZONE_MDR,41,MDR,Medium Density Residential,49b07dde-166a-4ef1-8fcd-cce2e2551fdf,4545.9609375,354.567583065536,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+469,EX_ZONE_CF,150,CF,Freeway Shopping & Service,07265bca-58da-41b3-895e-7c9e712a83a4,18283.5390625,896.330325633408,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+470,EX_ZONE_PDR,5,PDR,Planned Development Residential,7f18a198-20be-4dfe-af20-0e0298f45cb5,146414.347656,2628.32364409,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Residential_SF,1
+471,EX_ZONE_CL,6,CL,Linear Commercial,a5245e2f-ffbb-4577-9d2c-c846e9d02e0d,21.7734375,113.443105264759,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+472,EX_ZONE_HDR,5,HDR,High Density Residential,8be54d00-e945-44d7-a931-3c49490ef631,110305.4375,1346.49915579,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+474,EX_ZONE_MDR,41,MDR,Medium Density Residential,e1c2ce87-b750-412f-83e8-eafb52a4acf7,175262.121094,2566.80461378,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+475,EX_ZONE_PF,1,PF,Public Facilities,bff56f9b-d852-466c-8eee-f39505afc102,68727.6679688,2203.06798015,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+476,EX_ZONE_IU,4,IU,Intensive Use,8f550bfa-b3be-4f8d-81c1-a5c36de76cf1,1869.76171875,190.538397241023,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+477,EX_ZONE_CL,6,CL,Linear Commercial,08ba76c7-2ce9-4c6c-bf6a-0264a58c0097,4380.92578125,334.672374708598,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+478,EX_ZONE_MDR,41,MDR,Medium Density Residential,988eb6ba-833a-423d-8da2-dea7b17b3065,1848.66015625,185.014222872583,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+479,EX_ZONE_IU,4,IU,Intensive Use,4b125609-f179-423e-8d04-ed6d75c8bdc8,20061.2304688,621.904465377706,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+480,EX_ZONE_M,5,M,Medical,4e90ce09-2a8c-45e2-815d-c5f4f604909e,36293.6171875,938.292394145715,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medical,0
+481,EX_ZONE_CL,6,CL,Linear Commercial,b39ee96d-f98a-4346-ae1f-ff204b0be0de,3196.578125,240.416662233949,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+482,EX_ZONE_IU,4,IU,Intensive Use,2227bac4-d596-4cfc-b744-144a5efd055e,70.8984375,238.853026737244,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+483,EX_ZONE_IU,4,IU,Intensive Use,84640779-8f21-4bac-b811-15243a6d362b,8340.92578125,524.77404258143,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Intensive Use,0
+484,EX_ZONE_CL,6,CL,Linear Commercial,79d126a8-9f6c-405a-ad61-0e667df20000,184973.074219,3738.15095683,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+485,EX_ZONE_LDR,2,LDR,Low Density Residential,4ca946e2-b688-4f6f-a3bf-c514d49b5797,4743641.87891,22522.1087147,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+486,EX_ZONE_MDR,41,MDR,Medium Density Residential,40d5a9ac-1c39-4a51-ae87-01e644cf8c4c,41222.4960938,1009.96289624,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+487,EX_ZONE_CP,8,CP,Pedestrian Shopping & Service,19e99d2b-b0ad-4882-b423-75be5d11800f,54104.7148438,1080.59220777,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Pedestrian Shopping & Service,0
+488,EX_ZONE_PDC,5,PDC,Planned Development Commercial,cfeb1744-2216-4dbc-a633-7298055e7b38,47825.2773438,961.687363642693,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Planned Development Commercial,0
+489,EX_ZONE_LDR,2,LDR,Low Density Residential,3aec8960-1d92-4d05-b0ff-aff5e76f2ad4,870665.035156,6590.00719708,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+490,EX_ZONE_PF,1,PF,Public Facilities,2ef0caf9-690b-4855-80c7-7a313f3c69c1,97588.7929688,1432.89620754,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+491,EX_ZONE_PF,1,PF,Public Facilities,4892c2b1-39e9-467d-a000-10cdca2fe7c9,51092.1640625,1249.25209546,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+492,EX_ZONE_LDR,2,LDR,Low Density Residential,a1280629-e257-4987-8816-7ee4a04a081f,4829433.71484,30728.665541,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+493,EX_ZONE_PF,1,PF,Public Facilities,9461d893-d55e-4957-a0f1-7f21c24fd443,118376.054688,1650.49890163,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+494,EX_ZONE_PF,1,PF,Public Facilities,540000a1-2bc6-4569-a6e5-4433db85a78b,111845.285156,1412.48111131,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+495,EX_ZONE_LDR,2,LDR,Low Density Residential,0fee5172-52c3-4f3a-8802-0891018fff11,3947027.17188,13938.5525323,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+496,EX_ZONE_MDR,41,MDR,Medium Density Residential,d1df2c55-8d0b-414d-a1b9-c5ab77563c78,1614.12109375,186.515282950219,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+497,EX_ZONE_RC,5,RC,Resource Conservation,7c3ceaa1-4d45-4a7f-8e12-edb63de3b775,250.6015625,801.287700553693,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+498,EX_ZONE_RC,5,RC,Resource Conservation,27cbbc12-a13e-40a3-b474-db6c42ff97c3,38568.0820313,1092.20442082,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+499,EX_ZONE_LDR,2,LDR,Low Density Residential,13c58333-c006-4a48-8676-ecc45d5e05c0,3950697.32813,29306.2149977,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+500,EX_ZONE_RC,5,RC,Resource Conservation,5d728a29-95c7-4678-9f1e-97be27b1bc2a,38340.9570313,1092.64739782,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Resource Conservation,0
+501,EX_ZONE_PF,1,PF,Public Facilities,53b3ff22-f19c-4644-8130-755ff65a5a1a,11421.7851563,420.726146607264,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+502,EX_ZONE_LO,5,LO,Limited Office,4f93780f-85f8-43d1-8a4e-7dc1e6c8d4d4,2058.52734375,181.376704496192,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Limited Office,0
+503,EX_ZONE_MDR,41,MDR,Medium Density Residential,dbd6da7d-9691-4af6-87e2-41d7bce1266d,22678.7929688,651.166983574862,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+504,EX_ZONE_PF,1,PF,Public Facilities,75e42f06-811f-423e-9479-ff28e69ba544,10975.3007813,664.356124256986,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+505,EX_ZONE_A-H,0,A-H,Architectural Heritage District,1325ba0d-60e4-47f5-ae0c-03d0e881ebe8,457199.515625,3167.86989632,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Architectural Heritage District,3
+506,EX_ZONE_PF,1,PF,Public Facilities,5276132d-5767-4399-bd11-c2aa4ce6153c,4906.36328125,285.349981544991,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+507,EX_ZONE_PF,1,PF,Public Facilities,00bbac83-26ed-4738-b24b-5127c9a3d0ba,9745.53125,439.321296928696,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+508,EX_ZONE_PF,1,PF,Public Facilities,ba30bf0c-91ed-4927-8f00-b94a92cf68a3,3579.80859375,234.723529485613,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+509,EX_ZONE_PF,1,PF,Public Facilities,663631de-b409-4c45-94d8-7fdc57c100b4,54365.3945313,1016.71398414,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+510,EX_ZONE_MDR,41,MDR,Medium Density Residential,591a83c5-3ad1-422a-9263-eb875bc4f084,11973.9804688,430.430593266083,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+511,EX_ZONE_PF,1,PF,Public Facilities,7fd130a3-ba00-4e88-8a7b-7be0d9f91dea,20731.4609375,628.741995037931,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+512,EX_ZONE_CL,6,CL,Linear Commercial,36f667f5-0758-4181-99f6-47a37cad17b3,2655.09765625,227.510991202073,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+514,EX_ZONE_HDR,5,HDR,High Density Residential,4ff54a04-81cf-4576-9cd8-2c3a497aae71,1046.8359375,131.779079807018,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+515,EX_ZONE_PF,1,PF,Public Facilities,0d383dc6-1814-40ba-95fe-3680bebb72f9,5748.03515625,317.654440479882,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+516,EX_ZONE_PF,1,PF,Public Facilities,11a1e3b6-e532-4601-9423-da0e4a6c8f81,9881.4921875,443.502932978554,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+517,EX_ZONE_RVD,44,RVD,Residential View District,2dd73746-e285-49f3-a1c8-22d0a89358a7,1378488.66406,5531.18440431,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Residential View District,3
+518,EX_ZONE_DDD,0,DDD,DDD,889cb1d3-eaaa-4f30-b4a5-f6373776668c,505543.472656,4014.50054711,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,DDD,3
+519,EX_ZONE_CF,150,CF,Freeway Shopping & Service,269ae283-cb18-427b-a140-3f423a2b0b13,78196.6679688,1269.51277886,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Freeway Shopping & Service,0
+520,EX_ZONE_LDR,2,LDR,Low Density Residential,b302cb67-078e-4b45-988a-cd218f620bd8,149745.65625,2244.72975067,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+521,EX_ZONE_PF,1,PF,Public Facitlities,f272f52e-600d-4a6d-8637-a98af14d8d6d,274273.433594,3800.63167829,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facitlities,0
+522,EX_ZONE_PF,1,PF,Public Facilities,276b1261-be98-4eef-bfca-41907ccaff90,56464.0351563,1554.28077824,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+523,EX_ZONE_PF,1,PF,Public Facilities,ea6813d1-11d9-40a8-8c33-ce80f7369c8c,9634.12109375,704.12548201445,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+524,EX_ZONE_MDR,41,MDR,Medium Density Residential,01d63ffa-a044-4da9-8bd9-ec5fe37f12d8,147162.859375,2111.28391613,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Medium Density Residential,2
+525,EX_ZONE_LDR,2,LDR,Low Density Residential,350e2d2d-cb3e-4c4a-89eb-4cf84604bbbf,2849365.58203,30078.9505574,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+526,EX_ZONE_PF,1,PF,Public Facilities,191a6048-9728-43f3-97f7-2161784ae2d7,48015.203125,1647.87890973,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+527,EX_ZONE_PF,1,PF,Public Facilities,0b149692-dee8-4d0a-a550-18f069af71c2,4334.87109375,544.178176318187,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+528,EX_ZONE_PF,1,PF,Public Facilities,2bb2db5b-df0a-45d5-93d5-85df43c713cd,1153.6484375,218.766912697725,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+529,EX_ZONE_PF,1,PF,Public Facilities,6d81de2f-f2e9-44fc-b077-7dd09bb6860c,33316.8515625,1941.99605155,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+530,EX_ZONE_PF,1,PF,Public Facilities,59b2611f-0a83-4bd0-bce5-fab0d795618e,5974.44140625,715.500569594705,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+531,EX_ZONE_PF,1,PF,Public Facilities,b7c16780-dc4d-40d4-8996-7cf2ef45eb9a,5503.828125,450.528219822641,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+532,EX_ZONE_PF,1,PF,Public Facilities,cefa4436-2a58-4f84-b807-387a8cd12ada,4227.91015625,700.865336935101,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+533,EX_ZONE_LDR,2,LDR,Low Density Residential,1e4d865c-e56d-4fd8-a6b8-e60ae85e2c9e,544778.042969,8353.35978528,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+534,EX_ZONE_HDR,5,HDR,High Density Residential,d4d12c3d-e57e-46ef-b5b2-3857ab8432c0,5843.390625,473.321398928167,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,High Density Residential,2
+535,EX_ZONE_CL,6,CL,Linear Commercial,09e76f7f-da4c-4c51-ac76-8f6861c83b1f,6010.48046875,378.419800911239,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+536,EX_ZONE_PF,1,PF,Public Facilities,b45f28b9-0c9e-449d-b5b4-df4e6dcc04fe,6856.984375,766.192147977935,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Public Facilities,0
+537,EX_ZONE_CL,41,CL,Linear Commercial,73c97e9f-947f-413c-b607-f587d893916a,1559.82421875,393.826419133174,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Linear Commercial,0
+999,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+998,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+970,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+997,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+971,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+996,NA,NA,NA,Low Density Residential,NA,NA,NA,NA,Low Density Residential,1
+995,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+994,NA,NA,NA,Low Density Residential,NA,NA,NA,NA,Low Density Residential,1
+993,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+992,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+991,NA,NA,NA,Medium Density Residential,NA,NA,NA,NA,Medium Density Residential,2
+990,NA,NA,NA,Low Density Residential,NA,NA,NA,NA,Low Density Residential,1
+989,NA,NA,NA,Low Density Residential,NA,NA,NA,NA,Low Density Residential,1
+988,NA,NA,NA,Open Space,NA,NA,NA,NA,Open Space,0
+987,NA,NA,NA,Medium Density Residential,NA,NA,NA,NA,Medium Density Residential,2
+986,NA,NA,NA,Commercial,NA,NA,NA,NA,Commercial,0
+985,NA,NA,NA,Commercial,NA,NA,NA,NA,Commercial,0
+983,NA,NA,NA,Medium Density Residential,NA,NA,NA,NA,Medium Density Residential,2
+984,NA,NA,NA,Commercial,NA,NA,NA,NA,Commercial,0
+982,EX_ZONE_LDR,2,LDR,Low Density Residential,9a4d7bbb-2736-4d2e-8bf1-ff82767e7cd6,1341734.44922,11818.9167164,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Low Density Residential,1
+364,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,961790f7-70aa-4406-a4a1-67f596313bb6,341043.113281,2721.18634838,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+18,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,a98d3bd6-d866-455d-a8be-ffa41b5b046f,272405.945313,3104.817425,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+976,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_SF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_SF,1
+979,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+978,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_SF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_SF,1
+974,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_MF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_MF,2
+975,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_MF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_MF,2
+972,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+973,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_SF,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_SF,1
+383,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,790562e2-7988-4057-a3a9-a07b4110956b,8060146.83594,17955.0125107,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+969,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development_SF,b2d7fe1d-61c5-41a0-b827-ee6789604d72,6722614.11328,12266.7803628,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development_SF,1
+968,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,b2d7fe1d-61c5-41a0-b827-ee6789604d72,6722614.11328,12266.7803628,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0
+967,EX_ZONE_MUPD,3,MUPD,Mixed Use Planned Development,b2d7fe1d-61c5-41a0-b827-ee6789604d72,6722614.11328,12266.7803628,https://library.municode.com/ca/vallejo/codes/code_of_ordinances,Mixed Use Planned Development,0

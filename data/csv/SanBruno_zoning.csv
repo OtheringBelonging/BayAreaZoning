@@ -1,0 +1,721 @@
+id,gnrl_p_,zoning
+0,Central Business District,0
+1,Central Business District,0
+2,Central Business District,0
+3,Central Business District,0
+4,Central Business District,0
+5,Central Business District,0
+6,Central Business District,0
+7,Central Business District,0
+8,Central Business District,0
+9,Central Business District,0
+10,Central Business District,0
+11,Central Business District,0
+12,Central Business District,0
+13,Central Business District,0
+14,Central Business District,0
+15,Central Business District,0
+16,High Density Residential,2
+17,High Density Residential,2
+18,High Density Residential,2
+19,High Density Residential,2
+20,High Density Residential,2
+21,High Density Residential,2
+22,High Density Residential,2
+23,High Density Residential,2
+24,High Density Residential,2
+25,High Density Residential,2
+26,High Density Residential,2
+27,High Density Residential,2
+28,High Density Residential,2
+29,High Density Residential,2
+30,High Density Residential,2
+31,High Density Residential,2
+32,Industrial,0
+33,Industrial,0
+34,Industrial,0
+35,Industrial,0
+36,Industrial,0
+37,Industrial,0
+38,Industrial,0
+39,Industrial,0
+40,Industrial,0
+41,Industrial,0
+42,Low Density Residential,1
+43,Low Density Residential,1
+44,Low Density Residential,1
+45,Low Density Residential,1
+46,Low Density Residential,1
+47,Low Density Residential,1
+48,Low Density Residential,1
+49,Low Density Residential,1
+50,Low Density Residential,1
+51,Low Density Residential,1
+52,Low Density Residential,1
+53,Low Density Residential,1
+54,Low Density Residential,1
+55,Low Density Residential,1
+56,Low Density Residential,1
+57,Low Density Residential,1
+58,Low Density Residential,1
+59,Low Density Residential,1
+60,Low Density Residential,1
+61,Low Density Residential,1
+62,Low Density Residential,1
+63,Low Density Residential,1
+64,Low Density Residential,1
+65,Low Density Residential,1
+66,Low Density Residential,1
+67,Low Density Residential,1
+68,Low Density Residential,1
+69,Low Density Residential,1
+70,Low Density Residential,1
+71,Low Density Residential,1
+72,Low Density Residential,1
+73,Low Density Residential,1
+74,Low Density Residential,1
+75,Low Density Residential,1
+76,Low Density Residential,1
+77,Low Density Residential,1
+78,Low Density Residential,1
+79,Low Density Residential,1
+80,Low Density Residential,1
+81,Low Density Residential,1
+82,Low Density Residential,1
+83,Low Density Residential,1
+84,Low Density Residential,1
+85,Low Density Residential,1
+86,Low Density Residential,1
+87,Low Density Residential,1
+88,Low Density Residential,1
+89,Low Density Residential,1
+90,Low Density Residential,1
+91,Low Density Residential,1
+92,Low Density Residential,1
+93,Low Density Residential,1
+94,Low Density Residential,1
+95,Low Density Residential,1
+96,Low Density Residential,1
+97,Low Density Residential,1
+98,Low Density Residential,1
+99,Low Density Residential,1
+100,Low Density Residential,1
+101,Low Density Residential,1
+102,Low Density Residential,1
+103,Low Density Residential,1
+104,Low Density Residential,1
+105,Low Density Residential,1
+106,Low Density Residential,1
+107,Low Density Residential,1
+108,Low Density Residential,1
+109,Low Density Residential,1
+110,Low Density Residential,1
+111,Low Density Residential,1
+112,Low Density Residential,1
+113,Low Density Residential,1
+114,Low Density Residential,1
+115,Low Density Residential,1
+116,Low Density Residential,1
+117,Low Density Residential,1
+118,Low Density Residential,1
+119,Low Density Residential,1
+120,Low Density Residential,1
+121,Low Density Residential,1
+122,Low Density Residential,1
+123,Low Density Residential,1
+124,Low Density Residential,1
+125,Low Density Residential,1
+126,Low Density Residential,1
+127,Low Density Residential,1
+128,Low Density Residential,1
+129,Low Density Residential,1
+130,Low Density Residential,1
+131,Low Density Residential,1
+132,Low Density Residential,1
+133,Low Density Residential,1
+134,Low Density Residential,1
+135,Low Density Residential,1
+136,Low Density Residential,1
+137,Low Density Residential,1
+138,Low Density Residential,1
+139,Low Density Residential,1
+140,Low Density Residential,1
+141,Low Density Residential,1
+142,Low Density Residential,1
+143,Low Density Residential,1
+144,Low Density Residential,1
+145,Low Density Residential,1
+146,Low Density Residential,1
+147,Low Density Residential,1
+148,Low Density Residential,1
+149,Low Density Residential,1
+150,Low Density Residential,1
+151,Low Density Residential,1
+152,Low Density Residential,1
+153,Low Density Residential,1
+154,Low Density Residential,1
+155,Low Density Residential,1
+156,Low Density Residential,1
+157,Low Density Residential,1
+158,Low Density Residential,1
+159,Low Density Residential,1
+160,Low Density Residential,1
+161,Low Density Residential,1
+162,Low Density Residential,1
+163,Low Density Residential,1
+164,Low Density Residential,1
+165,Low Density Residential,1
+166,Low Density Residential,1
+167,Low Density Residential,1
+168,Low Density Residential,1
+169,Low Density Residential,1
+170,Low Density Residential,1
+171,Low Density Residential,1
+172,Low Density Residential,1
+173,Low Density Residential,1
+174,Low Density Residential,1
+175,Low Density Residential,1
+176,Low Density Residential,1
+177,Low Density Residential,1
+178,Low Density Residential,1
+179,Low Density Residential,1
+180,Low Density Residential,1
+181,Low Density Residential,1
+182,Low Density Residential,1
+183,Low Density Residential,1
+184,Low Density Residential,1
+185,Low Density Residential,1
+186,Low Density Residential,1
+187,Low Density Residential,1
+188,Low Density Residential,1
+189,Low Density Residential,1
+190,Low Density Residential,1
+191,Low Density Residential,1
+192,Low Density Residential,1
+193,Low Density Residential,1
+194,Low Density Residential,1
+195,Low Density Residential,1
+196,Low Density Residential,1
+197,Low Density Residential,1
+198,Low Density Residential,1
+199,Low Density Residential,1
+200,Low Density Residential,1
+201,Low Density Residential,1
+202,Low Density Residential,1
+203,Low Density Residential,1
+204,Low Density Residential,1
+205,Low Density Residential,1
+206,Low Density Residential,1
+207,Low Density Residential,1
+208,Low Density Residential,1
+209,Low Density Residential,1
+210,Low Density Residential,1
+211,Low Density Residential,1
+212,Low Density Residential,1
+213,Low Density Residential,1
+214,Low Density Residential,1
+215,Low Density Residential,1
+216,Low Density Residential,1
+217,Low Density Residential,1
+218,Low Density Residential,1
+219,Low Density Residential,1
+220,Low Density Residential,1
+221,Low Density Residential,1
+222,Low Density Residential,1
+223,Low Density Residential,1
+224,Low Density Residential,1
+225,Low Density Residential,1
+226,Low Density Residential,1
+227,Low Density Residential,1
+228,Low Density Residential,1
+229,Low Density Residential,1
+230,Low Density Residential,1
+231,Low Density Residential,1
+232,Low Density Residential,1
+233,Low Density Residential,1
+234,Low Density Residential,1
+235,Low Density Residential,1
+236,Low Density Residential,1
+237,Low Density Residential,1
+238,Low Density Residential,1
+239,Low Density Residential,1
+240,Low Density Residential,1
+241,Low Density Residential,1
+242,Low Density Residential,1
+243,Low Density Residential,1
+244,Low Density Residential,1
+245,Low Density Residential,1
+246,Low Density Residential,1
+247,Low Density Residential,1
+248,Low Density Residential,1
+249,Low Density Residential,1
+250,Low Density Residential,1
+251,Low Density Residential,1
+252,Low Density Residential,1
+253,Low Density Residential,1
+254,Low Density Residential,1
+255,Low Density Residential,1
+256,Low Density Residential,1
+257,Low Density Residential,1
+258,Low Density Residential,1
+259,Low Density Residential,1
+260,Low Density Residential,1
+261,Low Density Residential,1
+262,Low Density Residential,1
+263,Low Density Residential,1
+264,Low Density Residential,1
+265,Low Density Residential,1
+266,Low Density Residential,1
+267,Low Density Residential,1
+268,Low Density Residential,1
+269,Low Density Residential,1
+270,Low Density Residential,1
+271,Low Density Residential,1
+272,Low Density Residential,1
+273,Low Density Residential,1
+274,Low Density Residential,1
+275,Low Density Residential,1
+276,Low Density Residential,1
+277,Low Density Residential,1
+278,Low Density Residential,1
+279,Low Density Residential,1
+280,Low Density Residential,1
+281,Low Density Residential,1
+282,Low Density Residential,1
+283,Low Density Residential,1
+284,Low Density Residential,1
+285,Low Density Residential,1
+286,Low Density Residential,1
+287,Low Density Residential,1
+288,Low Density Residential,1
+289,Low Density Residential,1
+290,Low Density Residential,1
+291,Low Density Residential,1
+292,Low Density Residential,1
+293,Low Density Residential,1
+294,Low Density Residential,1
+295,Low Density Residential,1
+296,Low Density Residential,1
+297,Low Density Residential,1
+298,Low Density Residential,1
+299,Low Density Residential,1
+300,Low Density Residential,1
+301,Low Density Residential,1
+302,Low Density Residential,1
+303,Low Density Residential,1
+304,Low Density Residential,1
+305,Low Density Residential,1
+306,Low Density Residential,1
+307,Low Density Residential,1
+308,Low Density Residential,1
+309,Low Density Residential,1
+310,Low Density Residential,1
+311,Low Density Residential,1
+312,Low Density Residential,1
+313,Low Density Residential,1
+314,Low Density Residential,1
+315,Low Density Residential,1
+316,Low Density Residential,1
+317,Low Density Residential,1
+318,Low Density Residential,1
+319,Low Density Residential,1
+320,Low Density Residential,1
+321,Low Density Residential,1
+322,Low Density Residential,1
+323,Low Density Residential,1
+324,Low Density Residential,1
+325,Low Density Residential,1
+326,Low Density Residential,1
+327,Low Density Residential,1
+328,Low Density Residential,1
+329,Low Density Residential,1
+330,Low Density Residential,1
+331,Low Density Residential,1
+332,Low Density Residential,1
+333,Low Density Residential,1
+334,Low Density Residential,1
+335,Low Density Residential,1
+336,Low Density Residential,1
+337,Low Density Residential,1
+338,Low Density Residential,1
+339,Low Density Residential,1
+340,Low Density Residential,1
+341,Low Density Residential,1
+342,Low Density Residential,1
+343,Low Density Residential,1
+344,Low Density Residential,1
+345,Low Density Residential,1
+346,Low Density Residential,1
+347,Low Density Residential,1
+348,Low Density Residential,1
+349,Low Density Residential,1
+350,Low Density Residential,1
+351,Low Density Residential,1
+352,Low Density Residential,1
+353,Low Density Residential,1
+354,Low Density Residential,1
+355,Low Density Residential,1
+356,Low Density Residential,1
+357,Low Density Residential,1
+358,Low Density Residential,1
+359,Low Density Residential,1
+360,Low Density Residential,1
+361,Low Density Residential,1
+362,Low Density Residential,1
+363,Low Density Residential,1
+364,Low Density Residential,1
+365,Low Density Residential,1
+366,Low Density Residential,1
+367,Low Density Residential,1
+368,Low Density Residential,1
+369,Low Density Residential,1
+370,Low Density Residential,1
+371,Low Density Residential,1
+372,Low Density Residential,1
+373,Low Density Residential,1
+374,Low Density Residential,1
+375,Low Density Residential,1
+376,Low Density Residential,1
+377,Low Density Residential,1
+378,Low Density Residential,1
+379,Low Density Residential,1
+380,Low Density Residential,1
+381,Low Density Residential,1
+382,Low Density Residential,1
+383,Low Density Residential,1
+384,Low Density Residential,1
+385,Low Density Residential,1
+386,Low Density Residential,1
+387,Low Density Residential,1
+388,Low Density Residential,1
+389,Low Density Residential,1
+390,Low Density Residential,1
+391,Low Density Residential,1
+392,Low Density Residential,1
+393,Low Density Residential,1
+394,Low Density Residential,1
+395,Low Density Residential,1
+396,Low Density Residential,1
+397,Low Density Residential,1
+398,Low Density Residential,1
+399,Low Density Residential,1
+400,Low Density Residential,1
+401,Low Density Residential,1
+402,Low Density Residential,1
+403,Low Density Residential,1
+404,Low Density Residential,1
+405,Low Density Residential,1
+406,Low Density Residential,1
+407,Low Density Residential,1
+408,Low Density Residential,1
+409,Low Density Residential,1
+410,Low Density Residential,1
+411,Low Density Residential,1
+412,Low Density Residential,1
+413,Low Density Residential,1
+414,Low Density Residential,1
+415,Low Density Residential,1
+416,Low Density Residential,1
+417,Low Density Residential,1
+418,Low Density Residential,1
+419,Low Density Residential,1
+420,Low Density Residential,1
+421,Low Density Residential,1
+422,Low Density Residential,1
+423,Low Density Residential,1
+424,Low Density Residential,1
+425,Low Density Residential,1
+426,Low Density Residential,1
+427,Low Density Residential,1
+428,Low Density Residential,1
+429,Low Density Residential,1
+430,Low Density Residential,1
+431,Low Density Residential,1
+432,Low Density Residential,1
+433,Low Density Residential,1
+434,Low Density Residential,1
+435,Low Density Residential,1
+436,Low Density Residential,1
+437,Low Density Residential,1
+438,Low Density Residential,1
+439,Low Density Residential,1
+440,Low Density Residential,1
+441,Low Density Residential,1
+442,Low Density Residential,1
+443,Low Density Residential,1
+444,Low Density Residential,1
+445,Low Density Residential,1
+446,Low Density Residential,1
+447,Low Density Residential,1
+448,Low Density Residential,1
+449,Low Density Residential,1
+450,Low Density Residential,1
+451,Low Density Residential,1
+452,Low Density Residential,1
+453,Low Density Residential,1
+454,Low Density Residential,1
+455,Low Density Residential,1
+456,Low Density Residential,1
+457,Low Density Residential,1
+458,Low Density Residential,1
+459,Low Density Residential,1
+460,Low Density Residential,1
+461,Low Density Residential,1
+462,Low Density Residential,1
+463,Low Density Residential,1
+464,Low Density Residential,1
+465,Low Density Residential,1
+466,Low Density Residential,1
+467,Low Density Residential,1
+468,Low Density Residential,1
+469,Low Density Residential,1
+470,Low Density Residential,1
+471,Low Density Residential,1
+472,Low Density Residential,1
+473,Low Density Residential,1
+474,Low Density Residential,1
+475,Low Density Residential,1
+476,Low Density Residential,1
+477,Low Density Residential,1
+478,Low Density Residential,1
+479,Low Density Residential,1
+480,Low Density Residential,1
+481,Low Density Residential,1
+482,Low Density Residential,1
+483,Low Density Residential,1
+484,Low Density Residential,1
+485,Low Density Residential,1
+486,Low Density Residential,1
+487,Low Density Residential,1
+488,Low Density Residential,1
+489,Low Density Residential,1
+490,Low Density Residential,1
+491,Low Density Residential,1
+492,Low Density Residential,1
+493,Low Density Residential,1
+494,Low Density Residential,1
+495,Low Density Residential,1
+496,Low Density Residential,1
+497,Low Density Residential,1
+498,Low Density Residential,1
+499,Low Density Residential,1
+500,Low Density Residential,1
+501,Low Density Residential,1
+502,Low Density Residential,1
+503,Low Density Residential,1
+504,Low Density Residential,1
+505,Low Density Residential,1
+506,Low Density Residential,1
+507,Low Density Residential,1
+508,Low Density Residential,1
+509,Low Density Residential,1
+510,Low Density Residential,1
+511,Low Density Residential,1
+512,Low Density Residential,1
+513,Low Density Residential,1
+514,Low Density Residential,1
+515,Low Density Residential,1
+516,Low Density Residential,1
+517,Low Density Residential,1
+518,Low Density Residential,1
+519,Low Density Residential,1
+520,Low Density Residential,1
+521,Low Density Residential,1
+522,Low Density Residential,1
+523,Low Density Residential,1
+524,Low Density Residential,1
+525,Low Density Residential,1
+526,Low Density Residential,1
+527,Low Density Residential,1
+528,Low Density Residential,1
+529,Low Density Residential,1
+530,Low Density Residential,1
+531,Low Density Residential,1
+532,Low Density Residential,1
+533,Low Density Residential,1
+534,Low Density Residential,1
+535,Low Density Residential,1
+536,Low Density Residential,1
+537,Low Density Residential,1
+538,Low Density Residential,1
+539,Low Density Residential,1
+540,Low Density Residential,1
+541,Low Density Residential,1
+542,Low Density Residential,1
+543,Low Density Residential,1
+544,Low Density Residential,1
+545,Low Density Residential,1
+546,Low Density Residential,1
+547,Low Density Residential,1
+548,Low Density Residential,1
+549,Low Density Residential,1
+550,Low Density Residential,1
+551,Low Density Residential,1
+552,Low Density Residential,1
+553,Low Density Residential,1
+554,Low Density Residential,1
+555,Low Density Residential,1
+556,Low Density Residential,1
+557,Low Density Residential,1
+558,Low Density Residential,1
+559,Low Density Residential,1
+560,Low Density Residential,1
+561,Low Density Residential,1
+562,Low Density Residential,1
+563,Low Density Residential,1
+564,Low Density Residential,1
+565,Low Density Residential,1
+566,Low Density Residential,1
+567,Low Density Residential,1
+568,Low Density Residential,1
+569,Low Density Residential,1
+570,Low Density Residential,1
+571,Low Density Residential,1
+572,Low Density Residential,1
+573,Low Density Residential,1
+574,Low Density Residential,1
+575,Low Density Residential,1
+576,Low Density Residential,1
+577,Low Density Residential,1
+578,Low Density Residential,1
+579,Medium Density Residential,2
+580,Medium Density Residential,2
+581,Medium Density Residential,2
+582,Medium Density Residential,2
+583,Medium Density Residential,2
+584,Medium Density Residential,2
+585,Medium Density Residential,2
+586,Mulit-Use Residential Focus,0
+587,Mulit-Use Residential Focus,0
+588,Mulit-Use Residential Focus,0
+589,Mulit-Use Residential Focus,0
+590,Mulit-Use Residential Focus,0
+591,Mulit-Use Residential Focus,0
+592,Mulit-Use Residential Focus,0
+593,Mulit-Use Residential Focus,0
+594,Mulit-Use Residential Focus,0
+595,Mulit-Use Residential Focus,0
+596,Mulit-Use Residential Focus,0
+597,Mulit-Use Residential Focus,0
+598,Mulit-Use Residential Focus,0
+599,Mulit-Use Residential Focus,0
+600,Mulit-Use Residential Focus,0
+601,Mulit-Use Residential Focus,0
+602,Multi-Use,0
+603,Neighborhood Commercial,0
+604,Neighborhood Commercial,0
+605,Neighborhood Commercial,0
+606,Neighborhood Commercial,0
+607,Neighborhood Commercial,0
+608,Neighborhood Commercial,0
+609,Neighborhood Commercial,0
+610,Parks/Open Space,0
+611,Parks/Open Space,0
+612,Parks/Open Space,0
+613,Parks/Open Space,0
+614,Parks/Open Space,0
+615,Parks/Open Space,0
+616,Parks/Open Space,0
+617,Parks/Open Space,0
+618,Parks/Open Space,0
+619,Parks/Open Space,0
+620,Parks/Open Space,0
+621,Parks/Open Space,0
+622,Parks/Open Space,0
+623,Parks/Open Space,0
+624,Parks/Open Space,0
+625,Parks/Open Space,0
+626,Parks/Open Space,0
+627,Parks/Open Space,0
+628,Parks/Open Space,0
+629,Parks/Open Space,0
+630,Parks/Open Space,0
+631,Parks/Open Space,0
+632,Parks/Open Space,0
+633,Parks/Open Space,0
+634,Parks/Open Space,0
+635,Parks/Open Space,0
+636,Parks/Open Space,0
+637,Parks/Open Space,0
+638,Parks/Open Space,0
+639,Parks/Open Space,0
+640,Parks/Open Space,0
+641,Parks/Open Space,0
+642,Parks/Open Space,0
+643,Parks/Open Space,0
+644,Public/Quasi-Public,0
+645,Public/Quasi-Public,0
+646,Public/Quasi-Public,0
+647,Public/Quasi-Public,0
+648,Public/Quasi-Public,0
+649,Public/Quasi-Public,0
+650,Public/Quasi-Public,0
+651,Public/Quasi-Public,0
+652,Public/Quasi-Public,0
+653,Public/Quasi-Public,0
+654,Public/Quasi-Public,0
+655,Public/Quasi-Public,0
+656,Public/Quasi-Public,0
+657,Public/Quasi-Public,0
+658,Public/Quasi-Public,0
+659,Public/Quasi-Public,0
+660,Public/Quasi-Public,0
+661,Public/Quasi-Public,0
+662,Public/Quasi-Public,0
+663,Regional Commercial,0
+664,Regional Commercial,0
+665,Regional Commercial,0
+666,Regional Commercial,0
+667,Regional Office,0
+668,Regional Office,0
+669,Regional Office,0
+670,Regional Office,0
+671,Regional Office,0
+672,Regional Office,0
+673,Regional Office,0
+674,Regional Office,0
+675,Transit-Oriented Development,0
+676,Transit-Oriented Development,0
+677,Transit-Oriented Development_MF,2
+678,Transit-Oriented Development,0
+679,Transit-Oriented Development_MF,2
+680,Transit-Oriented Development,0
+681,Transit-Oriented Development,0
+682,Transit-Oriented Development,0
+683,Transit-Oriented Development,0
+684,Transit-Oriented Development,0
+685,Transit-Oriented Development,0
+686,Transit-Oriented Development,0
+687,Transit-Oriented Development,0
+688,Transit-Oriented Development,0
+689,Transit-Oriented Development,0
+690,Transit-Oriented Development,0
+691,Transit-Oriented Development,0
+692,Transit-Oriented Development_MF,2
+693,Transit-Oriented Development_MF,2
+694,Transit-Oriented Development,0
+695,Transit-Oriented Development,0
+696,Transit-Oriented Development,0
+697,Transit-Oriented Development,0
+698,Transit-Oriented Development,0
+699,Transit-Oriented Development,0
+700,Transit-Oriented Development,0
+701,Transit-Oriented Development,0
+702,Transit-Oriented Development,0
+703,Transit-Oriented Development,0
+704,Transit-Oriented Development,0
+705,Transit-Oriented Development,0
+706,Transit-Oriented Development,0
+707,Transit-Oriented Development,0
+708,Transit-Oriented Development,0
+709,Transit-Oriented Development,0
+710,Transit-Oriented Development,0
+711,Transit-Oriented Development,0
+712,Transit-Oriented Development,0
+713,Transit-Oriented Development,0
+714,Very Low Density Residential,1
+715,Very Low Density Residential,1
+716,Very Low Density Residential,1
+717,Visitor Services,0
+718,Visitor Services,0
+999,Low Density Residential,1

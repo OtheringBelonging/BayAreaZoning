@@ -1,0 +1,571 @@
+OBJECTI,DENSITY,NOTES,ORDINAN,OVERLAY,ZONECLA,ZONEDES,gnrl_p_,GLOBALI,Shp__Ar,Shp__Ln,MuncplC,edt_g__,zoning
+1,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,2101c72d-5039-419d-896e-798d02b103da,31888.5351563,1152.92801671,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+2,NA,NA,2008-1,NA,RH,High Density Residential,RH,17408d51-07f2-4ece-be41-75fda4af209f,92165.53125,1806.97805653,https://www.codepublishing.com/CA/Fairfield/,RH,2
+3,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,f5990919-5ec6-44a1-abb0-46bedb373acd,123068.414063,1902.72902145,https://www.codepublishing.com/CA/Fairfield/,RM,2
+4,NA,NA,2008-1,NA,PF,Public Facilities,PF,a920a322-0a5e-4afe-912f-e4a84d5da502,84406.234375,1224.39506078,https://www.codepublishing.com/CA/Fairfield/,PF,0
+5,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,18b10637-32e8-4d36-ab86-ac91ac00b060,2968.91796875,254.338421481911,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+6,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,6a6b601b-3529-44cd-8beb-4197d01db653,26565.7773438,1376.77753143,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+7,NA,NA,2008-1,NA,REC,Recreation,REC,3b1f43fb-3fce-41af-adfb-0d740eb09535,45401.7421875,894.895852528122,https://www.codepublishing.com/CA/Fairfield/,REC,0
+8,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,6415201b-1a7a-4d29-84c5-6b646b468d99,112820.757813,1361.59566876,https://www.codepublishing.com/CA/Fairfield/,RM,2
+9,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,8b5316fe-0dbe-43d4-95ef-3b4c6236ee54,137230.472656,2807.8252193,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+10,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,edbf3be9-a5d5-48b0-8c98-3b8407565e85,94563.3476563,1327.01411989,https://www.codepublishing.com/CA/Fairfield/,CM,0
+11,40,NA,2008-1,-PD,RVL:40,Very Low Density Residential,RVL:40,b378a8cc-a255-4760-b5df-ee3f3fe66ad5,29915.3046875,1325.41206787,https://www.codepublishing.com/CA/Fairfield/,RVL:40,1
+12,8,NA,2008-1,-H,RL:8,Low Density Residential,RL:8,bdaed928-adf2-4fc6-9bc7-7a73a9365de9,29765.5078125,762.364329750187,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+13,NA,NA,2009-7,NA,OSC,Open Space Conservation,OSC,bc8c9b68-dfcc-4af0-b511-eb9108d745ee,26584.4140625,1079.41928819,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+14,NA,NA,2008-1,NA,REC,Recreation,REC,8fbf6eaa-d395-49a2-aeed-850015bb9fb7,657636.285156,7031.31768406,https://www.codepublishing.com/CA/Fairfield/,REC,0
+15,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,9ee549ef-72dc-4e86-8989-8a85f5cacdc4,32175.9453125,862.052681280994,https://www.codepublishing.com/CA/Fairfield/,CT,0
+16,NA,NA,2009-7,NA,PF,Public Facilities,PF,c94f6aea-7cd7-4357-8011-afc2c9eec61c,174474.417969,3848.45915604,https://www.codepublishing.com/CA/Fairfield/,PF,0
+17,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,14fce8a2-dfdc-4dcb-a974-ee6d793d227f,432507.902344,2851.88021142,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+18,NA,NA,2008-1,NA,CC,Community Commercial,CC,3fd62f14-94ca-4c26-b4b1-bd6fb5764a10,83855.6640625,1169.59877761,https://www.codepublishing.com/CA/Fairfield/,CC,0
+19,NA,NA,2008-1,-H,REC,Recreation,REC,3ac92e72-ad75-48f3-8bdb-ba5969c6d3da,49487.5429688,1050.81924001,https://www.codepublishing.com/CA/Fairfield/,REC,0
+20,NA,NA,2008-1,NA,CR,Regional Commercial,CR,01a88c43-0617-49d9-adb4-abe2eced0d1d,58578.8828125,1356.52985029,https://www.codepublishing.com/CA/Fairfield/,CR,0
+21,NA,NA,2008-1,-H,PF,Public Facilities,PF,57a62520-8a99-4954-a6cb-38bf5468a913,62574.15625,1027.59068815,https://www.codepublishing.com/CA/Fairfield/,PF,0
+22,10,NA,2008-1,NA,RL:10,Low Density Residential,RL:10,d111b736-abb0-4d01-931c-d67a38be05f1,217512.339844,2098.60569694,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+23,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,19004b13-c376-4580-809b-5f4b0f018b2e,11135.4101563,444.35761315327,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+24,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,6e7825a7-6509-4358-8114-66dbf2daab1f,71801.3125,3232.68307744,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+25,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,da1ab78e-1228-4115-ba71-cc89a054b890,10746.2421875,396.618395198448,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+26,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,099568a3-19ef-4914-91f0-e96dfabc0e39,44790,1528.3516238,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+27,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,eb6a4934-5460-4c6e-8765-ba298dc11af5,49121.6953125,1210.09109535,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+28,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,aca98823-ed03-4fb6-b8f1-7ba044841151,49467.8789063,1148.28813152,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+29,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,1f8246c7-ef79-4303-9678-a210610429d9,11867.9570313,533.135683149311,https://www.codepublishing.com/CA/Fairfield/,RM,2
+30,NA,NA,2008-1,NA,RH,High Density Residential,RH,0657528c-1a1f-4a2d-8b48-caff6117ee8b,47745.7382813,1009.97463953,https://www.codepublishing.com/CA/Fairfield/,RH,2
+31,NA,NA,2008-1,-P1,CM,Mixed Commercial,CM,ebdee2d4-2244-4b5d-8d81-6b93ce3d96e2,70732.3867188,2096.25711152,https://www.codepublishing.com/CA/Fairfield/,CM_MF,2
+32,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,4192b5ce-96f8-43a7-8551-accefba0395a,21028.28125,651.207934722932,https://www.codepublishing.com/CA/Fairfield/,CM,0
+33,NA,NA,2008-1,NA,PF,Public Facilities,PF,cb58d421-09b4-40d5-bb19-05f4573af51b,6117.359375,445.839606041006,https://www.codepublishing.com/CA/Fairfield/,PF,0
+34,NA,NA,2008-1,NA,PF,Public Facilities,PF,3bdd3f1a-9e8e-4aa7-bf64-3139ec62bc4b,17262.5195313,1139.00814007,https://www.codepublishing.com/CA/Fairfield/,PF,0
+35,NA,NA,2008-1,NA,PF,Public Facilities,PF,8d48203b-7dff-486a-b018-1f5364800d9f,17983.6132813,1230.39825889,https://www.codepublishing.com/CA/Fairfield/,PF,0
+36,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,4e364bda-73dc-4b21-8c30-a6f5f9f9e97b,568968.207031,5937.65691178,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+37,NA,NA,2008-1,NA,PF,Public Facilities,PF,496ec1f8-dcf6-4a4c-b308-91147bfaf178,32582990.6523,36665.1982625,https://www.codepublishing.com/CA/Fairfield/,PF,0
+38,NA,NA,2008-1,NA,PF,Public Facilities,PF,695bd2e1-c1fa-42ba-abe8-411da8707666,24794.0273438,640.380609089764,https://www.codepublishing.com/CA/Fairfield/,PF,0
+39,NA,NA,2008-1,NA,CS,Service Commercial,CS,7091f1aa-9d9c-475c-b1aa-9f559d5eaef0,138082.929688,1685.19907173,https://www.codepublishing.com/CA/Fairfield/,CS,0
+40,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,dd6fd815-a21e-49cd-a8a2-707bf465ce1d,97249.8359375,2947.3852127,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+41,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,6c258908-4ea8-4a2c-ae80-fd7f236b7204,68959.609375,3461.71426248,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+42,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,74c6774b-af95-4476-b3de-67aac8e21c8f,2349.85546875,202.965428693819,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+43,5,NA,2008-1,NA,OSC,Open Space Conservation,OSC,e08e5d50-d606-4e0c-90db-06a51b99aaf4,194021.484375,5892.43792321,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+44,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,2544d7ed-30b0-4f32-998f-5fbb89877cac,20208.0195313,872.370921214757,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+45,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,5d824262-7774-46f2-bf91-d30ffbfdd6f5,37133.9765625,1077.66408161,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+46,NA,NA,2008-1,NA,REC,Recreation,REC,8f01bd1c-a11c-445a-adb2-a4b0ccb3d0c6,121247.964844,6477.23605211,https://www.codepublishing.com/CA/Fairfield/,REC,0
+47,NA,NA,2008-1,NA,REC,Recreation,REC,24084335-2915-46b5-9324-5c612d57a971,86771.9257813,4274.94714796,https://www.codepublishing.com/CA/Fairfield/,REC,0
+48,NA,NA,2008-1,NA,IL,Limited Industrial,IL,6dd44578-9404-4659-8bd7-5c735b447521,848353.886719,4418.39951653,https://www.codepublishing.com/CA/Fairfield/,IL,0
+49,NA,NA,2008-1,NA,IL,Limited Industrial,IL,fce0c808-f140-4cc4-afee-ed1eed8f93fd,20625.703125,586.37986244031,https://www.codepublishing.com/CA/Fairfield/,IL,0
+50,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,4847b52f-ac90-447e-b54f-ada75a6ec02a,756362.695313,13520.1789725,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+51,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,86ed1881-0baa-48d5-95bc-6c14939b1384,109398.015625,2264.40597953,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+52,NA,NA,2008-1,NA,PF,Public Facilities,PF,37aba559-943c-49af-b687-4f9fcde18638,282821.027344,2251.11945501,https://www.codepublishing.com/CA/Fairfield/,PF,0
+53,NA,NA,2008-1,NA,PF,Public Facilities,PF,bb93ca4a-2c2e-412b-9e6d-a3c465ea41fa,132323.605469,1534.09712639,https://www.codepublishing.com/CA/Fairfield/,PF,0
+54,NA,NA,2008-1,NA,AG:80,Agriculture,AG:80,0c0cfbdc-b300-4141-8007-819384574375,2341424.11328,8658.97429393,https://www.codepublishing.com/CA/Fairfield/,AG:80,0
+55,4.5,NA,2008-1,-NC,RLM:4.5,Low-Medium Density Residential,RLM:4.5,f49c69d4-4069-4ed5-bf2c-a995dbe5de42,136993.199219,1633.31003182,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+56,NA,NA,2008-1,NA,REC,Recreation,REC,a7d13ac6-24c9-491c-b7d4-891615c003ef,22162.1679688,1645.71225549,https://www.codepublishing.com/CA/Fairfield/,REC,0
+57,NA,NA,2008-1,NA,PF,Public Facilities,PF,7a1f7978-56be-4544-8e49-18bed3d34e9d,639636.921875,15263.9192653,https://www.codepublishing.com/CA/Fairfield/,PF,0
+58,8,NA,2011-07,NA,RM,Medium Density Residential,RM,2f0260c8-e5a3-424a-935c-b238467d8d51,152409.386719,2030.39781407,https://www.codepublishing.com/CA/Fairfield/,RM,2
+59,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,1d1a6fbe-2017-4cf7-b5e3-0fb402efc67a,197555.347656,2465.890672,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+60,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,4f446f55-b160-4e24-afbe-9c08954165c4,67149.328125,1138.0245591,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+61,NA,NA,2008-1,-NC,CO,Office Commercial,CO,800d8fd0-84a7-42d4-a055-2802eb58cfed,206762.089844,1878.74814087,https://www.codepublishing.com/CA/Fairfield/,CO,0
+62,NA,NA,2008-1,-NC,IBP,Industrial Business Park,IBP,a0ac206c-2009-4af0-9be6-c2600fa96e45,1005693.85547,5493.01983703,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+63,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,7caaca78-177c-4f92-ad53-7ed04525598b,19344.5703125,626.722529789881,https://www.codepublishing.com/CA/Fairfield/,RM,2
+64,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,ebae7803-a7cf-4e9b-84e9-c56814b35d0c,12933.4257813,467.860532463737,https://www.codepublishing.com/CA/Fairfield/,RM,2
+65,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,919ec806-269c-471d-8691-55a105bb71a2,194530.46875,3110.47209095,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+66,NA,NA,2008-1,NA,RVH,Very High Density Residential,RVH,42dca73a-ba37-43da-870d-1e66ce4a2e8b,4003.1875,372.121325981291,https://www.codepublishing.com/CA/Fairfield/,RVH,2
+67,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,eb700182-89de-4e13-92f8-b7f7b9b2417d,151154.859375,1531.06371384,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+68,NA,NA,2008-1,NA,PF,Public Facilities,PF,a6626070-325c-4d6d-83b9-5efacfaba8d8,21369.3203125,963.207650635843,https://www.codepublishing.com/CA/Fairfield/,PF,0
+69,NA,NA,2008-1,-NC,PF,Public Facilities,PF,ec83717b-215e-4091-a9c7-cd52cc4461af,55916.4570313,2071.29369807,https://www.codepublishing.com/CA/Fairfield/,PF,0
+70,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,f9c41cf4-05a3-4d36-8218-7cdfb93c3b59,8504.28515625,451.093095088284,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+71,NA,NA,2008-1,NA,PF,Public Facilities,PF,4e5c0f09-4d67-4e5f-849e-0d90cd8aa3f8,55843.3046875,1346.8542593,https://www.codepublishing.com/CA/Fairfield/,PF,0
+72,NA,NA,2008-1,NA,CC,Community Commercial,CC,5d82057c-70ec-4e4e-8631-7e3f1567982b,19904,648.438084373727,https://www.codepublishing.com/CA/Fairfield/,CC,0
+73,NA,NA,2008-1,NA,CO,Office Commercial,CO,7a0c18f1-5267-4f23-b383-efd77e52a471,25041.609375,630.754001054161,https://www.codepublishing.com/CA/Fairfield/,CO,0
+74,NA,NA,2008-1,NA,IL,Limited Industrial,IL,0b0f333d-24c6-4536-971d-00e2f9ef92d0,881910.074219,4574.68035593,https://www.codepublishing.com/CA/Fairfield/,IL,0
+75,5,NA,2008-1,-H-PD,RLM:5,Low-Medium Density Residential,RLM:5,6e1d8334-da2b-4a2e-9781-053dc8848166,250916.855469,2255.00206577,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+76,NA,NA,2008-1,NA,PF,Public Facilities,PF,5df4488f-5a99-4cc4-aa3e-ddfa2764de61,300169.507813,2776.82505758,https://www.codepublishing.com/CA/Fairfield/,PF,0
+77,NA,NA,2008-1,NA,CS,Service Commercial,CS,bb0d0264-42a5-4f78-a886-b1f3fa0e0983,100639.945313,1529.60969703,https://www.codepublishing.com/CA/Fairfield/,CS,0
+78,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,4be31876-fce2-4743-80a2-ff1c39d17e0e,217048.085938,6937.94607996,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+79,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,09fcd7a3-b9d2-48e6-b8f6-26a5d665cf39,60689.5546875,1366.68297122,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+80,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,c65cf827-f5d3-44fb-9049-514f3680be9a,63805.9882813,985.201623653785,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+81,NA,NA,2008-1,NA,REC,Recreation,REC,667123fe-b7f3-4827-95c8-7241061cd3d1,2077.90234375,466.909869268895,https://www.codepublishing.com/CA/Fairfield/,REC,0
+82,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,b9129636-7661-4cbe-b41b-ae528d849d01,14343.5507813,759.325283211686,https://www.codepublishing.com/CA/Fairfield/,CN,0
+83,NA,NA,2008-1,NA,PF,Public Facilities,PF,4d57ed47-0945-47fe-9468-4e8ad765997e,46192.3515625,2669.67711766,https://www.codepublishing.com/CA/Fairfield/,PF,0
+84,NA,NA,2008-1,NA,CO,Office Commercial,CO,7f85af7f-b33d-4194-ae14-a334f3ea683d,92595.4296875,2047.36461228,https://www.codepublishing.com/CA/Fairfield/,CO,0
+85,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,7cc91a80-7678-4920-b1ae-ef75d2445cf6,58309.3554688,993.468703253251,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+86,NA,NA,2008-1,NA,CO,Office Commercial,CO,3eb3075a-9d20-4706-8112-63287f714ddd,37226.4765625,852.528826978533,https://www.codepublishing.com/CA/Fairfield/,CO,0
+87,NA,NA,2008-1,NA,CC,Community Commercial,CC,75b332da-990f-4af2-b973-54332a809b96,221134.613281,2747.54196347,https://www.codepublishing.com/CA/Fairfield/,CC,0
+88,NA,NA,2008-1,NA,RH,High Density Residential,RH,39f24261-9d42-4705-bf2b-8ba2b4c46f54,27002.4804688,709.161089513882,https://www.codepublishing.com/CA/Fairfield/,RH,2
+89,NA,NA,2008-1,NA,CR,Regional Commercial,CR,c2e1876e-fdeb-4822-b2a0-e3b154c4e3fb,292155.929688,5600.00032169,https://www.codepublishing.com/CA/Fairfield/,CR,0
+90,NA,NA,2008-1,NA,REC,Recreation,REC,4d4caf71-30f6-433e-9a0a-b00ef05dcc55,259842.671875,2249.78866796,https://www.codepublishing.com/CA/Fairfield/,REC,0
+91,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,3b2809ee-ac90-4de7-8222-f9071255dbd4,1684.46875,163.898466316787,https://www.codepublishing.com/CA/Fairfield/,CM,0
+92,NA,NA,2008-1,NA,PF,Public Facilities,PF,1e450bc9-cfa7-4ac4-9daf-aea74e850791,80853.5,1415.59373578,https://www.codepublishing.com/CA/Fairfield/,PF,0
+93,NA,NA,2008-1,NA,REC,Recreation,REC,2f91e7b7-269a-499d-bcd6-64118bc3c49d,40005.421875,805.943703354634,https://www.codepublishing.com/CA/Fairfield/,REC,0
+94,NA,NA,2008-1,NA,PF,Public Facilities,PF,8e8a5acb-3dc9-4d14-b68a-c1577b01a8dc,70831.1914063,1225.3175639,https://www.codepublishing.com/CA/Fairfield/,PF,0
+95,NA,NA,2008-1,NA,REC,Recreation,REC,44f3f8de-6e31-4f94-a082-65597d6924ea,32550.8945313,728.197242390635,https://www.codepublishing.com/CA/Fairfield/,REC,0
+96,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,9f6ec1e9-3094-4b20-b7ac-1cdcc784d7a2,302624.597656,3045.71363311,https://www.codepublishing.com/CA/Fairfield/,CT,0
+97,NA,Planning Area 5 -Res,2011-11,-PD,TS,NA,TS-PD Planning Area 5 -Res,29b5dcbc-e4bd-4506-b011-497d255c6e4b,50389.0820313,1336.14324921,https://www.codepublishing.com/CA/Fairfield/,TS-PD Planning Area 5 -Res,0
+98,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,3fcc11f7-ca7e-446d-84f6-f85747b75778,11517.5,455.456819554739,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+99,NA,NA,2008-1,NA,REC,Recreation,REC,fa9fcdf9-738d-4492-8674-b56655751361,171458.160156,7007.94168652,https://www.codepublishing.com/CA/Fairfield/,REC,0
+100,NA,NA,2008-1,NA,PF,Public Facilities,PF,c3bc07b1-88da-428e-a5a6-7947c6adcaf6,38120.1054688,935.72246966606,https://www.codepublishing.com/CA/Fairfield/,PF,0
+101,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,60ce0517-969e-4fb8-a978-ca97764bf564,179802.742188,2612.17113765,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+102,4.5,NA,2008-1,-H-PD,RLM:4.5,Low-Medium Density Residential,RLM:4.5,de51d769-d772-4df9-80ca-86cad0e7cb2e,232298.015625,2005.87943463,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+103,NA,NA,2008-1,NA,CO,Office Commercial,CO,6ff8d2ae-aae7-4aab-b6c8-5ae2a9af2fd4,109457.457031,1403.96399375,https://www.codepublishing.com/CA/Fairfield/,CO,0
+104,NA,NA,2008-1,-H,REC,Recreation,REC,9a902e7a-0ac5-4eb2-a126-b0755cab8342,28487.5195313,663.625603332791,https://www.codepublishing.com/CA/Fairfield/,REC,0
+105,8,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,daf70ae9-acd0-4253-b2ed-31dd363edcfb,77990.8398438,1168.23511819,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+106,NA,NA,2008-1,NA,IL,Limited Industrial,IL,d9af7e29-129f-4ae9-a6ed-de9936669108,648108.988281,4046.26964012,https://www.codepublishing.com/CA/Fairfield/,IL,0
+107,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,56c5cbcf-e21d-4abd-af5e-58fcce7ab52e,335823.949219,7196.07449767,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+108,NA,NA,2008-1,NA,RVH,Very High Density Residential,RVH,c9c15466-26c9-46fd-932f-c8eadb7d0a1b,62888.8828125,1009.94870404,https://www.codepublishing.com/CA/Fairfield/,RVH,2
+109,NA,NA,2008-1,NA,REC,Recreation,REC,9081fae0-3311-4437-bbf0-24f11cdc0ebe,27573.890625,710.195836892825,https://www.codepublishing.com/CA/Fairfield/,REC,0
+110,NA,NA,2008-1,NA,PF,Public Facilities,PF,d6cd879d-6018-4c6b-b5ac-4583680cef06,81845.7070313,1148.97208441,https://www.codepublishing.com/CA/Fairfield/,PF,0
+111,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,953be3ad-95d8-4542-b100-f27a8148dcf2,34245.5625,993.846780503756,https://www.codepublishing.com/CA/Fairfield/,RM,2
+112,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,7c2d6237-02df-41a9-ae17-883271ddf232,175791.074219,3565.43537388,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+113,20,NA,2008-1,-H,RVL:20,Very Low Density Residential,RVL:20,afa5c719-1d4f-4138-961b-41aaddf9aab4,12333.6445313,503.596783222699,https://www.codepublishing.com/CA/Fairfield/,RVL:20,1
+114,NA,NA,2008-1,NA,PF,Public Facilities,PF,6794da8e-65b0-4462-b3b1-a5fd90bb2afc,5488.32421875,301.221907922134,https://www.codepublishing.com/CA/Fairfield/,PF,0
+115,NA,NA,2008-1,NA,REC,Recreation,REC,af26591a-dbd0-4188-bbf5-b035d1b2481e,52859.5234375,2659.52479003,https://www.codepublishing.com/CA/Fairfield/,REC,0
+116,NA,NA,2008-1,NA,PF,Public Facilities,PF,f09b18e3-4d43-48b9-8dd2-1dcfee8bc0f2,11910.53125,468.132925290085,https://www.codepublishing.com/CA/Fairfield/,PF,0
+117,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,a01b1777-c462-4ea8-a419-6eb8dfa17198,180996.53125,1773.09552491,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+118,NA,NA,2008-1,NA,CC,Community Commercial,CC,24cef65e-f2fa-410b-bc4a-0637a1e85eb3,52334.0429688,1035.98535201,https://www.codepublishing.com/CA/Fairfield/,CC,0
+119,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,23771265-9392-4a87-b7cb-eac7c5d6e5f0,250606.921875,2613.75668754,https://www.codepublishing.com/CA/Fairfield/,CT,0
+120,NA,NA,2008-1,NA,CS,Service Commercial,CS,ce42913a-5eb7-4966-a851-c7353743b2cd,226641.171875,2039.34954524,https://www.codepublishing.com/CA/Fairfield/,CS,0
+121,NA,NA,2008-1,-PD,CS,Service Commercial,CS,e6c92d38-3a4f-4d57-9bdc-863bda43c647,109777.761719,1788.77701278,https://www.codepublishing.com/CA/Fairfield/,CS,0
+122,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,8295cb24-99d1-48d8-9fe7-73d2c77142e9,98395.9765625,1474.06330188,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+123,NA,NA,2008-1,NA,PF,Public Facilities,PF,ed903cb6-5684-4af8-b94b-264947409666,422363.183594,3092.39213218,https://www.codepublishing.com/CA/Fairfield/,PF,0
+124,NA,NA,2008-1,-H,CR,Regional Commercial,CR,20f22a73-afd9-49ae-8efb-bd83de72c38b,107726.519531,1586.08799495,https://www.codepublishing.com/CA/Fairfield/,CR,0
+125,NA,NA,2008-1,-H,RLM,Low-Medium Density Residential,RLM,b59c71bb-2555-4f49-ba66-d8f0bb277008,115122.410156,1662.6856851,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+126,NA,NA,2008-1,NA,CS,Service Commercial,CS,c3cf71d7-ccc8-431b-bbfc-de855ce3a055,272439.074219,3087.20436524,https://www.codepublishing.com/CA/Fairfield/,CS,0
+127,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,9912b7e9-83fc-49b8-8e1c-f83ccbf51f7e,190846.082031,2186.4897967,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+128,NA,NA,2008-1,NA,PF,Public Facilities,PF,e8f39605-cfa9-4ba4-8185-12d55beb328e,9699.53125,404.906971109369,https://www.codepublishing.com/CA/Fairfield/,PF,0
+129,NA,NA,2008-1,NA,REC,Recreation,REC,70db2c27-ac13-4a96-9bc0-1e2b29db8e66,10623.3203125,459.752653547892,https://www.codepublishing.com/CA/Fairfield/,REC,0
+130,NA,NA,2008-1,NA,CS,Service Commercial,CS,48a26d82-fa2d-4959-994c-a07ef215f296,13842.828125,490.493609607353,https://www.codepublishing.com/CA/Fairfield/,CS,0
+131,NA,NA,2008-1,NA,RH,High Density Residential,RH,f3c2a43a-eca7-4d4c-b75a-0731431f8aed,49865.0976563,909.037670694801,https://www.codepublishing.com/CA/Fairfield/,RH,2
+132,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,24b62dd3-609f-4f25-8163-bbcf0988c79b,161317.664063,2968.7138976,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+133,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,4a379a99-e2c6-4b2c-ab50-a5ed73074164,190278.558594,2153.88790552,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+134,NA,NA,2008-1,NA,RH,High Density Residential,RH,3e546a6b-b295-41ba-9c8a-d3a00989c14a,2583.625,295.598913166962,https://www.codepublishing.com/CA/Fairfield/,RH,2
+135,NA,NA,2008-1,NA,REC,Recreation,REC,f4990e91-63a4-4c74-9c71-12ec45b7fb4e,2508.6484375,344.699349962883,https://www.codepublishing.com/CA/Fairfield/,REC,0
+136,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,be1b60b2-d8da-4c35-a47e-4b408b081c3b,107791.660156,1392.62859405,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+137,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,beee1c76-4b2b-47ff-be15-cf8019ad4c89,39902.015625,901.838476201925,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+138,NA,NA,2008-1,NA,REC,Recreation,REC,01a52798-97ec-4dec-84e2-8db00a6bc295,18318.1132813,3597.58034981,https://www.codepublishing.com/CA/Fairfield/,REC,0
+139,NA,NA,2008-1,NA,REC,Recreation,REC,a58fb817-4a02-4811-a6ee-2e96b3180785,837.23828125,148.711132080279,https://www.codepublishing.com/CA/Fairfield/,REC,0
+140,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,e90ac600-a0d7-4da0-bd07-99074fad9934,5472328.40234,25605.4000395,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+141,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,91dbc20b-4c20-4cbc-afbd-505ce9d7fc71,3300768.44922,17836.2046738,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+142,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,a3bdd06b-2f6d-460b-8255-735182f6e116,200209.875,2928.46605094,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+143,NA,NA,2008-1,-NC,REC,Recreation,REC,633d3911-24e3-4dcd-a3d2-5954d0d3e736,32838.0898438,770.026426518321,https://www.codepublishing.com/CA/Fairfield/,REC,0
+144,NA,NA,2008-1,-NC,RH,High Density Residential,RH,b0d4e871-9dfd-4128-9fa7-2be1ca26090b,64104.5390625,1071.257469,https://www.codepublishing.com/CA/Fairfield/,RH,2
+145,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,41d9f86e-f41e-427b-b6c4-8af44e7f6fae,138476.550781,1488.92068572,https://www.codepublishing.com/CA/Fairfield/,RM,2
+146,NA,NA,2008-1,NA,REC,Recreation,REC,7bc87409-541d-466a-bead-09274fe7ada2,7070.90234375,364.066715200437,https://www.codepublishing.com/CA/Fairfield/,REC,0
+147,NA,NA,2008-1,NA,REC,Recreation,REC,48a82a12-619c-4d38-93c9-e1e05cf8019b,55334.2109375,1148.21964369,https://www.codepublishing.com/CA/Fairfield/,REC,0
+148,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,83aac64a-803f-4af7-9b65-a732d7d67a78,75342.3710938,1435.25724961,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+149,NA,NA,2008-1,NA,(IL),NA,(IL),2947081c-a1ab-4f0a-a47c-92aba739ca71,2027.53125,183.186101745789,https://www.codepublishing.com/CA/Fairfield/,(IL),0
+150,NA,NA,2008-1,NA,REC,Recreation,REC,d3551ab7-1977-49e5-8657-364439da84f0,6387.5390625,372.271198817835,https://www.codepublishing.com/CA/Fairfield/,REC,0
+151,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,ce852905-599d-43b6-b6c2-3913a54da74d,203140.054688,2647.27265248,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+152,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,e86c02f0-418f-4987-86f4-80861cc2f405,28193.6289063,1253.43926023,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+153,NA,NA,2008-1,NA,CS,Service Commercial,CS,f6f300ab-950c-475f-9c30-d4e01462b8a0,13852.2109375,542.538139352522,https://www.codepublishing.com/CA/Fairfield/,CS,0
+154,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,6f12e4c8-45c1-4ad3-91d4-ecbf50ccb0df,56863.6484375,1231.82803761,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+155,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,d703b266-cf9d-4efe-b24f-140df4e244ff,1439.78515625,151.823391115398,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+156,NA,NA,2008-1,NA,REC,Recreation,REC,898a43c7-f3c4-4eb3-bea8-12b037534a4e,36864.1171875,824.480280085488,https://www.codepublishing.com/CA/Fairfield/,REC,0
+157,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,8c0ec360-b38d-4b05-99e4-5f48c191f59f,30242.1289063,759.088863931861,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+158,10,NA,2008-1,NA,RL:10,Low Density Residential,RL:10,def5e739-eb72-4b61-a5d5-891f75078f0f,253310.960938,2504.35689765,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+159,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,ff97e161-f279-4b75-9cbc-61bb79f86c16,27342.09375,706.271644324532,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+160,NA,NA,2008-1,NA,RH,High Density Residential,RH,d6191a3b-957f-489b-b3f5-a7bf592446e6,346520.71875,3730.4490419,https://www.codepublishing.com/CA/Fairfield/,RH,2
+161,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,5bae3107-fa9d-4b85-86a7-45cf565b6f9e,559921.246094,5067.15160704,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+162,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,731406bd-ee46-437b-b80a-a8b8fd39fe40,97523.2070313,1927.38078548,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+163,NA,NA,2012-06,NA,CC,Community Commercial,CC,01a8248f-faf0-42bf-8dfb-1cb284542713,340412.578125,2962.94172553,https://www.codepublishing.com/CA/Fairfield/,CC,0
+164,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,62214dea-5f4e-403c-bf5c-b5fec306ec46,94407.3945313,1447.89366415,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+165,5,NA,2008-1,-PD,RLM:5,Low-Medium Density Residential,RLM:5,367af9a0-8a14-4e2b-814a-9154282f3308,157256.417969,1682.27585293,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+166,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,7e05caed-16d3-4aaa-b7d0-dd96eca7bc45,522653.921875,5896.60415676,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+167,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,8e6bf0fc-fba9-4b81-8b1c-322c945df914,23803.4882813,681.681227301446,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+168,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,c733ba79-2016-4e90-a185-042d2c5c1a68,272772.4375,3687.76596391,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+169,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,21a3e8ac-5188-4ffe-a1b6-1559c64cc381,171680.796875,2209.63706073,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+170,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,d17abeb2-482b-4143-bf23-fdafab23fc6c,291083.886719,4420.63174229,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+171,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,ca4972c9-ecb7-4d5b-a976-97fe43763595,45044.3046875,907.494738882723,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+172,NA,NA,2008-1,-H,CR,Regional Commercial,CR,278c0bca-5591-456f-8f7b-732db02aabf7,281954.546875,3592.91232956,https://www.codepublishing.com/CA/Fairfield/,CR,0
+173,NA,NA,2008-1,NA,IL,Limited Industrial,IL,832733be-6a97-4030-a980-26026724507c,658541.570313,4652.1612951,https://www.codepublishing.com/CA/Fairfield/,IL,0
+174,NA,NA,2008-1,NA,CS,Service Commercial,CS,0684aee1-7121-4036-93d6-ec09bb1d8b29,68656.8632813,1842.52297065,https://www.codepublishing.com/CA/Fairfield/,CS,0
+175,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,6f660fa6-4ac1-47c7-94ac-e0cbe5ddd126,40271.0078125,976.976104447911,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+176,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,10662c7a-79ab-4fee-b88d-a868e5c1402f,118693.035156,3593.6583275,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+177,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,f4e7a000-d8de-4c02-87e4-97f755396e58,84243.8476563,1397.55484552,https://www.codepublishing.com/CA/Fairfield/,RM,2
+178,NA,NA,2008-1,-H-PD,REC,Recreation,REC,1b2c9640-52a0-4af4-a6cb-d7689ff6f595,1405174.58594,13945.8958069,https://www.codepublishing.com/CA/Fairfield/,REC,0
+179,NA,NA,2008-1,NA,REC,Recreation,REC,72c9eac1-f105-4c85-986f-4352c701ffa2,44147.7851563,1024.22299605,https://www.codepublishing.com/CA/Fairfield/,REC,0
+180,NA,NA,2008-1,NA,CR,Regional Commercial,CR,2da4db14-d7f3-4021-a09e-9052702ab58a,23825.8242188,646.394288437546,https://www.codepublishing.com/CA/Fairfield/,CR,0
+181,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,65a29d10-0832-485f-8da7-709257857ce8,243854.488281,2479.3412462,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+182,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,00408df6-ded9-4090-bf15-cb2972377f8c,873499.109375,5367.47542996,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+183,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,39a890c5-520c-4658-8c3c-caa71fcad37e,133600.1875,2038.32516479,https://www.codepublishing.com/CA/Fairfield/,RM,2
+184,20,NA,2008-1,-H,RVL:20,Very Low Density Residential,RVL:20,652b301d-63b6-4598-b154-5f766d621062,84765.171875,1314.62008861,https://www.codepublishing.com/CA/Fairfield/,RVL:20,1
+185,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,382e5c3d-6cf5-4630-a25f-fca591f3f15c,500886.859375,3166.93951735,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+186,6,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,4c1f3895-7aae-4dea-b3d9-2842a354a77e,5826814.29688,44161.4777922,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+187,NA,NA,2008-1,NA,REC,Recreation,REC,f0d365e9-f556-43c0-ba1d-6a01272c8d4d,238436.339844,2552.66539603,https://www.codepublishing.com/CA/Fairfield/,REC,0
+188,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,93989ac2-fc06-4d03-884f-16bba42ba5f4,2386.875,205.934502320857,https://www.codepublishing.com/CA/Fairfield/,CN,0
+189,NA,NA,2008-1,NA,REC,Recreation,REC,3d082a91-5b52-4c3f-982c-dc655eac04f2,1298276.79297,12301.4345254,https://www.codepublishing.com/CA/Fairfield/,REC,0
+190,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,bf50c0a1-daa5-4be1-8310-48352a594b38,180200.234375,4858.39718352,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+191,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,94bf1605-0f22-452a-be36-a05cdd7093e1,31341.9765625,1169.07382756,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+192,NA,NA,2009-5,NA,RM,Medium Density Residential,RM,b92947ff-a80c-4ff9-ae01-b09764750846,189594.5625,2024.84540074,https://www.codepublishing.com/CA/Fairfield/,RM,2
+193,NA,NA,2011-11,NA,PF,Public Facilities,PF,3845b14c-fcf1-48e9-b008-6b239d9e3509,523984.3125,3524.70192362,https://www.codepublishing.com/CA/Fairfield/,PF,0
+194,NA,NA,2008-1,NA,REC,Recreation,REC,ed50b8bf-8246-4d3d-951c-0a533244d226,9468.1640625,675.868427003509,https://www.codepublishing.com/CA/Fairfield/,REC,0
+195,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,5cd820a3-472e-45d5-9219-65a2c8dd16d7,1760.9296875,170.723703260886,https://www.codepublishing.com/CA/Fairfield/,CM,0
+196,NA,NA,2008-1,NA,CR,Regional Commercial,CR,a32adc01-48cd-4405-ba56-5f81dfa2eaaa,241336.171875,2306.57191658,https://www.codepublishing.com/CA/Fairfield/,CR,0
+197,NA,NA,2008-1,NA,AG:80,Agriculture,AG:80,d4b2879c-44c5-42d3-914b-cc9c0da910e1,3222160.91406,12126.8757633,https://www.codepublishing.com/CA/Fairfield/,AG:80,0
+198,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,9c896560-c3ef-4423-982b-379d26fc4344,137682.003906,2732.04240815,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+199,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,9fe67cbf-7c1c-4a61-b36a-c3c8f89dd5e5,83028.9882813,4189.85609616,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+200,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,e47d06a8-f724-40aa-96de-2f3f0f59064a,8927.046875,410.384051456398,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+201,NA,NA,2008-1,NA,REC,Recreation,REC,87d25f10-9b74-4906-bc8e-6b35874210fe,5057.44921875,294.982783687355,https://www.codepublishing.com/CA/Fairfield/,REC,0
+202,NA,NA,2008-1,-PD,REC,Recreation,REC,99e6924d-22e1-42d1-835a-472db80d6a9d,216790.058594,3273.01880934,https://www.codepublishing.com/CA/Fairfield/,REC,0
+203,NA,NA,2008-1,-H,CR,Regional Commercial,CR,3508ec5b-ef83-42a7-a246-cb6154463857,46870.4140625,1088.4827666,https://www.codepublishing.com/CA/Fairfield/,CR,0
+204,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,d36809e6-028b-4d71-8183-ba4fa1e9c767,132412.214844,1467.03988172,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+205,NA,NA,2008-1,NA,PF,Public Facilities,PF,87488921-1a89-49ad-83b8-37e675dba29f,57976.7890625,965.368016162289,https://www.codepublishing.com/CA/Fairfield/,PF,0
+206,NA,NA,2008-1,NA,CC,Community Commercial,CC,6a9ceb6b-0f81-434f-8f4d-26baece7e523,140728.570313,2371.59315754,https://www.codepublishing.com/CA/Fairfield/,CC,0
+207,NA,NA,2008-1,NA,CS,Service Commercial,CS,57b17f72-354f-48f3-863b-08c08edab2dd,33507.828125,1054.77025399,https://www.codepublishing.com/CA/Fairfield/,CS,0
+208,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,bbd5c767-aa50-4aaf-a224-a3dcd40f3440,36118.7460938,1061.6154051,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+209,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,26c5b5d0-a55c-4e5e-81cb-1e8080498e04,138110.484375,1823.03736588,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+210,NA,NA,2008-1,NA,REC,Recreation,REC,1b5f60e0-0540-4d74-93bd-e536e8525376,136199.257813,1993.87501217,https://www.codepublishing.com/CA/Fairfield/,REC,0
+211,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,e99d62a5-88c3-4b4a-ba18-60e4efadcd71,287679.722656,4227.82735641,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+212,NA,NA,2008-1,NA,IL,Limited Industrial,IL,e9f43939-cd06-40bd-a418-58e11c58c695,25246.8789063,815.028210688998,https://www.codepublishing.com/CA/Fairfield/,IL,0
+213,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,edf28ac5-8b1c-4cff-b306-72737c1b31c9,2.015625,22.120247066547,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+214,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,767b5976-ffb0-4a0b-ae86-53f5d6525534,112443.253906,2471.50825757,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+215,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,9f7f21f5-62a1-41d9-a2d3-4c1af37a2b85,90262.9882813,2035.9478149,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+216,NA,NA,2008-1,-NC-PD,PF,Public Facilities,PF,8c7f5a80-6caa-4536-8166-88b0d0d111ba,27234.796875,674.642012284263,https://www.codepublishing.com/CA/Fairfield/,PF,0
+217,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,f6f8b4cd-0e22-410e-aeb7-f5dde4ae1420,8509.453125,671.729476422684,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+218,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,9c236d0d-b27b-4133-9c15-0d2804984674,416803.773438,5408.22179007,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+219,NA,NA,2008-1,NA,CS,Service Commercial,CS,b26bbaaf-6f23-4d18-807d-e2a1acd1c095,236921.179688,2121.02687953,https://www.codepublishing.com/CA/Fairfield/,CS,0
+220,NA,NA,2008-1,NA,RH,High Density Residential,RH,c54b9709-adf6-41a3-86ae-c467f9a0cb3f,189968.804688,3431.53884837,https://www.codepublishing.com/CA/Fairfield/,RH,2
+221,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,c763adf5-f97a-4dad-8af6-3928ebeebc14,496833.554688,2811.27172576,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+222,NA,NA,2008-1,NA,RH,High Density Residential,RH,af8046bd-8b3d-4c2b-900f-2edf6c387f29,169352.785156,2333.80988745,https://www.codepublishing.com/CA/Fairfield/,RH,2
+223,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,f558b4ca-c292-4596-b5fe-6efe06b6b4ba,25576.3710938,1121.39246164,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+224,NA,NA,2008-1,NA,CR,Regional Commercial,CR,01b18aa8-6f10-45bf-9975-16a6aa93d2b7,287536.433594,2673.70654615,https://www.codepublishing.com/CA/Fairfield/,CR,0
+225,NA,NA,2008-1,-NC,PF,Public Facilities,PF,09fbc3e4-74b3-4372-9896-c5ad17db2f3e,155446.242188,4395.21254756,https://www.codepublishing.com/CA/Fairfield/,PF,0
+226,NA,NA,2008-1,-NC,PF,Public Facilities,PF,add3fbae-7ac9-4c52-b39f-2155cead4c3e,34919.5546875,770.343207809434,https://www.codepublishing.com/CA/Fairfield/,PF,0
+227,NA,NA,2009-4,-NC-PD,CO,Office Commercial,CO,2f423c74-9796-4746-8f83-ba7f49b88ca5,29793.6914063,704.203208153958,https://www.codepublishing.com/CA/Fairfield/,CO_MF,2
+228,NA,NA,2008-1,-NC,RM,Medium Density Residential,RM,e7465928-669f-4b9f-9053-3be64b9c1634,226075.753906,3147.27262321,https://www.codepublishing.com/CA/Fairfield/,RM,2
+229,10,NA,2008-1,-NC,RL:10,Low Density Residential,RL:10,560bafad-729e-494c-8e12-2b4be3a49fda,51616.8359375,1296.90214249,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+230,5,NA,2008-1,-NC,RLM:5,Low-Medium Density Residential,RLM:5,624dc259-fd8b-45f0-bf0d-82a6bf7a6894,174750.929688,2238.20848687,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+231,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,b32c4287-05a8-4b15-bdaf-bc5dbc45482f,159953.949219,2426.07305748,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+232,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,41904b43-9284-4bfd-9d38-af05c2c4aa39,17548.53125,562.253132046751,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+233,NA,NA,2008-1,-NC,REC,Recreation,REC,13b18ca6-6d2f-4873-8c72-3eb24fcade82,86854.8867188,3161.19590483,https://www.codepublishing.com/CA/Fairfield/,REC,0
+234,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,e5bf2c26-44f9-455a-b7dd-0809e6715304,204740.792969,2275.8685636,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+235,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,924d187e-b07e-4ffd-b39d-dab0271c0a43,246411.25,2192.80348686,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+236,5,NA,2008-1,-NC,RLM:5,Low-Medium Density Residential,RLM:5,fd1040c5-aa52-498c-9aab-0a5e9efcc1ab,58356.5078125,1720.45997979,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+237,10,NA,2008-1,-NC-PD,RL:10,Low Density Residential,RL:10,6b8b8122-c4c5-4aa7-bb33-70f8fb4d3735,1068539.70313,9266.3867259,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+238,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,64589ee9-f624-4711-91f4-8bfb74b129c2,559350.492188,5179.70580014,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+239,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,8ffaba3c-02f1-4d22-935c-b1a6557dff61,571360.253906,5637.22635621,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+240,5,NA,2008-1,-NC,RLM:5,Low-Medium Density Residential,RLM:5,c1e3ed78-c5d9-4233-9a94-f9413cfd0265,269377.730469,3168.52651924,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+241,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,1b55e5db-6a64-41c5-9923-b2b903130a65,1481969.54297,8537.4834022,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+242,6,NA,2010-12,NA,RLM:6,Low-Medium Density Residential,RLM:6,52694034-dcce-4f9e-a1cd-da09d28c9564,1431332.25,10267.2770383,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+243,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,dcbb6ce9-6333-4e2c-998d-7978e16c82db,236726.808594,3130.61713227,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+244,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,ea32b8d2-4204-426c-8f24-17e72f80b4e2,73614.5078125,1169.78684063,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+245,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,5587c13c-8cba-4dd8-8a2b-9ffab72044bb,100006.425781,1372.68934274,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+246,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,ae6aa5c4-d5b3-4705-b2f4-5a1ac7d59dab,42457.25,988.286167444696,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+247,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,1c74226e-b5f9-4829-bde9-ffbaf9b51a30,380537.25,2989.65795678,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+248,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,f4f25c1f-ae7b-44c3-b5d8-6d3714e9cc5f,43226.2382813,1154.80030045,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+249,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,4c63692a-5f27-433f-b0f7-0ec41d2a90f5,388525.753906,3631.74653219,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+250,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,56131aa9-1091-42cf-b0b6-9e27f92d799b,120262.703125,1435.55924397,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+251,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,3d8c2e0a-9b8c-4d86-be24-8f3e1d9ea667,233263.429688,2272.34517742,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+252,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,4e95552d-8ef2-497f-92d7-895630e48ee1,78808.7773438,1374.40139559,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+253,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,dbf8130c-0553-4ced-a61f-c39b6d7720e6,278851.199219,2354.51008601,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+254,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,ae89bf47-1663-4473-b835-7cb970281309,93087.9453125,1621.35136343,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+255,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,235ab1db-44b5-48c0-8479-1657fa1792a3,164367.839844,1848.1985376,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+256,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,b8214e02-5d05-449f-be7b-0efbd7ae1f0f,154976.933594,2330.88351168,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+257,5,NA,2007-3,NA,RLM:5,Low-Medium Density Residential,RLM:5,5ef8310c-c262-4211-86a7-5ef6001f1ad1,52653.4648438,1243.79274631,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+258,5,NA,2008-1,-PD,RLM:5,Low-Medium Density Residential,RLM:5,58a4ebe2-7442-4c47-8ea2-8c38757ce728,136711.046875,1546.96181139,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+259,6,NA,2008-1,-PD,RLM:6,Low-Medium Density Residential,RLM:6,cf2b28e1-2a91-4838-afb3-34b18fc930eb,361035.226563,3460.24418561,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+260,8,NA,2008-1,-PD,RL:8,Low Density Residential,RL:8,3430e02f-58d8-459b-8990-8e097ba81f8a,56232.6132813,992.055710470614,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+261,8,NA,2008-1,-PD,RL:8,Low Density Residential,RL:8,d2a2df7e-579c-4f2e-9894-088a46195bee,20034.1601563,681.447917467401,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+262,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,eea5c9e0-7334-49b0-ba2d-f2eadde69846,211032.578125,2756.44726168,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+263,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,f14e1bb1-428b-4761-a8d9-9f59a0b644fb,29781.1054688,840.120772440712,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+264,NA,NA,2011-05,NA,RH,High Density Residential,RH,4384fb34-c999-44d8-9b8c-6d18f2dd4379,125722.015625,1633.93311174,https://www.codepublishing.com/CA/Fairfield/,RH,2
+265,5,NA,2008-1,-NC,RLM:5,Low-Medium Density Residential,RLM:5,1a4dd4a9-696c-477d-99b7-e384ae69f723,119870.617188,2156.06173053,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+266,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,ac56de44-eb00-450f-9e79-17ea699ed1b4,249372.902344,2970.2063379,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+267,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,ab365aec-f751-40dd-a9dd-9b750fffe49a,56297.1289063,1099.98453643,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+268,NA,NA,2008-1,-NC,PF,Public Facilities,PF,b9d144be-8fe6-4f12-9248-6cd5bc27d78b,46857.3046875,870.751741979235,https://www.codepublishing.com/CA/Fairfield/,PF,0
+269,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,0ad2a95f-3387-4dc8-983a-81c2acafdffc,344035.792969,3000.72640638,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+270,6,NA,2008-1,-H,RLM:6,Low-Medium Density Residential,RLM:6,e546be6a-3535-4e32-a9f4-bc7bd32ca5d5,292552.875,4653.23708251,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+271,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,67268d36-c1cf-49ae-a7b7-591a6759f395,406813.195313,3668.16569787,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+272,6,NA,2008-1,-PD,RLM:6,Low-Medium Density Residential,RLM:6,0f27cfd0-c282-41a7-9992-988350adcb1b,154782.582031,2546.44505416,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+273,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,dcf0acdd-144f-4a5c-b96f-50c1480ebbd9,281901.109375,2530.69157492,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+274,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,e680884f-08dc-4102-a62f-70cf0fc3a91d,250294.675781,2299.55465527,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+275,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,3705bc7c-7029-485d-b7f6-6df5819b4a3a,2884.85546875,229.615691824403,https://www.codepublishing.com/CA/Fairfield/,CM,0
+276,NA,NA,2008-1,NA,PF,Public Facilities,PF,9fbdaab1-224a-415b-a700-cafd80e33937,337212.558594,3214.95018588,https://www.codepublishing.com/CA/Fairfield/,PF,0
+277,NA,NA,2008-1,NA,PF,Public Facilities,PF,84acc104-5d22-4308-8aaa-6f3d1ab2fe32,19654.0039063,611.187925577289,https://www.codepublishing.com/CA/Fairfield/,PF,0
+278,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,8cd5b57e-371a-4a71-982b-1ade5838024a,52107.15625,1229.29417997,https://www.codepublishing.com/CA/Fairfield/,CM_MF,2
+279,NA,NA,2008-1,-P1,CM,Mixed Commercial,CM,8e51d158-475a-45d0-8812-b8da92439339,166431.140625,2414.20875084,https://www.codepublishing.com/CA/Fairfield/,CM_MF,2
+280,NA,NA,2008-1,-P1,CDC,Downtown Commercial Core,CDC,c37716c4-671b-44c7-889c-f015ec78b6ac,67063.09375,1202.40669859,https://www.codepublishing.com/CA/Fairfield/,CDC,0
+281,NA,NA,2008-1,NA,CS,Service Commercial,CS,0afeed00-7362-4f6f-b805-03f2ee59cf09,226883.027344,4493.41443732,https://www.codepublishing.com/CA/Fairfield/,CS,0
+282,NA,NA,2008-1,-P1,CD,Downtown Commercial,CD,250cb93a-b018-468b-9bbe-bce0e70ac979,205208.839844,3745.76414961,https://www.codepublishing.com/CA/Fairfield/,CD,0
+283,NA,NA,2008-1,NA,PF,Public Facilities,PF,0b7235f2-984e-4568-9f56-9dad3e3b4fd2,524921.5625,3567.40865457,https://www.codepublishing.com/CA/Fairfield/,PF,0
+284,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,75132f8b-5931-4a9c-b479-9c8cc7e4f1c5,36135.9179688,1301.55123126,https://www.codepublishing.com/CA/Fairfield/,CT,0
+285,NA,NA,2008-1,-NC,RM,Medium Density Residential,RM,46db629c-9538-4b53-8cbb-322c8010dfd3,139956.136719,1834.16128577,https://www.codepublishing.com/CA/Fairfield/,RM,2
+286,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,c79d06bd-22c5-45eb-8501-9e9fc48e7a62,297855.957031,3903.93882932,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+287,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,7f6f7541-8a68-47ed-8474-94c11235fe89,82129.3554688,1456.5668151,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+288,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,16d5ef9d-4171-427d-9c19-92fbb5402f91,2226942.58594,12754.5279763,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+289,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,85561231-8d1e-4d5a-bef2-38595da73010,751237.542969,5322.29192364,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+290,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,5a6916f9-6a98-4581-942c-5782e66093c9,810953.71875,5362.01218809,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+291,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,a37a22e6-2724-45f9-a57f-f769ba3d7abb,33389.421875,961.870163329799,https://www.codepublishing.com/CA/Fairfield/,RM,2
+292,NA,NA,2008-1,-NC,RM,Medium Density Residential,RM,e5c57ffb-e34c-41b9-81a6-f8fffc315644,27732.7460938,753.528491832032,https://www.codepublishing.com/CA/Fairfield/,RM,2
+293,10,NA,2008-1,-NC-PD,RL:10,Low Density Residential,RL:10,9b9aa3c2-c195-4b81-bf56-66cced3210fa,654129.472656,6016.01202228,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+294,NA,NA,2008-1,-NC-PD,REC,Recreation,REC,dd756591-9b2b-45a4-8555-c7942b82a49a,233225.417969,2655.43305024,https://www.codepublishing.com/CA/Fairfield/,REC,0
+295,NA,NA,2008-1,-NC,PF,Public Facilities,PF,7203a1c1-328d-4b2f-ad08-0fe63749aa9d,2681.890625,184.193675458167,https://www.codepublishing.com/CA/Fairfield/,PF,0
+296,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,67ad10dc-e59f-4f2d-9fb2-1eca3948e854,52239.7617188,1053.06581573,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+297,NA,NA,2008-1,NA,CR,Regional Commercial,CR,5b022c38-4d93-40c0-8a9d-aafaf27c0293,565971.019531,5340.10636291,https://www.codepublishing.com/CA/Fairfield/,CR,0
+298,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,511cb2e7-9aeb-4d31-b191-d82d9d9b7dfd,165182.875,1621.55905322,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+299,NA,NA,2008-1,NA,IL,Limited Industrial,IL,9a984b5d-0d81-4317-bbcd-dbb5d4e0a6eb,5279298.14844,12744.976035399999,https://www.codepublishing.com/CA/Fairfield/,IL,0
+300,NA,NA,2008-1,NA,IG,General Industrial,IG,388293d3-bcec-4ab1-a216-bec2576a61ab,804072.933594,3526.23663539,https://www.codepublishing.com/CA/Fairfield/,IG,0
+301,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,c6ed66aa-fd4b-46e7-bb0b-82c9d480f5c3,207462.027344,2736.26222287,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+302,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,c2c60196-d3ff-4898-8604-604970fa053e,194430.042969,1959.06612346,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+303,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,f62d305c-1a13-4782-97ee-f7f3267f19c0,271018.144531,2380.19774692,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+304,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,8d95b47a-598c-42a6-a505-cdf97f03d068,1416578.48047,7236.69244208,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+305,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,195a67c9-95b1-41d8-badf-a094387c89e0,86335.2460938,1664.06251785,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+306,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,76d9afc3-1d85-4e38-8625-37aff0a155be,1712381.42969,8987.0995906,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+307,6,NA,2008-1,-H,RLM:6,Low-Medium Density Residential,RLM:6,c0c908d2-9551-4071-99cd-6ec170f58b84,374267.378906,5094.55716669,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+308,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,e7f738be-66e1-4d8f-9b93-0c95120481fa,94811.1640625,2179.81153529,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+309,NA,NA,2008-1,NA,PF,Public Facilities,PF,ba161312-7791-4bc1-a37e-67499f4ee5fd,5012.30078125,286.455026701477,https://www.codepublishing.com/CA/Fairfield/,PF,0
+310,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,160c4d91-9735-4c97-a80d-fec5168cf58a,1365155.50391,11118.0859005,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+311,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,800641d9-952e-4405-8644-7cc903e9c60b,89476.3671875,1185.40894259,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+312,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,d266737a-0d9d-416c-a64c-ec14758a3e03,52484.8789063,1103.94297085,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+313,6,NA,2008-1,-H,RLM:6,Low-Medium Density Residential,RLM:6,e95d3401-e66e-412b-80c4-6c1013a63215,150627.320313,2175.3774299,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+314,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,7a416b54-bec2-4476-8b9b-36d0bf41f794,232757.023438,4820.35061864,https://www.codepublishing.com/CA/Fairfield/,CT,0
+315,NA,NA,2008-1,NA,PF,Public Facilities,PF,b2c3fa91-9ba4-4ab1-97b2-ae950d6096cb,37798.3515625,882.453892267668,https://www.codepublishing.com/CA/Fairfield/,PF,0
+316,NA,NA,2008-1,NA,REC,Recreation,REC,803b3b45-d435-4385-a29c-7d2dc14c7f06,314994.886719,2443.79732146,https://www.codepublishing.com/CA/Fairfield/,REC,0
+317,NA,NA,2008-1,NA,RH,High Density Residential,RH,9511cae5-8ade-45a8-8374-1f8389d64262,24127.9296875,777.317892840019,https://www.codepublishing.com/CA/Fairfield/,RH,2
+318,NA,NA,2008-1,NA,PF,Public Facilities,PF,5b41cb5a-6096-47a7-a139-43992f666648,34145.6757813,763.35801314222,https://www.codepublishing.com/CA/Fairfield/,PF,0
+319,NA,NA,2008-1,NA,PF,Public Facilities,PF,88d073a8-d20c-476a-9133-c88ace261bf1,99338.7148438,1927.13143891,https://www.codepublishing.com/CA/Fairfield/,PF,0
+320,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,fd8918bd-482b-4863-938e-b8cab922ba7d,29206.0273438,768.724611558329,https://www.codepublishing.com/CA/Fairfield/,RM,2
+321,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,91931623-0ac2-4e2f-bdc3-3a7d55d7158f,258196.78125,3808.63477733,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+322,8,NA,2008-1,-H,RL:8,Low Density Residential,RL:8,0dfaef48-38dd-4c27-baf7-756e7ff694f0,58337.0585938,888.206140198917,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+323,5,NA,2008-1,-H-PD,RLM:5,Low-Medium Density Residential,RLM:5,6e52b51b-344c-4c63-b7b0-8361dde1b6ab,70937.140625,1149.56635174,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+324,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,6a835905-4dc2-425b-b1c2-3cc2360d59ba,57530.875,1075.84372731,https://www.codepublishing.com/CA/Fairfield/,RM,2
+325,6,NA,2008-1,-H-PD,RLM:6,Low-Medium Density Residential,RLM:6,d06f4f8a-8ba2-45ae-bb6e-859312280cd8,98326.0429688,1597.18494801,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+326,20,NA,2008-1,-H,RVL:20,Very Low Density Residential,RVL:20,534ccef4-b568-4e06-9a97-6ee48f186709,144804.003906,1660.20549605,https://www.codepublishing.com/CA/Fairfield/,RVL:20,1
+327,NA,NA,2008-1,NA,PF,Public Facilities,PF,ef9dfb48-0dfe-4225-8fd8-9b0ee7f526a7,121034.699219,1387.13644348,https://www.codepublishing.com/CA/Fairfield/,PF,0
+328,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,b39581b3-ca97-45f6-ae04-69ca3ceac190,45234.6835938,976.909594347823,https://www.codepublishing.com/CA/Fairfield/,RM,2
+329,8,NA,2008-1,-H,RL:8,Low Density Residential,RL:8,6b71ac0f-ba09-4c93-8b77-f3c5070fd673,225853.398438,2442.76485664,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+330,NA,NA,2008-1,NA,RH,High Density Residential,RH,92302e60-97a6-4577-b5fb-334cc435b711,13166.5859375,525.838621707261,https://www.codepublishing.com/CA/Fairfield/,RH,2
+331,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,8625c867-7cbe-4245-96ab-6ec4bc7322a5,58756.71875,1251.33184701,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+332,NA,NA,2008-1,-H,RLM,Low-Medium Density Residential,RLM,1ad7579f-5b32-40cd-bd2e-cebe031ccc3c,169348.183594,2615.52271823,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+333,NA,NA,2009-4,NA,CO,Office Commercial,CO,7a67dd9c-2b75-49bb-9ffc-fdbdcf73ecb8,50185.1992188,1095.68821729,https://www.codepublishing.com/CA/Fairfield/,CO,0
+334,NA,NA,2008-1,NA,PF,Public Facilities,PF,1b213a01-5b9f-4939-ba66-db339b73932c,82521.6328125,1165.44419465,https://www.codepublishing.com/CA/Fairfield/,PF,0
+335,NA,NA,2008-1,NA,REC,Recreation,REC,7b16b68f-6f46-4585-a6ff-981224f01795,39017.9726563,804.021970898533,https://www.codepublishing.com/CA/Fairfield/,REC,0
+336,NA,NA,2008-1,NA,PF,Public Facilities,PF,b844c4cd-28f0-49e9-9a75-44ce91a1786f,903666.21875,13947.8048594,https://www.codepublishing.com/CA/Fairfield/,PF,0
+337,40,NA,2008-1,-H-PD,RVL:40,Very Low Density Residential,RVL:40,10d0d405-fed6-4695-acfa-660aed28c1f0,24691.8828125,698.295022533627,https://www.codepublishing.com/CA/Fairfield/,RVL:40,1
+338,NA,NA,2008-1,NA,RH,High Density Residential,RH,2239e69f-36cf-4a06-86b7-3d8f0d0984e0,103691.832031,1634.8779237,https://www.codepublishing.com/CA/Fairfield/,RH,2
+339,NA,NA,2008-1,NA,RH,High Density Residential,RH,e43a30db-01ec-4d9d-96b2-d7df18d255e0,667440.660156,6872.92560334,https://www.codepublishing.com/CA/Fairfield/,RH,2
+340,NA,NA,2008-1,NA,RH,High Density Residential,RH,14b02dbe-51aa-4fe8-896c-e1da5128935b,70790.65625,1088.85150735,https://www.codepublishing.com/CA/Fairfield/,RH,2
+341,NA,NA,2008-1,NA,PF,Public Facilities,PF,49ba77ed-0298-4888-acfc-1c172034afa2,65108.2382813,1035.57721901,https://www.codepublishing.com/CA/Fairfield/,PF,0
+342,NA,NA,2008-1,-H-PD,RLM,Low-Medium Density Residential,RLM,1c1f4115-786e-4192-be0c-a8c481802158,76705.578125,1103.0828319,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+343,NA,NA,2008-1,-H,PF,Public Facilities,PF,23b24e23-25c8-4ebe-ab14-2adaae25e84c,5793.1015625,270.640100182967,https://www.codepublishing.com/CA/Fairfield/,PF,0
+344,40,NA,2008-1,-H-PD,RVL:40,Very Low Density Residential,RVL:40,7dbb908c-c655-467d-abc2-ecc777ffe29a,31655.234375,893.073359975461,https://www.codepublishing.com/CA/Fairfield/,RVL:40,1
+345,NA,NA,2008-1,-H-PD,RVH,Very High Density Residential,RVH,2f1dfd6c-26ef-480f-b98b-ad66b921687c,78340.7539063,1128.4739206900001,https://www.codepublishing.com/CA/Fairfield/,RVH,2
+346,NA,NA,NA,NA,(PF),NA,(PF),5de51fbf-5fb4-4c2c-90d5-ff57dff63c0c,13789.5,469.717720629243,https://www.codepublishing.com/CA/Fairfield/,(PF),0
+347,4.5,NA,2008-1,-H,RLM:4.5,Low-Medium Density Residential,RLM:4.5,a0f486ed-5682-41e9-b7aa-b2909ece2f49,108058.546875,2020.37376511,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+348,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,a0d864c1-6542-4473-ac5d-49fbb215c2ae,124477.355469,4514.27144141,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+349,NA,NA,2008-1,NA,CR,Regional Commercial,CR,2073b0d5-98a9-4d27-892e-d163002223ce,960083.402344,4112.96333375,https://www.codepublishing.com/CA/Fairfield/,CR,0
+350,NA,NA,2008-1,NA,PF,Public Facilities,PF,c832ceb4-715f-4407-a743-77efb1d1e162,199092.1875,2372.60934693,https://www.codepublishing.com/CA/Fairfield/,PF,0
+351,NA,NA,2008-1,NA,RH,High Density Residential,RH,d10c4544-95c9-457d-935e-30165d2c7ce8,32771.28125,806.134907435741,https://www.codepublishing.com/CA/Fairfield/,RH,2
+352,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,a0426e6d-0ddb-423e-ab83-ba1367c1cc6c,32327.0976563,772.160134055394,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+353,NA,NA,2008-1,NA,RH,High Density Residential,RH,ec0343d0-8d71-4e13-94cd-ecacbe6d9487,20675.2773438,726.350126779729,https://www.codepublishing.com/CA/Fairfield/,RH,2
+354,NA,NA,2008-1,NA,PF,Public Facilities,PF,084ca6f0-f4ab-4c84-a2a2-ba65e32717de,19024.7617188,604.232346634852,https://www.codepublishing.com/CA/Fairfield/,PF,0
+355,NA,NA,2008-1,-H-PD,RLM,Low-Medium Density Residential,RLM,a15d6207-5726-4989-8b41-eb8502bf01bd,27599.5585938,775.479272242628,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+356,40,NA,2008-1,NA,RVL:40,Very Low Density Residential,RVL:40,480ea2ba-ee7a-4e29-b31c-7143d1a46a48,119812.746094,1821.08137688,https://www.codepublishing.com/CA/Fairfield/,RVL:40,1
+357,NA,NA,2008-1,NA,CR,Regional Commercial,CR,b8000965-3ca6-4756-9aa9-9b8ee2b60f88,98443.4023438,1876.20665023,https://www.codepublishing.com/CA/Fairfield/,CR,0
+358,NA,NA,2008-1,NA,PF,Public Facilities,PF,11188b6e-81d3-4f24-805a-08645db60d9f,27937.7539063,699.070004112639,https://www.codepublishing.com/CA/Fairfield/,PF,0
+359,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,2b1cf3f6-ff66-4151-8b27-3569abf35e79,542111.46875,3664.60443168,https://www.codepublishing.com/CA/Fairfield/,RM,2
+360,NA,NA,2008-1,NA,PF,Public Facilities,PF,fc144d10-8767-424f-b90a-a4f4f972a01a,54484.8789063,928.845276768142,https://www.codepublishing.com/CA/Fairfield/,PF,0
+361,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,d85dfd6a-53cf-48ae-8cbf-4100347b68ac,15713.6132813,510.873478261272,https://www.codepublishing.com/CA/Fairfield/,CN,0
+362,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,70a4a546-6996-48d7-9d9c-958c73b41e64,11958.8046875,597.86885556483,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+363,NA,NA,2008-1,NA,RH,High Density Residential,RH,4a40866f-c9e7-4762-9751-79633535a715,128245.070313,1750.82220665,https://www.codepublishing.com/CA/Fairfield/,RH,2
+364,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,69d8aeaf-dceb-4399-8fa7-39129d53f5e7,368728.789063,6607.15163365,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+365,NA,NA,2008-1,NA,CO,Office Commercial,CO,0d2d3d0b-6943-42b9-b014-164a353c3829,16925.3828125,558.457384286581,https://www.codepublishing.com/CA/Fairfield/,CO,0
+366,8,NA,2008-1,-H,RL:8,Low Density Residential,RL:8,2dce0feb-a02c-4da2-a2ad-a9ac4c3095b7,906596.261719,7488.45314955,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+367,8,NA,2008-1,-H,RL:8,Low Density Residential,RL:8,c10ea0a8-c28f-4c98-97b3-532597831a17,251783.449219,2417.03665629,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+368,NA,NA,2008-1,NA,IL,Limited Industrial,IL,f223a0d8-7b69-4a4b-915f-ec66fe7001c2,398805.085938,3578.70242944,https://www.codepublishing.com/CA/Fairfield/,IL,0
+369,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,9fad94f6-833a-4af5-953f-e58241f54900,517700.167969,5539.05750205,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+370,NA,NA,2008-1,NA,RH,High Density Residential,RH,97a59c9a-8d21-489d-bc25-9dd06544156c,43847.734375,980.419616568591,https://www.codepublishing.com/CA/Fairfield/,RH,2
+371,NA,NA,2008-1,NA,CS,Service Commercial,CS,0e079284-1d32-4d75-886e-4863ec820c5b,35826.9765625,775.417411287195,https://www.codepublishing.com/CA/Fairfield/,CS,0
+372,NA,NA,2008-1,NA,CC,Community Commercial,CC,46edf036-0e4f-4a57-94f0-daa348c0d8ef,28312.4882813,912.838404822939,https://www.codepublishing.com/CA/Fairfield/,CC,0
+373,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,0e9061ca-5849-4a91-b2da-f03a7c989fc9,29035.8710938,681.054162102631,https://www.codepublishing.com/CA/Fairfield/,RM,2
+374,NA,NA,2008-1,NA,PF,Public Facilities,PF,efa2fda7-9fdc-49b8-9ed5-e3a79f11148d,68822.5898438,1064.17800746,https://www.codepublishing.com/CA/Fairfield/,PF,0
+375,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,07d4ad7e-9817-4c8d-83fc-d3caa56cb582,68480.0234375,1096.25507357,https://www.codepublishing.com/CA/Fairfield/,CM,0
+376,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,44427133-75e9-41e0-910c-55bec134430c,63555.1601563,1303.91261134,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+377,NA,NA,2008-1,NA,IL,Limited Industrial,IL,b4200b1b-c379-4a11-bded-ab2a97ac6a34,60902.5820313,998.034344140797,https://www.codepublishing.com/CA/Fairfield/,IL,0
+378,NA,NA,2008-1,NA,RH,High Density Residential,RH,51851516-f695-4cd5-ad80-3f58073784dd,63143.0703125,1017.83311536,https://www.codepublishing.com/CA/Fairfield/,RH,2
+379,NA,NA,2008-1,NA,CR,Regional Commercial,CR,5f4452b9-c419-4760-9b78-2fda93c5ef2c,174624.308594,1834.75521596,https://www.codepublishing.com/CA/Fairfield/,CR,0
+380,NA,NA,2008-1,NA,IL,Limited Industrial,IL,141f1940-5f69-460a-a411-cbd5960ec4b8,211233.585938,2727.36933011,https://www.codepublishing.com/CA/Fairfield/,IL,0
+381,6,NA,2008-1,NA,RLM:6,Low-Medium Density Residential,RLM:6,f79a874c-a04f-45a1-b36b-224f67b51129,319629.820313,2432.31617967,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+382,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,4798e4c2-f57a-4aa6-ada3-e39a920c4a33,19729.5078125,564.002107269635,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+383,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,5aaeaf7d-b0b9-449c-b0ac-1e2ebb9cb1be,1065064.82422,5382.86585313,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+384,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,b32d706a-f171-405b-ad9e-01c1b533a413,520048.300781,3795.71346926,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+385,NA,NA,2008-1,-NC,REC,Recreation,REC,e3aef2a0-5563-4194-a8d4-e39fb713d17d,38914.546875,923.927488270899,https://www.codepublishing.com/CA/Fairfield/,REC,0
+386,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,e080bddf-81ce-485f-8068-6bf2acdf0829,83243.7539063,2031.37669789,https://www.codepublishing.com/CA/Fairfield/,RM,2
+387,NA,NA,2008-1,NA,CC,Community Commercial,CC,9ae02a87-f74c-48fa-9e31-e21a891a5231,181098.015625,2122.56314644,https://www.codepublishing.com/CA/Fairfield/,CC,0
+388,NA,NA,2008-1,NA,RH,High Density Residential,RH,5caef318-850c-40b7-a415-1e5ae808a18b,86668.8984375,1231.56115718,https://www.codepublishing.com/CA/Fairfield/,RH,2
+389,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,f7b3d3d6-ca08-4a34-ad0c-429dba498e09,102467.980469,1306.41915494,https://www.codepublishing.com/CA/Fairfield/,RM,2
+390,NA,NA,2008-1,NA,CS,Service Commercial,CS,bca34400-8666-44ab-a6e0-4746fb7d4802,15421.1875,591.235451522595,https://www.codepublishing.com/CA/Fairfield/,CS,0
+391,NA,NA,2008-1,NA,PF,Public Facilities,PF,0473a965-8829-406a-825c-79dafce1b687,61583.703125,1487.46692369,https://www.codepublishing.com/CA/Fairfield/,PF,0
+392,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,28f241f0-5759-4b56-8e03-2f487d8225c5,4199.171875,338.236380528796,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+393,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,24274082-316a-4343-935b-27c55831340b,2597.91796875,204.424921029355,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+394,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,e73cc759-2bb6-41fc-a983-a12f3719e10a,2585.09375,205.752422252134,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+395,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,0eaa5a11-7105-4c8d-8028-8c86c3e49436,144724.152344,1807.47096718,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+396,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,a436c071-58e9-4043-bce3-843fe0ca228e,23612.3867188,850.282300166552,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+397,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,6ea4fb65-43ce-43c8-8e6d-cf2ecbe2dfc9,1.93359375,7.4201808669092,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+398,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,cf7bd806-2a36-43b5-bfc1-771939683068,33169.734375,807.903695840559,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+399,5,NA,2008-1,-NC,RLM:5,Low-Medium Density Residential,RLM:5,469223a2-6c25-4f74-9d11-fd16c7de2b5d,246056.785156,2924.97797015,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+400,NA,NA,2008-1,NA,REC,Recreation,REC,35f9445c-1942-47d3-b39d-661516264c1f,35946.4023438,797.893185023712,https://www.codepublishing.com/CA/Fairfield/,REC,0
+401,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,4cf6e89c-6e53-41ac-93b2-9a76a7cd0e88,102357.378906,1753.03662464,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+402,NA,NA,2008-1,NA,REC,Recreation,REC,b3dbdf01-e1f9-4435-857d-712ca866c149,61184.3320313,2187.19281978,https://www.codepublishing.com/CA/Fairfield/,REC,0
+403,NA,NA,2008-1,NA,REC,Recreation,REC,a0b23c42-eb0a-4220-9874-9ec4a9e2ff34,12370.2734375,800.429099664844,https://www.codepublishing.com/CA/Fairfield/,REC,0
+404,8,NA,2008-1,-H-PD,RL:8,Low Density Residential,RL:8,f2c07748-a1df-4fb3-9e1c-292a17d79a93,58360.8046875,1275.13743759,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+405,NA,NA,2008-1,NA,CR,Regional Commercial,CR,5c5fb7bd-b041-4e9d-afb2-c24035fb2185,178036.441406,2087.31680837,https://www.codepublishing.com/CA/Fairfield/,CR,0
+406,NA,NA,2008-1,NA,CR,Regional Commercial,CR,8c0c9f83-d23e-4b8a-b06d-553a0d54c578,154013.304688,1710.46595052,https://www.codepublishing.com/CA/Fairfield/,CR,0
+407,NA,NA,2008-1,NA,CO,Office Commercial,CO,5e6ad968-4908-4ad8-ab2a-646fb0869907,134992.972656,3084.44821293,https://www.codepublishing.com/CA/Fairfield/,CO,0
+408,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,97fc9129-2ec7-4ad0-b0d8-a43f4ec574a2,87808.1757813,1929.48256269,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+409,NA,NA,2008-1,NA,RH,High Density Residential,RH,dd61ce51-b1eb-4670-a04d-6cffd13c8ace,123229.03125,2002.73279475,https://www.codepublishing.com/CA/Fairfield/,RH,2
+410,NA,NA,2008-1,NA,REC,Recreation,REC,3b94db20-fae2-45e6-827a-c9cf38fc3b9a,45566.0585938,995.472491122322,https://www.codepublishing.com/CA/Fairfield/,REC,0
+411,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,bc3d88a4-1443-4de2-9892-af3a2a3a2ed3,11511.0039063,495.824029026621,https://www.codepublishing.com/CA/Fairfield/,CM_MF,2
+412,NA,NA,2008-1,NA,CT,Thoroughfare Commercial,CT,e1b683e0-3be6-42b6-901b-fef6ce3d1d27,519611.664063,5045.15680033,https://www.codepublishing.com/CA/Fairfield/,CT,0
+413,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,aa46b7ca-350d-4dfc-aaaa-8f8c3854eb47,131453.289063,1453.52226052,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+414,NA,NA,2009-4,NA,RH,High Density Residential,RH,643016a6-c5f7-4ca1-ac3f-84863aa277aa,72578.6132813,1626.31494783,https://www.codepublishing.com/CA/Fairfield/,RH,2
+415,NA,NA,2008-1,-NC,CR,Regional Commercial,CR,6ba01f32-0f5e-4081-af57-66736f4913da,623749.816406,4355.74287176,https://www.codepublishing.com/CA/Fairfield/,CR,0
+416,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,8093d348-31c2-4eef-866c-710c51cbe6bd,23834.2382813,716.155598292772,https://www.codepublishing.com/CA/Fairfield/,RM,2
+417,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,789bae93-c754-4c08-9eb8-cba9746ce2e1,84986.9296875,2067.88972707,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+418,-PD,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,c30c6bb4-3816-4195-bb8c-cd7b23639c71,8551.44140625,548.640633334331,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+419,NA,NA,2008-1,NA,PF,Public Facilities,PF,7ba64578-6400-436e-ae9c-27331cc7c59c,182816.632813,2073.86205425,https://www.codepublishing.com/CA/Fairfield/,PF,0
+420,NA,NA,2008-1,NA,CS,Service Commercial,CS,408d8201-3749-4d3d-a8d8-216bd4e9b52e,91377.7773438,1469.19567966,https://www.codepublishing.com/CA/Fairfield/,CS,0
+421,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,2934034e-07d3-4566-b0ac-6004d871325c,29986.3359375,775.234485626607,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+422,NA,NA,2008-1,NA,AG:80,Agriculture,AG:80,3ec026e2-3dc9-4a4b-9434-7fce9ac9841c,559893.167969,3726.13703185,https://www.codepublishing.com/CA/Fairfield/,AG:80,0
+423,NA,NA,2008-1,NA,REC,Recreation,REC,b47bd127-18d9-4e84-a8a9-905d2c192962,61668.2695313,4054.80121906,https://www.codepublishing.com/CA/Fairfield/,REC,0
+424,NA,NA,2008-1,NA,PF,Public Facilities,PF,ca1571d5-70b0-4ff8-bb87-57732eaf6557,2601319.92188,6441.88257074,https://www.codepublishing.com/CA/Fairfield/,PF,0
+425,NA,NA,2008-1,NA,IG,General Industrial,IG,3c345531-27bd-4811-98cb-b135b4408510,2282976.69141,7038.37031503,https://www.codepublishing.com/CA/Fairfield/,IG,0
+426,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,e9a2ad95-6392-463c-9d5d-1ce017ce9c2a,11824.0976563,616.454982810465,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+427,NA,NA,2008-1,NA,REC,Recreation,REC,9da962d9-04c8-4356-8919-58a17879b538,56383.859375,1026.2966585,https://www.codepublishing.com/CA/Fairfield/,REC,0
+428,NA,NA,2008-1,NA,RH,High Density Residential,RH,58c65b27-6099-4d6d-9e39-2d34bbaeaf8d,15968.7109375,511.463585997847,https://www.codepublishing.com/CA/Fairfield/,RH,2
+429,10,NA,2008-1,NA,RL:10,Low Density Residential,RL:10,420060ed-862d-4544-99ea-870f83e3b715,77896.53125,1160.92716882,https://www.codepublishing.com/CA/Fairfield/,RL:10,1
+430,NA,NA,2009-4,NA,CO,Office Commercial,CO,95cd23a9-ebad-4721-824c-945b4cce3bfb,4896.33984375,283.375678023631,https://www.codepublishing.com/CA/Fairfield/,CO,0
+431,NA,NA,2008-1,NA,RVH,Very High Density Residential,RVH,b79a2d0b-a865-45b4-bcae-3bcdfc47eeb3,58512.6796875,1131.03172493,https://www.codepublishing.com/CA/Fairfield/,RVH,2
+432,NA,NA,2008-1,NA,PF,Public Facilities,PF,61d0bff5-0fa5-40d7-9de8-bd61d6d059e0,54297.28125,999.858359453139,https://www.codepublishing.com/CA/Fairfield/,PF,0
+433,NA,NA,2008-1,NA,CO,Office Commercial,CO,258167a4-b151-4599-a6fb-23300471bca8,18050.3789063,810.271188965344,https://www.codepublishing.com/CA/Fairfield/,CO,0
+434,NA,NA,2008-1,NA,CS,Service Commercial,CS,000182f8-0c04-402a-8524-30638f73c2c1,318488.890625,2614.03094953,https://www.codepublishing.com/CA/Fairfield/,CS,0
+435,NA,NA,2008-1,NA,AG:20,Agriculture,AG:20,feec6ae3-fbf5-42d3-932d-6ccf273aedc6,122001.835938,1507.45741645,https://www.codepublishing.com/CA/Fairfield/,AG:20,0
+436,NA,NA,2008-1,NA,PF,Public Facilities,PF,c28e9c22-fdfe-47b5-aa56-33c2a3254b6f,90556.71875,1345.32710717,https://www.codepublishing.com/CA/Fairfield/,PF,0
+437,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,303c05bb-497a-4dd1-9673-566d48048e4d,39441.4492188,1315.07392401,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+438,NA,NA,2008-1,-NC,REC,Recreation,REC,97c03895-3631-4294-98a8-ee7bdbdf228c,691567.226563,4165.48067454,https://www.codepublishing.com/CA/Fairfield/,REC,0
+439,NA,NA,2008-1,-NC,OSC,Open Space Conservation,OSC,ce8fed4e-6fe5-443d-ab0f-3e257fa67af3,115065.859375,2836.99134485,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+440,NA,NA,2008-1,NA,REC,Recreation,REC,483e767f-22a1-4d5c-8561-a4f9a91d819e,840423.105469,16767.5850001,https://www.codepublishing.com/CA/Fairfield/,REC,0
+441,NA,NA,2008-1,NA,CO,Office Commercial,CO,45311035-f274-4816-b7d0-6f8c39b6ecf8,28580.484375,715.323236284128,https://www.codepublishing.com/CA/Fairfield/,CO,0
+442,NA,NA,2008-1,NA,IL,Limited Industrial,IL,9a83f98b-6f4e-4a73-a7e6-f6ee040791d4,21956.125,694.312714762691,https://www.codepublishing.com/CA/Fairfield/,IL,0
+443,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,6df0d925-3c9c-4c01-8956-2e36b18ce393,22259.671875,659.949638309779,https://www.codepublishing.com/CA/Fairfield/,CN,0
+444,NA,NA,2008-1,NA,CO,Office Commercial,CO,a0535f98-d464-4833-ac5d-4c7ef0e3bc00,179037.589844,2053.70815089,https://www.codepublishing.com/CA/Fairfield/,CO_MF,2
+445,NA,NA,2008-1,NA,PF,Public Facilities,PF,0f9db01b-df45-459d-a393-0c83d179791f,356220.480469,2537.48130542,https://www.codepublishing.com/CA/Fairfield/,PF,0
+446,NA,NA,2008-1,NA,IBP,Industrial Business Park,IBP,390c9f9c-ddf5-45cd-ae52-8a9cc52c2332,219250.015625,1938.2107747,https://www.codepublishing.com/CA/Fairfield/,IBP,0
+447,NA,NA,2008-1,NA,NA,NA,NOT IN CITY,bf0dd523-c1fb-4544-b32c-7340a94d3704,43543.6054688,841.473766430407,https://www.codepublishing.com/CA/Fairfield/,NOT IN CITY,3
+448,NA,NA,2008-1,NA,IL,Limited Industrial,IL,3a90e64e-b028-4e6c-ba92-96b01de41e21,133896.496094,1703.32331827,https://www.codepublishing.com/CA/Fairfield/,IL,0
+449,NA,NA,2008-1,-H,CR,Regional Commercial,CR,c873e3a1-9cb4-4461-bbe3-a75d19fc8f95,197897.851563,2404.05498995,https://www.codepublishing.com/CA/Fairfield/,CR,0
+450,NA,NA,2008-1,NA,AG:80,Agriculture,AG:80,d4322c4d-dedb-4919-8f36-8690095ea1f1,331845.980469,2528.91988375,https://www.codepublishing.com/CA/Fairfield/,AG:80,0
+451,NA,NA,2008-1,NA,CR,Regional Commercial,CR,7e7e17b7-2287-4fdd-939f-3825dd07bee5,8018.47265625,795.129795289219,https://www.codepublishing.com/CA/Fairfield/,CR,0
+452,NA,NA,2008-1,NA,PF,Public Facilities,PF,68ce8d0a-275c-48e9-9840-ab6aec8d735c,97875.4140625,1353.38631866,https://www.codepublishing.com/CA/Fairfield/,PF,0
+453,NA,NA,2010-03,-PD,RLM,Low-Medium Density Residential,RLM,ee472c29-97bd-4ba6-900e-ceaeec0e9af7,375255.242188,2790.65706021,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+454,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,4a094db9-a172-4f29-ae4f-b1d3bda0de03,127558.582031,1990.1287825,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+455,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,aed65f98-1b90-4010-9317-c8c1cb84cd67,147775.058594,1989.50078787,https://www.codepublishing.com/CA/Fairfield/,RM,2
+456,NA,NA,2008-1,NA,AG:40,Agriculture,AG:40,25261b42-ed96-49bb-a7bf-ee51dc1ee075,220159.742188,2546.5085147,https://www.codepublishing.com/CA/Fairfield/,AG:40,0
+457,NA,NA,2008-1,-PD,RLM,Low-Medium Density Residential,RLM,10dadfd9-31ae-47f1-a99d-354b3f3983de,646162.210938,4147.42808567,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+458,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,fe120c2f-874a-4b5a-969c-6bb850c00c59,45547.7617188,822.764060880131,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+459,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,e99865e9-953f-4904-87b6-fe69d12ad2ed,186038.664063,1735.83906925,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+460,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,ea81bdfa-1b6a-4813-abea-7f50b3a0b6e8,19119.7304688,577.984318356871,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+461,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,3f97c882-a628-47c2-bb6b-ccaabbf964ed,296380.523438,2425.79179685,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+462,NA,NA,2008-1,NA,RH,High Density Residential,RH,e92f8b4a-15dd-4bcf-a2ea-0491463734d3,482986.371094,4134.76785907,https://www.codepublishing.com/CA/Fairfield/,RH,2
+463,NA,NA,2008-1,NA,PF,Public Facilities,PF,61544633-680a-418a-8169-91f62e39f255,44340.6210938,954.064411814125,https://www.codepublishing.com/CA/Fairfield/,PF,0
+464,NA,NA,2008-1,NA,REC,Recreation,REC,8cd37638-74de-4e0a-8f13-88749b7186b9,56387.3945313,1002.83890935,https://www.codepublishing.com/CA/Fairfield/,REC,0
+465,NA,NA,2008-1,NA,CC,Community Commercial,CC,fa32ccbd-641e-407b-aee1-2a5a050d8520,109677.394531,1717.16900521,https://www.codepublishing.com/CA/Fairfield/,CC,0
+466,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,022e0c97-6071-4ebe-b693-6b4323f83a33,79395.0976563,1122.12218464,https://www.codepublishing.com/CA/Fairfield/,RM,2
+467,NA,NA,2008-1,NA,PF,Public Facilities,PF,71c3c4df-b096-434d-8591-8c27f5d587a9,70133.7695313,1062.24659533,https://www.codepublishing.com/CA/Fairfield/,PF,0
+468,4.5,NA,2008-1,NA,RLM:4.5,Low-Medium Density Residential,RLM:4.5,64329953-9a43-489e-8a3c-0f79a6abfa8b,112283.792969,1611.47166281,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+469,NA,NA,2008-1,NA,REC,Recreation,REC,60739466-41e8-4e48-9311-9c5e7defacb9,38673.8320313,854.091719921431,https://www.codepublishing.com/CA/Fairfield/,REC,0
+470,NA,NA,2008-1,-H,RH,High Density Residential,RH,30db144a-3f25-4348-8dfa-70d3c45c9e3d,26958.0820313,1221.91675615,https://www.codepublishing.com/CA/Fairfield/,RH,2
+471,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,36ebe975-c985-451e-bb28-88509cce16a3,70527.875,1266.08133056,https://www.codepublishing.com/CA/Fairfield/,RM,2
+472,NA,NA,2008-1,-H,RM,Medium Density Residential,RM,06f36856-dee0-4019-a922-ea65f8a3b2a9,58050.5820313,979.639842543478,https://www.codepublishing.com/CA/Fairfield/,RM,2
+473,NA,NA,2008-1,-H,CR,Regional Commercial,CR,6fc5da2e-5a32-4f4a-b387-3c282f7787a7,183213.488281,1998.6474639,https://www.codepublishing.com/CA/Fairfield/,CR,0
+474,NA,NA,2008-1,-PD,REC,Recreation,REC,5182f30c-98b0-4242-995f-7bda9ec70258,45452.1835938,982.786733654683,https://www.codepublishing.com/CA/Fairfield/,REC,0
+475,NA,NA,2008-1,-PD,PF,Public Facilities,PF,2ac14cee-3808-469f-95da-6b90acf210e9,66092.5546875,1084.03237984,https://www.codepublishing.com/CA/Fairfield/,PF,0
+476,4.5,NA,2008-1,-PD,RLM:4.5,Low-Medium Density Residential,RLM:4.5,fa3bf498-bd2f-4c90-aa69-9b2b3101cc04,558311.5,3386.66888964,https://www.codepublishing.com/CA/Fairfield/,RLM:4.5,1
+477,NA,NA,2008-1,-PD,OSC,Open Space Conservation,OSC,b45ad030-bedc-4028-8747-9860deb65b41,30417.2929688,1068.61692045,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+478,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,1aadb05c-073e-4b8f-a288-81e01236e113,479074.546875,4890.18567453,https://www.codepublishing.com/CA/Fairfield/,RM,2
+479,NA,NA,2008-1,NA,PF,Public Facilities,PF,c9458b36-5919-4b5b-bf45-94b690962f97,23427.2851563,613.747658113083,https://www.codepublishing.com/CA/Fairfield/,PF,0
+480,NA,NA,2008-1,NA,CO,Office Commercial,CO,b55f3f7e-0b84-4167-a487-d28f11382eb1,680.359375,113.29685604272,https://www.codepublishing.com/CA/Fairfield/,CO,0
+481,NA,NA,2008-1,-PD,RM,Medium Density Residential,RM,4264a8f4-e22e-4371-b96c-4aaff9aecb4e,211749.347656,1974.45160178,https://www.codepublishing.com/CA/Fairfield/,RM,2
+482,NA,NA,2008-1,NA,CM,Mixed Commercial,CM,4a6470bb-92e4-45f4-9837-0a0e72dc5609,24427.8476563,628.314185511208,https://www.codepublishing.com/CA/Fairfield/,CM,0
+483,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,05d007b7-1e5a-406f-93a2-a476341b6667,174092.863281,2143.75088033,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+484,40,NA,2008-1,NA,RVL:40,Very Low Density Residential,RVL:40,595899ae-e9f7-40bd-be3a-9a4e9ab166e2,76696.2578125,1592.93139838,https://www.codepublishing.com/CA/Fairfield/,RVL:40,1
+485,NA,NA,2008-1,NA,RH,High Density Residential,RH,9049f6e3-ab42-4b6b-94a8-6749fd24ce76,46798.3398438,935.669310804554,https://www.codepublishing.com/CA/Fairfield/,RH,2
+486,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,6b92b989-ed31-41a3-985c-d53e87fb0758,134096.757813,1932.71586109,https://www.codepublishing.com/CA/Fairfield/,RM,2
+487,5,NA,2008-1,-PD,RLM:5,Low-Medium Density Residential,RLM:5,e96e735f-4338-4bfe-be92-16eb656847fa,284285.347656,3277.96176652,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+488,NA,NA,2008-1,NA,PF,Public Facilities,PF,e7fedd56-cb73-42af-844e-2717f2576413,66849.7539063,1040.47868864,https://www.codepublishing.com/CA/Fairfield/,PF,0
+489,NA,NA,2008-1,NA,RH,High Density Residential,RH,e791062a-dffb-45a4-9775-dccc3f96e993,15711.9101563,502.012577059943,https://www.codepublishing.com/CA/Fairfield/,RH,2
+490,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,12c24c0a-052e-42e7-9c89-7590db205100,29223.9375,747.119382984118,https://www.codepublishing.com/CA/Fairfield/,RM,2
+491,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,ed473e39-e272-422d-bb06-f02e0689a100,26818.5742188,660.751059388592,https://www.codepublishing.com/CA/Fairfield/,RM,2
+492,NA,NA,2008-1,NA,CO,Office Commercial,CO,93a33f13-d8c7-48ea-adb7-556a03a4b68a,11113.65625,424.54371812895,https://www.codepublishing.com/CA/Fairfield/,CO,0
+493,NA,NA,2008-1,NA,PF,Public Facilities,PF,f5b2fd7f-4212-4f2b-812c-022798f90836,61625.7773438,1014.62141572,https://www.codepublishing.com/CA/Fairfield/,PF,0
+494,NA,NA,2008-1,NA,RH,High Density Residential,RH,0316c264-1d41-4b46-a837-8b152d0fc846,216366.378906,3621.94802767,https://www.codepublishing.com/CA/Fairfield/,RH,2
+495,NA,NA,2008-1,NA,RH,High Density Residential,RH,455ab8f5-6fb9-416f-a3cc-3a03b611f9e1,165174.164063,1826.7783479,https://www.codepublishing.com/CA/Fairfield/,RH,2
+496,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,99ef9fbf-9dd2-4f68-b509-183a2b94bbaf,113520.300781,2670.71721979,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+497,NA,NA,2008-1,NA,RH,High Density Residential,RH,26edb9d6-8252-427e-8632-203217e9c87e,26944.5546875,674.592420991543,https://www.codepublishing.com/CA/Fairfield/,RH,2
+498,NA,NA,2008-1,NA,RH,High Density Residential,RH,3d045322-ff2c-4f23-931d-5fd5b03aa67d,32376.2578125,782.81352315116,https://www.codepublishing.com/CA/Fairfield/,RH,2
+499,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,f2f6f3ef-ccc2-4b2f-a1f2-6257ba10cec7,80640,1268.31720212,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+500,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,22395d47-4ee4-4ddb-a9bf-2c0d5ffaba63,543637.140625,4388.77226207,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+501,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,5b3c08cb-09ba-47a8-bbbe-4272293f111b,80517.390625,1251.3777552,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+502,NA,NA,2010-12,NA,CO,Office Commercial,CO,f01b80ca-b4a5-4488-ae04-c530722283bc,185162.09375,2408.55131218,https://www.codepublishing.com/CA/Fairfield/,CO,0
+503,NA,NA,2008-1,NA,CO,Office Commercial,CO,e1c99f7a-4186-4b7c-b009-9d66ca59e736,9780.140625,443.638402264204,https://www.codepublishing.com/CA/Fairfield/,CO,0
+504,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,25f9f5a0-b459-4200-bc51-4ad2a66108b9,18874.46875,782.322461387003,https://www.codepublishing.com/CA/Fairfield/,RM,2
+505,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,83d3700d-e58d-48dd-a4be-0d38cc7b858b,4290.22265625,278.147253565312,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+506,NA,NA,2008-1,NA,RH,High Density Residential,RH,01496092-3e1a-44e7-9294-d3d872e9e883,34450.7304688,923.700038945711,https://www.codepublishing.com/CA/Fairfield/,RH,2
+507,NA,NA,2008-1,NA,RH,High Density Residential,RH,8b3cb34c-ed94-4586-b603-a7018d2fc4cb,52793.1757813,1362.20822165,https://www.codepublishing.com/CA/Fairfield/,RH,2
+508,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,758b2838-500a-49d6-b1ac-3330b34667e3,3557.0703125,251.651314492938,https://www.codepublishing.com/CA/Fairfield/,CN,0
+509,NA,NA,2008-1,NA,CC,Community Commercial,CC,001f3d99-ed1d-4f49-961b-a025cefefe10,67834.6132813,1110.20921816,https://www.codepublishing.com/CA/Fairfield/,CC,0
+510,NA,NA,2008-1,NA,CN,Neighborhood Commercial,CN,9b7154ba-2648-4577-9994-65fdbba6968d,25390.3984375,639.010615040844,https://www.codepublishing.com/CA/Fairfield/,CN,0
+511,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,253dd908-2b6c-4726-84f5-e885375573b5,4735.0625,297.808868284352,https://www.codepublishing.com/CA/Fairfield/,RM,2
+512,NA,NA,2008-1,NA,RH,High Density Residential,RH,b6ca1cd3-8c1e-4189-9a5a-b988d6b07364,15208.5117188,583.30827289108,https://www.codepublishing.com/CA/Fairfield/,RH,2
+513,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,27bf3dd5-b18b-464e-ab40-18c4847321d0,80209.5625,1831.84165121,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+514,NA,NA,2011-07,NA,RM,Medium Density Residential,RM,0f39bef0-bc32-47be-b772-c75ba23df261,41636.8945313,880.339104015778,https://www.codepublishing.com/CA/Fairfield/,RM,2
+515,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,f0198f2d-2134-49c4-988d-88908279450a,67107.453125,1016.07535192,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+516,NA,NA,2011-07,NA,RLM,Low-Medium Density Residential,RLM,60d451b2-0d2c-4e66-9bff-e626f1eef5b7,60388.3867188,1119.78929924,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+517,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,498f6bc9-545b-4e16-b1ac-009e1e2dca39,218135.691406,2335.47813863,https://www.codepublishing.com/CA/Fairfield/,RM,2
+518,NA,NA,2008-1,NA,RH,High Density Residential,RH,8ff2ee1e-0b1e-4536-a31f-7961f67dd125,60477.8359375,996.341332609453,https://www.codepublishing.com/CA/Fairfield/,RH,2
+519,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,ef7c3cbc-5a81-49e1-9086-566bc3d9f79a,103490.828125,1322.99251043,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+520,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,2984e617-29f7-4416-913d-1afac49527cb,70437.453125,1170.19765945,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+521,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,7454427d-4917-43c1-aefd-030b0c6c490b,17797.65625,996.463942934785,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+522,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,105a9ca0-913d-466b-b83c-beb9f2e714f0,13979.390625,770.911261568882,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+523,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,f8e002a1-751a-4382-9c26-fdb3a3f8a2e4,1137061.36328,11115.796783,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+524,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,f8a49610-70b4-49ef-96e2-cf37b7c489ee,72428.984375,1573.48079696,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+525,NA,NA,2008-1,NA,IL,Limited Industrial,IL,b55445cd-3481-4058-8325-aa394bc87bdd,147972.554688,3232.50924208,https://www.codepublishing.com/CA/Fairfield/,IL,0
+526,NA,NA,2008-1,-NC,RM,Medium Density Residential,RM,cc547da2-ae86-44be-b21b-cdd2d3a4fcd9,368611.703125,3005.29239756,https://www.codepublishing.com/CA/Fairfield/,RM,2
+527,8,NA,2008-1,NA,RL:8,Low Density Residential,RL:8,da6993d8-4172-460a-bac7-2790e53383db,92006.2265625,1369.79556166,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+528,NA,NA,2008-1,NA,RM,Medium Density Residential,RM,20dffba3-f48d-4958-9805-ea541999e208,48673.375,899.613746482417,https://www.codepublishing.com/CA/Fairfield/,RM,2
+529,NA,NA,2008-1,NA,CO,Office Commercial,CO,19e588cb-20fd-4bef-9a30-c981973bdc97,20053.6015625,586.54964482468,https://www.codepublishing.com/CA/Fairfield/,CO,0
+530,NA,NA,2008-1,-NC,PF,Public Facilities,PF,9fe150d0-3042-4fc2-b686-9ebcfe934f94,12722.6601563,776.899667279294,https://www.codepublishing.com/CA/Fairfield/,PF,0
+531,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,019b6dbe-bcb6-4778-b107-7451ad553c52,53679.3398438,1040.82297416,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+532,NA,NA,2008-1,NA,CR,Regional Commercial,CR,4fbf0531-a3be-4d07-bf5b-b1264882bafd,24356.0625,657.051173645943,https://www.codepublishing.com/CA/Fairfield/,CR,0
+533,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,1b0f9d48-6c8c-497e-b414-abcbe12cec3e,10373.0429688,450.955826986072,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+534,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,6176aa77-bf86-4231-87c3-cfdca4d4e599,105125.511719,4653.97006323,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+535,8,NA,2008-1,-NC,RL:8,Low Density Residential,RL:8,de3402ae-be31-4de2-b2e9-fae1a455614c,54332.90625,1745.8292487,https://www.codepublishing.com/CA/Fairfield/,RL:8,1
+536,NA,NA,2008-1,-NC,REC,Recreation,REC,6fddab15-2046-4c32-b139-06b7012e10b0,197842.964844,12959.7404969,https://www.codepublishing.com/CA/Fairfield/,REC,0
+537,6,NA,2008-1,-NC,RLM:6,Low-Medium Density Residential,RLM:6,4d736b92-1f0c-47a0-9c31-8ef669c1a3c0,180757.800781,2533.80414497,https://www.codepublishing.com/CA/Fairfield/,RLM:6,1
+538,NA,NA,2008-1,-NC,CO,Office Commercial,CO,25231185-6a72-4f85-8fa7-f20c2525e324,269294.273438,3271.5232946,https://www.codepublishing.com/CA/Fairfield/,CO_MF,2
+539,NA,NA,2008-1,NA,CC,Community Commercial,CC,5f03b657-60ee-4ea2-aed3-ac1b0873fe39,66612.0078125,1207.08297202,https://www.codepublishing.com/CA/Fairfield/,CC,0
+540,NA,NA,2008-1,NA,CR,Regional Commercial,CR,70e4b871-3043-44ba-8bb1-f22eaa250bb1,461913.625,4080.56776967,https://www.codepublishing.com/CA/Fairfield/,CR,0
+541,5,NA,2008-1,NA,RLM:5,Low-Medium Density Residential,RLM:5,ac59fa8d-2980-4c25-8e8b-c2a445948e09,71160.1601563,1327.41199283,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+542,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,e370ca63-cad5-4db5-aec9-07ef49166615,24741.8671875,935.733786724041,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+543,NA,NA,2008-1,NA,OSC,Open Space Conservation,OSC,dd9d7bf5-df0b-4965-bfb2-20a12d83f72d,184048.265625,5403.97391553,https://www.codepublishing.com/CA/Fairfield/,OSC,0
+544,NA,NA,2011-07,NA,RLM,Low-Medium Density Residential,RLM,c73ff725-cd2e-4d6d-ba37-3155e6207011,112405.539063,1585.44598289,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+545,NA,NA,2011-07,NA,RH,High Density Residential,RH,7378dd27-0dfa-4a61-b3b9-9393a98a0e86,172240.910156,2260.07803925,https://www.codepublishing.com/CA/Fairfield/,RH,2
+546,NA,NA,2008-1,NA,REC,Recreation,REC,b6ab4219-eed9-4204-9776-3b1bb82f8790,51019.375,906.724562721131,https://www.codepublishing.com/CA/Fairfield/,REC,0
+547,NA,NA,2008-1,NA,RLM,Low-Medium Density Residential,RLM,48c97e5f-ed79-49e9-b4ef-0f84d8c40134,100964.675781,1322.16696873,https://www.codepublishing.com/CA/Fairfield/,RLM,2
+548,5,NA,2011-07,NA,RLM:5,Low-Medium Density Residential,RLM:5,d3a727a4-f2d9-4bfe-bc2b-1a90f6b7af97,109718.003906,1567.50191513,https://www.codepublishing.com/CA/Fairfield/,RLM:5,1
+549,NA,NA,2008-1,NA,REC,Recreation,REC,c01f43be-584f-4515-bd01-7970e8afe170,21360.125,858.813249513846,https://www.codepublishing.com/CA/Fairfield/,REC,0
+550,NA,NA,2011-11,NA,REC,Recreation,REC,456cd0fb-2722-4be7-9cd2-9739ad86cb8a,10396.234375,606.676423594946,https://www.codepublishing.com/CA/Fairfield/,REC,0
+551,NA,NA,2011-11,NA,(PF),NA,(PF),9a419185-ab8b-47d5-822f-d68b6568fdb2,69479.9335938,1281.81538295,https://www.codepublishing.com/CA/Fairfield/,(PF),0
+552,NA,Planning Area 9B-Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 9B-Res,32a1a2ec-0af1-458b-a475-0c64be9f9240,133797.667969,1930.79819732,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 9B-Res,0
+553,NA,Planning Area 6,2011-11,-PD),(IL,NA,(IL-PD) Planning Area 6,05050b80-4761-4f5e-aa9a-e5acf404ad37,738379.875,4247.02759394,https://www.codepublishing.com/CA/Fairfield/,(IL-PD) Planning Area 6,0
+554,NA,Planning Area 5 -Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 5 -Res,53aea195-1461-4a32-b035-495a8a60a284,1235694.46484,6457.84176434,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 5 -Res,0
+555,NA,Planning Area 2 - MU,2011-11,-PD) Mixed Use,(TS,NA,(TS-PD) Mixed Use Planning Area 2 - MU,31a82bba-7a03-4bd1-a6de-812df1bc5d77,841231.921875,3613.21000845,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Mixed Use Planning Area 2 - MU,0
+556,NA,NA,2011-11,NA,(REC),NA,(REC),73198ca2-2db7-4466-811f-a0e78b9a79cb,478922.910156,3690.83902451,https://www.codepublishing.com/CA/Fairfield/,(REC),0
+557,NA,Planning Area 9D-Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 9D-Res,9cf8f4e4-3459-4682-acfd-c7e49b641d32,107717.554688,1327.6496993600001,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 9D-Res,0
+558,NA,Planning Area 6,2011-11,-PD),(IL,NA,(IL-PD) Planning Area 6,97af4404-299c-4d4c-9855-3738e710edf3,1340895.80859,5218.81355393,https://www.codepublishing.com/CA/Fairfield/,(IL-PD) Planning Area 6,0
+559,NA,NA,2011-11,NA,(OSC),NA,(OSC),1cee3b78-7f50-432a-a101-752b33210887,884879.167969,4269.47774094,https://www.codepublishing.com/CA/Fairfield/,(OSC),0
+560,NA,NA,2011-11,NA,(REC),NA,(REC),ca99203d-c5a0-402c-b2f9-595399d81434,128296.65625,3015.4539258,https://www.codepublishing.com/CA/Fairfield/,(REC),0
+561,NA,NA,2011-11,NA,(REC),NA,(REC),2df6935f-44bc-4172-a086-855357b5bfe2,976863.746094,4624.92296147,https://www.codepublishing.com/CA/Fairfield/,(REC),0
+562,NA,NA,2011-11,NA,(REC),NA,(REC),0a4f409f-5add-47a4-b41a-d0df5275c2ea,113484.777344,3557.50738518,https://www.codepublishing.com/CA/Fairfield/,(REC),0
+563,NA,Planning Area 1- Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 1- Res,ba1a6231-8de6-416a-b76e-7eb32882409a,800672.835938,4848.40323675,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 1- Res,0
+564,NA,NA,2011-11,NA,(REC),NA,(REC),ddc76f3d-ea5f-403a-b64c-743c1de3ec40,36451.7148438,1605.09707549,https://www.codepublishing.com/CA/Fairfield/,(REC),0
+565,NA,Planning Area 3 -Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 3 -Res,6ce4816d-900c-40e6-88d0-cdee574e1c58,513904.546875,3462.52887307,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 3 -Res,0
+566,NA,Planning Area 4 -Res,2011-11,-PD),(TS,NA,(TS-PD) Planning Area 4 -Res,b100d680-2050-41a6-a462-562c08d73614,1155507.98047,4441.38470913,https://www.codepublishing.com/CA/Fairfield/,(TS-PD) Planning Area 4 -Res,0
+567,NA,Planning Area 2 - MU,2011-11,-PD Mixed Use,TS,NA,TS-PD Mixed Use Planning Area 2 - MU,7088739c-7b71-40d2-a8af-d87a3efc020c,7233.4375,425.438736636831,https://www.codepublishing.com/CA/Fairfield/,TS-PD Mixed Use Planning Area 2 - MU,0
+568,NA,NA,2008-1,NA,CO,Office Commercial,CO,2203c4b3-0f97-4c20-8508-093493463d24,39549.9726563,805.817446211248,https://www.codepublishing.com/CA/Fairfield/,CO,0
+569,NA,NA,2012-07,NA,RM,Medium Density Residential,RM,28dba540-ccf3-4870-b6a9-1a7316c8b8b5,92608.046875,1518.28513239,https://www.codepublishing.com/CA/Fairfield/,RM,2
+9999,NA,NA,NA,NA,NA,Edit_NonRes,Edit_NonRes,NA,NA,NA,NA,Edit_NonRes,0

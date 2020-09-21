@@ -1,0 +1,257 @@
+general_pl,id,city_name,Zoning
+Low Med Res.,0,sunnyvale,1
+Schools,1,sunnyvale,NA
+Parks,2,sunnyvale,NA
+Low Med Res.,3,sunnyvale,1
+Low Med Res.,4,sunnyvale,1
+Parks,5,sunnyvale,NA
+Med Res.,6,sunnyvale,2
+Mobile Home Res.,7,sunnyvale,2
+High Res.,8,sunnyvale,2
+Med Res.,9,sunnyvale,2
+Low Med Res.,10,sunnyvale,1
+Ind. to Res. (Me,11,sunnyvale,NA
+Low Med Res.,12,sunnyvale,1
+Med Res.,13,sunnyvale,2
+Med Res.,14,sunnyvale,2
+Schools,15,sunnyvale,NA
+Parks,16,sunnyvale,NA
+Low Med Res.,17,sunnyvale,1
+High Res.,18,sunnyvale,2
+Med Res.,19,sunnyvale,2
+General Business,20,sunnyvale,NA
+High Res.,21,sunnyvale,2
+Ind. to Res. (Me,22,sunnyvale,2
+Ind. to Res. (Me,23,sunnyvale,2
+Med Res.,24,sunnyvale,2
+Low Res.,25,sunnyvale,1
+Schools,26,sunnyvale,NA
+Low Res.,27,sunnyvale,1
+Parks,28,sunnyvale,NA
+High Res.,29,sunnyvale,2
+Neighborhood Com,30,sunnyvale,NA
+Neighborhood Com,31,sunnyvale,NA
+Parks,32,sunnyvale,NA
+Med Res.,33,sunnyvale,2
+Schools,34,sunnyvale,NA
+Parks,35,sunnyvale,NA
+Med Res.,36,sunnyvale,2
+Low Med Res.,37,sunnyvale,1
+Med Res.,38,sunnyvale,2
+Parks,39,sunnyvale,NA
+High Res.,40,sunnyvale,2
+Low Med Res.,41,sunnyvale,1
+Med Res.,42,sunnyvale,2
+Neighborhood Com,43,sunnyvale,NA
+Med Res.,44,sunnyvale,2
+Schools,45,sunnyvale,NA
+Neighborhood Com,46,sunnyvale,NA
+High Res.,47,sunnyvale,2
+Low Med Res.,48,sunnyvale,1
+Med Res.,49,sunnyvale,2
+Schools,50,sunnyvale,NA
+DSP,51,sunnyvale,NA
+Low Med Res.,52,sunnyvale,1
+Med Res.,53,sunnyvale,2
+Schools,54,sunnyvale,NA
+Low Res.,55,sunnyvale,1
+Low Med Res.,56,sunnyvale,1
+Office,57,sunnyvale,NA
+Parks,58,sunnyvale,NA
+Schools,59,sunnyvale,NA
+Schools,60,sunnyvale,NA
+Neighborhood Com,61,sunnyvale,NA
+Parks,62,sunnyvale,NA
+Low Med Res.,63,sunnyvale,1
+Schools,64,sunnyvale,NA
+Schools,65,sunnyvale,NA
+Parks,66,sunnyvale,NA
+Office,67,sunnyvale,NA
+Office,68,sunnyvale,NA
+Low Med Res.,69,sunnyvale,1
+Neighborhood Com,70,sunnyvale,NA
+Low Med Res.,71,sunnyvale,1
+Schools,72,sunnyvale,NA
+Med Res.,73,sunnyvale,2
+Low Med Res.,74,sunnyvale,1
+Low Res.,75,sunnyvale,1
+Low Med Res.,76,sunnyvale,1
+Ind. to Res. (Lo,77,sunnyvale,NA
+Low Med Res.,78,sunnyvale,1
+Parks,79,sunnyvale,NA
+Schools,80,sunnyvale,NA
+Low Med Res.,81,sunnyvale,1
+Schools,82,sunnyvale,NA
+Office,83,sunnyvale,NA
+Low Med Res.,84,sunnyvale,1
+Med Res.,85,sunnyvale,2
+Schools,86,sunnyvale,NA
+Schools,87,sunnyvale,NA
+Office,88,sunnyvale,NA
+Low Res.,89,sunnyvale,1
+Civic Center,90,sunnyvale,NA
+Low Med Res.,91,sunnyvale,1
+Med Res.,92,sunnyvale,2
+Low Med Res.,93,sunnyvale,1
+Med Res.,94,sunnyvale,2
+Com Intensificat,95,sunnyvale,NA
+General Business,96,sunnyvale,NA
+Med Res.,97,sunnyvale,2
+Schools,98,sunnyvale,NA
+Parks,99,sunnyvale,NA
+High Res.,100,sunnyvale,2
+Low Med Res.,101,sunnyvale,1
+Schools,102,sunnyvale,NA
+Med Res.,103,sunnyvale,2
+Schools,104,sunnyvale,NA
+Low Med Res.,105,sunnyvale,1
+Schools,106,sunnyvale,NA
+Parks,107,sunnyvale,NA
+General Business,108,sunnyvale,NA
+Low Med Res.,109,sunnyvale,1
+Low Med Res.,110,sunnyvale,1
+Industry,111,sunnyvale,NA
+Low Med Res.,112,sunnyvale,1
+Med Res.,113,sunnyvale,2
+High Res.,114,sunnyvale,2
+Low Med Res.,115,sunnyvale,1
+Low Res.,116,sunnyvale,1
+High Res.,117,sunnyvale,2
+Ind. to Res. (Me,118,sunnyvale,2
+High Res.,119,sunnyvale,2
+Parks,120,sunnyvale,NA
+Schools,121,sunnyvale,NA
+Med Res.,122,sunnyvale,2
+Schools,123,sunnyvale,NA
+Schools,124,sunnyvale,NA
+Neighborhood Com,125,sunnyvale,NA
+Very High Res.,126,sunnyvale,2
+General Business,127,sunnyvale,NA
+Med Res.,128,sunnyvale,2
+Neighborhood Com,129,sunnyvale,NA
+Low Med Res.,130,sunnyvale,1
+Schools,131,sunnyvale,NA
+Parks,132,sunnyvale,NA
+Neighborhood Com,133,sunnyvale,NA
+Low Med Res.,134,sunnyvale,1
+Low Res.,135,sunnyvale,1
+Mobile Home Res.,136,sunnyvale,2
+High Res.,137,sunnyvale,2
+Industry,138,sunnyvale,NA
+High Res.,139,sunnyvale,2
+Med Res.,140,sunnyvale,2
+Neighborhood Com,141,sunnyvale,NA
+Low Med Res.,142,sunnyvale,1
+Med Res.,143,sunnyvale,2
+Schools,144,sunnyvale,NA
+Parks,145,sunnyvale,NA
+General Business,146,sunnyvale,NA
+Ind. to Res. (Lo,147,sunnyvale,NA
+Low Med Res.,148,sunnyvale,1
+Low Res.,149,sunnyvale,1
+High Res.,150,sunnyvale,2
+Low Med Res.,151,sunnyvale,1
+Low Res.,152,sunnyvale,1
+Med Res.,153,sunnyvale,2
+General Business,154,sunnyvale,NA
+Neighborhood Com,155,sunnyvale,NA
+Mobile Home Res.,156,sunnyvale,2
+Med Res.,157,sunnyvale,2
+Mobile Home Res.,158,sunnyvale,2
+Parks,159,sunnyvale,NA
+Parks,160,sunnyvale,NA
+Med Res.,161,sunnyvale,2
+Environmental,162,sunnyvale,NA
+Environmental,163,sunnyvale,NA
+Parks,164,sunnyvale,NA
+Neighborhood Com,165,sunnyvale,NA
+High Res.,166,sunnyvale,2
+Industry,167,sunnyvale,NA
+Ind Intensificat,168,sunnyvale,NA
+Industry,169,sunnyvale,NA
+Industry,170,sunnyvale,NA
+Med Res.,171,sunnyvale,2
+Med Res.,172,sunnyvale,2
+Low Med Res.,173,sunnyvale,1
+Mobile Home Res.,174,sunnyvale,2
+Low Res.,175,sunnyvale,1
+Med Res.,176,sunnyvale,2
+Low Res.,177,sunnyvale,1
+Neighborhood Com,178,sunnyvale,NA
+Med Res.,179,sunnyvale,2
+General Business,180,sunnyvale,NA
+Industry,181,sunnyvale,NA
+Med Res.,182,sunnyvale,2
+Low Med Res.,183,sunnyvale,1
+High Res.,184,sunnyvale,2
+Neighborhood Com,185,sunnyvale,NA
+Low Res.,186,sunnyvale,1
+Schools,187,sunnyvale,NA
+Parks,188,sunnyvale,NA
+Low Med Res.,189,sunnyvale,1
+Neighborhood Com,190,sunnyvale,NA
+Neighborhood Com,191,sunnyvale,NA
+Neighborhood Com,192,sunnyvale,NA
+Low Med Res.,193,sunnyvale,1
+High Res.,194,sunnyvale,2
+High Res.,195,sunnyvale,2
+Neighborhood Com,196,sunnyvale,NA
+Office,197,sunnyvale,NA
+Office,198,sunnyvale,NA
+High Res.,199,sunnyvale,2
+Low Med Res.,200,sunnyvale,1
+Low Res.,201,sunnyvale,1
+Low Res.,202,sunnyvale,1
+Low Res.,203,sunnyvale,1
+Parks,204,sunnyvale,NA
+Med Res.,205,sunnyvale,2
+General Business,206,sunnyvale,NA
+Neighborhood Com,207,sunnyvale,NA
+Low Med Res.,208,sunnyvale,1
+Neighborhood Com,209,sunnyvale,NA
+Low Med Res.,210,sunnyvale,1
+Low Res.,211,sunnyvale,1
+Low Med Res.,212,sunnyvale,1
+Neighborhood Com,213,sunnyvale,NA
+High Res.,214,sunnyvale,2
+Low Res.,215,sunnyvale,1
+Low Med Res.,216,sunnyvale,1
+Low Res.,217,sunnyvale,1
+Low Med Res.,218,sunnyvale,1
+Low Med Res.,219,sunnyvale,1
+Low Res.,220,sunnyvale,1
+Low Med Res.,221,sunnyvale,1
+Low Res.,222,sunnyvale,1
+Low Med Res.,223,sunnyvale,1
+Low Res.,224,sunnyvale,1
+Med Res.,225,sunnyvale,2
+Industry,226,sunnyvale,NA
+Neighborhood Com,227,sunnyvale,NA
+ITR Med to High,228,sunnyvale,NA
+Ind. to Res. (Me,229,sunnyvale,NA
+Low Res.,230,sunnyvale,1
+Low Med Res.,231,sunnyvale,1
+Office,232,sunnyvale,NA
+Office,233,sunnyvale,NA
+Low Res.,234,sunnyvale,1
+Industry,235,sunnyvale,NA
+Moffett Park,236,sunnyvale,NA
+High Res.,237,sunnyvale,2
+Very High Res.,238,sunnyvale,2
+Med Res.,239,sunnyvale,2
+Low Med Res.,240,sunnyvale,1
+Med Res.,241,sunnyvale,2
+General Business,242,sunnyvale,NA
+Med Res.,243,sunnyvale,2
+Med Res.,244,sunnyvale,2
+Low Med Res.,245,sunnyvale,1
+Lakeside,246,sunnyvale,NA
+Low Res.,247,sunnyvale,1
+Low Res.,248,sunnyvale,1
+Industry,249,sunnyvale,NA
+Ind. to Res. (Me,250,sunnyvale,2
+ITR High,251,sunnyvale,NA
+Very High Res.,252,sunnyvale,2
+General Business,253,sunnyvale,NA
+Industry,254,sunnyvale,NA
+Ind. to Res. (Me,255,sunnyvale,2

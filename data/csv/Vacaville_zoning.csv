@@ -1,0 +1,625 @@
+id,gnrl_p_,edt_g__,zoning
+0,Residential Low Density,Residential Low Density,1
+1,Residential Low Density,Residential Low Density,1
+2,Residential Low Density,Residential Low Density,1
+3,Public/Institutional,Public/Institutional,0
+4,Residential Low Density,Residential Low Density,1
+5,Residential Low Med Density,Residential Low Med Density,2
+6,Residential Low Med Density,Residential Low Med Density,2
+7,Residential Low Density,Residential Low Density,1
+8,Hillside Agricultural,Hillside Agricultural,0
+9,Hillside Agricultural,Hillside Agricultural,0
+10,Hillside Agricultural,Hillside Agricultural,0
+11,Public/Institutional,Public/Institutional,0
+12,Residential Low Density,Residential Low Density,1
+13,Residential Low Density,Residential Low Density,1
+14,General Commercial,General Commercial,0
+15,Public Park,Public Park,0
+16,Residential Medium Density,Residential Medium Density,2
+17,Residential Medium Density,Residential Medium Density,2
+18,Residential High Density,Residential High Density,2
+19,Residential High Density,Residential High Density,2
+20,Neighborhood Commercial,Neighborhood Commercial,0
+21,Neighborhood Commercial,Neighborhood Commercial,0
+22,Residential Low Medium Density,Residential Low Medium Density,2
+23,Residential Low Medium Density,Residential Low Medium Density,2
+24,Residential Low Density,Residential Low Density,1
+25,Residential Low Density,Residential Low Density,1
+26,Residential Low Density,Residential Low Density,1
+27,Residential Low Density,Residential Low Density,1
+28,Residential Low Density,Residential Low Density,1
+29,Residential Estate,Residential Estate,1
+30,Open Space,Open Space,0
+31,Open Space,Open Space,0
+32,Open Space,Open Space,0
+33,Business Park,Business Park,0
+35,Open Space,Open Space,0
+36,Residential Rural,Residential Rural,1
+37,Open Space,Open Space,0
+47,City Limits,City Limits,0
+53,Residential High Density,Residential High Density,2
+54,Residential Estate,Residential Estate,1
+55,Agriculture,Agriculture,0
+56,Agriculture,Agriculture,0
+57,Agriculture,Agriculture,0
+58,Residential Low Density,Residential Low Density,1
+59,Residential Low Density,Residential Low Density,1
+60,Schools,Schools,0
+61,Public Park,Public Park,0
+62,Service Commercial,Service Commercial,0
+63,Residential High Density,Residential High Density,2
+64,Residential Low Density,Residential Low Density,1
+65,Open Space,Open Space,0
+66,Residential Estate,Residential Estate,1
+67,Public/Institutional,Public/Institutional,0
+68,Public Park,Public Park,0
+70,Residential Estate,Residential Estate,1
+71,Open Space,Open Space,0
+72,General Commercial,General Commercial,0
+73,General Commercial,General Commercial,0
+74,Residential High Density,Residential High Density,2
+75,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+76,Residential High Density,Residential High Density,2
+77,Residential Low Medium Density,Residential Low Medium Density,2
+78,Public Park,Public Park,0
+79,Open Space,Open Space,0
+80,Residential High Density,Residential High Density,2
+81,Neighborhood Commercial,Neighborhood Commercial,0
+82,Residential High Density,Residential High Density,2
+83,Open Space,Open Space,0
+84,General Commercial,General Commercial,0
+85,Residential High Density,Residential High Density,2
+86,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+87,Public Park,Public Park,0
+88,Public Park,Public Park,0
+89,Public Park,Public Park,0
+90,NODEV,NODEV,0
+92,Residential Low Density,Residential Low Density,1
+93,Schools,Schools,0
+94,General Commercial,General Commercial,0
+96,Public Park,Public Park,0
+97,Public Park,Public Park,0
+98,Public Park,Public Park,0
+99,Open Space,Open Space,0
+100,Public Park,Public Park,0
+101,Public Park,Public Park,0
+102,Public Park,Public Park,0
+103,Public Park,Public Park,0
+104,Open Space,Open Space,0
+105,General Commercial,General Commercial,0
+106,Open Space,Open Space,0
+107,General Commercial,General Commercial,0
+108,General Commercial,General Commercial,0
+109,Open Space,Open Space,0
+110,Open Space,Open Space,0
+111,Residential Low Density,Residential Low Density,1
+112,Residential Estate,Residential Estate,1
+114,Residential Low Density,Residential Low Density,1
+115,Public Park,Public Park,0
+116,Open Space,Open Space,0
+117,Public/Institutional,Public/Institutional,0
+118,Public/Institutional,Public/Institutional,0
+120,Public/Institutional,Public/Institutional,0
+121,Private Recreation,Private Recreation,0
+122,Private Recreation,Private Recreation,0
+123,Private Recreation,Private Recreation,0
+124,Residential Estate,Residential Estate,1
+125,Schools,Schools,0
+126,Residential Low Density,Residential Low Density,1
+127,Residential Low Density,Residential Low Density,1
+128,Residential Low Density,Residential Low Density,1
+129,Residential High Density,Residential High Density,2
+130,Residential High Density,Residential High Density,2
+131,Residential High Density,Residential High Density,2
+132,Residential High Density,Residential High Density,2
+133,Residential Estate,Residential Estate,1
+134,Open Space,Open Space,0
+135,Industrial Park,Industrial Park,0
+136,Residential Estate,Residential Estate,1
+137,Residential Estate,Residential Estate,1
+138,Residential Low Medium Density,Residential Low Medium Density,2
+139,Industrial Park,Industrial Park,0
+140,Residential Low Medium Density,Residential Low Medium Density,2
+141,Highway Commercial,Highway Commercial,0
+142,Residential Rural,Residential Rural,1
+144,Public/Institutional,Public/Institutional,0
+145,Residential Low Density,Residential Low Density,1
+146,Open Space,Open Space,0
+147,Highway Commercial,Highway Commercial,0
+148,Industrial Park,Industrial Park,0
+149,Industrial Park,Industrial Park,0
+150,Industrial Park,Industrial Park,0
+151,Public/Institutional,Public/Institutional,0
+152,Industrial Park,Industrial Park,0
+153,Industrial Park,Industrial Park,0
+154,Industrial Park,Industrial Park,0
+155,Industrial Park,Industrial Park,0
+156,Residential Low Density,Residential Low Density,1
+157,Residential Low Medium Density,Residential Low Medium Density,2
+158,Industrial Park,Industrial Park,0
+159,Industrial Park,Industrial Park,0
+160,Business Park,Business Park,0
+161,General Commercial,General Commercial,0
+162,General Commercial,General Commercial,0
+163,General Commercial,General Commercial,0
+164,Residential High Density,Residential High Density,2
+165,Open Space,Open Space,0
+166,Open Space,Open Space,0
+167,Residential High Density,Residential High Density,2
+168,Residential Low Density,Residential Low Density,1
+169,General Commercial,General Commercial,0
+171,Public Park,Public Park,0
+172,Residential Low Medium Density,Residential Low Medium Density,2
+173,Residential Low Medium Density,Residential Low Medium Density,2
+174,Residential Low Density,Residential Low Density,1
+175,Residential Low Density,Residential Low Density,1
+176,Residential Low Density,Residential Low Density,1
+177,Residential Low Density,Residential Low Density,1
+178,Residential High Density,Residential High Density,2
+179,Residential High Density,Residential High Density,2
+180,Public Park,Public Park,0
+181,Residential High Density,Residential High Density,2
+182,Public Park,Public Park,0
+183,Residential High Density,Residential High Density,2
+184,General Commercial,General Commercial,0
+185,General Commercial,General Commercial,0
+186,Residential High Density,Residential High Density,2
+187,Residential Low Density,Residential Low Density,1
+188,Open Space,Open Space,0
+190,Residential Estate,Residential Estate,1
+191,Residential Estate,Residential Estate,1
+192,Hillside Agriculture,Hillside Agriculture,0
+193,Residential Rural,Residential Rural,1
+194,Residential Estate,Residential Estate,1
+195,Residential Estate,Residential Estate,1
+196,Residential High Density,Residential High Density,2
+197,Residential Low Density,Residential Low Density,1
+198,General Commercial,General Commercial,0
+199,Residential Low Density,Residential Low Density,1
+200,Residential High Density,Residential High Density,2
+201,Residential Low Density,Residential Low Density,1
+202,Residential Estate,Residential Estate,1
+203,Residential High Density,Residential High Density,2
+204,Residential Low Density,Residential Low Density,1
+205,Residential Estate,Residential Estate,1
+206,Residential Low Density,Residential Low Density,1
+207,Residential Estate,Residential Estate,1
+208,Residential Low Density,Residential Low Density,1
+209,Residential Low Density,Residential Low Density,1
+210,Residential Low Density,Residential Low Density,1
+211,Residential High Density,Residential High Density,2
+212,Residential High Density,Residential High Density,2
+213,Residential Low Density,Residential Low Density,1
+214,Residential High Density,Residential High Density,2
+215,Residential High Density,Residential High Density,2
+216,Commercial Offices,Commercial Offices,0
+217,Commercial Offices,Commercial Offices,0
+218,Public/Institutional,Public/Institutional,0
+219,Residential Low Density,Residential Low Density,1
+220,Residential Low Density,Residential Low Density,1
+221,General Commercial,General Commercial,0
+222,Residential Low Density,Residential Low Density,1
+223,General Commercial,General Commercial,0
+224,Residential Low Density,Residential Low Density,1
+225,Commercial Offices,Commercial Offices,0
+226,Residential High Density,Residential High Density,2
+227,Residential High Density,Residential High Density,2
+228,Residential Low Density,Residential Low Density,1
+229,Commercial Offices,Commercial Offices,0
+230,Residential Urban High Density,Residential Urban High Density,2
+231,General Commercial,General Commercial,0
+232,General Commercial,General Commercial,0
+233,Residential Urban High Density,Residential Urban High Density,2
+234,General Commercial,General Commercial,0
+235,Residential High Density,Residential High Density,2
+236,General Commercial,General Commercial,0
+237,General Commercial,General Commercial,0
+238,General Commercial,General Commercial,0
+239,General Commercial,General Commercial,0
+240,General Commercial,General Commercial,0
+241,Residential High Density,Residential High Density,2
+242,General Commercial,General Commercial,0
+243,General Commercial,General Commercial,0
+244,Service Commercial,Service Commercial,0
+245,Residential Low Density,Residential Low Density,1
+246,General Commercial,General Commercial,0
+247,Residential Urban High Density,Residential Urban High Density,2
+248,Public Park,Public Park,0
+249,General Commercial,General Commercial,0
+250,General Commercial,General Commercial,0
+251,General Commercial,General Commercial,0
+252,Residential High Density,Residential High Density,2
+253,Residential High Density,Residential High Density,2
+254,Residential High Density,Residential High Density,2
+255,Residential Estate,Residential Estate,1
+256,Residential High Density,Residential High Density,2
+257,Residential Low Density,Residential Low Density,1
+258,Residential Estate,Residential Estate,1
+259,Residential Low Density,Residential Low Density,1
+260,Residential Low Density,Residential Low Density,1
+261,Residential Low Medium Density,Residential Low Medium Density,2
+262,Neighborhood Commercial,Neighborhood Commercial,0
+263,Residential Medium Density,Residential Medium Density,2
+264,Residential Low Density,Residential Low Density,1
+265,Residential High Density,Residential High Density,2
+266,Residential Medium Density,Residential Medium Density,2
+267,Residential Low Density,Residential Low Density,1
+268,Residential Low Density,Residential Low Density,1
+269,Residential Low Density,Residential Low Density,1
+270,Residential Low Density,Residential Low Density,1
+271,Residential Estate,Residential Estate,1
+272,Residential Estate,Residential Estate,1
+273,Residential Low Density,Residential Low Density,1
+274,Public Park,Public Park,0
+275,Residential Low Density,Residential Low Density,1
+276,Residential Low Density,Residential Low Density,1
+277,Residential Low Density,Residential Low Density,1
+278,Residential Estate,Residential Estate,1
+279,Residential Low Density,Residential Low Density,1
+280,Residential Low Density,Residential Low Density,1
+281,Residential Estate,Residential Estate,1
+282,Residential Low Density,Residential Low Density,1
+283,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+284,Residential High Density,Residential High Density,2
+285,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+286,Residential Low Density,Residential Low Density,1
+287,Residential High Density,Residential High Density,2
+288,Residential Low Density,Residential Low Density,1
+289,General Commercial,General Commercial,0
+290,Residential Low Density,Residential Low Density,1
+291,General Commercial,General Commercial,0
+292,General Commercial,General Commercial,0
+293,General Commercial,General Commercial,0
+294,Residential High Density,Residential High Density,2
+295,Residential High Density,Residential High Density,2
+296,Residential Low Density,Residential Low Density,1
+297,Residential Low Density,Residential Low Density,1
+298,Residential Low Density,Residential Low Density,1
+299,Residential High Density,Residential High Density,2
+300,Public/Institutional,Public/Institutional,0
+301,Residential Medium Density,Residential Medium Density,2
+302,Residential Low Density,Residential Low Density,1
+303,Open Space,Open Space,0
+304,Public Park,Public Park,0
+305,Residential Low Medium Density,Residential Low Medium Density,2
+306,Schools,Schools,0
+307,Public Park,Public Park,0
+308,Open Space,Open Space,0
+309,Business Park,Business Park,0
+310,Open Space,Open Space,0
+311,Residential Low Density,Residential Low Density,1
+312,Residential Low Density,Residential Low Density,1
+313,Residential Low Density,Residential Low Density,1
+314,Open Space,Open Space,0
+315,Business Park,Business Park,0
+316,Open Space,Open Space,0
+317,Residential Rural,Residential Rural,1
+318,Public Park,Public Park,0
+319,Service Commercial,Service Commercial,0
+320,Public/Institutional,Public/Institutional,0
+321,Residential High Density,Residential High Density,2
+322,Residential Low Density,Residential Low Density,1
+323,Residential High Density,Residential High Density,2
+324,Public Park,Public Park,0
+325,Residential Low Density,Residential Low Density,1
+326,Open Space,Open Space,0
+327,General Commercial,General Commercial,0
+328,Open Space,Open Space,0
+329,Open Space,Open Space,0
+330,Schools,Schools,0
+331,Public Park,Public Park,0
+332,Public Park,Public Park,0
+333,Commercial Offices,Commercial Offices,0
+334,Commercial Offices,Commercial Offices,0
+335,Residential High Density,Residential High Density,2
+336,Neighborhood Commercial,Neighborhood Commercial,0
+337,Public Park,Public Park,0
+338,General Commercial,General Commercial,0
+339,General Commercial,General Commercial,0
+340,General Commercial,General Commercial,0
+341,Schools,Schools,0
+342,Schools,Schools,0
+343,Open Space,Open Space,0
+344,Residential Medium Density,Residential Medium Density,2
+345,Residential Medium Density,Residential Medium Density,2
+346,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+347,General Commercial,General Commercial,0
+348,Public/Institutional,Public/Institutional,0
+349,Schools,Schools,0
+350,Public Park,Public Park,0
+351,Schools,Schools,0
+352,Public Park,Public Park,0
+353,Schools,Schools,0
+354,Public/Institutional,Public/Institutional,0
+355,Business Park,Business Park,0
+356,Public/Institutional,Public/Institutional,0
+357,General Commercial,General Commercial,0
+358,General Commercial,General Commercial,0
+359,Residential Medium Density,Residential Medium Density,2
+360,General Commercial,General Commercial,0
+361,Residential High Density,Residential High Density,2
+362,Residential Low Medium Density,Residential Low Medium Density,2
+363,Schools,Schools,0
+364,Highway Commercial,Highway Commercial,0
+365,Business Park,Business Park,0
+366,Business Park,Business Park,0
+367,Open Space,Open Space,0
+368,Highway Commercial,Highway Commercial,0
+369,Private Recreation,Private Recreation,0
+371,Highway Commercial,Highway Commercial,0
+372,Highway Commercial,Highway Commercial,0
+373,General Commercial,General Commercial,0
+374,General Commercial,General Commercial,0
+375,Schools,Schools,0
+376,General Commercial,General Commercial,0
+377,Business Park,Business Park,0
+378,Business Park,Business Park,0
+379,Residential Rural,Residential Rural_Remove,3
+380,Highway Commercial,Highway Commercial,0
+381,Residential High Density,Residential High Density,2
+382,General Commercial,General Commercial,0
+383,Open Space,Open Space,0
+384,Open Space,Open Space,0
+385,Open Space,Open Space,0
+386,Highway Commercial,Highway Commercial,0
+387,Residential Golf Course,Residential Golf Course,1
+388,Business Park,Business Park,0
+389,Residential Low Density,Residential Low Density,1
+390,Residential Low Density,Residential Low Density,1
+391,Residential Low Density,Residential Low Density,1
+392,Residential Estate,Residential Estate,1
+393,Residential Estate,Residential Estate,1
+394,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+395,Residential Estate,Residential Estate,1
+396,Residential Low Density,Residential Low Density,1
+397,Residential Medium Density,Residential Medium Density,2
+398,Residential Low Density,Residential Low Density,1
+399,Residential Medium Density,Residential Medium Density,2
+400,Residential Low Medium Density,Residential Low Medium Density,2
+401,Residential Medium Density,Residential Medium Density,2
+402,Neighborhood Commercial,Neighborhood Commercial,0
+403,Highway Commercial,Highway Commercial,0
+404,Highway Commercial,Highway Commercial,0
+405,General Commercial,General Commercial,0
+406,General Commercial,General Commercial,0
+407,Open Space,Open Space,0
+408,Residential High Density,Residential High Density,2
+409,Commercial Offices,Commercial Offices,0
+410,Service Commercial,Service Commercial,0
+411,Public/Institutional,Public/Institutional,0
+412,Residential Low Density,Residential Low Density,1
+413,Residential Low Density,Residential Low Density,1
+414,Open Space,Open Space,0
+415,Residential Low Density,Residential Low Density,1
+416,Residential Low Density,Residential Low Density,1
+417,Public/Institutional,Public/Institutional,0
+418,Neighborhood Commercial,Neighborhood Commercial,0
+419,Residential Medium Density,Residential Medium Density,2
+420,Industrial Park,Industrial Park,0
+421,Residential Low Density,Residential Low Density,1
+422,General Commercial,General Commercial,0
+423,Residential High Density,Residential High Density,2
+424,Residential Medium Density,Residential Medium Density,2
+425,Residential Low Density,Residential Low Density,1
+426,Residential Low Density,Residential Low Density,1
+427,Residential Low Density,Residential Low Density,1
+428,Residential Low Density,Residential Low Density,1
+429,Public/Institutional,Public/Institutional,0
+430,Residential Low Density,Residential Low Density,1
+431,Residential Low Density,Residential Low Density,1
+432,Residential Low Density,Residential Low Density,1
+433,Residential Low Density,Residential Low Density,1
+434,Residential Low Medium Density,Residential Low Medium Density,2
+435,Residential Low Density,Residential Low Density,1
+436,Residential Low Density,Residential Low Density,1
+437,Residential Low Density,Residential Low Density,1
+438,Residential Low Density,Residential Low Density,1
+439,Residential Low Density,Residential Low Density,1
+440,Residential Low Density,Residential Low Density,1
+441,Open Space,Open Space,0
+442,Open Space,Open Space,0
+443,Residential Low Density,Residential Low Density,1
+444,Residential Low Density,Residential Low Density,1
+445,Neighborhood Commercial,Neighborhood Commercial,0
+446,Residential Low Medium Density,Residential Low Medium Density,2
+447,Residential Low Medium Density,Residential Low Medium Density,2
+448,Residential Low Density,Residential Low Density,1
+449,General Commercial,General Commercial,0
+450,General Commercial,General Commercial,0
+451,Residential Low Density,Residential Low Density,1
+452,Residential Low Density,Residential Low Density,1
+453,Residential Low Density,Residential Low Density,1
+454,Open Space,Open Space,0
+455,Residential Low Density,Residential Low Density,1
+456,Residential Low Medium Density,Residential Low Medium Density,2
+457,Residential High Density,Residential High Density,2
+458,Residential Low Medium Density,Residential Low Medium Density,2
+459,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+460,Residential Low Medium Density,Residential Low Medium Density,2
+461,Residential Low Medium Density,Residential Low Medium Density,2
+462,Residential Low Density,Residential Low Density,1
+463,Residential Low Density,Residential Low Density,1
+464,Residential Low Density,Residential Low Density,1
+465,Residential Low Density,Residential Low Density,1
+466,Residential Low Density,Residential Low Density,1
+467,Residential Low Density,Residential Low Density,1
+468,Service Commercial,Service Commercial,0
+469,Service Commercial,Service Commercial,0
+470,Highway Commercial,Highway Commercial,0
+471,Residential Low Density,Residential Low Density,1
+472,Highway Commercial,Highway Commercial,0
+473,Residential Medium Density,Residential Medium Density,2
+474,General Commercial,General Commercial,0
+475,General Commercial,General Commercial,0
+476,Residential High Density,Residential High Density,2
+477,Residential Low Density,Residential Low Density,1
+478,Residential Low Density,Residential Low Density,1
+479,Residential Low Medium Density,Residential Low Medium Density,2
+480,General Commercial,General Commercial,0
+481,Residential Low Medium Density,Residential Low Medium Density,2
+482,Residential Low Density,Residential Low Density,1
+483,Residential Medium Density,Residential Medium Density,2
+484,Commercial Offices,Commercial Offices,0
+485,Neighborhood Commercial,Neighborhood Commercial,0
+486,Residential Low Density,Residential Low Density,1
+487,Residential Low Density,Residential Low Density,1
+488,Residential Low Density,Residential Low Density,1
+489,Residential Low Density,Residential Low Density,1
+490,Residential Medium Density,Residential Medium Density,2
+491,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+492,Residential Low Medium Density,Residential Low Medium Density,2
+493,Residential Low Density,Residential Low Density,1
+494,Residential Low Density,Residential Low Density,1
+495,Residential Low Density,Residential Low Density,1
+496,Residential Low Density,Residential Low Density,1
+497,Residential Estate,Residential Estate,1
+498,Residential Low Density,Residential Low Density,1
+499,Residential Low Density,Residential Low Density,1
+500,Residential Low Density,Residential Low Density,1
+501,Open Space,Open Space,0
+502,Open Space,Open Space,0
+503,Open Space,Open Space,0
+504,Residential Low Density,Residential Low Density,1
+505,Residential Medium Density,Residential Medium Density,2
+506,Residential Medium Density,Residential Medium Density,2
+507,Residential Low Density,Residential Low Density,1
+508,Residential Low Density,Residential Low Density,1
+509,Residential Low Density,Residential Low Density,1
+510,Residential Low Density,Residential Low Density,1
+511,Residential Low Medium Density,Residential Low Medium Density,2
+512,Residential Low Medium Density,Residential Low Medium Density,2
+513,Residential Low Density,Residential Low Density,1
+514,Residential Low Density,Residential Low Density,1
+515,Residential Medium Density,Residential Medium Density,2
+516,Residential Low Medium Density,Residential Low Medium Density,2
+517,Residential Medium Density,Residential Medium Density,2
+518,Residential Low Medium Density,Residential Low Medium Density,2
+519,Residential Low Density,Residential Low Density,1
+520,Residential Estate,Residential Estate,1
+521,Open Space,Open Space,0
+522,Residential Medium Density,Residential Medium Density,2
+523,Residential Low Density,Residential Low Density,1
+524,Residential Low Density,Residential Low Density,1
+525,Public Park,Public Park,0
+526,Residential Estate,Residential Estate,1
+528,Agricultural Buffer,Agricultural Buffer,0
+530,Agricultural Buffer,Agricultural Buffer,0
+531,Residential Rural,Residential Rural_Remove,3
+532,Residential Rural,Residential Rural_Remove,3
+533,Highway Commercial,Highway Commercial,0
+534,Industrial Park,Industrial Park,0
+535,Industrial Park,Industrial Park,0
+536,Industrial Park,Industrial Park,0
+537,Public Park,Public Park,0
+538,Public Park,Public Park,0
+539,Schools,Schools,0
+541,Open Space,Open Space,0
+544,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+545,Residential Estate,Residential Estate,1
+546,Residential Estate,Residential Estate,1
+548,Schools,Schools,0
+549,Agricultural Buffer,Agricultural Buffer,0
+557,Residential High Density,Residential High Density,2
+558,Public Park,Public Park,0
+559,Schools,Schools,0
+560,Public Park,Public Park,0
+561,Highway Commercial,Highway Commercial,0
+562,Open Space,Open Space,0
+563,Private Recreation,Private Recreation,0
+564,Open Space,Open Space,0
+565,Open Space,Open Space,0
+568,Private Recreation,Private Recreation,0
+569,Highway Commercial,Highway Commercial,0
+570,General Commercial,General Commercial,0
+571,Schools,Schools,0
+572,General Commercial,General Commercial,0
+573,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+574,Commercial Offices,Commercial Offices,0
+575,Public Park,Public Park,0
+576,Residential Medium Density,Residential Medium Density,2
+577,Open Space,Open Space,0
+578,Open Space,Open Space,0
+579,Highway Commercial,Highway Commercial,0
+580,Schools,Schools,0
+581,Public Park,Public Park,0
+582,Residential High Density,Residential High Density,2
+583,Commercial Offices,Commercial Offices,0
+584,Residential High Density,Residential High Density,2
+585,Public Park,Public Park,0
+586,Schools,Schools,0
+587,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+588,Open Space,Open Space,0
+589,Neighborhood Commercial,Neighborhood Commercial,0
+590,Residential High Density,Residential High Density,2
+591,Open Space,Open Space,0
+592,Residential Low Medium Density,Residential Low Medium Density_NonRes,0
+593,Neighborhood Commercial,Neighborhood Commercial,0
+594,Public Park,Public Park,0
+595,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+596,Residential Low Medium Density,Residential Low Medium Density,2
+597,Public/Institutional,Public/Institutional,0
+598,Residential Low Density,Residential Low Density,1
+599,General Commercial,General Commercial,0
+600,Schools,Schools,0
+601,Public Park,Public Park,0
+602,Schools,Schools,0
+603,Public Park,Public Park,0
+604,Residential High Density,Residential High Density,2
+605,Public Park,Public Park,0
+607,Neighborhood Commercial,Neighborhood Commercial,0
+608,Residential High Density,Residential High Density,2
+609,Residential High Density,Residential High Density,2
+610,Residential High Density,Residential High Density,2
+611,Residential Medium Density,Residential Medium Density,2
+612,Neighborhood Commercial,Neighborhood Commercial,0
+613,Schools,Schools,0
+614,Public Park,Public Park,0
+615,Public Park,Public Park,0
+616,Highway Commercial,Highway Commercial,0
+617,Service Commercial,Service Commercial,0
+620,Schools,Schools,0
+621,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+622,Residential Medium Density,Residential Medium Density,2
+623,Residential High Density,Residential High Density,2
+624,Schools,Schools,0
+625,Residential High Density,Residential High Density,2
+626,Residential Medium Density,Residential Medium Density,2
+627,Public/Institutional,Public/Institutional,0
+628,Public Park,Public Park,0
+629,Residential High Density,Residential High Density,2
+630,Neighborhood Commercial,Neighborhood Commercial,0
+631,Public Park,Public Park,0
+632,Residential High Density,Residential High Density,2
+633,General Commercial,General Commercial,0
+634,Public Park,Public Park,0
+635,Residential High Density,Residential High Density,2
+636,Open Space,Open Space,0
+637,Commercial Offices,Commercial Offices,0
+638,Residential Low Medium Density,Residential Low Medium Density_NonRes,0
+639,Public Park,Public Park,0
+640,Residential High Density,Residential High Density,2
+641,Professional Office Restriction Commercial,Professional Office Restriction Commercial,0
+642,General Commercial,General Commercial,0
+643,Highway Commercial,Highway Commercial,0
+644,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+645,General Commercial,General Commercial,0
+646,General Commercial,General Commercial,0
+647,General Commercial,General Commercial,0
+648,General Commercial,General Commercial,0
+649,Open Space,Open Space,0
+650,Private Recreation,Private Recreation,0
+651,Residential Estate,Residential Estate,1
+652,Residential High Density,Residential High Density,2
+653,Residential Manufactured Home Park,Residential Manufactured Home Park,2
+654,Highway Commercial,Highway Commercial,0
+655,Highway Commercial,Highway Commercial,0
+656,Highway Commercial,Highway Commercial,0
+657,General Commercial,General Commercial,0
+658,General Commercial,General Commercial,0
+659,General Commercial,General Commercial,0
+660,Residential Medium Density,Residential Medium Density,2
+661,Schools,Schools,0
+662,Residential Medium Density,Residential Medium Density,2
+663,Neighborhood Commercial,Neighborhood Commercial,0
+9999,Open Space,Open Space,0
+9998,Residential Low Density,Residential Low Density,1

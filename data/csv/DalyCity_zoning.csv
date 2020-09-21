@@ -1,0 +1,258 @@
+gnrl_p_,id,zoning
+606 - Churches,0,0
+606 - Churches,1,0
+606 - Churches,2,0
+606 - Churches,3,0
+606 - Churches,4,0
+606 - Government Facilities,5,0
+606 - Government Facilities,6,0
+606 - Government Facilities,7,0
+606 - Government Facilities,8,0
+606 - Government Facilities,9,0
+606 - Government Facilities,10,0
+606 - Government Facilities,11,0
+606 - Government Facilities,12,0
+606 - Government Facilities,13,0
+606 - Government Facilities,14,0
+606 - Government Facilities,15,0
+606 - Government Facilities,16,0
+606 - High Density Residential,17,2
+606 - High Density Residential,18,2
+606 - High Density Residential,19,2
+606 - High Density Residential,20,2
+606 - High Density Residential,21,2
+606 - High Density Residential,22,2
+606 - High Density Residential,23,2
+606 - High Density Residential,24,2
+606 - High Density Residential,25,2
+606 - High Density Residential,26,2
+606 - High Density Residential,27,2
+606 - High Density Residential,28,2
+606 - High Density Residential,29,2
+606 - High Density Residential,30,2
+606 - High Density Residential,31,2
+606 - High Density Residential,32,2
+606 - High Density Residential,33,2
+606 - High Density Residential,34,2
+606 - High Density Residential,35,2
+606 - High Density Residential,36,2
+606 - High Density Residential,37,2
+606 - High Density Residential,38,2
+606 - High Density Residential,39,2
+606 - High Density Residential,40,2
+606 - High Density Residential,41,2
+606 - High Density Residential,42,2
+606 - High Density Residential,43,2
+606 - High Density Residential,44,2
+606 - High Density Residential,45,2
+606 - High Density Residential,46,2
+606 - High Density Residential,47,2
+606 - High Density Residential,48,2
+606 - High Density Residential,49,2
+606 - High Density Residential,50,2
+606 - High Density Residential,51,2
+606 - High Density Residential,52,2
+606 - Hospitals,53,0
+606 - Hospitals,54,0
+606 - Hospitals,55,0
+606 - Hospitals,56,0
+606 - Industrial,57,0
+606 - Low Density Residential,58,1
+606 - Low Density Residential,59,1
+606 - Low Density Residential,60,1
+606 - Low Density Residential,61,1
+606 - Low Density Residential,62,1
+606 - Low Density Residential,63,1
+606 - Low Density Residential,64,1
+606 - Low Density Residential,65,1
+606 - Low Density Residential,66,1
+606 - Low Density Residential,67,1
+606 - Low Density Residential,68,1
+606 - Low Density Residential,69,1
+606 - Low Density Residential,70,1
+606 - Low Density Residential,71,1
+606 - Low Density Residential,72,1
+606 - Low Density Residential,73,1
+606 - Low Density Residential,74,1
+606 - Low Density Residential,75,1
+606 - Low Density Residential,76,1
+606 - Low Density Residential,77,1
+606 - Low Density Residential,78,1
+606 - Low Density Residential,79,1
+606 - Low Density Residential,80,1
+606 - Low Density Residential,81,1
+606 - Low Density Residential,82,1
+606 - Low Density Residential,83,1
+606 - Medium-Low Density Residential,84,1
+606 - Medium-Low Density Residential,85,1
+606 - Medium-Low Density Residential,86,1
+606 - Medium-Low Density Residential,87,1
+606 - Medium-Low Density Residential,88,1
+606 - Medium-Low Density Residential,89,1
+606 - Medium-Low Density Residential,90,1
+606 - Medium-Low Density Residential,91,1
+606 - Medium-Low Density Residential,92,1
+606 - Medium-Low Density Residential,93,1
+606 - Medium-Low Density Residential,94,1
+606 - Medium-Low Density Residential,95,1
+606 - Medium-Low Density Residential,96,1
+606 - Medium-Low Density Residential,97,1
+606 - Medium-Low Density Residential,98,1
+606 - Medium-Low Density Residential,99,1
+606 - Medium Density Residential,100,2
+606 - Medium Density Residential,101,2
+606 - Medium Density Residential,102,2
+606 - Medium Density Residential,103,2
+606 - Medium Density Residential,104,2
+606 - Medium Density Residential,105,2
+606 - Medium Density Residential,106,2
+606 - Medium Density Residential,107,2
+606 - Medium Density Residential,108,2
+606 - Medium Density Residential,109,2
+606 - Medium Density Residential,110,2
+606 - Medium Density Residential,111,2
+606 - Medium Density Residential,112,2
+606 - Medium Density Residential,113,2
+606 - Medium Density Residential,114,2
+606 - Neighborhood Commercial,115,0
+606 - Neighborhood Commercial,116,0
+606 - Neighborhood Commercial,117,0
+606 - Neighborhood Commercial,118,0
+606 - Office,119,0
+606 - Office,120,0
+606 - Office,121,0
+606 - Office,122,0
+606 - Office,123,0
+606 - Office,124,0
+606 - Office,125,0
+606 - Office,126,0
+606 - Office,127,0
+606 - Office,128,0
+606 - Office,129,0
+606 - Office,130,0
+606 - Office,131,0
+606 - Office,132,0
+606 - Office,133,0
+606 - Office,134,0
+606 - Open Space,135,0
+606 - Preservation,136,0
+606 - Preservation,137,0
+606 - Preservation,138,0
+606 - Preservation,139,0
+606 - Preservation,140,0
+606 - Preservation,141,0
+606 - Preservation,142,0
+606 - Preservation,143,0
+606 - Preservation,144,0
+606 - Preservation,145,0
+606 - Public Utilities,146,0
+606 - Public Utilities,147,0
+606 - Public Utilities,148,0
+606 - Public Utilities,149,0
+606 - Public Utilities,150,0
+606 - Public Utilities,151,0
+606 - Public Utilities,152,0
+606 - Public Utilities,153,0
+606 - Recreation-Private,154,0
+606 - Recreation-Private,155,0
+606 - Recreation-Public,156,0
+606 - Recreation-Public,157,0
+606 - Recreation-Public,158,0
+606 - Recreation-Public,159,0
+606 - Recreation-Public,160,0
+606 - Recreation-Public,161,0
+606 - Recreation-Public,162,0
+606 - Recreation-Public,163,0
+606 - Recreation-Public,164,0
+606 - Recreation-Public,165,0
+606 - Recreation-Public,166,0
+606 - Recreation-Public,167,0
+606 - Recreation-Public,168,0
+606 - Recreation-Public,169,0
+606 - Recreation-Public,170,0
+606 - Recreation-Public,171,0
+606 - Residential Retail,172,0
+606 - Retail and Office,173,0
+606 - Retail and Office,174,0
+606 - Retail and Office,175,0
+606 - Retail and Office,176,0
+606 - Retail and Office,177,0
+606 - Retail and Office,178,0
+606 - Retail and Office,179,0
+606 - Retail and Office,180,0
+606 - Retail and Office,181,0
+606 - Retail and Office,182,0
+606 - Retail and Office,183,0
+606 - Retail and Office,184,0
+606 - Retail and Office,185,0
+606 - Retail and Office,186,0
+606 - Retail and Office,187,0
+606 - Retail and Office,188,0
+606 - Retail and Office,189,0
+606 - Retail and Office,190,0
+606 - Retail and Office,191,0
+606 - Retail and Office,192,0
+606 - Retail and Office,193,0
+606 - Retail and Office,194,0
+606 - Retail and Office,195,0
+606 - Retail and Office,196,0
+606 - Retail and Office,197,0
+606 - Retail and Office,198,0
+606 - Retail and Office,199,0
+606 - Retail and Office,200,0
+606 - Retail and Office,201,0
+606 - Retail and Office,202,0
+606 - Retail and Office,203,0
+606 - Retail and Office,204,0
+606 - Retail and Office,205,0
+606 - Retail and Office,206,0
+606 - Retail and Office,207,0
+606 - Retail and Office,208,0
+606 - Retail and Office,209,0
+606 - Retail and Office,210,0
+606 - Retail and Office,211,0
+606 - Retail and Office,212,0
+606 - Retail and Office,213,0
+606 - Schools,214,0
+606 - Schools,215,0
+606 - Schools,216,0
+606 - Schools,217,0
+606 - Schools,218,0
+606 - Schools,219,0
+606 - Schools,220,0
+606 - Schools,221,0
+606 - Schools,222,0
+606 - Schools,223,0
+606 - Schools,224,0
+606 - Schools,225,0
+606 - Schools,226,0
+606 - Schools,227,0
+606 - Schools,228,0
+606 - Schools,229,0
+606 - Schools,230,0
+606 - Schools,231,0
+606 - Schools,232,0
+606 - Schools,233,0
+606 - Schools,234,0
+606 - Schools,235,0
+606 - Schools,236,0
+606 - Schools,237,0
+606 - Service,238,0
+606 - Service,239,0
+606 - Service,240,0
+606 - Service,241,0
+606 - Service,242,0
+606 - Service,243,0
+606 - Service,244,0
+606 - Service,245,0
+606 - Service,246,0
+606 - Service,247,0
+606 - Service,248,0
+606 - Service,249,0
+606 - Service,250,0
+606 - Service,251,0
+606 - Service,252,0
+606 - Service,253,0
+606 - Service,254,0
+606 - Service,255,0
+606 - Service,256,0
