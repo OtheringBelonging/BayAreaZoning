@@ -1,3 +1,5 @@
+<img src="obi_logo.png" width="275" height="100">
+
 # Othering &amp; Belonging Institute's Residential Zoning Data
 
 This data repository contains the Othering &amp; Belonging Institute's residential zoning data, originally analyzed and published in the reports [Racial Segregation in the Bay Area, Part 5](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5) and [Single-Family Zoning in the SF Bay Area: Characteristics of Exclusionary Communities] (link pending). 
