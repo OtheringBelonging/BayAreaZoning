@@ -37,7 +37,7 @@ If you do use the data, we would love to hear about it! Send us an email at {}
 See our [LICENSE]() for the full terms of use for this data.
 
 #### Citation
-Gambhir, Samir, Karina French, Arthur Gailes. 2020. *Othering &amp Belonging Institute's Residential Zoning Data*. Distributed by Othering &amp Belonging Institute. doi: {}
+Gambhir, Samir, Karina French, Arthur Gailes. 2020. *Othering &amp; Belonging Institute's Residential Zoning Data*. Distributed by Othering &amp; Belonging Institute. doi: {}
 
 ## Contact Us
 If you have questions about the data or licensing conditions, please contact us at:
