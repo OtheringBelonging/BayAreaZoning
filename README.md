@@ -4,6 +4,9 @@
 
 This data repository contains the Othering &amp; Belonging Institute's residential zoning data, originally analyzed and published in the reports [Racial Segregation in the Bay Area, Part 5](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5) and [Single-Family Zoning in the SF Bay Area: Characteristics of Exclusionary Communities] (link pending). 
 
+## Citation
+Menendian, Stephen, Samir Gambhir, Karina French, Arthur Gailes. 2020. *Othering &amp; Belonging Institute's Residential Zoning Data*. Distributed by Othering &amp; Belonging Institute. doi: {}
+
 ## About the Data
 This repository includes parcel-level shapefiles for all incorporated municipalities and unincorporated areas of the nine bay area counties: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. Each shapefile contains a categorization of residential zoning based on the most recent publicly available zoning maps and municipal code at the time of initial analysis (summer 2020). Zoning has been separated into three main categories, designated under the *Zoning* field: 
 
@@ -37,9 +40,6 @@ We are making this data publicly available for broad, noncommercial public use f
 If you do use the data, we would love to hear about it! Send us an email at {}
 
 See our [LICENSE](https://github.com/ksfrench/BayAreaZoning/blob/ksfrench-patch-1/LICENSE.txt) for the full terms of use for this data.
-
-#### Citation
-Menendian, Stephen, Samir Gambhir, Karina French, Arthur Gailes. 2020. *Othering &amp; Belonging Institute's Residential Zoning Data*. Distributed by Othering &amp; Belonging Institute. doi: {}
 
 ## Contact Us
 If you have questions about the data or licensing conditions, please contact us at:
