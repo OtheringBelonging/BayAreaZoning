@@ -1,11 +1,12 @@
 <img src="obi_logo.png" width="275" height="100">
 
-# Othering &amp; Belonging Institute's Residential Zoning Data
+# San Francisco Bay Area Residential Zoning Data
+## Published by The Othering &amp; Belonging Institute
 
-This data repository contains the Othering &amp; Belonging Institute's residential zoning data, originally analyzed and published in the reports [Racial Segregation in the Bay Area, Part 5](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5) and [Single-Family Zoning in the SF Bay Area: Characteristics of Exclusionary Communities] (link pending). 
+This data repository contains the Othering &amp; Belonging Institute's residential zoning data, originally analyzed and published in the reports [Racial Segregation in the Bay Area, Part 5](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5) and [Single-Family Zoning in the SF Bay Area: Characteristics of Exclusionary Communities](https://belonging.berkeley.edu/single-family-zoning-san-francisco-bay-area). 
 
 ## Citation
-Menendian, Stephen, Samir Gambhir, Karina French, Arthur Gailes. 2020. *Othering &amp; Belonging Institute's Residential Zoning Data*. Distributed by Othering &amp; Belonging Institute. 
+Menendian, Stephen, Samir Gambhir, Karina French, Arthur Gailes. 2020. *Single-Family Zoning in the San Francisco Bay Area: Characteristics of Exclusionary Communities*. Distributed by Othering &amp; Belonging Institute. 
 
 ## About the Data
 This repository includes parcel-level shapefiles for all incorporated municipalities and unincorporated areas of the nine bay area counties: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. Each shapefile contains a categorization of residential zoning based on the most recent publicly available zoning maps and municipal code at the time of initial analysis (summer 2020). Zoning has been separated into three main categories, designated under the *Zoning* field: 
@@ -35,12 +36,11 @@ In instances where general plan land use and municipal zoning maps conflicted, m
   + *High Number of Parcels (>500)*: When the number of planned development parcels was too high to manually parse, we applied an automated heuristic based on building footprint shapefiles: OSM building footprint (2017) and Microsoft building footprint (2020). First, we manually categorized planned development parcels using satellite imagery, and then calculated the average area of buildings for each parcel in each category for a baseline city. The reference average building footprint was 2,500 sq ft for single family residential and 8,000 sq ft for multi-family residential. We then applied that reference average building footprint to planned development parcels in other cities’ planned development areas by calculating each parcel’s average building square footage in the Microsoft building footprint shapefile. Those were sorted in ascending order and parcels with building footprint averages between 2,500 and 8,000 were manually examined to determine the specific cut-off between the two categories. Additionally, we randomly selected 15 parcels in each category to manually check the efficacy of the building footprint heuristic. While the average square foot of each category differs for each city, the baseline reference category of average building footprints reduces the number of parcels that require the time-intensive manual categorization using satellite imagery.
 
 ## License and Attribution
-We are making this data publicly available for broad, noncommercial public use for researchers, policymakers, and the academic community. If you use this data, we request you attribute it to “The Othering &amp Belonging Institute” in your publication and use the citation provided below. If you use it in an online report, we request that you link to our our digital report, [Racial Segregation in the Bay Area, Part 5](https://belonging.berkeley.edu/racial-segregation-san-francisco-bay-area-part-5).  
+We are making this data publicly available for broad, noncommercial public use for researchers, policymakers, and the academic community. If you use this data, we request you attribute it to “The Othering &amp Belonging Institute” in your publication and use the citation provided below. If you use it in an online report, we request that you link to our our digital report, [Single-Family Zoning in the SF Bay Area: Characteristics of Exclusionary Communities](https://belonging.berkeley.edu/single-family-zoning-san-francisco-bay-area).  
 
-If you do use the data, we would love to hear about it! Send us an email at {}
+If you do use the data, we would love to hear about it! Send us an email at <belonging@berkeley.edu>
 
 See our [LICENSE](https://github.com/ksfrench/BayAreaZoning/blob/ksfrench-patch-1/LICENSE.txt) for the full terms of use for this data.
 
 ## Contact Us
-If you have questions about the data or licensing conditions, please contact us at:
-{}
+If you have questions about the data or licensing conditions, please contact us at: <belonging@berkeley.edu>
